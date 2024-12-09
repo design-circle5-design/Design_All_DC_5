@@ -1,0 +1,1033 @@
+2024-12-09 23:59:12,990 - __main__ - 12 - DEBUG - Sucessfully Setup Logger for this programme.............
+2024-12-09 23:59:13,693 - __main__ - 5 - DEBUG - Printing Data Matrix Direction.................
+
+2024-12-09 23:59:13,693 - __main__ - 6 - DEBUG -       Data Name      Value
+0  Package Name  SW_HMP_01
+1   Data Matrix          V
+2024-12-09 23:59:13,770 - __main__ - 2 - DEBUG - 
+
+###############################################
+
+
+2024-12-09 23:59:13,771 - __main__ - 3 - DEBUG -    XsectionNo  chainage   r1   r2 c1 c2     KhalName     GL  Ivert Level  \
+0        KCK0         0    5   19  B  D  Kochua khal  0.402         -1.6   
+1        KCK1       100   36   48  B  D  Kochua khal  0.402         -1.6   
+2        KCK2       200   67   81  B  D  Kochua khal  0.402         -1.6   
+3        KCK3       300   94  109  B  D  Kochua khal  0.402         -1.6   
+4        KCK4       400  121  134  B  D  Kochua khal  0.402         -1.6   
+5        KCK5       500  147  160  B  D  Kochua khal  0.402         -1.6   
+6        KCK6       600  173  185  B  D  Kochua khal  0.402         -1.6   
+7        KCK7       700  199  211  B  D  Kochua khal  0.402         -1.6   
+8        KCK8       800  227  240  B  D  Kochua khal  0.402         -1.6   
+9        KCK9       900  253  265  B  D  Kochua khal  0.402         -1.6   
+10      KCK10      1000  280  291  B  D  Kochua khal  0.402         -1.6   
+11      KCK11      1100  307  318  B  D  Kochua khal  0.402         -1.6   
+12      KCK12      1200  334  348  B  D  Kochua khal  0.402         -1.6   
+13      KCK13      1300  360  372  B  D  Kochua khal  0.402         -1.6   
+14      KCK14      1400  387  399  B  D  Kochua khal  0.402         -1.6   
+15      KCK15      1500  413  425  B  D  Kochua khal  0.402         -1.6   
+16      KCK16      1600  442  454  B  D  Kochua khal  0.402         -1.6   
+17      KCK17      1700  471  483  B  D  Kochua khal  0.402         -1.6   
+18      KCK18      1800  500  512  B  D  Kochua khal  0.402         -1.6   
+19      KCK19      1900  530  546  B  D  Kochua khal  0.402         -1.6   
+20      KCK20      2000  560  572  B  D  Kochua khal  0.402         -1.6   
+21      KCK21      2100  590  603  B  D  Kochua khal  0.402         -1.6   
+22      KCK22      2200  620  632  B  D  Kochua khal  0.402         -1.6   
+23      KCK23      2310  650  664  B  D  Kochua khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+23        0.6             30          1  
+2024-12-09 23:59:13,779 - __main__ - 18 - DEBUG - chainage=0 sec=KCK0 row1=5 row2=19 col1=B col2=D 1
+2024-12-09 23:59:13,779 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,780 - __main__ - 39 - DEBUG - {'dist': [0, 3, 5, 10, 12, 14, 15, 16, 17, 18, 20, 22, 27, 30, 35], 'rl': [3.881, 3.884, 1.099, 0.989, -0.036, -0.411, -0.677, -0.741, -0.686, -0.362, -0.011, 0.929, 0.989, 1.044, 1.169], 'remarks': ['HBB road', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Road side'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0', 'KCK0']}
+2024-12-09 23:59:13,780 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,780 - __main__ - 18 - DEBUG - chainage=100 sec=KCK1 row1=36 row2=48 col1=B col2=D 1
+2024-12-09 23:59:13,781 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,781 - __main__ - 39 - DEBUG - {'dist': [0, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 20, 25], 'rl': [2.837, 2.846, 1.176, 1.156, -0.949, -1.275, -1.364, -1.289, -0.98, -0.714, 0.246, 0.251, 0.256], 'remarks': ['HBB road', '', '', 'LB', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1', 'KCK1']}
+2024-12-09 23:59:13,781 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,781 - __main__ - 18 - DEBUG - chainage=200 sec=KCK2 row1=67 row2=81 col1=B col2=D 1
+2024-12-09 23:59:13,781 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,781 - __main__ - 39 - DEBUG - {'dist': [0, 4, 6, 7, 8, 9, 9.5, 10, 11, 12, 13, 14, 15, 20, 25], 'rl': [3.077, 3.073, -0.692, -0.968, -1.153, -1.384, -1.442, -1.383, -1.192, -0.958, -0.753, -0.492, 0.368, 0.373, 0.378], 'remarks': ['HBB road', 'LB', '', '', '', '', 'CL', '', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2', 'KCK2']}
+2024-12-09 23:59:13,781 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,781 - __main__ - 18 - DEBUG - chainage=300 sec=KCK3 row1=94 row2=109 col1=B col2=D 1
+2024-12-09 23:59:13,782 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,782 - __main__ - 39 - DEBUG - {'dist': [0, 5, 6, 8, 9, 10, 11, 12, 14, 16, 17, 18, 19, 20, 25, 30], 'rl': [2.661, 2.671, 1.461, 1.466, -0.089, -0.339, -0.49, -0.68, -0.729, -0.674, -0.459, -0.29, 0.179, 0.111, 0.106, 0.101], 'remarks': ['HBB road', '', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3', 'KCK3']}
+2024-12-09 23:59:13,782 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,782 - __main__ - 18 - DEBUG - chainage=400 sec=KCK4 row1=121 row2=134 col1=B col2=D 1
+2024-12-09 23:59:13,782 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,782 - __main__ - 39 - DEBUG - {'dist': [0, 4, 6, 8, 9, 10, 11, 13, 15, 16, 18, 20, 22, 24], 'rl': [2.441, 2.446, -0.299, -0.834, -0.989, -1.05, -0.99, -0.795, -0.534, 0.396, 0.381, -0.034, -0.834, -0.895], 'remarks': ['HBB road', 'LB', '', '', '', 'CL', '', '', '', '', '', '', 'RB', 'HBB road'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4', 'KCK4']}
+2024-12-09 23:59:13,782 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,782 - __main__ - 18 - DEBUG - chainage=500 sec=KCK5 row1=147 row2=160 col1=B col2=D 1
+2024-12-09 23:59:13,782 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,782 - __main__ - 39 - DEBUG - {'dist': [0, 4, 5, 6, 7, 9, 10, 11, 12, 13, 15, 16, 20, 25], 'rl': [2.352, 2.355, 1.504, 1.455, -0.085, -0.345, -0.488, -0.54, -0.49, -0.291, -0.14, 0.409, 0.4, 0.36], 'remarks': ['HBB road', 'LB', '', '', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5', 'KCK5']}
+2024-12-09 23:59:13,782 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,783 - __main__ - 18 - DEBUG - chainage=600 sec=KCK6 row1=173 row2=185 col1=B col2=D 1
+2024-12-09 23:59:13,783 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,783 - __main__ - 39 - DEBUG - {'dist': [0, 4, 6, 8, 9, 10, 11, 12, 14, 15, 16, 20, 25], 'rl': [2.085, 2.09, 0.02, -0.331, -0.562, -0.62, -0.561, -0.38, -0.131, 0, 0.37, 0.365, 0.355], 'remarks': ['HBB road', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6', 'KCK6']}
+2024-12-09 23:59:13,783 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,783 - __main__ - 18 - DEBUG - chainage=700 sec=KCK7 row1=199 row2=211 col1=B col2=D 1
+2024-12-09 23:59:13,783 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,783 - __main__ - 39 - DEBUG - {'dist': [0, 5, 7, 9, 10, 11, 12, 13, 15, 16, 17, 20, 25], 'rl': [2.321, 2.326, -0.245, -0.55, -0.759, -0.814, -0.754, -0.614, -0.345, -0.194, 0.516, 0.525, 0.531], 'remarks': ['HBB road', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Ditch bank'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7', 'KCK7']}
+2024-12-09 23:59:13,783 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,784 - __main__ - 18 - DEBUG - chainage=800 sec=KCK8 row1=227 row2=240 col1=B col2=D 1
+2024-12-09 23:59:13,784 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,784 - __main__ - 39 - DEBUG - {'dist': [0, 4, 4.5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 20, 25], 'rl': [2.144, 2.154, 1.654, 1.629, -0.346, -0.591, -0.797, -0.846, -0.794, -0.586, -0.346, 0.314, 0.309, 0.304], 'remarks': ['Paddy land', 'LB', '', '', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8', 'KCK8']}
+2024-12-09 23:59:13,784 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,784 - __main__ - 18 - DEBUG - chainage=900 sec=KCK9 row1=253 row2=265 col1=B col2=D 1
+2024-12-09 23:59:13,784 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,784 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 25, 30], 'rl': [0.462, 0.459, 0.452, -0.148, -0.399, -0.593, -0.648, -0.598, -0.448, -0.168, 0.401, 0.407, 0.412], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9', 'KCK9']}
+2024-12-09 23:59:13,784 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,784 - __main__ - 18 - DEBUG - chainage=1000 sec=KCK10 row1=280 row2=291 col1=B col2=D 1
+2024-12-09 23:59:13,785 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,785 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 14, 15, 16, 17, 18, 20, 23], 'rl': [0.498, 0.503, 0.513, -0.227, -0.458, -0.652, -0.707, -0.647, -0.477, -0.228, 2.174, 2.173], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10', 'KCK10']}
+2024-12-09 23:59:13,785 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,785 - __main__ - 18 - DEBUG - chainage=1100 sec=KCK11 row1=307 row2=318 col1=B col2=D 1
+2024-12-09 23:59:13,785 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,785 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 23], 'rl': [0.513, 0.518, 0.523, -0.028, -0.377, -0.552, -0.607, -0.548, -0.387, -0.033, 2.123, 2.118], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11', 'KCK11']}
+2024-12-09 23:59:13,785 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,785 - __main__ - 18 - DEBUG - chainage=1200 sec=KCK12 row1=334 row2=348 col1=B col2=D 1
+2024-12-09 23:59:13,785 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,785 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23], 'rl': [0.412, 0.407, 0.402, 0.252, 0.046, -0.145, -0.198, -0.143, 0.002, 0.202, 1.692, 1.687, 0.312, -0.688, -1.088], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Ditch'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12', 'KCK12']}
+2024-12-09 23:59:13,785 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 18 - DEBUG - chainage=1300 sec=KCK13 row1=360 row2=372 col1=B col2=D 1
+2024-12-09 23:59:13,786 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.412, 0.407, 0.402, 0.251, 0.151, -0.131, -0.148, -0.132, 0.112, 0.242, 0.382, 0.392, 0.397], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13', 'KCK13']}
+2024-12-09 23:59:13,786 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 18 - DEBUG - chainage=1400 sec=KCK14 row1=387 row2=399 col1=B col2=D 1
+2024-12-09 23:59:13,786 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.402, 0.392, 0.382, 0.292, 0.151, -0.048, -0.098, -0.049, 0.102, 0.351, 0.422, 0.427, 0.432], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400], 'sectionNo': ['KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14', 'KCK14']}
+2024-12-09 23:59:13,786 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 18 - DEBUG - chainage=1500 sec=KCK15 row1=413 row2=425 col1=B col2=D 1
+2024-12-09 23:59:13,786 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.313, 0.308, 0.303, -0.028, -0.113, -0.203, -0.252, -0.202, -0.113, -0.027, 0.393, 0.388, 0.383], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500], 'sectionNo': ['KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15', 'KCK15']}
+2024-12-09 23:59:13,786 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,786 - __main__ - 18 - DEBUG - chainage=1600 sec=KCK16 row1=442 row2=454 col1=B col2=D 1
+2024-12-09 23:59:13,787 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,787 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 25, 30], 'rl': [0.273, 0.268, 0.272, 0.176, 0.028, -0.027, -0.092, -0.013, 0.023, 0.177, 0.328, 0.333, 0.338], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600], 'sectionNo': ['KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16', 'KCK16']}
+2024-12-09 23:59:13,787 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,787 - __main__ - 18 - DEBUG - chainage=1700 sec=KCK17 row1=471 row2=483 col1=B col2=D 1
+2024-12-09 23:59:13,787 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,787 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.215, 0.21, 0.199, 0.0358, -0.045, -0.096, -0.145, -0.097, 0.004, 0.03, 0.204, 0.147, 0.21], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700], 'sectionNo': ['KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17', 'KCK17']}
+2024-12-09 23:59:13,787 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,787 - __main__ - 18 - DEBUG - chainage=1800 sec=KCK18 row1=500 row2=512 col1=B col2=D 1
+2024-12-09 23:59:13,787 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,787 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [1.165, 1.16, 1.155, -0.01, -0.135, -0.195, -0.245, -0.19, -0.15, 0.005, 1.157, 1.16, 1.165], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800], 'sectionNo': ['KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18', 'KCK18']}
+2024-12-09 23:59:13,787 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,788 - __main__ - 18 - DEBUG - chainage=1900 sec=KCK19 row1=530 row2=546 col1=B col2=D 1
+2024-12-09 23:59:13,788 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,788 - __main__ - 39 - DEBUG - {'dist': [0, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 29, 30], 'rl': [-0.794, -0.494, -0.094, 0.245, 0.206, -0.055, -0.26, -0.355, -0.404, -0.352, -0.259, -0.104, 0.145, 0.144, -0.094, -0.494, -0.809], 'remarks': ['Ditch', '', '', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', 'Ditch'], 'chainage': [1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900], 'sectionNo': ['KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19', 'KCK19']}
+2024-12-09 23:59:13,788 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,788 - __main__ - 18 - DEBUG - chainage=2000 sec=KCK20 row1=560 row2=572 col1=B col2=D 1
+2024-12-09 23:59:13,788 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,788 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 25, 30], 'rl': [0.316, 0.311, 0.295, -0.004, -0.309, -0.456, -0.504, -0.455, -0.319, 0.045, 0.306, 0.311, 0.316], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy nland'], 'chainage': [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000], 'sectionNo': ['KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20', 'KCK20']}
+2024-12-09 23:59:13,788 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,788 - __main__ - 18 - DEBUG - chainage=2100 sec=KCK21 row1=590 row2=603 col1=B col2=D 1
+2024-12-09 23:59:13,789 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,789 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 25, 30], 'rl': [2.189, 2.194, 2.209, -0.106, -0.311, -0.406, -0.451, -0.401, -0.316, -0.111, 0.209, 0.204, 0.199, 0.189], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100], 'sectionNo': ['KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21', 'KCK21']}
+2024-12-09 23:59:13,789 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,789 - __main__ - 18 - DEBUG - chainage=2200 sec=KCK22 row1=620 row2=632 col1=B col2=D 1
+2024-12-09 23:59:13,789 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,789 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.389, 0.384, 0.379, -0.101, -0.257, -0.476, -0.531, -0.482, -0.261, -0.052, 0.394, 0.389, 0.379], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200], 'sectionNo': ['KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22', 'KCK22']}
+2024-12-09 23:59:13,789 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,790 - __main__ - 18 - DEBUG - chainage=2310 sec=KCK23 row1=650 row2=664 col1=B col2=D 1
+2024-12-09 23:59:13,790 - __main__ - 38 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,790 - __main__ - 39 - DEBUG - {'dist': [0, 5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 35, 40], 'rl': [2.408, 2.372, 2.313, 0.523, 0.023, -0.138, -0.368, -0.427, -0.368, -0.192, -0.087, 0.523, 2.223, 2.362, 2.408], 'remarks': ['Road slope', '', 'LB', '', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Road slope'], 'chainage': [2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310, 2310], 'sectionNo': ['KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23', 'KCK23']}
+2024-12-09 23:59:13,790 - __main__ - 40 - DEBUG - 
+
+
+
+
+
+2024-12-09 23:59:13,958 - __main__ - 45 - DEBUG - 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+2024-12-09 23:59:13,958 - __main__ - 46 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0         KCK0             0           0.0   3.881    HBB road
+1         KCK0             0           3.0   3.884            
+2         KCK0             0           5.0   1.099            
+3         KCK0             0          10.0   0.989          LB
+4         KCK0             0          12.0  -0.036            
+..         ...           ...           ...     ...         ...
+324      KCK23          2310          26.0  -0.087            
+325      KCK23          2310          28.0   0.523          RB
+326      KCK23          2310          30.0   2.223            
+327      KCK23          2310          35.0   2.362            
+328      KCK23          2310          40.0   2.408  Road slope
+
+[329 rows x 5 columns]
+2024-12-09 23:59:13,966 - __main__ - 58 - DEBUG -   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+7       KCK0             0          16.0  -0.741      CL
+2024-12-09 23:59:13,967 - __main__ - 65 - DEBUG - sencionno=KCK0 CL distance=16.0 RL=-0.741
+2024-12-09 23:59:13,968 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       KCK1           100          11.0  -1.364      CL
+2024-12-09 23:59:13,971 - __main__ - 65 - DEBUG - sencionno=KCK1 CL distance=11.0 RL=-1.364
+2024-12-09 23:59:13,972 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       KCK2           200           9.5  -1.442      CL
+2024-12-09 23:59:13,975 - __main__ - 65 - DEBUG - sencionno=KCK2 CL distance=9.5 RL=-1.442
+2024-12-09 23:59:13,977 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       KCK3           300          14.0  -0.729      CL
+2024-12-09 23:59:13,981 - __main__ - 65 - DEBUG - sencionno=KCK3 CL distance=14.0 RL=-0.729
+2024-12-09 23:59:13,981 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+64       KCK4           400          10.0   -1.05      CL
+2024-12-09 23:59:13,985 - __main__ - 65 - DEBUG - sencionno=KCK4 CL distance=10.0 RL=-1.05
+2024-12-09 23:59:13,986 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       KCK5           500          11.0   -0.54      CL
+2024-12-09 23:59:13,989 - __main__ - 65 - DEBUG - sencionno=KCK5 CL distance=11.0 RL=-0.54
+2024-12-09 23:59:13,990 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       KCK6           600          10.0   -0.62      CL
+2024-12-09 23:59:13,995 - __main__ - 65 - DEBUG - sencionno=KCK6 CL distance=10.0 RL=-0.62
+2024-12-09 23:59:13,996 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+105       KCK7           700          11.0  -0.814      CL
+2024-12-09 23:59:13,998 - __main__ - 65 - DEBUG - sencionno=KCK7 CL distance=11.0 RL=-0.814
+2024-12-09 23:59:13,999 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       KCK8           800          11.0  -0.846      CL
+2024-12-09 23:59:14,001 - __main__ - 65 - DEBUG - sencionno=KCK8 CL distance=11.0 RL=-0.846
+2024-12-09 23:59:14,001 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+133       KCK9           900          14.0  -0.648      CL
+2024-12-09 23:59:14,003 - __main__ - 65 - DEBUG - sencionno=KCK9 CL distance=14.0 RL=-0.648
+2024-12-09 23:59:14,004 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+146      KCK10          1000          15.0  -0.707      CL
+2024-12-09 23:59:14,005 - __main__ - 65 - DEBUG - sencionno=KCK10 CL distance=15.0 RL=-0.707
+2024-12-09 23:59:14,006 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+158      KCK11          1100          15.0  -0.607      CL
+2024-12-09 23:59:14,008 - __main__ - 65 - DEBUG - sencionno=KCK11 CL distance=15.0 RL=-0.607
+2024-12-09 23:59:14,008 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+170      KCK12          1200          14.0  -0.198      CL
+2024-12-09 23:59:14,010 - __main__ - 65 - DEBUG - sencionno=KCK12 CL distance=14.0 RL=-0.198
+2024-12-09 23:59:14,011 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      KCK13          1300          13.0  -0.148      CL
+2024-12-09 23:59:14,013 - __main__ - 65 - DEBUG - sencionno=KCK13 CL distance=13.0 RL=-0.148
+2024-12-09 23:59:14,013 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      KCK14          1400          13.0  -0.098      CL
+2024-12-09 23:59:14,016 - __main__ - 65 - DEBUG - sencionno=KCK14 CL distance=13.0 RL=-0.098
+2024-12-09 23:59:14,017 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      KCK15          1500          13.0  -0.252      CL
+2024-12-09 23:59:14,020 - __main__ - 65 - DEBUG - sencionno=KCK15 CL distance=13.0 RL=-0.252
+2024-12-09 23:59:14,020 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      KCK16          1600          14.0  -0.092      CL
+2024-12-09 23:59:14,024 - __main__ - 65 - DEBUG - sencionno=KCK16 CL distance=14.0 RL=-0.092
+2024-12-09 23:59:14,024 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+237      KCK17          1700          13.0  -0.145      CL
+2024-12-09 23:59:14,028 - __main__ - 65 - DEBUG - sencionno=KCK17 CL distance=13.0 RL=-0.145
+2024-12-09 23:59:14,029 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+250      KCK18          1800          13.0  -0.245      CL
+2024-12-09 23:59:14,032 - __main__ - 65 - DEBUG - sencionno=KCK18 CL distance=13.0 RL=-0.245
+2024-12-09 23:59:14,033 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+266      KCK19          1900          11.0  -0.352      CL
+2024-12-09 23:59:14,035 - __main__ - 65 - DEBUG - sencionno=KCK19 CL distance=11.0 RL=-0.352
+2024-12-09 23:59:14,036 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+280      KCK20          2000          14.0  -0.504      CL
+2024-12-09 23:59:14,040 - __main__ - 65 - DEBUG - sencionno=KCK20 CL distance=14.0 RL=-0.504
+2024-12-09 23:59:14,041 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+293      KCK21          2100          14.0  -0.451      CL
+2024-12-09 23:59:14,043 - __main__ - 65 - DEBUG - sencionno=KCK21 CL distance=14.0 RL=-0.451
+2024-12-09 23:59:14,044 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+307      KCK22          2200          13.0  -0.531      CL
+2024-12-09 23:59:14,046 - __main__ - 65 - DEBUG - sencionno=KCK22 CL distance=13.0 RL=-0.531
+2024-12-09 23:59:14,046 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+321      KCK23          2310          20.0  -0.427      CL
+2024-12-09 23:59:14,048 - __main__ - 65 - DEBUG - sencionno=KCK23 CL distance=20.0 RL=-0.427
+2024-12-09 23:59:14,160 - __main__ - 22 - DEBUG - 
+
+
+############# We Are Checking Sectional properties.............
+2024-12-09 23:59:14,161 - __main__ - 23 - DEBUG - 
+
+
+############# ##################################################
+2024-12-09 23:59:14,161 - __main__ - 25 - DEBUG -    XsectionNo  chainage   r1   r2 c1 c2     KhalName     GL  Ivert Level  \
+0        KCK0         0    5   19  B  D  Kochua khal  0.402         -1.6   
+1        KCK1       100   36   48  B  D  Kochua khal  0.402         -1.6   
+2        KCK2       200   67   81  B  D  Kochua khal  0.402         -1.6   
+3        KCK3       300   94  109  B  D  Kochua khal  0.402         -1.6   
+4        KCK4       400  121  134  B  D  Kochua khal  0.402         -1.6   
+5        KCK5       500  147  160  B  D  Kochua khal  0.402         -1.6   
+6        KCK6       600  173  185  B  D  Kochua khal  0.402         -1.6   
+7        KCK7       700  199  211  B  D  Kochua khal  0.402         -1.6   
+8        KCK8       800  227  240  B  D  Kochua khal  0.402         -1.6   
+9        KCK9       900  253  265  B  D  Kochua khal  0.402         -1.6   
+10      KCK10      1000  280  291  B  D  Kochua khal  0.402         -1.6   
+11      KCK11      1100  307  318  B  D  Kochua khal  0.402         -1.6   
+12      KCK12      1200  334  348  B  D  Kochua khal  0.402         -1.6   
+13      KCK13      1300  360  372  B  D  Kochua khal  0.402         -1.6   
+14      KCK14      1400  387  399  B  D  Kochua khal  0.402         -1.6   
+15      KCK15      1500  413  425  B  D  Kochua khal  0.402         -1.6   
+16      KCK16      1600  442  454  B  D  Kochua khal  0.402         -1.6   
+17      KCK17      1700  471  483  B  D  Kochua khal  0.402         -1.6   
+18      KCK18      1800  500  512  B  D  Kochua khal  0.402         -1.6   
+19      KCK19      1900  530  546  B  D  Kochua khal  0.402         -1.6   
+20      KCK20      2000  560  572  B  D  Kochua khal  0.402         -1.6   
+21      KCK21      2100  590  603  B  D  Kochua khal  0.402         -1.6   
+22      KCK22      2200  620  632  B  D  Kochua khal  0.402         -1.6   
+23      KCK23      2310  650  664  B  D  Kochua khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+23        0.6             30          1  
+2024-12-09 23:59:14,170 - __main__ - 35 - DEBUG - secno=KCK0
+2024-12-09 23:59:14,171 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(3.0), np.float64(5.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(27.0), np.float64(30.0), np.float64(35.0)]
+2024-12-09 23:59:14,171 - __main__ - 42 - DEBUG - yvalues=[np.float64(3.881), np.float64(3.884), np.float64(1.099), np.float64(0.989), np.float64(-0.036), np.float64(-0.411), np.float64(-0.677), np.float64(-0.741), np.float64(-0.686), np.float64(-0.362), np.float64(-0.011), np.float64(0.929), np.float64(0.989), np.float64(1.044), np.float64(1.169)]
+2024-12-09 23:59:14,171 - __main__ - 43 - DEBUG - Remarks=['HBB road', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Road side']
+2024-12-09 23:59:14,172 - __main__ - 47 - DEBUG - lb=0.989 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,173 - __main__ - 53 - DEBUG - lb=0.989 rb=0.929 lwl=0.929
+2024-12-09 23:59:14,173 - __main__ - 54 - DEBUG - idx1=3 idx2=11
+2024-12-09 23:59:14,173 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,174 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,174 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0), np.float64(22.0)]
+2024-12-09 23:59:14,176 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.989), np.float64(-0.036), np.float64(-0.411), np.float64(-0.677), np.float64(-0.741), np.float64(-0.686), np.float64(-0.362), np.float64(-0.011), np.float64(0.929)]
+2024-12-09 23:59:14,177 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,177 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,177 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0), np.float64(22.0)]
+2024-12-09 23:59:14,177 - __main__ - 183 - DEBUG - y=[np.float64(0.989), np.float64(-0.036), np.float64(-0.411), np.float64(-0.677), np.float64(-0.741), np.float64(-0.686), np.float64(-0.362), np.float64(-0.011), np.float64(0.929)]
+2024-12-09 23:59:14,177 - __main__ - 184 - DEBUG - section no=KCK0 total data points=9
+2024-12-09 23:59:14,179 - __main__ - 35 - DEBUG - secno=KCK1
+2024-12-09 23:59:14,180 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,180 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.837), np.float64(2.846), np.float64(1.176), np.float64(1.156), np.float64(-0.949), np.float64(-1.275), np.float64(-1.364), np.float64(-1.289), np.float64(-0.98), np.float64(-0.714), np.float64(0.246), np.float64(0.251), np.float64(0.256)]
+2024-12-09 23:59:14,180 - __main__ - 43 - DEBUG - Remarks=['HBB road', '', '', 'LB', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,181 - __main__ - 47 - DEBUG - lb=1.156 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,181 - __main__ - 53 - DEBUG - lb=1.156 rb=0.246 lwl=0.246
+2024-12-09 23:59:14,181 - __main__ - 54 - DEBUG - idx1=3 idx2=10
+2024-12-09 23:59:14,181 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,181 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,181 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0)]
+2024-12-09 23:59:14,182 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(1.156), np.float64(-0.949), np.float64(-1.275), np.float64(-1.364), np.float64(-1.289), np.float64(-0.98), np.float64(-0.714), np.float64(0.246)]
+2024-12-09 23:59:14,182 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,182 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,182 - __main__ - 182 - DEBUG - x=[np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0)]
+2024-12-09 23:59:14,182 - __main__ - 183 - DEBUG - y=[np.float64(1.156), np.float64(-0.949), np.float64(-1.275), np.float64(-1.364), np.float64(-1.289), np.float64(-0.98), np.float64(-0.714), np.float64(0.246)]
+2024-12-09 23:59:14,182 - __main__ - 184 - DEBUG - section no=KCK1 total data points=8
+2024-12-09 23:59:14,182 - __main__ - 35 - DEBUG - secno=KCK2
+2024-12-09 23:59:14,183 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(4.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(9.5), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,183 - __main__ - 42 - DEBUG - yvalues=[np.float64(3.077), np.float64(3.073), np.float64(-0.692), np.float64(-0.968), np.float64(-1.153), np.float64(-1.384), np.float64(-1.442), np.float64(-1.383), np.float64(-1.192), np.float64(-0.958), np.float64(-0.753), np.float64(-0.492), np.float64(0.368), np.float64(0.373), np.float64(0.378)]
+2024-12-09 23:59:14,183 - __main__ - 43 - DEBUG - Remarks=['HBB road', 'LB', '', '', '', '', 'CL', '', '', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,183 - __main__ - 47 - DEBUG - lb=3.073 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,183 - __main__ - 53 - DEBUG - lb=3.073 rb=0.368 lwl=0.368
+2024-12-09 23:59:14,183 - __main__ - 54 - DEBUG - idx1=1 idx2=12
+2024-12-09 23:59:14,183 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,183 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,183 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(4.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(9.5), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0)]
+2024-12-09 23:59:14,183 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(3.073), np.float64(-0.692), np.float64(-0.968), np.float64(-1.153), np.float64(-1.384), np.float64(-1.442), np.float64(-1.383), np.float64(-1.192), np.float64(-0.958), np.float64(-0.753), np.float64(-0.492), np.float64(0.368)]
+2024-12-09 23:59:14,183 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,183 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,184 - __main__ - 182 - DEBUG - x=[np.float64(4.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(9.5), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0)]
+2024-12-09 23:59:14,184 - __main__ - 183 - DEBUG - y=[np.float64(3.073), np.float64(-0.692), np.float64(-0.968), np.float64(-1.153), np.float64(-1.384), np.float64(-1.442), np.float64(-1.383), np.float64(-1.192), np.float64(-0.958), np.float64(-0.753), np.float64(-0.492), np.float64(0.368)]
+2024-12-09 23:59:14,184 - __main__ - 184 - DEBUG - section no=KCK2 total data points=12
+2024-12-09 23:59:14,184 - __main__ - 35 - DEBUG - secno=KCK3
+2024-12-09 23:59:14,184 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(25.0), np.float64(30.0)]
+2024-12-09 23:59:14,184 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.661), np.float64(2.671), np.float64(1.461), np.float64(1.466), np.float64(-0.089), np.float64(-0.339), np.float64(-0.49), np.float64(-0.68), np.float64(-0.729), np.float64(-0.674), np.float64(-0.459), np.float64(-0.29), np.float64(0.179), np.float64(0.111), np.float64(0.106), np.float64(0.101)]
+2024-12-09 23:59:14,184 - __main__ - 43 - DEBUG - Remarks=['HBB road', '', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,185 - __main__ - 47 - DEBUG - lb=1.466 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,185 - __main__ - 53 - DEBUG - lb=1.466 rb=0.111 lwl=0.111
+2024-12-09 23:59:14,185 - __main__ - 54 - DEBUG - idx1=3 idx2=13
+2024-12-09 23:59:14,185 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,185 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,185 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+2024-12-09 23:59:14,185 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(1.466), np.float64(-0.089), np.float64(-0.339), np.float64(-0.49), np.float64(-0.68), np.float64(-0.729), np.float64(-0.674), np.float64(-0.459), np.float64(-0.29), np.float64(0.179), np.float64(0.111)]
+2024-12-09 23:59:14,185 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,185 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,185 - __main__ - 182 - DEBUG - x=[np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+2024-12-09 23:59:14,186 - __main__ - 183 - DEBUG - y=[np.float64(1.466), np.float64(-0.089), np.float64(-0.339), np.float64(-0.49), np.float64(-0.68), np.float64(-0.729), np.float64(-0.674), np.float64(-0.459), np.float64(-0.29), np.float64(0.179), np.float64(0.111)]
+2024-12-09 23:59:14,186 - __main__ - 184 - DEBUG - section no=KCK3 total data points=11
+2024-12-09 23:59:14,186 - __main__ - 35 - DEBUG - secno=KCK4
+2024-12-09 23:59:14,186 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(4.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0)]
+2024-12-09 23:59:14,186 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.441), np.float64(2.446), np.float64(-0.299), np.float64(-0.834), np.float64(-0.989), np.float64(-1.05), np.float64(-0.99), np.float64(-0.795), np.float64(-0.534), np.float64(0.396), np.float64(0.381), np.float64(-0.034), np.float64(-0.834), np.float64(-0.895)]
+2024-12-09 23:59:14,186 - __main__ - 43 - DEBUG - Remarks=['HBB road', 'LB', '', '', '', 'CL', '', '', '', '', '', '', 'RB', 'HBB road']
+2024-12-09 23:59:14,187 - __main__ - 47 - DEBUG - lb=2.446 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,187 - __main__ - 53 - DEBUG - lb=2.446 rb=-0.834 lwl=-0.834
+2024-12-09 23:59:14,187 - __main__ - 54 - DEBUG - idx1=1 idx2=12
+2024-12-09 23:59:14,187 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,187 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,187 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(4.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0)]
+2024-12-09 23:59:14,187 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.446), np.float64(-0.299), np.float64(-0.834), np.float64(-0.989), np.float64(-1.05), np.float64(-0.99), np.float64(-0.795), np.float64(-0.534), np.float64(0.396), np.float64(0.381), np.float64(-0.034), np.float64(-0.834)]
+2024-12-09 23:59:14,187 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,187 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,187 - __main__ - 182 - DEBUG - x=[np.float64(4.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0)]
+2024-12-09 23:59:14,187 - __main__ - 183 - DEBUG - y=[np.float64(2.446), np.float64(-0.299), np.float64(-0.834), np.float64(-0.989), np.float64(-1.05), np.float64(-0.99), np.float64(-0.795), np.float64(-0.534), np.float64(0.396), np.float64(0.381), np.float64(-0.034), np.float64(-0.834)]
+2024-12-09 23:59:14,187 - __main__ - 184 - DEBUG - section no=KCK4 total data points=12
+2024-12-09 23:59:14,187 - __main__ - 35 - DEBUG - secno=KCK5
+2024-12-09 23:59:14,188 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,188 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.352), np.float64(2.355), np.float64(1.504), np.float64(1.455), np.float64(-0.085), np.float64(-0.345), np.float64(-0.488), np.float64(-0.54), np.float64(-0.49), np.float64(-0.291), np.float64(-0.14), np.float64(0.409), np.float64(0.4), np.float64(0.36)]
+2024-12-09 23:59:14,188 - __main__ - 43 - DEBUG - Remarks=['HBB road', 'LB', '', '', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,188 - __main__ - 47 - DEBUG - lb=2.355 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,189 - __main__ - 53 - DEBUG - lb=2.355 rb=0.409 lwl=0.409
+2024-12-09 23:59:14,189 - __main__ - 54 - DEBUG - idx1=1 idx2=11
+2024-12-09 23:59:14,189 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,189 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,189 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,189 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.355), np.float64(1.504), np.float64(1.455), np.float64(-0.085), np.float64(-0.345), np.float64(-0.488), np.float64(-0.54), np.float64(-0.49), np.float64(-0.291), np.float64(-0.14), np.float64(0.409)]
+2024-12-09 23:59:14,189 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,189 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,189 - __main__ - 182 - DEBUG - x=[np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,189 - __main__ - 183 - DEBUG - y=[np.float64(2.355), np.float64(1.504), np.float64(1.455), np.float64(-0.085), np.float64(-0.345), np.float64(-0.488), np.float64(-0.54), np.float64(-0.49), np.float64(-0.291), np.float64(-0.14), np.float64(0.409)]
+2024-12-09 23:59:14,189 - __main__ - 184 - DEBUG - section no=KCK5 total data points=11
+2024-12-09 23:59:14,190 - __main__ - 35 - DEBUG - secno=KCK6
+2024-12-09 23:59:14,191 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(4.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,191 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.085), np.float64(2.09), np.float64(0.02), np.float64(-0.331), np.float64(-0.562), np.float64(-0.62), np.float64(-0.561), np.float64(-0.38), np.float64(-0.131), np.float64(0.0), np.float64(0.37), np.float64(0.365), np.float64(0.355)]
+2024-12-09 23:59:14,191 - __main__ - 43 - DEBUG - Remarks=['HBB road', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,191 - __main__ - 47 - DEBUG - lb=2.09 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,192 - __main__ - 53 - DEBUG - lb=2.09 rb=0.37 lwl=0.37
+2024-12-09 23:59:14,192 - __main__ - 54 - DEBUG - idx1=1 idx2=10
+2024-12-09 23:59:14,192 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,192 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,192 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(4.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,192 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.09), np.float64(0.02), np.float64(-0.331), np.float64(-0.562), np.float64(-0.62), np.float64(-0.561), np.float64(-0.38), np.float64(-0.131), np.float64(0.0), np.float64(0.37)]
+2024-12-09 23:59:14,192 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,192 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,192 - __main__ - 182 - DEBUG - x=[np.float64(4.0), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,192 - __main__ - 183 - DEBUG - y=[np.float64(2.09), np.float64(0.02), np.float64(-0.331), np.float64(-0.562), np.float64(-0.62), np.float64(-0.561), np.float64(-0.38), np.float64(-0.131), np.float64(0.0), np.float64(0.37)]
+2024-12-09 23:59:14,192 - __main__ - 184 - DEBUG - section no=KCK6 total data points=10
+2024-12-09 23:59:14,193 - __main__ - 35 - DEBUG - secno=KCK7
+2024-12-09 23:59:14,193 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(7.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,193 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.321), np.float64(2.326), np.float64(-0.245), np.float64(-0.55), np.float64(-0.759), np.float64(-0.814), np.float64(-0.754), np.float64(-0.614), np.float64(-0.345), np.float64(-0.194), np.float64(0.516), np.float64(0.525), np.float64(0.531)]
+2024-12-09 23:59:14,193 - __main__ - 43 - DEBUG - Remarks=['HBB road', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Ditch bank']
+2024-12-09 23:59:14,193 - __main__ - 47 - DEBUG - lb=2.326 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,194 - __main__ - 53 - DEBUG - lb=2.326 rb=0.516 lwl=0.516
+2024-12-09 23:59:14,194 - __main__ - 54 - DEBUG - idx1=1 idx2=10
+2024-12-09 23:59:14,194 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,194 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,194 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(5.0), np.float64(7.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+2024-12-09 23:59:14,194 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.326), np.float64(-0.245), np.float64(-0.55), np.float64(-0.759), np.float64(-0.814), np.float64(-0.754), np.float64(-0.614), np.float64(-0.345), np.float64(-0.194), np.float64(0.516)]
+2024-12-09 23:59:14,194 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,194 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,194 - __main__ - 182 - DEBUG - x=[np.float64(5.0), np.float64(7.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+2024-12-09 23:59:14,194 - __main__ - 183 - DEBUG - y=[np.float64(2.326), np.float64(-0.245), np.float64(-0.55), np.float64(-0.759), np.float64(-0.814), np.float64(-0.754), np.float64(-0.614), np.float64(-0.345), np.float64(-0.194), np.float64(0.516)]
+2024-12-09 23:59:14,194 - __main__ - 184 - DEBUG - section no=KCK7 total data points=10
+2024-12-09 23:59:14,194 - __main__ - 35 - DEBUG - secno=KCK8
+2024-12-09 23:59:14,195 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(4.0), np.float64(4.5), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,195 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.144), np.float64(2.154), np.float64(1.654), np.float64(1.629), np.float64(-0.346), np.float64(-0.591), np.float64(-0.797), np.float64(-0.846), np.float64(-0.794), np.float64(-0.586), np.float64(-0.346), np.float64(0.314), np.float64(0.309), np.float64(0.304)]
+2024-12-09 23:59:14,195 - __main__ - 43 - DEBUG - Remarks=['Paddy land', 'LB', '', '', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,195 - __main__ - 47 - DEBUG - lb=2.154 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,195 - __main__ - 53 - DEBUG - lb=2.154 rb=0.314 lwl=0.314
+2024-12-09 23:59:14,195 - __main__ - 54 - DEBUG - idx1=1 idx2=11
+2024-12-09 23:59:14,195 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,195 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,195 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(4.0), np.float64(4.5), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,195 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.154), np.float64(1.654), np.float64(1.629), np.float64(-0.346), np.float64(-0.591), np.float64(-0.797), np.float64(-0.846), np.float64(-0.794), np.float64(-0.586), np.float64(-0.346), np.float64(0.314)]
+2024-12-09 23:59:14,195 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,196 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,196 - __main__ - 182 - DEBUG - x=[np.float64(4.0), np.float64(4.5), np.float64(6.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,196 - __main__ - 183 - DEBUG - y=[np.float64(2.154), np.float64(1.654), np.float64(1.629), np.float64(-0.346), np.float64(-0.591), np.float64(-0.797), np.float64(-0.846), np.float64(-0.794), np.float64(-0.586), np.float64(-0.346), np.float64(0.314)]
+2024-12-09 23:59:14,196 - __main__ - 184 - DEBUG - section no=KCK8 total data points=11
+2024-12-09 23:59:14,196 - __main__ - 35 - DEBUG - secno=KCK9
+2024-12-09 23:59:14,196 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(25.0), np.float64(30.0)]
+2024-12-09 23:59:14,196 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.462), np.float64(0.459), np.float64(0.452), np.float64(-0.148), np.float64(-0.399), np.float64(-0.593), np.float64(-0.648), np.float64(-0.598), np.float64(-0.448), np.float64(-0.168), np.float64(0.401), np.float64(0.407), np.float64(0.412)]
+2024-12-09 23:59:14,196 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,197 - __main__ - 47 - DEBUG - lb=0.452 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,197 - __main__ - 53 - DEBUG - lb=0.452 rb=0.401 lwl=0.401
+2024-12-09 23:59:14,197 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,197 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,197 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,197 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,197 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.452), np.float64(-0.148), np.float64(-0.399), np.float64(-0.593), np.float64(-0.648), np.float64(-0.598), np.float64(-0.448), np.float64(-0.168), np.float64(0.401)]
+2024-12-09 23:59:14,197 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,197 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,197 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,197 - __main__ - 183 - DEBUG - y=[np.float64(0.452), np.float64(-0.148), np.float64(-0.399), np.float64(-0.593), np.float64(-0.648), np.float64(-0.598), np.float64(-0.448), np.float64(-0.168), np.float64(0.401)]
+2024-12-09 23:59:14,197 - __main__ - 184 - DEBUG - section no=KCK9 total data points=9
+2024-12-09 23:59:14,197 - __main__ - 35 - DEBUG - secno=KCK10
+2024-12-09 23:59:14,198 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0), np.float64(23.0)]
+2024-12-09 23:59:14,198 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.498), np.float64(0.503), np.float64(0.513), np.float64(-0.227), np.float64(-0.458), np.float64(-0.652), np.float64(-0.707), np.float64(-0.647), np.float64(-0.477), np.float64(-0.228), np.float64(2.174), np.float64(2.173)]
+2024-12-09 23:59:14,198 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road']
+2024-12-09 23:59:14,198 - __main__ - 47 - DEBUG - lb=0.513 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,198 - __main__ - 53 - DEBUG - lb=0.513 rb=2.174 lwl=0.513
+2024-12-09 23:59:14,198 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,198 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,198 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,199 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0)]
+2024-12-09 23:59:14,199 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.513), np.float64(-0.227), np.float64(-0.458), np.float64(-0.652), np.float64(-0.707), np.float64(-0.647), np.float64(-0.477), np.float64(-0.228), np.float64(2.174)]
+2024-12-09 23:59:14,199 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,199 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,199 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0)]
+2024-12-09 23:59:14,199 - __main__ - 183 - DEBUG - y=[np.float64(0.513), np.float64(-0.227), np.float64(-0.458), np.float64(-0.652), np.float64(-0.707), np.float64(-0.647), np.float64(-0.477), np.float64(-0.228), np.float64(2.174)]
+2024-12-09 23:59:14,199 - __main__ - 184 - DEBUG - section no=KCK10 total data points=9
+2024-12-09 23:59:14,199 - __main__ - 35 - DEBUG - secno=KCK11
+2024-12-09 23:59:14,199 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(23.0)]
+2024-12-09 23:59:14,200 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.513), np.float64(0.518), np.float64(0.523), np.float64(-0.028), np.float64(-0.377), np.float64(-0.552), np.float64(-0.607), np.float64(-0.548), np.float64(-0.387), np.float64(-0.033), np.float64(2.123), np.float64(2.118)]
+2024-12-09 23:59:14,200 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road']
+2024-12-09 23:59:14,200 - __main__ - 47 - DEBUG - lb=0.523 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,200 - __main__ - 53 - DEBUG - lb=0.523 rb=2.123 lwl=0.523
+2024-12-09 23:59:14,201 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,201 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,201 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,201 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+2024-12-09 23:59:14,201 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.523), np.float64(-0.028), np.float64(-0.377), np.float64(-0.552), np.float64(-0.607), np.float64(-0.548), np.float64(-0.387), np.float64(-0.033), np.float64(2.123)]
+2024-12-09 23:59:14,201 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,201 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,201 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+2024-12-09 23:59:14,201 - __main__ - 183 - DEBUG - y=[np.float64(0.523), np.float64(-0.028), np.float64(-0.377), np.float64(-0.552), np.float64(-0.607), np.float64(-0.548), np.float64(-0.387), np.float64(-0.033), np.float64(2.123)]
+2024-12-09 23:59:14,201 - __main__ - 184 - DEBUG - section no=KCK11 total data points=9
+2024-12-09 23:59:14,201 - __main__ - 35 - DEBUG - secno=KCK12
+2024-12-09 23:59:14,202 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(22.0), np.float64(23.0)]
+2024-12-09 23:59:14,202 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.412), np.float64(0.407), np.float64(0.402), np.float64(0.252), np.float64(0.046), np.float64(-0.145), np.float64(-0.198), np.float64(-0.143), np.float64(0.002), np.float64(0.202), np.float64(1.692), np.float64(1.687), np.float64(0.312), np.float64(-0.688), np.float64(-1.088)]
+2024-12-09 23:59:14,202 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Ditch']
+2024-12-09 23:59:14,202 - __main__ - 47 - DEBUG - lb=0.402 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,202 - __main__ - 53 - DEBUG - lb=0.402 rb=1.692 lwl=0.402
+2024-12-09 23:59:14,202 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,202 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,202 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,202 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,202 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.402), np.float64(0.252), np.float64(0.046), np.float64(-0.145), np.float64(-0.198), np.float64(-0.143), np.float64(0.002), np.float64(0.202), np.float64(1.692)]
+2024-12-09 23:59:14,203 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,203 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,203 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,203 - __main__ - 183 - DEBUG - y=[np.float64(0.402), np.float64(0.252), np.float64(0.046), np.float64(-0.145), np.float64(-0.198), np.float64(-0.143), np.float64(0.002), np.float64(0.202), np.float64(1.692)]
+2024-12-09 23:59:14,203 - __main__ - 184 - DEBUG - section no=KCK12 total data points=9
+2024-12-09 23:59:14,204 - __main__ - 35 - DEBUG - secno=KCK13
+2024-12-09 23:59:14,204 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,204 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.412), np.float64(0.407), np.float64(0.402), np.float64(0.251), np.float64(0.151), np.float64(-0.131), np.float64(-0.148), np.float64(-0.132), np.float64(0.112), np.float64(0.242), np.float64(0.382), np.float64(0.392), np.float64(0.397)]
+2024-12-09 23:59:14,204 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,205 - __main__ - 47 - DEBUG - lb=0.402 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,205 - __main__ - 53 - DEBUG - lb=0.402 rb=0.382 lwl=0.382
+2024-12-09 23:59:14,205 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,205 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,205 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,205 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,206 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.402), np.float64(0.251), np.float64(0.151), np.float64(-0.131), np.float64(-0.148), np.float64(-0.132), np.float64(0.112), np.float64(0.242), np.float64(0.382)]
+2024-12-09 23:59:14,206 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,206 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,206 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,206 - __main__ - 183 - DEBUG - y=[np.float64(0.402), np.float64(0.251), np.float64(0.151), np.float64(-0.131), np.float64(-0.148), np.float64(-0.132), np.float64(0.112), np.float64(0.242), np.float64(0.382)]
+2024-12-09 23:59:14,206 - __main__ - 184 - DEBUG - section no=KCK13 total data points=9
+2024-12-09 23:59:14,206 - __main__ - 35 - DEBUG - secno=KCK14
+2024-12-09 23:59:14,207 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,207 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.402), np.float64(0.392), np.float64(0.382), np.float64(0.292), np.float64(0.151), np.float64(-0.048), np.float64(-0.098), np.float64(-0.049), np.float64(0.102), np.float64(0.351), np.float64(0.422), np.float64(0.427), np.float64(0.432)]
+2024-12-09 23:59:14,207 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,207 - __main__ - 47 - DEBUG - lb=0.382 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,208 - __main__ - 53 - DEBUG - lb=0.382 rb=0.422 lwl=0.382
+2024-12-09 23:59:14,208 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,208 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,208 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,208 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,208 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.382), np.float64(0.292), np.float64(0.151), np.float64(-0.048), np.float64(-0.098), np.float64(-0.049), np.float64(0.102), np.float64(0.351), np.float64(0.422)]
+2024-12-09 23:59:14,208 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,208 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,208 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,208 - __main__ - 183 - DEBUG - y=[np.float64(0.382), np.float64(0.292), np.float64(0.151), np.float64(-0.048), np.float64(-0.098), np.float64(-0.049), np.float64(0.102), np.float64(0.351), np.float64(0.422)]
+2024-12-09 23:59:14,208 - __main__ - 184 - DEBUG - section no=KCK14 total data points=9
+2024-12-09 23:59:14,208 - __main__ - 35 - DEBUG - secno=KCK15
+2024-12-09 23:59:14,209 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,209 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.313), np.float64(0.308), np.float64(0.303), np.float64(-0.028), np.float64(-0.113), np.float64(-0.203), np.float64(-0.252), np.float64(-0.202), np.float64(-0.113), np.float64(-0.027), np.float64(0.393), np.float64(0.388), np.float64(0.383)]
+2024-12-09 23:59:14,209 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,209 - __main__ - 47 - DEBUG - lb=0.303 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,210 - __main__ - 53 - DEBUG - lb=0.303 rb=0.393 lwl=0.303
+2024-12-09 23:59:14,210 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,210 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,210 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,210 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,210 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.303), np.float64(-0.028), np.float64(-0.113), np.float64(-0.203), np.float64(-0.252), np.float64(-0.202), np.float64(-0.113), np.float64(-0.027), np.float64(0.393)]
+2024-12-09 23:59:14,210 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,210 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,210 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,210 - __main__ - 183 - DEBUG - y=[np.float64(0.303), np.float64(-0.028), np.float64(-0.113), np.float64(-0.203), np.float64(-0.252), np.float64(-0.202), np.float64(-0.113), np.float64(-0.027), np.float64(0.393)]
+2024-12-09 23:59:14,210 - __main__ - 184 - DEBUG - section no=KCK15 total data points=9
+2024-12-09 23:59:14,211 - __main__ - 35 - DEBUG - secno=KCK16
+2024-12-09 23:59:14,211 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(25.0), np.float64(30.0)]
+2024-12-09 23:59:14,211 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.273), np.float64(0.268), np.float64(0.272), np.float64(0.176), np.float64(0.028), np.float64(-0.027), np.float64(-0.092), np.float64(-0.013), np.float64(0.023), np.float64(0.177), np.float64(0.328), np.float64(0.333), np.float64(0.338)]
+2024-12-09 23:59:14,211 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,212 - __main__ - 47 - DEBUG - lb=0.272 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,212 - __main__ - 53 - DEBUG - lb=0.272 rb=0.328 lwl=0.272
+2024-12-09 23:59:14,212 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,212 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,212 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,212 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,212 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.272), np.float64(0.176), np.float64(0.028), np.float64(-0.027), np.float64(-0.092), np.float64(-0.013), np.float64(0.023), np.float64(0.177), np.float64(0.328)]
+2024-12-09 23:59:14,212 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,212 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,212 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,212 - __main__ - 183 - DEBUG - y=[np.float64(0.272), np.float64(0.176), np.float64(0.028), np.float64(-0.027), np.float64(-0.092), np.float64(-0.013), np.float64(0.023), np.float64(0.177), np.float64(0.328)]
+2024-12-09 23:59:14,212 - __main__ - 184 - DEBUG - section no=KCK16 total data points=9
+2024-12-09 23:59:14,212 - __main__ - 35 - DEBUG - secno=KCK17
+2024-12-09 23:59:14,213 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,213 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.215), np.float64(0.21), np.float64(0.199), np.float64(0.0358), np.float64(-0.045), np.float64(-0.096), np.float64(-0.145), np.float64(-0.097), np.float64(0.004), np.float64(0.03), np.float64(0.204), np.float64(0.147), np.float64(0.21)]
+2024-12-09 23:59:14,213 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,213 - __main__ - 47 - DEBUG - lb=0.199 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,213 - __main__ - 53 - DEBUG - lb=0.199 rb=0.204 lwl=0.199
+2024-12-09 23:59:14,213 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,214 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,214 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,214 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,214 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.199), np.float64(0.0358), np.float64(-0.045), np.float64(-0.096), np.float64(-0.145), np.float64(-0.097), np.float64(0.004), np.float64(0.03), np.float64(0.204)]
+2024-12-09 23:59:14,214 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,214 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,214 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,214 - __main__ - 183 - DEBUG - y=[np.float64(0.199), np.float64(0.0358), np.float64(-0.045), np.float64(-0.096), np.float64(-0.145), np.float64(-0.097), np.float64(0.004), np.float64(0.03), np.float64(0.204)]
+2024-12-09 23:59:14,214 - __main__ - 184 - DEBUG - section no=KCK17 total data points=9
+2024-12-09 23:59:14,214 - __main__ - 35 - DEBUG - secno=KCK18
+2024-12-09 23:59:14,214 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,214 - __main__ - 42 - DEBUG - yvalues=[np.float64(1.165), np.float64(1.16), np.float64(1.155), np.float64(-0.01), np.float64(-0.135), np.float64(-0.195), np.float64(-0.245), np.float64(-0.19), np.float64(-0.15), np.float64(0.005), np.float64(1.157), np.float64(1.16), np.float64(1.165)]
+2024-12-09 23:59:14,214 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,215 - __main__ - 47 - DEBUG - lb=1.155 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,215 - __main__ - 53 - DEBUG - lb=1.155 rb=1.157 lwl=1.155
+2024-12-09 23:59:14,215 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,215 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,215 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,215 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,215 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(1.155), np.float64(-0.01), np.float64(-0.135), np.float64(-0.195), np.float64(-0.245), np.float64(-0.19), np.float64(-0.15), np.float64(0.005), np.float64(1.157)]
+2024-12-09 23:59:14,215 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,215 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,215 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,215 - __main__ - 183 - DEBUG - y=[np.float64(1.155), np.float64(-0.01), np.float64(-0.135), np.float64(-0.195), np.float64(-0.245), np.float64(-0.19), np.float64(-0.15), np.float64(0.005), np.float64(1.157)]
+2024-12-09 23:59:14,215 - __main__ - 184 - DEBUG - section no=KCK18 total data points=9
+2024-12-09 23:59:14,215 - __main__ - 35 - DEBUG - secno=KCK19
+2024-12-09 23:59:14,216 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(2.0), np.float64(3.0), np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(17.0), np.float64(29.0), np.float64(30.0)]
+2024-12-09 23:59:14,216 - __main__ - 42 - DEBUG - yvalues=[np.float64(-0.794), np.float64(-0.494), np.float64(-0.094), np.float64(0.245), np.float64(0.206), np.float64(-0.055), np.float64(-0.26), np.float64(-0.355), np.float64(-0.404), np.float64(-0.352), np.float64(-0.259), np.float64(-0.104), np.float64(0.145), np.float64(0.144), np.float64(-0.094), np.float64(-0.494), np.float64(-0.809)]
+2024-12-09 23:59:14,216 - __main__ - 43 - DEBUG - Remarks=['Ditch', '', '', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', 'Ditch']
+2024-12-09 23:59:14,216 - __main__ - 47 - DEBUG - lb=0.206 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,217 - __main__ - 53 - DEBUG - lb=0.206 rb=0.145 lwl=0.145
+2024-12-09 23:59:14,217 - __main__ - 54 - DEBUG - idx1=4 idx2=12
+2024-12-09 23:59:14,217 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,217 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,217 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0)]
+2024-12-09 23:59:14,217 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.206), np.float64(-0.055), np.float64(-0.26), np.float64(-0.355), np.float64(-0.404), np.float64(-0.352), np.float64(-0.259), np.float64(-0.104), np.float64(0.145)]
+2024-12-09 23:59:14,217 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,217 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,217 - __main__ - 182 - DEBUG - x=[np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0)]
+2024-12-09 23:59:14,217 - __main__ - 183 - DEBUG - y=[np.float64(0.206), np.float64(-0.055), np.float64(-0.26), np.float64(-0.355), np.float64(-0.404), np.float64(-0.352), np.float64(-0.259), np.float64(-0.104), np.float64(0.145)]
+2024-12-09 23:59:14,217 - __main__ - 184 - DEBUG - section no=KCK19 total data points=9
+2024-12-09 23:59:14,217 - __main__ - 35 - DEBUG - secno=KCK20
+2024-12-09 23:59:14,218 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(25.0), np.float64(30.0)]
+2024-12-09 23:59:14,218 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.316), np.float64(0.311), np.float64(0.295), np.float64(-0.004), np.float64(-0.309), np.float64(-0.456), np.float64(-0.504), np.float64(-0.455), np.float64(-0.319), np.float64(0.045), np.float64(0.306), np.float64(0.311), np.float64(0.316)]
+2024-12-09 23:59:14,218 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy nland']
+2024-12-09 23:59:14,218 - __main__ - 47 - DEBUG - lb=0.295 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,218 - __main__ - 53 - DEBUG - lb=0.295 rb=0.306 lwl=0.295
+2024-12-09 23:59:14,219 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,219 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,219 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,219 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,219 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.295), np.float64(-0.004), np.float64(-0.309), np.float64(-0.456), np.float64(-0.504), np.float64(-0.455), np.float64(-0.319), np.float64(0.045), np.float64(0.306)]
+2024-12-09 23:59:14,219 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,219 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,219 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,219 - __main__ - 183 - DEBUG - y=[np.float64(0.295), np.float64(-0.004), np.float64(-0.309), np.float64(-0.456), np.float64(-0.504), np.float64(-0.455), np.float64(-0.319), np.float64(0.045), np.float64(0.306)]
+2024-12-09 23:59:14,219 - __main__ - 184 - DEBUG - section no=KCK20 total data points=9
+2024-12-09 23:59:14,219 - __main__ - 35 - DEBUG - secno=KCK21
+2024-12-09 23:59:14,219 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0), np.float64(25.0), np.float64(30.0)]
+2024-12-09 23:59:14,220 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.189), np.float64(2.194), np.float64(2.209), np.float64(-0.106), np.float64(-0.311), np.float64(-0.406), np.float64(-0.451), np.float64(-0.401), np.float64(-0.316), np.float64(-0.111), np.float64(0.209), np.float64(0.204), np.float64(0.199), np.float64(0.189)]
+2024-12-09 23:59:14,220 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land']
+2024-12-09 23:59:14,220 - __main__ - 47 - DEBUG - lb=2.209 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,220 - __main__ - 53 - DEBUG - lb=2.209 rb=0.209 lwl=0.209
+2024-12-09 23:59:14,220 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,220 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,220 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,220 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,220 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.209), np.float64(-0.106), np.float64(-0.311), np.float64(-0.406), np.float64(-0.451), np.float64(-0.401), np.float64(-0.316), np.float64(-0.111), np.float64(0.209)]
+2024-12-09 23:59:14,220 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,220 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,221 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+2024-12-09 23:59:14,221 - __main__ - 183 - DEBUG - y=[np.float64(2.209), np.float64(-0.106), np.float64(-0.311), np.float64(-0.406), np.float64(-0.451), np.float64(-0.401), np.float64(-0.316), np.float64(-0.111), np.float64(0.209)]
+2024-12-09 23:59:14,221 - __main__ - 184 - DEBUG - section no=KCK21 total data points=9
+2024-12-09 23:59:14,221 - __main__ - 35 - DEBUG - secno=KCK22
+2024-12-09 23:59:14,221 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0)]
+2024-12-09 23:59:14,221 - __main__ - 42 - DEBUG - yvalues=[np.float64(0.389), np.float64(0.384), np.float64(0.379), np.float64(-0.101), np.float64(-0.257), np.float64(-0.476), np.float64(-0.531), np.float64(-0.482), np.float64(-0.261), np.float64(-0.052), np.float64(0.394), np.float64(0.389), np.float64(0.379)]
+2024-12-09 23:59:14,221 - __main__ - 43 - DEBUG - Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+2024-12-09 23:59:14,222 - __main__ - 47 - DEBUG - lb=0.379 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,222 - __main__ - 53 - DEBUG - lb=0.379 rb=0.394 lwl=0.379
+2024-12-09 23:59:14,222 - __main__ - 54 - DEBUG - idx1=2 idx2=10
+2024-12-09 23:59:14,222 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,222 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,222 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,222 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(0.379), np.float64(-0.101), np.float64(-0.257), np.float64(-0.476), np.float64(-0.531), np.float64(-0.482), np.float64(-0.261), np.float64(-0.052), np.float64(0.394)]
+2024-12-09 23:59:14,222 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,222 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,222 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(12.5), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+2024-12-09 23:59:14,222 - __main__ - 183 - DEBUG - y=[np.float64(0.379), np.float64(-0.101), np.float64(-0.257), np.float64(-0.476), np.float64(-0.531), np.float64(-0.482), np.float64(-0.261), np.float64(-0.052), np.float64(0.394)]
+2024-12-09 23:59:14,222 - __main__ - 184 - DEBUG - section no=KCK22 total data points=9
+2024-12-09 23:59:14,222 - __main__ - 35 - DEBUG - secno=KCK23
+2024-12-09 23:59:14,223 - __main__ - 41 - DEBUG - xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(35.0), np.float64(40.0)]
+2024-12-09 23:59:14,223 - __main__ - 42 - DEBUG - yvalues=[np.float64(2.408), np.float64(2.372), np.float64(2.313), np.float64(0.523), np.float64(0.023), np.float64(-0.138), np.float64(-0.368), np.float64(-0.427), np.float64(-0.368), np.float64(-0.192), np.float64(-0.087), np.float64(0.523), np.float64(2.223), np.float64(2.362), np.float64(2.408)]
+2024-12-09 23:59:14,223 - __main__ - 43 - DEBUG - Remarks=['Road slope', '', 'LB', '', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Road slope']
+2024-12-09 23:59:14,223 - __main__ - 47 - DEBUG - lb=2.313 type=<class 'numpy.float64'>
+2024-12-09 23:59:14,223 - __main__ - 53 - DEBUG - lb=2.313 rb=0.523 lwl=0.523
+2024-12-09 23:59:14,224 - __main__ - 54 - DEBUG - idx1=2 idx2=11
+2024-12-09 23:59:14,224 - __main__ - 58 - DEBUG - Turncated Remarks................
+2024-12-09 23:59:14,224 - __main__ - 6 - DEBUG - #####################Values in constructor #############################
+2024-12-09 23:59:14,224 - __main__ - 7 - DEBUG - xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0)]
+2024-12-09 23:59:14,224 - __main__ - 8 - DEBUG - yvalues for section=[np.float64(2.313), np.float64(0.523), np.float64(0.023), np.float64(-0.138), np.float64(-0.368), np.float64(-0.427), np.float64(-0.368), np.float64(-0.192), np.float64(-0.087), np.float64(0.523)]
+2024-12-09 23:59:14,224 - __main__ - 9 - DEBUG - #######################################################################
+2024-12-09 23:59:14,224 - __main__ - 181 - DEBUG - ########################Displaying Section Properties###########################
+2024-12-09 23:59:14,224 - __main__ - 182 - DEBUG - x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0)]
+2024-12-09 23:59:14,224 - __main__ - 183 - DEBUG - y=[np.float64(2.313), np.float64(0.523), np.float64(0.023), np.float64(-0.138), np.float64(-0.368), np.float64(-0.427), np.float64(-0.368), np.float64(-0.192), np.float64(-0.087), np.float64(0.523)]
+2024-12-09 23:59:14,224 - __main__ - 184 - DEBUG - section no=KCK23 total data points=10
+2024-12-09 23:59:14,224 - __main__ - 116 - DEBUG - ############# #################################################
+
+
+
+2024-12-09 23:59:15,043 - __main__ - 45 - DEBUG - 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+2024-12-09 23:59:15,043 - __main__ - 46 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0         KCK0             0           0.0   3.881    HBB road
+1         KCK0             0           3.0   3.884            
+2         KCK0             0           5.0   1.099            
+3         KCK0             0          10.0   0.989          LB
+4         KCK0             0          12.0  -0.036            
+..         ...           ...           ...     ...         ...
+324      KCK23          2310          26.0  -0.087            
+325      KCK23          2310          28.0   0.523          RB
+326      KCK23          2310          30.0   2.223            
+327      KCK23          2310          35.0   2.362            
+328      KCK23          2310          40.0   2.408  Road slope
+
+[329 rows x 5 columns]
+2024-12-09 23:59:15,046 - __main__ - 58 - DEBUG -   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+7       KCK0             0          16.0  -0.741      CL
+2024-12-09 23:59:15,048 - __main__ - 65 - DEBUG - sencionno=KCK0 CL distance=16.0 RL=-0.741
+2024-12-09 23:59:15,051 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       KCK1           100          11.0  -1.364      CL
+2024-12-09 23:59:15,053 - __main__ - 65 - DEBUG - sencionno=KCK1 CL distance=11.0 RL=-1.364
+2024-12-09 23:59:15,055 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       KCK2           200           9.5  -1.442      CL
+2024-12-09 23:59:15,058 - __main__ - 65 - DEBUG - sencionno=KCK2 CL distance=9.5 RL=-1.442
+2024-12-09 23:59:15,059 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       KCK3           300          14.0  -0.729      CL
+2024-12-09 23:59:15,061 - __main__ - 65 - DEBUG - sencionno=KCK3 CL distance=14.0 RL=-0.729
+2024-12-09 23:59:15,062 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+64       KCK4           400          10.0   -1.05      CL
+2024-12-09 23:59:15,064 - __main__ - 65 - DEBUG - sencionno=KCK4 CL distance=10.0 RL=-1.05
+2024-12-09 23:59:15,065 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       KCK5           500          11.0   -0.54      CL
+2024-12-09 23:59:15,067 - __main__ - 65 - DEBUG - sencionno=KCK5 CL distance=11.0 RL=-0.54
+2024-12-09 23:59:15,067 - __main__ - 58 - DEBUG -    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       KCK6           600          10.0   -0.62      CL
+2024-12-09 23:59:15,069 - __main__ - 65 - DEBUG - sencionno=KCK6 CL distance=10.0 RL=-0.62
+2024-12-09 23:59:15,071 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+105       KCK7           700          11.0  -0.814      CL
+2024-12-09 23:59:15,073 - __main__ - 65 - DEBUG - sencionno=KCK7 CL distance=11.0 RL=-0.814
+2024-12-09 23:59:15,073 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       KCK8           800          11.0  -0.846      CL
+2024-12-09 23:59:15,076 - __main__ - 65 - DEBUG - sencionno=KCK8 CL distance=11.0 RL=-0.846
+2024-12-09 23:59:15,077 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+133       KCK9           900          14.0  -0.648      CL
+2024-12-09 23:59:15,079 - __main__ - 65 - DEBUG - sencionno=KCK9 CL distance=14.0 RL=-0.648
+2024-12-09 23:59:15,080 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+146      KCK10          1000          15.0  -0.707      CL
+2024-12-09 23:59:15,082 - __main__ - 65 - DEBUG - sencionno=KCK10 CL distance=15.0 RL=-0.707
+2024-12-09 23:59:15,083 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+158      KCK11          1100          15.0  -0.607      CL
+2024-12-09 23:59:15,085 - __main__ - 65 - DEBUG - sencionno=KCK11 CL distance=15.0 RL=-0.607
+2024-12-09 23:59:15,085 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+170      KCK12          1200          14.0  -0.198      CL
+2024-12-09 23:59:15,087 - __main__ - 65 - DEBUG - sencionno=KCK12 CL distance=14.0 RL=-0.198
+2024-12-09 23:59:15,089 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      KCK13          1300          13.0  -0.148      CL
+2024-12-09 23:59:15,091 - __main__ - 65 - DEBUG - sencionno=KCK13 CL distance=13.0 RL=-0.148
+2024-12-09 23:59:15,092 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      KCK14          1400          13.0  -0.098      CL
+2024-12-09 23:59:15,093 - __main__ - 65 - DEBUG - sencionno=KCK14 CL distance=13.0 RL=-0.098
+2024-12-09 23:59:15,094 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      KCK15          1500          13.0  -0.252      CL
+2024-12-09 23:59:15,095 - __main__ - 65 - DEBUG - sencionno=KCK15 CL distance=13.0 RL=-0.252
+2024-12-09 23:59:15,096 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      KCK16          1600          14.0  -0.092      CL
+2024-12-09 23:59:15,098 - __main__ - 65 - DEBUG - sencionno=KCK16 CL distance=14.0 RL=-0.092
+2024-12-09 23:59:15,098 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+237      KCK17          1700          13.0  -0.145      CL
+2024-12-09 23:59:15,100 - __main__ - 65 - DEBUG - sencionno=KCK17 CL distance=13.0 RL=-0.145
+2024-12-09 23:59:15,101 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+250      KCK18          1800          13.0  -0.245      CL
+2024-12-09 23:59:15,103 - __main__ - 65 - DEBUG - sencionno=KCK18 CL distance=13.0 RL=-0.245
+2024-12-09 23:59:15,103 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+266      KCK19          1900          11.0  -0.352      CL
+2024-12-09 23:59:15,105 - __main__ - 65 - DEBUG - sencionno=KCK19 CL distance=11.0 RL=-0.352
+2024-12-09 23:59:15,106 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+280      KCK20          2000          14.0  -0.504      CL
+2024-12-09 23:59:15,107 - __main__ - 65 - DEBUG - sencionno=KCK20 CL distance=14.0 RL=-0.504
+2024-12-09 23:59:15,108 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+293      KCK21          2100          14.0  -0.451      CL
+2024-12-09 23:59:15,110 - __main__ - 65 - DEBUG - sencionno=KCK21 CL distance=14.0 RL=-0.451
+2024-12-09 23:59:15,111 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+307      KCK22          2200          13.0  -0.531      CL
+2024-12-09 23:59:15,113 - __main__ - 65 - DEBUG - sencionno=KCK22 CL distance=13.0 RL=-0.531
+2024-12-09 23:59:15,114 - __main__ - 58 - DEBUG -     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+321      KCK23          2310          20.0  -0.427      CL
+2024-12-09 23:59:15,116 - __main__ - 65 - DEBUG - sencionno=KCK23 CL distance=20.0 RL=-0.427
