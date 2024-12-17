@@ -1,0 +1,1425 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+       Data Name      Value
+0  Package Name  TP_KEX_08
+1   Data Matrix          V
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2         KhalName     GL  Ivert Level  \
+0        GBK0         0    5   19  B  D  Gabir Beel khal  0.402         -1.6   
+1        GBK1       100   24   39  B  D  Gabir Beel khal  0.402         -1.6   
+2        GBK2       200   44   58  B  D  Gabir Beel khal  0.402         -1.6   
+3        GBK3       300   63   76  B  D  Gabir Beel khal  0.402         -1.6   
+4        GBK4       400   79   91  B  D  Gabir Beel khal  0.402         -1.6   
+5        GBK5       500   94  109  B  D  Gabir Beel khal  0.402         -1.6   
+6        GBK6       600  112  125  B  D  Gabir Beel khal  0.402         -1.6   
+7        GBK7       700  127  140  B  D  Gabir Beel khal  0.402         -1.6   
+8        GBK8       800  143  157  B  D  Gabir Beel khal  0.402         -1.6   
+9        GBK9       900  160  173  B  D  Gabir Beel khal  0.402         -1.6   
+10      GBK10      1000  176  190  B  D  Gabir Beel khal  0.402         -1.6   
+11      GBK11      1100  194  206  B  D  Gabir Beel khal  0.402         -1.6   
+12      GBK12      1200  210  223  B  D  Gabir Beel khal  0.402         -1.6   
+13      GBK13      1300  227  239  B  D  Gabir Beel khal  0.402         -1.6   
+14      GBK14      1400  243  255  B  D  Gabir Beel khal  0.402         -1.6   
+15      GBK15      1500  258  271  B  D  Gabir Beel khal  0.402         -1.6   
+16      GBK16      1600  274  286  B  D  Gabir Beel khal  0.402         -1.6   
+17      GBK17      1700  289  304  B  D  Gabir Beel khal  0.402         -1.6   
+18      GBK18      1800  307  320  B  D  Gabir Beel khal  0.402         -1.6   
+19      GBK19      1900  324  335  B  D  Gabir Beel khal  0.402         -1.6   
+20      GBK20      2000  339  352  B  D  Gabir Beel khal  0.402         -1.6   
+21      GBK21      2100  356  368  B  D  Gabir Beel khal  0.402         -1.6   
+22      GBK22      2270  372  385  B  D  Gabir Beel khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+ chainage=0 sec=GBK0 row1=5 row2=19 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 7, 8, 9, 11, 13, 15, 17, 19, 21, 22, 27, 32, 37], 'rl': [5.053, 5.041, 2.293, 2.284, 1.057, 0.245, -0.2, -0.304, -0.202, 0.221, 1.05, 2.2, 2.222, 2.233, 2.245], 'remarks': ['BC road', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Home stead'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0', 'GBK0']}
+ 
+
+
+
+
+
+ chainage=100 sec=GBK1 row1=24 row2=39 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 29, 31, 32], 'rl': [0.575, 3.344, 3.332, 2.131, 1.184, 0.387, -0.214, -0.313, -0.209, 0.022, 0.376, 1.083, 1.875, 1.866, 1.071, 0.473], 'remarks': ['Paddy land', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1', 'GBK1']}
+ 
+
+
+
+
+
+ chainage=200 sec=GBK2 row1=44 row2=58 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 23, 25], 'rl': [0.396, 0.405, 2.001, 1.988, 1.001, 0.076, -0.491, -0.592, -0.489, 0.071, 0.908, 2.316, 2.301, 0.201, -0.3], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2', 'GBK2']}
+ 
+
+
+
+
+
+ chainage=300 sec=GBK3 row1=63 row2=76 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 24, 26], 'rl': [1.369, 1.357, 1.351, 0.702, 0.098, -0.28, -0.392, -0.284, 0.076, 0.878, 2.331, 2.326, 0.701, 0.599], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3', 'GBK3']}
+ 
+
+
+
+
+
+ chainage=400 sec=GBK4 row1=79 row2=91 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [0.942, 0.934, 0.921, 0.135, -0.266, -0.579, -0.681, -0.575, -0.261, 0.107, 0.833, 0.821, 0.81], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4', 'GBK4']}
+ 
+
+
+
+
+
+ chainage=500 sec=GBK5 row1=94 row2=109 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 5, 6, 7, 8, 9.5, 11, 12, 13, 14, 16, 16.5, 22, 30], 'rl': [0.513, 0.689, 1.889, 1.88, 0.789, 0.402, 0.055, -0.047, 0.054, 0.389, 0.708, 1.284, 1.277, 0.806, 0.798, 0.788], 'remarks': ['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5', 'GBK5']}
+ 
+
+
+
+
+
+ chainage=600 sec=GBK6 row1=112 row2=125 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 19, 21, 22, 23, 25, 27], 'rl': [0.71, 0.697, 0.691, 0.326, 0.113, -0.099, -0.201, -0.097, 0.208, 0.969, 1.763, 1.712, 0.508, 0.028], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6', 'GBK6']}
+ 
+
+
+
+
+
+ chainage=700 sec=GBK7 row1=127 row2=140 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6.5, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [0.702, 0.687, 1.483, 1.47, 0.493, 0.09, -0.21, -0.314, -0.213, 0.085, 0.263, 0.592, 0.577, 0.564], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7', 'GBK7']}
+ 
+
+
+
+
+
+ chainage=800 sec=GBK8 row1=143 row2=157 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 7.5, 8, 10, 11, 12, 13, 13.5, 14, 15, 16, 17, 22, 27, 32], 'rl': [0.568, 0.556, 1.277, 1.265, 0.596, 0.19, -0.14, -0.244, -0.182, -0.042, 0.294, 0.649, 0.64, 0.634, 0.627], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8', 'GBK8']}
+ 
+
+
+
+
+
+ chainage=900 sec=GBK9 row1=160 row2=173 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5.5, 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [0.646, 0.659, 1.38, 1.375, 0.396, -0.103, -0.412, -0.513, -0.41, -0.124, 0.126, 0.597, 0.589, 0.577], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9', 'GBK9']}
+ 
+
+
+
+
+
+ chainage=1000 sec=GBK10 row1=176 row2=190 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6.5, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28, 33], 'rl': [0.484, 0.494, 1.017, 1.012, -0.017, -0.216, -0.522, -0.624, -0.519, -0.216, 0.051, 0.463, 0.454, 0.443, 0.427], 'remarks': ['Open land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10', 'GBK10']}
+ 
+
+
+
+
+
+ chainage=1100 sec=GBK11 row1=194 row2=206 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35], 'rl': [0.574, 0.562, 0.551, -0.036, -0.617, -1.019, -1.123, -1.022, -0.612, -0.323, 0.163, 0.151, 0.145], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Low land'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11', 'GBK11']}
+ 
+
+
+
+
+
+ chainage=1200 sec=GBK12 row1=210 row2=223 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 5, 6, 8, 10, 12, 14, 16, 18, 19, 25, 30], 'rl': [-0.208, 0.34, 1.367, 1.378, 0.333, -0.219, -0.481, -0.581, -0.679, -0.429, -0.013, 0.382, 0.367, 0.356], 'remarks': ['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12', 'GBK12']}
+ 
+
+
+
+
+
+ chainage=1300 sec=GBK13 row1=227 row2=239 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 16, 17, 19, 21, 22, 27, 32], 'rl': [0.549, 0.537, 0.531, 0.28, 0.082, -0.03, -0.032, -0.028, 0.078, 0.482, 0.682, 0.672, 0.658], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13', 'GBK13']}
+ 
+
+
+
+
+
+ chainage=1400 sec=GBK14 row1=243 row2=255 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 13.5, 14, 15, 16, 17, 22, 27], 'rl': [0.503, 0.494, 0.489, 0.315, 0.204, 0.093, 0.06, 0.092, 0.195, 0.291, 0.468, 0.459, 0.4512], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400], 'sectionNo': ['GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14', 'GBK14']}
+ 
+
+
+
+
+
+ chainage=1500 sec=GBK15 row1=258 row2=271 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30, 35], 'rl': [0.641, 0.634, 0.629, 0.344, 0.081, -0.087, -0.189, -0.088, 0.06, 0.339, 0.781, 0.76, 0.751, 0.745], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500], 'sectionNo': ['GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15', 'GBK15']}
+ 
+
+
+
+
+
+ chainage=1600 sec=GBK16 row1=274 row2=286 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35], 'rl': [0.935, 0.926, 0.921, 0.153, -0.243, -0.552, -0.654, -0.553, -0.247, 0.176, 1.034, 1.052, 1.067], 'remarks': ['Open land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Open land'], 'chainage': [1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600], 'sectionNo': ['GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16', 'GBK16']}
+ 
+
+
+
+
+
+ chainage=1700 sec=GBK17 row1=289 row2=304 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 40], 'rl': [0.888, 0.876, 0.852, 0.377, -0.037, -0.429, -0.775, -0.876, -0.773, -0.317, 0.424, 1.414, 2.783, 2.764, 0.763, 0.751], 'remarks': ['Open land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700], 'sectionNo': ['GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17', 'GBK17']}
+ 
+
+
+
+
+
+ chainage=1800 sec=GBK18 row1=307 row2=320 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 30], 'rl': [0.731, 0.726, 1.652, 1.645, 0.027, -0.352, -0.562, -0.663, -0.561, -0.35, -0.045, 0.652, 0.64, 0.626], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800], 'sectionNo': ['GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18', 'GBK18']}
+ 
+
+
+
+
+
+ chainage=1900 sec=GBK19 row1=324 row2=335 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 20, 25, 30], 'rl': [1.118, 1.112, 1.101, -0.364, -0.95, -1.052, -0.949, -0.391, 0.616, 0.611, 0.606, 0.597], 'remarks': ['Open land', '', 'LB', '', '', 'CL', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900], 'sectionNo': ['GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19', 'GBK19']}
+ 
+
+
+
+
+
+ chainage=2000 sec=GBK20 row1=339 row2=352 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 26, 27, 29], 'rl': [2.084, 2.078, 2.064, 0.742, -0.295, -1.046, -1.147, -1.044, -0.322, 0.733, 0.671, 0.664, -0.236, -0.929], 'remarks': ['Home stead', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond'], 'chainage': [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000], 'sectionNo': ['GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20', 'GBK20']}
+ 
+
+
+
+
+
+ chainage=2100 sec=GBK21 row1=356 row2=368 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 6, 8, 10, 11, 12, 14, 16, 17, 19, 20, 22], 'rl': [2.393, 2.379, 0.901, 0.082, -0.306, -0.409, -0.308, 0.094, 0.95, 0.901, 0.889, -0.602, -0.606], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond'], 'chainage': [2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100], 'sectionNo': ['GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21', 'GBK21']}
+ 
+
+
+
+
+
+ chainage=2270 sec=GBK22 row1=372 row2=385 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35, 40], 'rl': [2.181, 2.168, 2.157, 1.132, 0.323, -0.208, -0.303, -0.201, -0.009, 0.282, 0.693, 0.682, 0.677, 0.668], 'remarks': ['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270, 2270], 'sectionNo': ['GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22', 'GBK22']}
+ 
+
+
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =GBK0**********************************
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+7       GBK0             0          15.0  -0.304      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+3       GBK0             0           8.0   2.284      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       GBK0             0          22.0     2.2      RB
+ sencionno=GBK0 CL distance=15.0 RL=-0.304
+ Finished Section no =GBK0**********************************
+ 
+
+
+
+Initiated Section no =GBK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+22       GBK1           100          19.0  -0.313      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       GBK1           100          10.0   3.332      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+27       GBK1           100          28.0   1.875      RB
+ sencionno=GBK1 CL distance=19.0 RL=-0.313
+ Finished Section no =GBK1**********************************
+ 
+
+
+
+Initiated Section no =GBK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+38       GBK2           200          15.0  -0.592      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       GBK2           200          10.0   1.988      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       GBK2           200          20.0   2.316      RB
+ sencionno=GBK2 CL distance=15.0 RL=-0.592
+ Finished Section no =GBK2**********************************
+ 
+
+
+
+Initiated Section no =GBK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+52       GBK3           300          15.0  -0.392      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+48       GBK3           300          10.0   1.351      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+56       GBK3           300          20.0   2.331      RB
+ sencionno=GBK3 CL distance=15.0 RL=-0.392
+ Finished Section no =GBK3**********************************
+ 
+
+
+
+Initiated Section no =GBK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       GBK4           400          15.0  -0.681      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       GBK4           400          10.0   0.921      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+70       GBK4           400          20.0   0.833      RB
+ sencionno=GBK4 CL distance=15.0 RL=-0.681
+ Finished Section no =GBK4**********************************
+ 
+
+
+
+Initiated Section no =GBK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       GBK5           500           9.5  -0.047      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       GBK5           500           5.0    1.88      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+84       GBK5           500          14.0   1.284      RB
+ sencionno=GBK5 CL distance=9.5 RL=-0.047
+ Finished Section no =GBK5**********************************
+ 
+
+
+
+Initiated Section no =GBK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       GBK6           600          15.0  -0.201      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+91       GBK6           600          10.0   0.691      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+99       GBK6           600          22.0   1.763      RB
+ sencionno=GBK6 CL distance=15.0 RL=-0.201
+ Finished Section no =GBK6**********************************
+ 
+
+
+
+Initiated Section no =GBK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+110       GBK7           700          14.0  -0.314      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       GBK7           700          10.0    1.47      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       GBK7           700          18.0   0.592      RB
+ sencionno=GBK7 CL distance=14.0 RL=-0.314
+ Finished Section no =GBK7**********************************
+ 
+
+
+
+Initiated Section no =GBK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       GBK8           800          13.5  -0.244      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       GBK8           800          10.0   1.265      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+128       GBK8           800          17.0   0.649      RB
+ sencionno=GBK8 CL distance=13.5 RL=-0.244
+ Finished Section no =GBK8**********************************
+ 
+
+
+
+Initiated Section no =GBK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       GBK9           900          14.0  -0.513      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+135       GBK9           900          10.0   1.375      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+143       GBK9           900          18.0   0.597      RB
+ sencionno=GBK9 CL distance=14.0 RL=-0.513
+ Finished Section no =GBK9**********************************
+ 
+
+
+
+Initiated Section no =GBK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+153      GBK10          1000          14.0  -0.624      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+149      GBK10          1000          10.0   1.012      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+157      GBK10          1000          18.0   0.463      RB
+ sencionno=GBK10 CL distance=14.0 RL=-0.624
+ Finished Section no =GBK10**********************************
+ 
+
+
+
+Initiated Section no =GBK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+167      GBK11          1100          17.0  -1.123      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+163      GBK11          1100          10.0   0.551      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+171      GBK11          1100          24.0   0.163      RB
+ sencionno=GBK11 CL distance=17.0 RL=-1.123
+ Finished Section no =GBK11**********************************
+ 
+
+
+
+Initiated Section no =GBK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+181      GBK12          1200          12.0  -0.581      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      GBK12          1200           5.0   1.378      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      GBK12          1200          19.0   0.382      RB
+ sencionno=GBK12 CL distance=12.0 RL=-0.581
+ Finished Section no =GBK12**********************************
+ 
+
+
+
+Initiated Section no =GBK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+194      GBK13          1300          16.0  -0.032      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+190      GBK13          1300          10.0   0.531      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      GBK13          1300          22.0   0.682      RB
+ sencionno=GBK13 CL distance=16.0 RL=-0.032
+ Finished Section no =GBK13**********************************
+ 
+
+
+
+Initiated Section no =GBK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+207      GBK14          1400          13.5    0.06      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+203      GBK14          1400          10.0   0.489      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      GBK14          1400          17.0   0.468      RB
+ sencionno=GBK14 CL distance=13.5 RL=0.06
+ Finished Section no =GBK14**********************************
+ 
+
+
+
+Initiated Section no =GBK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      GBK15          1500          15.0  -0.189      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+216      GBK15          1500          10.0   0.629      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      GBK15          1500          20.0   0.781      RB
+ sencionno=GBK15 CL distance=15.0 RL=-0.189
+ Finished Section no =GBK15**********************************
+ 
+
+
+
+Initiated Section no =GBK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+234      GBK16          1600          17.0  -0.654      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+230      GBK16          1600          10.0   0.921      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+238      GBK16          1600          24.0   1.034      RB
+ sencionno=GBK16 CL distance=17.0 RL=-0.654
+ Finished Section no =GBK16**********************************
+ 
+
+
+
+Initiated Section no =GBK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+248      GBK17          1700          20.0  -0.876      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+243      GBK17          1700          10.0   0.852      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+253      GBK17          1700          30.0   2.783      RB
+ sencionno=GBK17 CL distance=20.0 RL=-0.876
+ Finished Section no =GBK17**********************************
+ 
+
+
+
+Initiated Section no =GBK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+264      GBK18          1800          14.0  -0.663      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+260      GBK18          1800          10.0   1.645      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+268      GBK18          1800          18.0   0.652      RB
+ sencionno=GBK18 CL distance=14.0 RL=-0.663
+ Finished Section no =GBK18**********************************
+ 
+
+
+
+Initiated Section no =GBK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+276      GBK19          1900          13.0  -1.052      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+273      GBK19          1900          10.0   1.101      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      GBK19          1900          16.0   0.616      RB
+ sencionno=GBK19 CL distance=13.0 RL=-1.052
+ Finished Section no =GBK19**********************************
+ 
+
+
+
+Initiated Section no =GBK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+289      GBK20          2000          17.0  -1.147      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+285      GBK20          2000          10.0   2.064      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+293      GBK20          2000          24.0   0.671      RB
+ sencionno=GBK20 CL distance=17.0 RL=-1.147
+ Finished Section no =GBK20**********************************
+ 
+
+
+
+Initiated Section no =GBK21**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+302      GBK21          2100          11.0  -0.409      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+298      GBK21          2100           5.0   2.379      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+306      GBK21          2100          17.0   0.901      RB
+ sencionno=GBK21 CL distance=11.0 RL=-0.409
+ Finished Section no =GBK21**********************************
+ 
+
+
+
+Initiated Section no =GBK22**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+316      GBK22          2270          17.0  -0.303      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+312      GBK22          2270          10.0   2.157      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+320      GBK22          2270          24.0   0.693      RB
+ sencionno=GBK22 CL distance=17.0 RL=-0.303
+ Finished Section no =GBK22**********************************
+ 
+
+
+############# We Are Checking Sectional properties.............
+ 
+
+
+############# ##################################################
+    XsectionNo  chainage   r1   r2 c1 c2         KhalName     GL  Ivert Level  \
+0        GBK0         0    5   19  B  D  Gabir Beel khal  0.402         -1.6   
+1        GBK1       100   24   39  B  D  Gabir Beel khal  0.402         -1.6   
+2        GBK2       200   44   58  B  D  Gabir Beel khal  0.402         -1.6   
+3        GBK3       300   63   76  B  D  Gabir Beel khal  0.402         -1.6   
+4        GBK4       400   79   91  B  D  Gabir Beel khal  0.402         -1.6   
+5        GBK5       500   94  109  B  D  Gabir Beel khal  0.402         -1.6   
+6        GBK6       600  112  125  B  D  Gabir Beel khal  0.402         -1.6   
+7        GBK7       700  127  140  B  D  Gabir Beel khal  0.402         -1.6   
+8        GBK8       800  143  157  B  D  Gabir Beel khal  0.402         -1.6   
+9        GBK9       900  160  173  B  D  Gabir Beel khal  0.402         -1.6   
+10      GBK10      1000  176  190  B  D  Gabir Beel khal  0.402         -1.6   
+11      GBK11      1100  194  206  B  D  Gabir Beel khal  0.402         -1.6   
+12      GBK12      1200  210  223  B  D  Gabir Beel khal  0.402         -1.6   
+13      GBK13      1300  227  239  B  D  Gabir Beel khal  0.402         -1.6   
+14      GBK14      1400  243  255  B  D  Gabir Beel khal  0.402         -1.6   
+15      GBK15      1500  258  271  B  D  Gabir Beel khal  0.402         -1.6   
+16      GBK16      1600  274  286  B  D  Gabir Beel khal  0.402         -1.6   
+17      GBK17      1700  289  304  B  D  Gabir Beel khal  0.402         -1.6   
+18      GBK18      1800  307  320  B  D  Gabir Beel khal  0.402         -1.6   
+19      GBK19      1900  324  335  B  D  Gabir Beel khal  0.402         -1.6   
+20      GBK20      2000  339  352  B  D  Gabir Beel khal  0.402         -1.6   
+21      GBK21      2100  356  368  B  D  Gabir Beel khal  0.402         -1.6   
+22      GBK22      2270  372  385  B  D  Gabir Beel khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+ secno=GBK0
+ xvalues=[np.float64(0.0), np.float64(4.0), np.float64(7.0), np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0), np.float64(27.0), np.float64(32.0), np.float64(37.0)]
+ yvalues=[np.float64(5.053), np.float64(5.041), np.float64(2.293), np.float64(2.284), np.float64(1.057), np.float64(0.245), np.float64(-0.2), np.float64(-0.304), np.float64(-0.202), np.float64(0.221), np.float64(1.05), np.float64(2.2), np.float64(2.222), np.float64(2.233), np.float64(2.245)]
+ Remarks=['BC road', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Home stead']
+ lb=2.284 type=<class 'numpy.float64'>
+ lb=2.284 rb=2.2 lwl=2.2
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ yvalues for section=[np.float64(2.284), np.float64(1.057), np.float64(0.245), np.float64(-0.2), np.float64(-0.304), np.float64(-0.202), np.float64(0.221), np.float64(1.05), np.float64(2.2)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(2.284), np.float64(1.057), np.float64(0.245), np.float64(-0.2), np.float64(-0.304), np.float64(-0.202), np.float64(0.221), np.float64(1.05), np.float64(2.2)]
+ section no=GBK0 total data points=9
+ secno=GBK1
+ xvalues=[np.float64(0.0), np.float64(3.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0), np.float64(29.0), np.float64(31.0), np.float64(32.0)]
+ yvalues=[np.float64(0.575), np.float64(3.344), np.float64(3.332), np.float64(2.131), np.float64(1.184), np.float64(0.387), np.float64(-0.214), np.float64(-0.313), np.float64(-0.209), np.float64(0.022), np.float64(0.376), np.float64(1.083), np.float64(1.875), np.float64(1.866), np.float64(1.071), np.float64(0.473)]
+ Remarks=['Paddy land', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=3.332 type=<class 'numpy.float64'>
+ lb=3.332 rb=1.875 lwl=1.875
+ idx1=2 idx2=12
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0)]
+ yvalues for section=[np.float64(3.332), np.float64(2.131), np.float64(1.184), np.float64(0.387), np.float64(-0.214), np.float64(-0.313), np.float64(-0.209), np.float64(0.022), np.float64(0.376), np.float64(1.083), np.float64(1.875)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0)]
+ y=[np.float64(3.332), np.float64(2.131), np.float64(1.184), np.float64(0.387), np.float64(-0.214), np.float64(-0.313), np.float64(-0.209), np.float64(0.022), np.float64(0.376), np.float64(1.083), np.float64(1.875)]
+ section no=GBK1 total data points=11
+ secno=GBK2
+ xvalues=[np.float64(0.0), np.float64(7.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(21.0), np.float64(23.0), np.float64(25.0)]
+ yvalues=[np.float64(0.396), np.float64(0.405), np.float64(2.001), np.float64(1.988), np.float64(1.001), np.float64(0.076), np.float64(-0.491), np.float64(-0.592), np.float64(-0.489), np.float64(0.071), np.float64(0.908), np.float64(2.316), np.float64(2.301), np.float64(0.201), np.float64(-0.3)]
+ Remarks=['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=1.988 type=<class 'numpy.float64'>
+ lb=1.988 rb=2.316 lwl=1.988
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ yvalues for section=[np.float64(1.988), np.float64(1.001), np.float64(0.076), np.float64(-0.491), np.float64(-0.592), np.float64(-0.489), np.float64(0.071), np.float64(0.908), np.float64(2.316)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(1.988), np.float64(1.001), np.float64(0.076), np.float64(-0.491), np.float64(-0.592), np.float64(-0.489), np.float64(0.071), np.float64(0.908), np.float64(2.316)]
+ section no=GBK2 total data points=9
+ secno=GBK3
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(21.0), np.float64(24.0), np.float64(26.0)]
+ yvalues=[np.float64(1.369), np.float64(1.357), np.float64(1.351), np.float64(0.702), np.float64(0.098), np.float64(-0.28), np.float64(-0.392), np.float64(-0.284), np.float64(0.076), np.float64(0.878), np.float64(2.331), np.float64(2.326), np.float64(0.701), np.float64(0.599)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=1.351 type=<class 'numpy.float64'>
+ lb=1.351 rb=2.331 lwl=1.351
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ yvalues for section=[np.float64(1.351), np.float64(0.702), np.float64(0.098), np.float64(-0.28), np.float64(-0.392), np.float64(-0.284), np.float64(0.076), np.float64(0.878), np.float64(2.331)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(1.351), np.float64(0.702), np.float64(0.098), np.float64(-0.28), np.float64(-0.392), np.float64(-0.284), np.float64(0.076), np.float64(0.878), np.float64(2.331)]
+ section no=GBK3 total data points=9
+ secno=GBK4
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(25.0), np.float64(30.0)]
+ yvalues=[np.float64(0.942), np.float64(0.934), np.float64(0.921), np.float64(0.135), np.float64(-0.266), np.float64(-0.579), np.float64(-0.681), np.float64(-0.575), np.float64(-0.261), np.float64(0.107), np.float64(0.833), np.float64(0.821), np.float64(0.81)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=0.921 type=<class 'numpy.float64'>
+ lb=0.921 rb=0.833 lwl=0.833
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ yvalues for section=[np.float64(0.921), np.float64(0.135), np.float64(-0.266), np.float64(-0.579), np.float64(-0.681), np.float64(-0.575), np.float64(-0.261), np.float64(0.107), np.float64(0.833)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(0.921), np.float64(0.135), np.float64(-0.266), np.float64(-0.579), np.float64(-0.681), np.float64(-0.575), np.float64(-0.261), np.float64(0.107), np.float64(0.833)]
+ section no=GBK4 total data points=9
+ secno=GBK5
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.5), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(16.0), np.float64(16.5), np.float64(22.0), np.float64(30.0)]
+ yvalues=[np.float64(0.513), np.float64(0.689), np.float64(1.889), np.float64(1.88), np.float64(0.789), np.float64(0.402), np.float64(0.055), np.float64(-0.047), np.float64(0.054), np.float64(0.389), np.float64(0.708), np.float64(1.284), np.float64(1.277), np.float64(0.806), np.float64(0.798), np.float64(0.788)]
+ Remarks=['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land']
+ lb=1.88 type=<class 'numpy.float64'>
+ lb=1.88 rb=1.284 lwl=1.284
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.5), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0)]
+ yvalues for section=[np.float64(1.88), np.float64(0.789), np.float64(0.402), np.float64(0.055), np.float64(-0.047), np.float64(0.054), np.float64(0.389), np.float64(0.708), np.float64(1.284)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(5.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(9.5), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0)]
+ y=[np.float64(1.88), np.float64(0.789), np.float64(0.402), np.float64(0.055), np.float64(-0.047), np.float64(0.054), np.float64(0.389), np.float64(0.708), np.float64(1.284)]
+ section no=GBK5 total data points=9
+ secno=GBK6
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0), np.float64(23.0), np.float64(25.0), np.float64(27.0)]
+ yvalues=[np.float64(0.71), np.float64(0.697), np.float64(0.691), np.float64(0.326), np.float64(0.113), np.float64(-0.099), np.float64(-0.201), np.float64(-0.097), np.float64(0.208), np.float64(0.969), np.float64(1.763), np.float64(1.712), np.float64(0.508), np.float64(0.028)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=0.691 type=<class 'numpy.float64'>
+ lb=0.691 rb=1.763 lwl=0.691
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ yvalues for section=[np.float64(0.691), np.float64(0.326), np.float64(0.113), np.float64(-0.099), np.float64(-0.201), np.float64(-0.097), np.float64(0.208), np.float64(0.969), np.float64(1.763)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(0.691), np.float64(0.326), np.float64(0.113), np.float64(-0.099), np.float64(-0.201), np.float64(-0.097), np.float64(0.208), np.float64(0.969), np.float64(1.763)]
+ section no=GBK6 total data points=9
+ secno=GBK7
+ xvalues=[np.float64(0.0), np.float64(6.5), np.float64(7.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(23.0), np.float64(28.0)]
+ yvalues=[np.float64(0.702), np.float64(0.687), np.float64(1.483), np.float64(1.47), np.float64(0.493), np.float64(0.09), np.float64(-0.21), np.float64(-0.314), np.float64(-0.213), np.float64(0.085), np.float64(0.263), np.float64(0.592), np.float64(0.577), np.float64(0.564)]
+ Remarks=['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=1.47 type=<class 'numpy.float64'>
+ lb=1.47 rb=0.592 lwl=0.592
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ yvalues for section=[np.float64(1.47), np.float64(0.493), np.float64(0.09), np.float64(-0.21), np.float64(-0.314), np.float64(-0.213), np.float64(0.085), np.float64(0.263), np.float64(0.592)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(1.47), np.float64(0.493), np.float64(0.09), np.float64(-0.21), np.float64(-0.314), np.float64(-0.213), np.float64(0.085), np.float64(0.263), np.float64(0.592)]
+ section no=GBK7 total data points=9
+ secno=GBK8
+ xvalues=[np.float64(0.0), np.float64(7.5), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(22.0), np.float64(27.0), np.float64(32.0)]
+ yvalues=[np.float64(0.568), np.float64(0.556), np.float64(1.277), np.float64(1.265), np.float64(0.596), np.float64(0.19), np.float64(-0.14), np.float64(-0.244), np.float64(-0.182), np.float64(-0.042), np.float64(0.294), np.float64(0.649), np.float64(0.64), np.float64(0.634), np.float64(0.627)]
+ Remarks=['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=1.265 type=<class 'numpy.float64'>
+ lb=1.265 rb=0.649 lwl=0.649
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+ yvalues for section=[np.float64(1.265), np.float64(0.596), np.float64(0.19), np.float64(-0.14), np.float64(-0.244), np.float64(-0.182), np.float64(-0.042), np.float64(0.294), np.float64(0.649)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+ y=[np.float64(1.265), np.float64(0.596), np.float64(0.19), np.float64(-0.14), np.float64(-0.244), np.float64(-0.182), np.float64(-0.042), np.float64(0.294), np.float64(0.649)]
+ section no=GBK8 total data points=9
+ secno=GBK9
+ xvalues=[np.float64(0.0), np.float64(5.5), np.float64(6.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(23.0), np.float64(28.0)]
+ yvalues=[np.float64(0.646), np.float64(0.659), np.float64(1.38), np.float64(1.375), np.float64(0.396), np.float64(-0.103), np.float64(-0.412), np.float64(-0.513), np.float64(-0.41), np.float64(-0.124), np.float64(0.126), np.float64(0.597), np.float64(0.589), np.float64(0.577)]
+ Remarks=['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=1.375 type=<class 'numpy.float64'>
+ lb=1.375 rb=0.597 lwl=0.597
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ yvalues for section=[np.float64(1.375), np.float64(0.396), np.float64(-0.103), np.float64(-0.412), np.float64(-0.513), np.float64(-0.41), np.float64(-0.124), np.float64(0.126), np.float64(0.597)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(1.375), np.float64(0.396), np.float64(-0.103), np.float64(-0.412), np.float64(-0.513), np.float64(-0.41), np.float64(-0.124), np.float64(0.126), np.float64(0.597)]
+ section no=GBK9 total data points=9
+ secno=GBK10
+ xvalues=[np.float64(0.0), np.float64(6.5), np.float64(7.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(23.0), np.float64(28.0), np.float64(33.0)]
+ yvalues=[np.float64(0.484), np.float64(0.494), np.float64(1.017), np.float64(1.012), np.float64(-0.017), np.float64(-0.216), np.float64(-0.522), np.float64(-0.624), np.float64(-0.519), np.float64(-0.216), np.float64(0.051), np.float64(0.463), np.float64(0.454), np.float64(0.443), np.float64(0.427)]
+ Remarks=['Open land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=1.012 type=<class 'numpy.float64'>
+ lb=1.012 rb=0.463 lwl=0.463
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ yvalues for section=[np.float64(1.012), np.float64(-0.017), np.float64(-0.216), np.float64(-0.522), np.float64(-0.624), np.float64(-0.519), np.float64(-0.216), np.float64(0.051), np.float64(0.463)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(1.012), np.float64(-0.017), np.float64(-0.216), np.float64(-0.522), np.float64(-0.624), np.float64(-0.519), np.float64(-0.216), np.float64(0.051), np.float64(0.463)]
+ section no=GBK10 total data points=9
+ secno=GBK11
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(30.0), np.float64(35.0)]
+ yvalues=[np.float64(0.574), np.float64(0.562), np.float64(0.551), np.float64(-0.036), np.float64(-0.617), np.float64(-1.019), np.float64(-1.123), np.float64(-1.022), np.float64(-0.612), np.float64(-0.323), np.float64(0.163), np.float64(0.151), np.float64(0.145)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Low land']
+ lb=0.551 type=<class 'numpy.float64'>
+ lb=0.551 rb=0.163 lwl=0.163
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(0.551), np.float64(-0.036), np.float64(-0.617), np.float64(-1.019), np.float64(-1.123), np.float64(-1.022), np.float64(-0.612), np.float64(-0.323), np.float64(0.163)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(0.551), np.float64(-0.036), np.float64(-0.617), np.float64(-1.019), np.float64(-1.123), np.float64(-1.022), np.float64(-0.612), np.float64(-0.323), np.float64(0.163)]
+ section no=GBK11 total data points=9
+ secno=GBK12
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(19.0), np.float64(25.0), np.float64(30.0)]
+ yvalues=[np.float64(-0.208), np.float64(0.34), np.float64(1.367), np.float64(1.378), np.float64(0.333), np.float64(-0.219), np.float64(-0.481), np.float64(-0.581), np.float64(-0.679), np.float64(-0.429), np.float64(-0.013), np.float64(0.382), np.float64(0.367), np.float64(0.356)]
+ Remarks=['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=1.378 type=<class 'numpy.float64'>
+ lb=1.378 rb=0.382 lwl=0.382
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(19.0)]
+ yvalues for section=[np.float64(1.378), np.float64(0.333), np.float64(-0.219), np.float64(-0.481), np.float64(-0.581), np.float64(-0.679), np.float64(-0.429), np.float64(-0.013), np.float64(0.382)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(19.0)]
+ y=[np.float64(1.378), np.float64(0.333), np.float64(-0.219), np.float64(-0.481), np.float64(-0.581), np.float64(-0.679), np.float64(-0.429), np.float64(-0.013), np.float64(0.382)]
+ section no=GBK12 total data points=9
+ secno=GBK13
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0), np.float64(27.0), np.float64(32.0)]
+ yvalues=[np.float64(0.549), np.float64(0.537), np.float64(0.531), np.float64(0.28), np.float64(0.082), np.float64(-0.03), np.float64(-0.032), np.float64(-0.028), np.float64(0.078), np.float64(0.482), np.float64(0.682), np.float64(0.672), np.float64(0.658)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=0.531 type=<class 'numpy.float64'>
+ lb=0.531 rb=0.682 lwl=0.531
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ yvalues for section=[np.float64(0.531), np.float64(0.28), np.float64(0.082), np.float64(-0.03), np.float64(-0.032), np.float64(-0.028), np.float64(0.078), np.float64(0.482), np.float64(0.682)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(0.531), np.float64(0.28), np.float64(0.082), np.float64(-0.03), np.float64(-0.032), np.float64(-0.028), np.float64(0.078), np.float64(0.482), np.float64(0.682)]
+ section no=GBK13 total data points=9
+ secno=GBK14
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(22.0), np.float64(27.0)]
+ yvalues=[np.float64(0.503), np.float64(0.494), np.float64(0.489), np.float64(0.315), np.float64(0.204), np.float64(0.093), np.float64(0.06), np.float64(0.092), np.float64(0.195), np.float64(0.291), np.float64(0.468), np.float64(0.459), np.float64(0.4512)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=0.489 type=<class 'numpy.float64'>
+ lb=0.489 rb=0.468 lwl=0.468
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+ yvalues for section=[np.float64(0.489), np.float64(0.315), np.float64(0.204), np.float64(0.093), np.float64(0.06), np.float64(0.092), np.float64(0.195), np.float64(0.291), np.float64(0.468)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+ y=[np.float64(0.489), np.float64(0.315), np.float64(0.204), np.float64(0.093), np.float64(0.06), np.float64(0.092), np.float64(0.195), np.float64(0.291), np.float64(0.468)]
+ section no=GBK14 total data points=9
+ secno=GBK15
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(25.0), np.float64(30.0), np.float64(35.0)]
+ yvalues=[np.float64(0.641), np.float64(0.634), np.float64(0.629), np.float64(0.344), np.float64(0.081), np.float64(-0.087), np.float64(-0.189), np.float64(-0.088), np.float64(0.06), np.float64(0.339), np.float64(0.781), np.float64(0.76), np.float64(0.751), np.float64(0.745)]
+ Remarks=['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=0.629 type=<class 'numpy.float64'>
+ lb=0.629 rb=0.781 lwl=0.629
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ yvalues for section=[np.float64(0.629), np.float64(0.344), np.float64(0.081), np.float64(-0.087), np.float64(-0.189), np.float64(-0.088), np.float64(0.06), np.float64(0.339), np.float64(0.781)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(0.629), np.float64(0.344), np.float64(0.081), np.float64(-0.087), np.float64(-0.189), np.float64(-0.088), np.float64(0.06), np.float64(0.339), np.float64(0.781)]
+ section no=GBK15 total data points=9
+ secno=GBK16
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(30.0), np.float64(35.0)]
+ yvalues=[np.float64(0.935), np.float64(0.926), np.float64(0.921), np.float64(0.153), np.float64(-0.243), np.float64(-0.552), np.float64(-0.654), np.float64(-0.553), np.float64(-0.247), np.float64(0.176), np.float64(1.034), np.float64(1.052), np.float64(1.067)]
+ Remarks=['Open land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Open land']
+ lb=0.921 type=<class 'numpy.float64'>
+ lb=0.921 rb=1.034 lwl=0.921
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(0.921), np.float64(0.153), np.float64(-0.243), np.float64(-0.552), np.float64(-0.654), np.float64(-0.553), np.float64(-0.247), np.float64(0.176), np.float64(1.034)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(0.921), np.float64(0.153), np.float64(-0.243), np.float64(-0.552), np.float64(-0.654), np.float64(-0.553), np.float64(-0.247), np.float64(0.176), np.float64(1.034)]
+ section no=GBK16 total data points=9
+ secno=GBK17
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(32.0), np.float64(34.0), np.float64(40.0)]
+ yvalues=[np.float64(0.888), np.float64(0.876), np.float64(0.852), np.float64(0.377), np.float64(-0.037), np.float64(-0.429), np.float64(-0.775), np.float64(-0.876), np.float64(-0.773), np.float64(-0.317), np.float64(0.424), np.float64(1.414), np.float64(2.783), np.float64(2.764), np.float64(0.763), np.float64(0.751)]
+ Remarks=['Open land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=0.852 type=<class 'numpy.float64'>
+ lb=0.852 rb=2.783 lwl=0.852
+ idx1=2 idx2=12
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ yvalues for section=[np.float64(0.852), np.float64(0.377), np.float64(-0.037), np.float64(-0.429), np.float64(-0.775), np.float64(-0.876), np.float64(-0.773), np.float64(-0.317), np.float64(0.424), np.float64(1.414), np.float64(2.783)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ y=[np.float64(0.852), np.float64(0.377), np.float64(-0.037), np.float64(-0.429), np.float64(-0.775), np.float64(-0.876), np.float64(-0.773), np.float64(-0.317), np.float64(0.424), np.float64(1.414), np.float64(2.783)]
+ section no=GBK17 total data points=11
+ secno=GBK18
+ xvalues=[np.float64(0.0), np.float64(8.0), np.float64(9.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(23.0), np.float64(30.0)]
+ yvalues=[np.float64(0.731), np.float64(0.726), np.float64(1.652), np.float64(1.645), np.float64(0.027), np.float64(-0.352), np.float64(-0.562), np.float64(-0.663), np.float64(-0.561), np.float64(-0.35), np.float64(-0.045), np.float64(0.652), np.float64(0.64), np.float64(0.626)]
+ Remarks=['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=1.645 type=<class 'numpy.float64'>
+ lb=1.645 rb=0.652 lwl=0.652
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ yvalues for section=[np.float64(1.645), np.float64(0.027), np.float64(-0.352), np.float64(-0.562), np.float64(-0.663), np.float64(-0.561), np.float64(-0.35), np.float64(-0.045), np.float64(0.652)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(1.645), np.float64(0.027), np.float64(-0.352), np.float64(-0.562), np.float64(-0.663), np.float64(-0.561), np.float64(-0.35), np.float64(-0.045), np.float64(0.652)]
+ section no=GBK18 total data points=9
+ secno=GBK19
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(20.0), np.float64(25.0), np.float64(30.0)]
+ yvalues=[np.float64(1.118), np.float64(1.112), np.float64(1.101), np.float64(-0.364), np.float64(-0.95), np.float64(-1.052), np.float64(-0.949), np.float64(-0.391), np.float64(0.616), np.float64(0.611), np.float64(0.606), np.float64(0.597)]
+ Remarks=['Open land', '', 'LB', '', '', 'CL', '', '', 'RB', '', '', 'Paddy land']
+ lb=1.101 type=<class 'numpy.float64'>
+ lb=1.101 rb=0.616 lwl=0.616
+ idx1=2 idx2=8
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+ yvalues for section=[np.float64(1.101), np.float64(-0.364), np.float64(-0.95), np.float64(-1.052), np.float64(-0.949), np.float64(-0.391), np.float64(0.616)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+ y=[np.float64(1.101), np.float64(-0.364), np.float64(-0.95), np.float64(-1.052), np.float64(-0.949), np.float64(-0.391), np.float64(0.616)]
+ section no=GBK19 total data points=7
+ secno=GBK20
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(26.0), np.float64(27.0), np.float64(29.0)]
+ yvalues=[np.float64(2.084), np.float64(2.078), np.float64(2.064), np.float64(0.742), np.float64(-0.295), np.float64(-1.046), np.float64(-1.147), np.float64(-1.044), np.float64(-0.322), np.float64(0.733), np.float64(0.671), np.float64(0.664), np.float64(-0.236), np.float64(-0.929)]
+ Remarks=['Home stead', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond']
+ lb=2.064 type=<class 'numpy.float64'>
+ lb=2.064 rb=0.671 lwl=0.671
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(2.064), np.float64(0.742), np.float64(-0.295), np.float64(-1.046), np.float64(-1.147), np.float64(-1.044), np.float64(-0.322), np.float64(0.733), np.float64(0.671)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(2.064), np.float64(0.742), np.float64(-0.295), np.float64(-1.046), np.float64(-1.147), np.float64(-1.044), np.float64(-0.322), np.float64(0.733), np.float64(0.671)]
+ section no=GBK20 total data points=9
+ secno=GBK21
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(20.0), np.float64(22.0)]
+ yvalues=[np.float64(2.393), np.float64(2.379), np.float64(0.901), np.float64(0.082), np.float64(-0.306), np.float64(-0.409), np.float64(-0.308), np.float64(0.094), np.float64(0.95), np.float64(0.901), np.float64(0.889), np.float64(-0.602), np.float64(-0.606)]
+ Remarks=['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond']
+ lb=2.379 type=<class 'numpy.float64'>
+ lb=2.379 rb=0.901 lwl=0.901
+ idx1=1 idx2=9
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(17.0)]
+ yvalues for section=[np.float64(2.379), np.float64(0.901), np.float64(0.082), np.float64(-0.306), np.float64(-0.409), np.float64(-0.308), np.float64(0.094), np.float64(0.95), np.float64(0.901)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(17.0)]
+ y=[np.float64(2.379), np.float64(0.901), np.float64(0.082), np.float64(-0.306), np.float64(-0.409), np.float64(-0.308), np.float64(0.094), np.float64(0.95), np.float64(0.901)]
+ section no=GBK21 total data points=9
+ secno=GBK22
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(30.0), np.float64(35.0), np.float64(40.0)]
+ yvalues=[np.float64(2.181), np.float64(2.168), np.float64(2.157), np.float64(1.132), np.float64(0.323), np.float64(-0.208), np.float64(-0.303), np.float64(-0.201), np.float64(-0.009), np.float64(0.282), np.float64(0.693), np.float64(0.682), np.float64(0.677), np.float64(0.668)]
+ Remarks=['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=2.157 type=<class 'numpy.float64'>
+ lb=2.157 rb=0.693 lwl=0.693
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(2.157), np.float64(1.132), np.float64(0.323), np.float64(-0.208), np.float64(-0.303), np.float64(-0.201), np.float64(-0.009), np.float64(0.282), np.float64(0.693)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(2.157), np.float64(1.132), np.float64(0.323), np.float64(-0.208), np.float64(-0.303), np.float64(-0.201), np.float64(-0.009), np.float64(0.282), np.float64(0.693)]
+ section no=GBK22 total data points=9
+ ############# #################################################
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =GBK0**********************************
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+7       GBK0             0          15.0  -0.304      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+3       GBK0             0           8.0   2.284      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       GBK0             0          22.0     2.2      RB
+ sencionno=GBK0 CL distance=15.0 RL=-0.304
+ Finished Section no =GBK0**********************************
+ 
+
+
+
+Initiated Section no =GBK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+22       GBK1           100          19.0  -0.313      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       GBK1           100          10.0   3.332      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+27       GBK1           100          28.0   1.875      RB
+ sencionno=GBK1 CL distance=19.0 RL=-0.313
+ Finished Section no =GBK1**********************************
+ 
+
+
+
+Initiated Section no =GBK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+38       GBK2           200          15.0  -0.592      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       GBK2           200          10.0   1.988      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       GBK2           200          20.0   2.316      RB
+ sencionno=GBK2 CL distance=15.0 RL=-0.592
+ Finished Section no =GBK2**********************************
+ 
+
+
+
+Initiated Section no =GBK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+52       GBK3           300          15.0  -0.392      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+48       GBK3           300          10.0   1.351      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+56       GBK3           300          20.0   2.331      RB
+ sencionno=GBK3 CL distance=15.0 RL=-0.392
+ Finished Section no =GBK3**********************************
+ 
+
+
+
+Initiated Section no =GBK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       GBK4           400          15.0  -0.681      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       GBK4           400          10.0   0.921      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+70       GBK4           400          20.0   0.833      RB
+ sencionno=GBK4 CL distance=15.0 RL=-0.681
+ Finished Section no =GBK4**********************************
+ 
+
+
+
+Initiated Section no =GBK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       GBK5           500           9.5  -0.047      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       GBK5           500           5.0    1.88      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+84       GBK5           500          14.0   1.284      RB
+ sencionno=GBK5 CL distance=9.5 RL=-0.047
+ Finished Section no =GBK5**********************************
+ 
+
+
+
+Initiated Section no =GBK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       GBK6           600          15.0  -0.201      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+91       GBK6           600          10.0   0.691      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+99       GBK6           600          22.0   1.763      RB
+ sencionno=GBK6 CL distance=15.0 RL=-0.201
+ Finished Section no =GBK6**********************************
+ 
+
+
+
+Initiated Section no =GBK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+110       GBK7           700          14.0  -0.314      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       GBK7           700          10.0    1.47      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       GBK7           700          18.0   0.592      RB
+ sencionno=GBK7 CL distance=14.0 RL=-0.314
+ Finished Section no =GBK7**********************************
+ 
+
+
+
+Initiated Section no =GBK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       GBK8           800          13.5  -0.244      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       GBK8           800          10.0   1.265      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+128       GBK8           800          17.0   0.649      RB
+ sencionno=GBK8 CL distance=13.5 RL=-0.244
+ Finished Section no =GBK8**********************************
+ 
+
+
+
+Initiated Section no =GBK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       GBK9           900          14.0  -0.513      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+135       GBK9           900          10.0   1.375      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+143       GBK9           900          18.0   0.597      RB
+ sencionno=GBK9 CL distance=14.0 RL=-0.513
+ Finished Section no =GBK9**********************************
+ 
+
+
+
+Initiated Section no =GBK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+153      GBK10          1000          14.0  -0.624      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+149      GBK10          1000          10.0   1.012      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+157      GBK10          1000          18.0   0.463      RB
+ sencionno=GBK10 CL distance=14.0 RL=-0.624
+ Finished Section no =GBK10**********************************
+ 
+
+
+
+Initiated Section no =GBK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+167      GBK11          1100          17.0  -1.123      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+163      GBK11          1100          10.0   0.551      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+171      GBK11          1100          24.0   0.163      RB
+ sencionno=GBK11 CL distance=17.0 RL=-1.123
+ Finished Section no =GBK11**********************************
+ 
+
+
+
+Initiated Section no =GBK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+181      GBK12          1200          12.0  -0.581      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      GBK12          1200           5.0   1.378      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      GBK12          1200          19.0   0.382      RB
+ sencionno=GBK12 CL distance=12.0 RL=-0.581
+ Finished Section no =GBK12**********************************
+ 
+
+
+
+Initiated Section no =GBK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+194      GBK13          1300          16.0  -0.032      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+190      GBK13          1300          10.0   0.531      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      GBK13          1300          22.0   0.682      RB
+ sencionno=GBK13 CL distance=16.0 RL=-0.032
+ Finished Section no =GBK13**********************************
+ 
+
+
+
+Initiated Section no =GBK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+207      GBK14          1400          13.5    0.06      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+203      GBK14          1400          10.0   0.489      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      GBK14          1400          17.0   0.468      RB
+ sencionno=GBK14 CL distance=13.5 RL=0.06
+ Finished Section no =GBK14**********************************
+ 
+
+
+
+Initiated Section no =GBK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      GBK15          1500          15.0  -0.189      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+216      GBK15          1500          10.0   0.629      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      GBK15          1500          20.0   0.781      RB
+ sencionno=GBK15 CL distance=15.0 RL=-0.189
+ Finished Section no =GBK15**********************************
+ 
+
+
+
+Initiated Section no =GBK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+234      GBK16          1600          17.0  -0.654      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+230      GBK16          1600          10.0   0.921      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+238      GBK16          1600          24.0   1.034      RB
+ sencionno=GBK16 CL distance=17.0 RL=-0.654
+ Finished Section no =GBK16**********************************
+ 
+
+
+
+Initiated Section no =GBK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+248      GBK17          1700          20.0  -0.876      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+243      GBK17          1700          10.0   0.852      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+253      GBK17          1700          30.0   2.783      RB
+ sencionno=GBK17 CL distance=20.0 RL=-0.876
+ Finished Section no =GBK17**********************************
+ 
+
+
+
+Initiated Section no =GBK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+264      GBK18          1800          14.0  -0.663      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+260      GBK18          1800          10.0   1.645      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+268      GBK18          1800          18.0   0.652      RB
+ sencionno=GBK18 CL distance=14.0 RL=-0.663
+ Finished Section no =GBK18**********************************
+ 
+
+
+
+Initiated Section no =GBK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+276      GBK19          1900          13.0  -1.052      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+273      GBK19          1900          10.0   1.101      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      GBK19          1900          16.0   0.616      RB
+ sencionno=GBK19 CL distance=13.0 RL=-1.052
+ Finished Section no =GBK19**********************************
+ 
+
+
+
+Initiated Section no =GBK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+289      GBK20          2000          17.0  -1.147      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+285      GBK20          2000          10.0   2.064      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+293      GBK20          2000          24.0   0.671      RB
+ sencionno=GBK20 CL distance=17.0 RL=-1.147
+ Finished Section no =GBK20**********************************
+ 
+
+
+
+Initiated Section no =GBK21**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+302      GBK21          2100          11.0  -0.409      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+298      GBK21          2100           5.0   2.379      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+306      GBK21          2100          17.0   0.901      RB
+ sencionno=GBK21 CL distance=11.0 RL=-0.409
+ Finished Section no =GBK21**********************************
+ 
+
+
+
+Initiated Section no =GBK22**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+316      GBK22          2270          17.0  -0.303      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+312      GBK22          2270          10.0   2.157      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+320      GBK22          2270          24.0   0.693      RB
+ sencionno=GBK22 CL distance=17.0 RL=-0.303
+ Finished Section no =GBK22**********************************
