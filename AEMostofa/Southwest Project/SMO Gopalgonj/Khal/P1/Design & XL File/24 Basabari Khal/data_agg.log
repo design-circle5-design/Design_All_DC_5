@@ -1,0 +1,1803 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_24   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2       KhalName  GL  Ivert Level  \
+0        BSK0         0    6   18  B  D  Basabari khal   1         -1.2   
+1        BSK1       100   22   37  B  D  Basabari khal   1         -1.2   
+2        BSK2       200   41   54  B  D  Basabari khal   1         -1.2   
+3        BSK3       300   66   80  B  D  Basabari khal   1         -1.2   
+4        BSK4       400   83   96  B  D  Basabari khal   1         -1.2   
+5        BSK5       500   99  111  B  D  Basabari khal   1         -1.2   
+6        BSK6       600  114  128  B  D  Basabari khal   1         -1.2   
+7        BSK7       700  130  144  B  D  Basabari khal   1         -1.2   
+8        BSK8       800  147  161  B  D  Basabari khal   1         -1.2   
+9        BSK9       900  163  177  B  D  Basabari khal   1         -1.2   
+10      BSK10      1000  180  193  B  D  Basabari khal   1         -1.2   
+11      BSK11      1100  197  213  B  D  Basabari khal   1         -1.2   
+12      BSK12      1200  217  232  B  D  Basabari khal   1         -1.2   
+13      BSK13      1300  236  252  B  D  Basabari khal   1         -1.2   
+14      BSK14      1400  262  278  B  D  Basabari khal   1         -1.2   
+15      BSK15      1500  282  298  B  D  Basabari khal   1         -1.2   
+16      BSK16      1600  302  318  B  D  Basabari khal   1         -1.2   
+17      BSK17      1660  327  339  B  D  Basabari khal   1         -1.2   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+ chainage=0 sec=BSK0 row1=6 row2=18 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 17, 20, 23, 26, 28, 30, 35, 40], 'rl': [2.616, 2.611, 2.597, -0.014, -1.507, -2.637, -2.915, -2.629, -1.515, -0.039, 2.694, 2.701, 2.17], 'remarks': ['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'House Area'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0', 'BSK0']}
+ 
+
+
+
+
+
+ chainage=100 sec=BSK1 row1=22 row2=37 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 18, 20, 22, 24, 25, 26, 30, 35, 40], 'rl': [1.971, 1.966, 1.961, 0.726, -0.205, -0.863, -1.414, -1.527, -1.419, -0.88, -0.364, 0.241, 1.004, 1.011, 1.026, 1.042], 'remarks': ['Pond bank', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Open land'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1', 'BSK1']}
+ 
+
+
+
+
+
+ chainage=200 sec=BSK2 row1=41 row2=54 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35, 40], 'rl': [2.251, 2.239, 2.226, 0.917, -0.053, -0.683, -0.785, -0.674, -0.082, 0.898, 2.077, 2.073, 2.09, 2.099], 'remarks': ['High land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond bank'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2', 'BSK2']}
+ 
+
+
+
+
+
+ chainage=300 sec=BSK3 row1=66 row2=80 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 3, 4, 5, 7, 9, 11, 13, 15, 17, 18, 19, 20, 21], 'rl': [0.25, 0.748, 1.539, 1.526, 1.241, 0.024, -0.459, -0.563, -0.456, 0.016, 0.823, 2.049, 2.038, 1.195, 0.539], 'remarks': ['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3', 'BSK3']}
+ 
+
+
+
+
+
+ chainage=400 sec=BSK4 row1=83 row2=96 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 18, 20, 21, 22, 23, 24, 26], 'rl': [2.398, 2.393, 2.385, 1.107, 0.549, 0.061, -0.041, 0.065, 0.523, 1.147, 2.245, 2.234, 1.645, 1.154], 'remarks': ['High land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4', 'BSK4']}
+ 
+
+
+
+
+
+ chainage=500 sec=BSK5 row1=99 row2=111 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [1.878, 1.873, 1.859, 1.038, 0.647, 0.259, 0.155, 0.258, 0.652, 1.023, 2.092, 2.103, 2.108], 'remarks': ['House road', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Pond bank'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5', 'BSK5']}
+ 
+
+
+
+
+
+ chainage=600 sec=BSK6 row1=114 row2=128 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 3, 4, 5, 6, 8, 10, 12, 14, 15, 16, 17, 18, 20], 'rl': [0.725, 1.6, 2.129, 2.102, 1.135, 0.527, 0.227, 0.124, 0.228, 0.537, 1.183, 2.159, 2.154, 1.434, 0.823], 'remarks': ['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6', 'BSK6']}
+ 
+
+
+
+
+
+ chainage=700 sec=BSK7 row1=130 row2=144 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 8, 9, 11, 13, 15, 17, 19, 21, 22, 23, 24, 26], 'rl': [0.973, 1.571, 3.451, 3.462, 1.872, 0.531, -0.268, -0.373, -0.271, 0.462, 1.376, 2.122, 2.117, 1.482, 0.663], 'remarks': ['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7', 'BSK7']}
+ 
+
+
+
+
+
+ chainage=800 sec=BSK8 row1=147 row2=161 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 8, 9, 11, 13, 15, 17, 19, 21, 22, 23, 24, 26], 'rl': [0.629, 1.263, 3.202, 3.197, 1.827, 0.652, -0.006, -0.049, 0.053, 0.647, 1.359, 2.242, 2.237, 1.351, 0.751], 'remarks': ['Fisheries', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8', 'BSK8']}
+ 
+
+
+
+
+
+ chainage=900 sec=BSK9 row1=163 row2=177 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 8, 9, 11, 13, 14.5, 16, 18, 20, 21, 25, 30, 35], 'rl': [1.25, 2.062, 3.15, 3.136, 1.758, 0.562, -0.085, -0.189, -0.087, 0.028, 0.162, 0.25, 0.241, 0.236, 0.219], 'remarks': ['Fisheries', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9', 'BSK9']}
+ 
+
+
+
+
+
+ chainage=1000 sec=BSK10 row1=180 row2=193 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 6, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35], 'rl': [0.295, 1.1, 2.926, 2.921, 1.773, 0.696, 0.099, -0.004, 0.098, 0.13, 0.204, 0.306, 0.296, 0.285], 'remarks': ['Ditch', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10', 'BSK10']}
+ 
+
+
+
+
+
+ chainage=1100 sec=BSK11 row1=197 row2=213 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 6, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 29, 31, 32], 'rl': [0.093, 0.888, 2.964, 2.953, 1.682, 0.986, 0.587, 0.147, 0.044, 0.146, 0.578, 0.972, 1.587, 2.482, 2.464, 1.588, 0.898], 'remarks': ['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11', 'BSK11']}
+ 
+
+
+
+
+
+ chainage=1200 sec=BSK12 row1=217 row2=232 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 35, 40], 'rl': [0.462, 1.087, 2.986, 2.972, 1.564, 1.086, 0.642, 0.267, 0.162, 0.264, 0.377, 0.498, 0.561, 0.798, 0.787, 0.762], 'remarks': ['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12', 'BSK12']}
+ 
+
+
+
+
+
+ chainage=1300 sec=BSK13 row1=236 row2=252 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 6, 10, 12, 14, 16, 18, 21, 24, 26, 28, 30, 32, 40, 45, 50], 'rl': [0.438, 1.245, 2.728, 2.723, 1.545, 0.893, 0.387, -0.018, -0.122, -0.015, 0.025, 0.114, 0.325, 0.787, 0.799, 0.815, 0.823], 'remarks': ['Ditch', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13', 'BSK13']}
+ 
+
+
+
+
+
+ chainage=1400 sec=BSK14 row1=262 row2=278 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 6, 10, 12, 14, 16, 18, 19.5, 21, 23, 25, 27, 29, 30, 32, 34], 'rl': [1.21, 1.854, 3.094, 3.079, 1.859, 1.11, 0.496, 0.086, -0.015, 0.089, 0.354, 0.7, 0.999, 1.909, 1.904, 1.209, 0.68], 'remarks': ['Ditch', '', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400], 'sectionNo': ['BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14', 'BSK14']}
+ 
+
+
+
+
+
+ chainage=1500 sec=BSK15 row1=282 row2=298 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 31, 33, 34], 'rl': [1.252, 1.368, 3.058, 3.047, 1.858, 0.856, 0.158, -0.14, -0.243, -0.142, 0.147, 0.854, 1.558, 2.456, 2.447, 1.534, 0.957], 'remarks': ['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500], 'sectionNo': ['BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15', 'BSK15']}
+ 
+
+
+
+
+
+ chainage=1600 sec=BSK16 row1=302 row2=318 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 29, 31, 33], 'rl': [0.956, 1.367, 3.394, 3.387, 2.151, 1.168, 0.347, -0.14, -0.298, -0.142, 0.316, 1.154, 2.064, 2.558, 2.547, 1.457, 0.954], 'remarks': ['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600], 'sectionNo': ['BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16', 'BSK16']}
+ 
+
+
+
+
+
+ chainage=1660 sec=BSK17 row1=327 row2=339 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35], 'rl': [1.474, 1.463, 1.449, 0.942, 0.102, -0.131, -0.254, -0.126, 0.264, 1.068, 1.661, 1.668, 1.673], 'remarks': ['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Khal bank'], 'chainage': [1660, 1660, 1660, 1660, 1660, 1660, 1660, 1660, 1660, 1660, 1660, 1660, 1660], 'sectionNo': ['BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17', 'BSK17']}
+ 
+
+
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =BSK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        BSK0             0           0.0   2.616   Khal bank
+1        BSK0             0           5.0   2.611            
+2        BSK0             0          10.0   2.597          LB
+3        BSK0             0          12.0  -0.014            
+4        BSK0             0          14.0  -1.507            
+5        BSK0             0          17.0  -2.637            
+6        BSK0             0          20.0  -2.915          CL
+7        BSK0             0          23.0  -2.629            
+8        BSK0             0          26.0  -1.515            
+9        BSK0             0          28.0  -0.039            
+10       BSK0             0          30.0   2.694          RB
+11       BSK0             0          35.0   2.701            
+12       BSK0             0          40.0   2.170  House Area
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       BSK0             0          20.0  -2.915      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       BSK0             0          10.0   2.597      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       BSK0             0          30.0   2.694      RB
+ sencionno=BSK0 CL distance=20.0 RL=-2.915
+ Finished Section no =BSK0**********************************
+ 
+
+
+
+Initiated Section no =BSK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+13       BSK1           100           0.0   1.971  Pond bank
+14       BSK1           100           5.0   1.966           
+15       BSK1           100          10.0   1.961         LB
+16       BSK1           100          11.0   0.726           
+17       BSK1           100          12.0  -0.205           
+18       BSK1           100          14.0  -0.863           
+19       BSK1           100          16.0  -1.414           
+20       BSK1           100          18.0  -1.527         CL
+21       BSK1           100          20.0  -1.419           
+22       BSK1           100          22.0  -0.880           
+23       BSK1           100          24.0  -0.364           
+24       BSK1           100          25.0   0.241           
+25       BSK1           100          26.0   1.004         RB
+26       BSK1           100          30.0   1.011           
+27       BSK1           100          35.0   1.026           
+28       BSK1           100          40.0   1.042  Open land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+20       BSK1           100          18.0  -1.527      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+15       BSK1           100          10.0   1.961      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+25       BSK1           100          26.0   1.004      RB
+ sencionno=BSK1 CL distance=18.0 RL=-1.527
+ Finished Section no =BSK1**********************************
+ 
+
+
+
+Initiated Section no =BSK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+29       BSK2           200           0.0   2.251  High land
+30       BSK2           200           5.0   2.239           
+31       BSK2           200          10.0   2.226         LB
+32       BSK2           200          11.0   0.917           
+33       BSK2           200          13.0  -0.053           
+34       BSK2           200          15.0  -0.683           
+35       BSK2           200          17.0  -0.785         CL
+36       BSK2           200          19.0  -0.674           
+37       BSK2           200          21.0  -0.082           
+38       BSK2           200          23.0   0.898           
+39       BSK2           200          24.0   2.077         RB
+40       BSK2           200          30.0   2.073           
+41       BSK2           200          35.0   2.090           
+42       BSK2           200          40.0   2.099  Pond bank
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+35       BSK2           200          17.0  -0.785      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+31       BSK2           200          10.0   2.226      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+39       BSK2           200          24.0   2.077      RB
+ sencionno=BSK2 CL distance=17.0 RL=-0.785
+ Finished Section no =BSK2**********************************
+ 
+
+
+
+Initiated Section no =BSK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+43       BSK3           300           0.0   0.250  Fisheries
+44       BSK3           300           2.0   0.748           
+45       BSK3           300           3.0   1.539           
+46       BSK3           300           4.0   1.526         LB
+47       BSK3           300           5.0   1.241           
+48       BSK3           300           7.0   0.024           
+49       BSK3           300           9.0  -0.459           
+50       BSK3           300          11.0  -0.563         CL
+51       BSK3           300          13.0  -0.456           
+52       BSK3           300          15.0   0.016           
+53       BSK3           300          17.0   0.823           
+54       BSK3           300          18.0   2.049         RB
+55       BSK3           300          19.0   2.038           
+56       BSK3           300          20.0   1.195           
+57       BSK3           300          21.0   0.539  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+50       BSK3           300          11.0  -0.563      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+46       BSK3           300           4.0   1.526      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+54       BSK3           300          18.0   2.049      RB
+ sencionno=BSK3 CL distance=11.0 RL=-0.563
+ Finished Section no =BSK3**********************************
+ 
+
+
+
+Initiated Section no =BSK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+58       BSK4           400           0.0   2.398  High land
+59       BSK4           400           5.0   2.393           
+60       BSK4           400          10.0   2.385         LB
+61       BSK4           400          11.0   1.107           
+62       BSK4           400          12.0   0.549           
+63       BSK4           400          14.0   0.061           
+64       BSK4           400          16.0  -0.041         CL
+65       BSK4           400          18.0   0.065           
+66       BSK4           400          20.0   0.523           
+67       BSK4           400          21.0   1.147           
+68       BSK4           400          22.0   2.245         RB
+69       BSK4           400          23.0   2.234           
+70       BSK4           400          24.0   1.645           
+71       BSK4           400          26.0   1.154  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+64       BSK4           400          16.0  -0.041      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+60       BSK4           400          10.0   2.385      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       BSK4           400          22.0   2.245      RB
+ sencionno=BSK4 CL distance=16.0 RL=-0.041
+ Finished Section no =BSK4**********************************
+ 
+
+
+
+Initiated Section no =BSK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+72       BSK5           500           0.0   1.878  House road
+73       BSK5           500           5.0   1.873            
+74       BSK5           500          10.0   1.859          LB
+75       BSK5           500          11.0   1.038            
+76       BSK5           500          12.0   0.647            
+77       BSK5           500          13.0   0.259            
+78       BSK5           500          15.0   0.155          CL
+79       BSK5           500          17.0   0.258            
+80       BSK5           500          18.0   0.652            
+81       BSK5           500          19.0   1.023            
+82       BSK5           500          20.0   2.092          RB
+83       BSK5           500          25.0   2.103            
+84       BSK5           500          30.0   2.108   Pond bank
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+78       BSK5           500          15.0   0.155      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+74       BSK5           500          10.0   1.859      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+82       BSK5           500          20.0   2.092      RB
+ sencionno=BSK5 CL distance=15.0 RL=0.155
+ Finished Section no =BSK5**********************************
+ 
+
+
+
+Initiated Section no =BSK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+85       BSK6           600           0.0   0.725  Fisheries
+86       BSK6           600           2.0   1.600           
+87       BSK6           600           3.0   2.129           
+88       BSK6           600           4.0   2.102         LB
+89       BSK6           600           5.0   1.135           
+90       BSK6           600           6.0   0.527           
+91       BSK6           600           8.0   0.227           
+92       BSK6           600          10.0   0.124         CL
+93       BSK6           600          12.0   0.228           
+94       BSK6           600          14.0   0.537           
+95       BSK6           600          15.0   1.183           
+96       BSK6           600          16.0   2.159         RB
+97       BSK6           600          17.0   2.154           
+98       BSK6           600          18.0   1.434           
+99       BSK6           600          20.0   0.823  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       BSK6           600          10.0   0.124      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+88       BSK6           600           4.0   2.102      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+96       BSK6           600          16.0   2.159      RB
+ sencionno=BSK6 CL distance=10.0 RL=0.124
+ Finished Section no =BSK6**********************************
+ 
+
+
+
+Initiated Section no =BSK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+100       BSK7           700           0.0   0.973  Fisheries
+101       BSK7           700           2.0   1.571           
+102       BSK7           700           4.0   3.451           
+103       BSK7           700           8.0   3.462         LB
+104       BSK7           700           9.0   1.872           
+105       BSK7           700          11.0   0.531           
+106       BSK7           700          13.0  -0.268           
+107       BSK7           700          15.0  -0.373         CL
+108       BSK7           700          17.0  -0.271           
+109       BSK7           700          19.0   0.462           
+110       BSK7           700          21.0   1.376           
+111       BSK7           700          22.0   2.122         RB
+112       BSK7           700          23.0   2.117           
+113       BSK7           700          24.0   1.482           
+114       BSK7           700          26.0   0.663  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+107       BSK7           700          15.0  -0.373      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+103       BSK7           700           8.0   3.462      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+111       BSK7           700          22.0   2.122      RB
+ sencionno=BSK7 CL distance=15.0 RL=-0.373
+ Finished Section no =BSK7**********************************
+ 
+
+
+
+Initiated Section no =BSK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+115       BSK8           800           0.0   0.629  Fisheries
+116       BSK8           800           2.0   1.263           
+117       BSK8           800           4.0   3.202    BC road
+118       BSK8           800           8.0   3.197         LB
+119       BSK8           800           9.0   1.827           
+120       BSK8           800          11.0   0.652           
+121       BSK8           800          13.0  -0.006           
+122       BSK8           800          15.0  -0.049         CL
+123       BSK8           800          17.0   0.053           
+124       BSK8           800          19.0   0.647           
+125       BSK8           800          21.0   1.359           
+126       BSK8           800          22.0   2.242         RB
+127       BSK8           800          23.0   2.237           
+128       BSK8           800          24.0   1.351           
+129       BSK8           800          26.0   0.751  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+122       BSK8           800          15.0  -0.049      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+118       BSK8           800           8.0   3.197      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+126       BSK8           800          22.0   2.242      RB
+ sencionno=BSK8 CL distance=15.0 RL=-0.049
+ Finished Section no =BSK8**********************************
+ 
+
+
+
+Initiated Section no =BSK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+130       BSK9           900           0.0   1.250   Fisheries
+131       BSK9           900           2.0   2.062            
+132       BSK9           900           4.0   3.150     BC road
+133       BSK9           900           8.0   3.136          LB
+134       BSK9           900           9.0   1.758            
+135       BSK9           900          11.0   0.562            
+136       BSK9           900          13.0  -0.085            
+137       BSK9           900          14.5  -0.189          CL
+138       BSK9           900          16.0  -0.087            
+139       BSK9           900          18.0   0.028            
+140       BSK9           900          20.0   0.162            
+141       BSK9           900          21.0   0.250          RB
+142       BSK9           900          25.0   0.241            
+143       BSK9           900          30.0   0.236            
+144       BSK9           900          35.0   0.219  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       BSK9           900          14.5  -0.189      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+133       BSK9           900           8.0   3.136      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+141       BSK9           900          21.0    0.25      RB
+ sencionno=BSK9 CL distance=14.5 RL=-0.189
+ Finished Section no =BSK9**********************************
+ 
+
+
+
+Initiated Section no =BSK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+145      BSK10          1000           0.0   0.295       Ditch
+146      BSK10          1000           2.0   1.100            
+147      BSK10          1000           6.0   2.926     BC road
+148      BSK10          1000          10.0   2.921          LB
+149      BSK10          1000          11.0   1.773            
+150      BSK10          1000          13.0   0.696            
+151      BSK10          1000          15.0   0.099            
+152      BSK10          1000          17.0  -0.004          CL
+153      BSK10          1000          19.0   0.098            
+154      BSK10          1000          21.0   0.130            
+155      BSK10          1000          23.0   0.204            
+156      BSK10          1000          24.0   0.306          RB
+157      BSK10          1000          30.0   0.296            
+158      BSK10          1000          35.0   0.285  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+152      BSK10          1000          17.0  -0.004      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148      BSK10          1000          10.0   2.921      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      BSK10          1000          24.0   0.306      RB
+ sencionno=BSK10 CL distance=17.0 RL=-0.004
+ Finished Section no =BSK10**********************************
+ 
+
+
+
+Initiated Section no =BSK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+159      BSK11          1100           0.0   0.093  Fisheries
+160      BSK11          1100           2.0   0.888           
+161      BSK11          1100           6.0   2.964    BC road
+162      BSK11          1100          10.0   2.953         LB
+163      BSK11          1100          11.0   1.682           
+164      BSK11          1100          13.0   0.986           
+165      BSK11          1100          15.0   0.587           
+166      BSK11          1100          17.0   0.147           
+167      BSK11          1100          19.0   0.044         CL
+168      BSK11          1100          21.0   0.146           
+169      BSK11          1100          23.0   0.578           
+170      BSK11          1100          25.0   0.972           
+171      BSK11          1100          27.0   1.587           
+172      BSK11          1100          28.0   2.482         RB
+173      BSK11          1100          29.0   2.464           
+174      BSK11          1100          31.0   1.588           
+175      BSK11          1100          32.0   0.898  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+167      BSK11          1100          19.0   0.044      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+162      BSK11          1100          10.0   2.953      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+172      BSK11          1100          28.0   2.482      RB
+ sencionno=BSK11 CL distance=19.0 RL=0.044
+ Finished Section no =BSK11**********************************
+ 
+
+
+
+Initiated Section no =BSK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+176      BSK12          1200           0.0   0.462   Fisheries
+177      BSK12          1200           2.0   1.087            
+178      BSK12          1200           4.0   2.986     BC road
+179      BSK12          1200          10.0   2.972          LB
+180      BSK12          1200          12.0   1.564            
+181      BSK12          1200          14.0   1.086            
+182      BSK12          1200          16.0   0.642            
+183      BSK12          1200          18.0   0.267            
+184      BSK12          1200          20.0   0.162          CL
+185      BSK12          1200          22.0   0.264            
+186      BSK12          1200          24.0   0.377            
+187      BSK12          1200          26.0   0.498            
+188      BSK12          1200          28.0   0.561            
+189      BSK12          1200          30.0   0.798          RB
+190      BSK12          1200          35.0   0.787            
+191      BSK12          1200          40.0   0.762  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+184      BSK12          1200          20.0   0.162      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+179      BSK12          1200          10.0   2.972      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+189      BSK12          1200          30.0   0.798      RB
+ sencionno=BSK12 CL distance=20.0 RL=0.162
+ Finished Section no =BSK12**********************************
+ 
+
+
+
+Initiated Section no =BSK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+192      BSK13          1300           0.0   0.438       Ditch
+193      BSK13          1300           2.0   1.245            
+194      BSK13          1300           6.0   2.728     BC road
+195      BSK13          1300          10.0   2.723          LB
+196      BSK13          1300          12.0   1.545            
+197      BSK13          1300          14.0   0.893            
+198      BSK13          1300          16.0   0.387            
+199      BSK13          1300          18.0  -0.018            
+200      BSK13          1300          21.0  -0.122          CL
+201      BSK13          1300          24.0  -0.015            
+202      BSK13          1300          26.0   0.025            
+203      BSK13          1300          28.0   0.114            
+204      BSK13          1300          30.0   0.325            
+205      BSK13          1300          32.0   0.787          RB
+206      BSK13          1300          40.0   0.799            
+207      BSK13          1300          45.0   0.815            
+208      BSK13          1300          50.0   0.823  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+200      BSK13          1300          21.0  -0.122      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+195      BSK13          1300          10.0   2.723      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+205      BSK13          1300          32.0   0.787      RB
+ sencionno=BSK13 CL distance=21.0 RL=-0.122
+ Finished Section no =BSK13**********************************
+ 
+
+
+
+Initiated Section no =BSK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+209      BSK14          1400           0.0   1.210      Ditch
+210      BSK14          1400           2.0   1.854           
+211      BSK14          1400           6.0   3.094           
+212      BSK14          1400          10.0   3.079         LB
+213      BSK14          1400          12.0   1.859           
+214      BSK14          1400          14.0   1.110           
+215      BSK14          1400          16.0   0.496           
+216      BSK14          1400          18.0   0.086           
+217      BSK14          1400          19.5  -0.015         CL
+218      BSK14          1400          21.0   0.089           
+219      BSK14          1400          23.0   0.354           
+220      BSK14          1400          25.0   0.700           
+221      BSK14          1400          27.0   0.999           
+222      BSK14          1400          29.0   1.909         RB
+223      BSK14          1400          30.0   1.904           
+224      BSK14          1400          32.0   1.209           
+225      BSK14          1400          34.0   0.680  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+217      BSK14          1400          19.5  -0.015      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+212      BSK14          1400          10.0   3.079      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+222      BSK14          1400          29.0   1.909      RB
+ sencionno=BSK14 CL distance=19.5 RL=-0.015
+ Finished Section no =BSK14**********************************
+ 
+
+
+
+Initiated Section no =BSK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+226      BSK15          1500           0.0   1.252  Fisheries
+227      BSK15          1500           4.0   1.368           
+228      BSK15          1500           6.0   3.058    BC road
+229      BSK15          1500          10.0   3.047         LB
+230      BSK15          1500          12.0   1.858           
+231      BSK15          1500          14.0   0.856           
+232      BSK15          1500          16.0   0.158           
+233      BSK15          1500          18.0  -0.140           
+234      BSK15          1500          20.0  -0.243         CL
+235      BSK15          1500          22.0  -0.142           
+236      BSK15          1500          24.0   0.147           
+237      BSK15          1500          26.0   0.854           
+238      BSK15          1500          28.0   1.558           
+239      BSK15          1500          30.0   2.456         RB
+240      BSK15          1500          31.0   2.447           
+241      BSK15          1500          33.0   1.534           
+242      BSK15          1500          34.0   0.957  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+234      BSK15          1500          20.0  -0.243      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+229      BSK15          1500          10.0   3.047      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+239      BSK15          1500          30.0   2.456      RB
+ sencionno=BSK15 CL distance=20.0 RL=-0.243
+ Finished Section no =BSK15**********************************
+ 
+
+
+
+Initiated Section no =BSK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+243      BSK16          1600           0.0   0.956  Fisheries
+244      BSK16          1600           2.0   1.367           
+245      BSK16          1600           4.0   3.394    BC road
+246      BSK16          1600          10.0   3.387         LB
+247      BSK16          1600          11.0   2.151           
+248      BSK16          1600          13.0   1.168           
+249      BSK16          1600          15.0   0.347           
+250      BSK16          1600          17.0  -0.140           
+251      BSK16          1600          19.0  -0.298         CL
+252      BSK16          1600          21.0  -0.142           
+253      BSK16          1600          23.0   0.316           
+254      BSK16          1600          25.0   1.154           
+255      BSK16          1600          27.0   2.064           
+256      BSK16          1600          28.0   2.558         RB
+257      BSK16          1600          29.0   2.547           
+258      BSK16          1600          31.0   1.457           
+259      BSK16          1600          33.0   0.954  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+251      BSK16          1600          19.0  -0.298      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+246      BSK16          1600          10.0   3.387      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+256      BSK16          1600          28.0   2.558      RB
+ sencionno=BSK16 CL distance=19.0 RL=-0.298
+ Finished Section no =BSK16**********************************
+ 
+
+
+
+Initiated Section no =BSK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+260      BSK17          1660           0.0   1.474  Khal bank
+261      BSK17          1660           5.0   1.463           
+262      BSK17          1660          10.0   1.449         LB
+263      BSK17          1660          11.0   0.942           
+264      BSK17          1660          13.0   0.102           
+265      BSK17          1660          15.0  -0.131           
+266      BSK17          1660          17.0  -0.254         CL
+267      BSK17          1660          19.0  -0.126           
+268      BSK17          1660          21.0   0.264           
+269      BSK17          1660          23.0   1.068           
+270      BSK17          1660          24.0   1.661         RB
+271      BSK17          1660          30.0   1.668           
+272      BSK17          1660          35.0   1.673  Khal bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+266      BSK17          1660          17.0  -0.254      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+262      BSK17          1660          10.0   1.449      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+270      BSK17          1660          24.0   1.661      RB
+ sencionno=BSK17 CL distance=17.0 RL=-0.254
+ Finished Section no =BSK17**********************************
+ 
+
+
+############# We Are Checking Sectional properties.............
+ 
+
+
+############# ##################################################
+    XsectionNo  chainage   r1   r2 c1 c2       KhalName  GL  Ivert Level  \
+0        BSK0         0    6   18  B  D  Basabari khal   1         -1.2   
+1        BSK1       100   22   37  B  D  Basabari khal   1         -1.2   
+2        BSK2       200   41   54  B  D  Basabari khal   1         -1.2   
+3        BSK3       300   66   80  B  D  Basabari khal   1         -1.2   
+4        BSK4       400   83   96  B  D  Basabari khal   1         -1.2   
+5        BSK5       500   99  111  B  D  Basabari khal   1         -1.2   
+6        BSK6       600  114  128  B  D  Basabari khal   1         -1.2   
+7        BSK7       700  130  144  B  D  Basabari khal   1         -1.2   
+8        BSK8       800  147  161  B  D  Basabari khal   1         -1.2   
+9        BSK9       900  163  177  B  D  Basabari khal   1         -1.2   
+10      BSK10      1000  180  193  B  D  Basabari khal   1         -1.2   
+11      BSK11      1100  197  213  B  D  Basabari khal   1         -1.2   
+12      BSK12      1200  217  232  B  D  Basabari khal   1         -1.2   
+13      BSK13      1300  236  252  B  D  Basabari khal   1         -1.2   
+14      BSK14      1400  262  278  B  D  Basabari khal   1         -1.2   
+15      BSK15      1500  282  298  B  D  Basabari khal   1         -1.2   
+16      BSK16      1600  302  318  B  D  Basabari khal   1         -1.2   
+17      BSK17      1660  327  339  B  D  Basabari khal   1         -1.2   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+ Intitiated X-sectional Properties Calculation for section no=BSK0 
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(17.0), np.float64(20.0), np.float64(23.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(35.0), np.float64(40.0)]
+ yvalues=[np.float64(2.616), np.float64(2.611), np.float64(2.597), np.float64(-0.014), np.float64(-1.507), np.float64(-2.637), np.float64(-2.915), np.float64(-2.629), np.float64(-1.515), np.float64(-0.039), np.float64(2.694), np.float64(2.701), np.float64(2.17)]
+ Remarks=['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'House Area']
+ lb=2.597 type=<class 'numpy.float64'>
+ lb=2.597 rb=2.694 lwl=2.597
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(17.0), np.float64(20.0), np.float64(23.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ yvalues for section=[np.float64(2.597), np.float64(-0.014), np.float64(-1.507), np.float64(-2.637), np.float64(-2.915), np.float64(-2.629), np.float64(-1.515), np.float64(-0.039), np.float64(2.694)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(17.0), np.float64(20.0), np.float64(23.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ y=[np.float64(2.597), np.float64(-0.014), np.float64(-1.507), np.float64(-2.637), np.float64(-2.915), np.float64(-2.629), np.float64(-1.515), np.float64(-0.039), np.float64(2.694)]
+ section no=BSK0 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK0
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK1 
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(25.0), np.float64(26.0), np.float64(30.0), np.float64(35.0), np.float64(40.0)]
+ yvalues=[np.float64(1.971), np.float64(1.966), np.float64(1.961), np.float64(0.726), np.float64(-0.205), np.float64(-0.863), np.float64(-1.414), np.float64(-1.527), np.float64(-1.419), np.float64(-0.88), np.float64(-0.364), np.float64(0.241), np.float64(1.004), np.float64(1.011), np.float64(1.026), np.float64(1.042)]
+ Remarks=['Pond bank', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Open land']
+ lb=1.961 type=<class 'numpy.float64'>
+ lb=1.961 rb=1.004 lwl=1.004
+ idx1=2 idx2=12
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(25.0), np.float64(26.0)]
+ yvalues for section=[np.float64(1.961), np.float64(0.726), np.float64(-0.205), np.float64(-0.863), np.float64(-1.414), np.float64(-1.527), np.float64(-1.419), np.float64(-0.88), np.float64(-0.364), np.float64(0.241), np.float64(1.004)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(25.0), np.float64(26.0)]
+ y=[np.float64(1.961), np.float64(0.726), np.float64(-0.205), np.float64(-0.863), np.float64(-1.414), np.float64(-1.527), np.float64(-1.419), np.float64(-0.88), np.float64(-0.364), np.float64(0.241), np.float64(1.004)]
+ section no=BSK1 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK1
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK2 
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(30.0), np.float64(35.0), np.float64(40.0)]
+ yvalues=[np.float64(2.251), np.float64(2.239), np.float64(2.226), np.float64(0.917), np.float64(-0.053), np.float64(-0.683), np.float64(-0.785), np.float64(-0.674), np.float64(-0.082), np.float64(0.898), np.float64(2.077), np.float64(2.073), np.float64(2.09), np.float64(2.099)]
+ Remarks=['High land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond bank']
+ lb=2.226 type=<class 'numpy.float64'>
+ lb=2.226 rb=2.077 lwl=2.077
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(2.226), np.float64(0.917), np.float64(-0.053), np.float64(-0.683), np.float64(-0.785), np.float64(-0.674), np.float64(-0.082), np.float64(0.898), np.float64(2.077)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(2.226), np.float64(0.917), np.float64(-0.053), np.float64(-0.683), np.float64(-0.785), np.float64(-0.674), np.float64(-0.082), np.float64(0.898), np.float64(2.077)]
+ section no=BSK2 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK2
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK3 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(3.0), np.float64(4.0), np.float64(5.0), np.float64(7.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(21.0)]
+ yvalues=[np.float64(0.25), np.float64(0.748), np.float64(1.539), np.float64(1.526), np.float64(1.241), np.float64(0.024), np.float64(-0.459), np.float64(-0.563), np.float64(-0.456), np.float64(0.016), np.float64(0.823), np.float64(2.049), np.float64(2.038), np.float64(1.195), np.float64(0.539)]
+ Remarks=['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=1.526 type=<class 'numpy.float64'>
+ lb=1.526 rb=2.049 lwl=1.526
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(4.0), np.float64(5.0), np.float64(7.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0)]
+ yvalues for section=[np.float64(1.526), np.float64(1.241), np.float64(0.024), np.float64(-0.459), np.float64(-0.563), np.float64(-0.456), np.float64(0.016), np.float64(0.823), np.float64(2.049)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(4.0), np.float64(5.0), np.float64(7.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(1.526), np.float64(1.241), np.float64(0.024), np.float64(-0.459), np.float64(-0.563), np.float64(-0.456), np.float64(0.016), np.float64(0.823), np.float64(2.049)]
+ section no=BSK3 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK3
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK4 
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(21.0), np.float64(22.0), np.float64(23.0), np.float64(24.0), np.float64(26.0)]
+ yvalues=[np.float64(2.398), np.float64(2.393), np.float64(2.385), np.float64(1.107), np.float64(0.549), np.float64(0.061), np.float64(-0.041), np.float64(0.065), np.float64(0.523), np.float64(1.147), np.float64(2.245), np.float64(2.234), np.float64(1.645), np.float64(1.154)]
+ Remarks=['High land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=2.385 type=<class 'numpy.float64'>
+ lb=2.385 rb=2.245 lwl=2.245
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(21.0), np.float64(22.0)]
+ yvalues for section=[np.float64(2.385), np.float64(1.107), np.float64(0.549), np.float64(0.061), np.float64(-0.041), np.float64(0.065), np.float64(0.523), np.float64(1.147), np.float64(2.245)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(2.385), np.float64(1.107), np.float64(0.549), np.float64(0.061), np.float64(-0.041), np.float64(0.065), np.float64(0.523), np.float64(1.147), np.float64(2.245)]
+ section no=BSK4 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK4
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK5 
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0), np.float64(25.0), np.float64(30.0)]
+ yvalues=[np.float64(1.878), np.float64(1.873), np.float64(1.859), np.float64(1.038), np.float64(0.647), np.float64(0.259), np.float64(0.155), np.float64(0.258), np.float64(0.652), np.float64(1.023), np.float64(2.092), np.float64(2.103), np.float64(2.108)]
+ Remarks=['House road', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Pond bank']
+ lb=1.859 type=<class 'numpy.float64'>
+ lb=1.859 rb=2.092 lwl=1.859
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ yvalues for section=[np.float64(1.859), np.float64(1.038), np.float64(0.647), np.float64(0.259), np.float64(0.155), np.float64(0.258), np.float64(0.652), np.float64(1.023), np.float64(2.092)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(1.859), np.float64(1.038), np.float64(0.647), np.float64(0.259), np.float64(0.155), np.float64(0.258), np.float64(0.652), np.float64(1.023), np.float64(2.092)]
+ section no=BSK5 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK5
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK6 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(3.0), np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(20.0)]
+ yvalues=[np.float64(0.725), np.float64(1.6), np.float64(2.129), np.float64(2.102), np.float64(1.135), np.float64(0.527), np.float64(0.227), np.float64(0.124), np.float64(0.228), np.float64(0.537), np.float64(1.183), np.float64(2.159), np.float64(2.154), np.float64(1.434), np.float64(0.823)]
+ Remarks=['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=2.102 type=<class 'numpy.float64'>
+ lb=2.102 rb=2.159 lwl=2.102
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+ yvalues for section=[np.float64(2.102), np.float64(1.135), np.float64(0.527), np.float64(0.227), np.float64(0.124), np.float64(0.228), np.float64(0.537), np.float64(1.183), np.float64(2.159)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(4.0), np.float64(5.0), np.float64(6.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(15.0), np.float64(16.0)]
+ y=[np.float64(2.102), np.float64(1.135), np.float64(0.527), np.float64(0.227), np.float64(0.124), np.float64(0.228), np.float64(0.537), np.float64(1.183), np.float64(2.159)]
+ section no=BSK6 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK6
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK7 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0), np.float64(23.0), np.float64(24.0), np.float64(26.0)]
+ yvalues=[np.float64(0.973), np.float64(1.571), np.float64(3.451), np.float64(3.462), np.float64(1.872), np.float64(0.531), np.float64(-0.268), np.float64(-0.373), np.float64(-0.271), np.float64(0.462), np.float64(1.376), np.float64(2.122), np.float64(2.117), np.float64(1.482), np.float64(0.663)]
+ Remarks=['Fisheries', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=3.462 type=<class 'numpy.float64'>
+ lb=3.462 rb=2.122 lwl=2.122
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ yvalues for section=[np.float64(3.462), np.float64(1.872), np.float64(0.531), np.float64(-0.268), np.float64(-0.373), np.float64(-0.271), np.float64(0.462), np.float64(1.376), np.float64(2.122)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(3.462), np.float64(1.872), np.float64(0.531), np.float64(-0.268), np.float64(-0.373), np.float64(-0.271), np.float64(0.462), np.float64(1.376), np.float64(2.122)]
+ section no=BSK7 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK7
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK8 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0), np.float64(23.0), np.float64(24.0), np.float64(26.0)]
+ yvalues=[np.float64(0.629), np.float64(1.263), np.float64(3.202), np.float64(3.197), np.float64(1.827), np.float64(0.652), np.float64(-0.006), np.float64(-0.049), np.float64(0.053), np.float64(0.647), np.float64(1.359), np.float64(2.242), np.float64(2.237), np.float64(1.351), np.float64(0.751)]
+ Remarks=['Fisheries', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=3.197 type=<class 'numpy.float64'>
+ lb=3.197 rb=2.242 lwl=2.242
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ yvalues for section=[np.float64(3.197), np.float64(1.827), np.float64(0.652), np.float64(-0.006), np.float64(-0.049), np.float64(0.053), np.float64(0.647), np.float64(1.359), np.float64(2.242)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(3.197), np.float64(1.827), np.float64(0.652), np.float64(-0.006), np.float64(-0.049), np.float64(0.053), np.float64(0.647), np.float64(1.359), np.float64(2.242)]
+ section no=BSK8 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK8
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK9 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(21.0), np.float64(25.0), np.float64(30.0), np.float64(35.0)]
+ yvalues=[np.float64(1.25), np.float64(2.062), np.float64(3.15), np.float64(3.136), np.float64(1.758), np.float64(0.562), np.float64(-0.085), np.float64(-0.189), np.float64(-0.087), np.float64(0.028), np.float64(0.162), np.float64(0.25), np.float64(0.241), np.float64(0.236), np.float64(0.219)]
+ Remarks=['Fisheries', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=3.136 type=<class 'numpy.float64'>
+ lb=3.136 rb=0.25 lwl=0.25
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(21.0)]
+ yvalues for section=[np.float64(3.136), np.float64(1.758), np.float64(0.562), np.float64(-0.085), np.float64(-0.189), np.float64(-0.087), np.float64(0.028), np.float64(0.162), np.float64(0.25)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(8.0), np.float64(9.0), np.float64(11.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(21.0)]
+ y=[np.float64(3.136), np.float64(1.758), np.float64(0.562), np.float64(-0.085), np.float64(-0.189), np.float64(-0.087), np.float64(0.028), np.float64(0.162), np.float64(0.25)]
+ section no=BSK9 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK9
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK10 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(6.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(30.0), np.float64(35.0)]
+ yvalues=[np.float64(0.295), np.float64(1.1), np.float64(2.926), np.float64(2.921), np.float64(1.773), np.float64(0.696), np.float64(0.099), np.float64(-0.004), np.float64(0.098), np.float64(0.13), np.float64(0.204), np.float64(0.306), np.float64(0.296), np.float64(0.285)]
+ Remarks=['Ditch', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land']
+ lb=2.921 type=<class 'numpy.float64'>
+ lb=2.921 rb=0.306 lwl=0.306
+ idx1=3 idx2=11
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(2.921), np.float64(1.773), np.float64(0.696), np.float64(0.099), np.float64(-0.004), np.float64(0.098), np.float64(0.13), np.float64(0.204), np.float64(0.306)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(2.921), np.float64(1.773), np.float64(0.696), np.float64(0.099), np.float64(-0.004), np.float64(0.098), np.float64(0.13), np.float64(0.204), np.float64(0.306)]
+ section no=BSK10 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK10
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK11 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(6.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0), np.float64(29.0), np.float64(31.0), np.float64(32.0)]
+ yvalues=[np.float64(0.093), np.float64(0.888), np.float64(2.964), np.float64(2.953), np.float64(1.682), np.float64(0.986), np.float64(0.587), np.float64(0.147), np.float64(0.044), np.float64(0.146), np.float64(0.578), np.float64(0.972), np.float64(1.587), np.float64(2.482), np.float64(2.464), np.float64(1.588), np.float64(0.898)]
+ Remarks=['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=2.953 type=<class 'numpy.float64'>
+ lb=2.953 rb=2.482 lwl=2.482
+ idx1=3 idx2=13
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0)]
+ yvalues for section=[np.float64(2.953), np.float64(1.682), np.float64(0.986), np.float64(0.587), np.float64(0.147), np.float64(0.044), np.float64(0.146), np.float64(0.578), np.float64(0.972), np.float64(1.587), np.float64(2.482)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0)]
+ y=[np.float64(2.953), np.float64(1.682), np.float64(0.986), np.float64(0.587), np.float64(0.147), np.float64(0.044), np.float64(0.146), np.float64(0.578), np.float64(0.972), np.float64(1.587), np.float64(2.482)]
+ section no=BSK11 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK11
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK12 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(35.0), np.float64(40.0)]
+ yvalues=[np.float64(0.462), np.float64(1.087), np.float64(2.986), np.float64(2.972), np.float64(1.564), np.float64(1.086), np.float64(0.642), np.float64(0.267), np.float64(0.162), np.float64(0.264), np.float64(0.377), np.float64(0.498), np.float64(0.561), np.float64(0.798), np.float64(0.787), np.float64(0.762)]
+ Remarks=['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land']
+ lb=2.972 type=<class 'numpy.float64'>
+ lb=2.972 rb=0.798 lwl=0.798
+ idx1=3 idx2=13
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ yvalues for section=[np.float64(2.972), np.float64(1.564), np.float64(1.086), np.float64(0.642), np.float64(0.267), np.float64(0.162), np.float64(0.264), np.float64(0.377), np.float64(0.498), np.float64(0.561), np.float64(0.798)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ y=[np.float64(2.972), np.float64(1.564), np.float64(1.086), np.float64(0.642), np.float64(0.267), np.float64(0.162), np.float64(0.264), np.float64(0.377), np.float64(0.498), np.float64(0.561), np.float64(0.798)]
+ section no=BSK12 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK12
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK13 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(6.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(21.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(32.0), np.float64(40.0), np.float64(45.0), np.float64(50.0)]
+ yvalues=[np.float64(0.438), np.float64(1.245), np.float64(2.728), np.float64(2.723), np.float64(1.545), np.float64(0.893), np.float64(0.387), np.float64(-0.018), np.float64(-0.122), np.float64(-0.015), np.float64(0.025), np.float64(0.114), np.float64(0.325), np.float64(0.787), np.float64(0.799), np.float64(0.815), np.float64(0.823)]
+ Remarks=['Ditch', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Paddy land']
+ lb=2.723 type=<class 'numpy.float64'>
+ lb=2.723 rb=0.787 lwl=0.787
+ idx1=3 idx2=13
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(21.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(32.0)]
+ yvalues for section=[np.float64(2.723), np.float64(1.545), np.float64(0.893), np.float64(0.387), np.float64(-0.018), np.float64(-0.122), np.float64(-0.015), np.float64(0.025), np.float64(0.114), np.float64(0.325), np.float64(0.787)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(21.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(32.0)]
+ y=[np.float64(2.723), np.float64(1.545), np.float64(0.893), np.float64(0.387), np.float64(-0.018), np.float64(-0.122), np.float64(-0.015), np.float64(0.025), np.float64(0.114), np.float64(0.325), np.float64(0.787)]
+ section no=BSK13 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK13
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK14 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(6.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(19.5), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(29.0), np.float64(30.0), np.float64(32.0), np.float64(34.0)]
+ yvalues=[np.float64(1.21), np.float64(1.854), np.float64(3.094), np.float64(3.079), np.float64(1.859), np.float64(1.11), np.float64(0.496), np.float64(0.086), np.float64(-0.015), np.float64(0.089), np.float64(0.354), np.float64(0.7), np.float64(0.999), np.float64(1.909), np.float64(1.904), np.float64(1.209), np.float64(0.68)]
+ Remarks=['Ditch', '', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=3.079 type=<class 'numpy.float64'>
+ lb=3.079 rb=1.909 lwl=1.909
+ idx1=3 idx2=13
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(19.5), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(29.0)]
+ yvalues for section=[np.float64(3.079), np.float64(1.859), np.float64(1.11), np.float64(0.496), np.float64(0.086), np.float64(-0.015), np.float64(0.089), np.float64(0.354), np.float64(0.7), np.float64(0.999), np.float64(1.909)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(19.5), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(29.0)]
+ y=[np.float64(3.079), np.float64(1.859), np.float64(1.11), np.float64(0.496), np.float64(0.086), np.float64(-0.015), np.float64(0.089), np.float64(0.354), np.float64(0.7), np.float64(0.999), np.float64(1.909)]
+ section no=BSK14 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK14
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK15 
+ xvalues=[np.float64(0.0), np.float64(4.0), np.float64(6.0), np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0), np.float64(31.0), np.float64(33.0), np.float64(34.0)]
+ yvalues=[np.float64(1.252), np.float64(1.368), np.float64(3.058), np.float64(3.047), np.float64(1.858), np.float64(0.856), np.float64(0.158), np.float64(-0.14), np.float64(-0.243), np.float64(-0.142), np.float64(0.147), np.float64(0.854), np.float64(1.558), np.float64(2.456), np.float64(2.447), np.float64(1.534), np.float64(0.957)]
+ Remarks=['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=3.047 type=<class 'numpy.float64'>
+ lb=3.047 rb=2.456 lwl=2.456
+ idx1=3 idx2=13
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ yvalues for section=[np.float64(3.047), np.float64(1.858), np.float64(0.856), np.float64(0.158), np.float64(-0.14), np.float64(-0.243), np.float64(-0.142), np.float64(0.147), np.float64(0.854), np.float64(1.558), np.float64(2.456)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(12.0), np.float64(14.0), np.float64(16.0), np.float64(18.0), np.float64(20.0), np.float64(22.0), np.float64(24.0), np.float64(26.0), np.float64(28.0), np.float64(30.0)]
+ y=[np.float64(3.047), np.float64(1.858), np.float64(0.856), np.float64(0.158), np.float64(-0.14), np.float64(-0.243), np.float64(-0.142), np.float64(0.147), np.float64(0.854), np.float64(1.558), np.float64(2.456)]
+ section no=BSK15 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK15
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK16 
+ xvalues=[np.float64(0.0), np.float64(2.0), np.float64(4.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0), np.float64(29.0), np.float64(31.0), np.float64(33.0)]
+ yvalues=[np.float64(0.956), np.float64(1.367), np.float64(3.394), np.float64(3.387), np.float64(2.151), np.float64(1.168), np.float64(0.347), np.float64(-0.14), np.float64(-0.298), np.float64(-0.142), np.float64(0.316), np.float64(1.154), np.float64(2.064), np.float64(2.558), np.float64(2.547), np.float64(1.457), np.float64(0.954)]
+ Remarks=['Fisheries', '', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Fisheries']
+ lb=3.387 type=<class 'numpy.float64'>
+ lb=3.387 rb=2.558 lwl=2.558
+ idx1=3 idx2=13
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0)]
+ yvalues for section=[np.float64(3.387), np.float64(2.151), np.float64(1.168), np.float64(0.347), np.float64(-0.14), np.float64(-0.298), np.float64(-0.142), np.float64(0.316), np.float64(1.154), np.float64(2.064), np.float64(2.558)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(25.0), np.float64(27.0), np.float64(28.0)]
+ y=[np.float64(3.387), np.float64(2.151), np.float64(1.168), np.float64(0.347), np.float64(-0.14), np.float64(-0.298), np.float64(-0.142), np.float64(0.316), np.float64(1.154), np.float64(2.064), np.float64(2.558)]
+ section no=BSK16 total data points=11
+ Finished X-sectional Properties Calculation for section no=BSK16
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=BSK17 
+ xvalues=[np.float64(0.0), np.float64(5.0), np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0), np.float64(30.0), np.float64(35.0)]
+ yvalues=[np.float64(1.474), np.float64(1.463), np.float64(1.449), np.float64(0.942), np.float64(0.102), np.float64(-0.131), np.float64(-0.254), np.float64(-0.126), np.float64(0.264), np.float64(1.068), np.float64(1.661), np.float64(1.668), np.float64(1.673)]
+ Remarks=['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Khal bank']
+ lb=1.449 type=<class 'numpy.float64'>
+ lb=1.449 rb=1.661 lwl=1.449
+ idx1=2 idx2=10
+ Turncated Remarks................
+ #####################Values in constructor #############################
+ xvalues for section=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ yvalues for section=[np.float64(1.449), np.float64(0.942), np.float64(0.102), np.float64(-0.131), np.float64(-0.254), np.float64(-0.126), np.float64(0.264), np.float64(1.068), np.float64(1.661)]
+ #######################################################################
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(1.449), np.float64(0.942), np.float64(0.102), np.float64(-0.131), np.float64(-0.254), np.float64(-0.126), np.float64(0.264), np.float64(1.068), np.float64(1.661)]
+ section no=BSK17 total data points=9
+ Finished X-sectional Properties Calculation for section no=BSK17
+
+
+
+
+ ############# #################################################
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =BSK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        BSK0             0           0.0   2.616   Khal bank
+1        BSK0             0           5.0   2.611            
+2        BSK0             0          10.0   2.597          LB
+3        BSK0             0          12.0  -0.014            
+4        BSK0             0          14.0  -1.507            
+5        BSK0             0          17.0  -2.637            
+6        BSK0             0          20.0  -2.915          CL
+7        BSK0             0          23.0  -2.629            
+8        BSK0             0          26.0  -1.515            
+9        BSK0             0          28.0  -0.039            
+10       BSK0             0          30.0   2.694          RB
+11       BSK0             0          35.0   2.701            
+12       BSK0             0          40.0   2.170  House Area
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       BSK0             0          20.0  -2.915      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       BSK0             0          10.0   2.597      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       BSK0             0          30.0   2.694      RB
+ sencionno=BSK0 CL distance=20.0 RL=-2.915
+ Finished Section no =BSK0**********************************
+ 
+
+
+
+Initiated Section no =BSK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+13       BSK1           100           0.0   1.971  Pond bank
+14       BSK1           100           5.0   1.966           
+15       BSK1           100          10.0   1.961         LB
+16       BSK1           100          11.0   0.726           
+17       BSK1           100          12.0  -0.205           
+18       BSK1           100          14.0  -0.863           
+19       BSK1           100          16.0  -1.414           
+20       BSK1           100          18.0  -1.527         CL
+21       BSK1           100          20.0  -1.419           
+22       BSK1           100          22.0  -0.880           
+23       BSK1           100          24.0  -0.364           
+24       BSK1           100          25.0   0.241           
+25       BSK1           100          26.0   1.004         RB
+26       BSK1           100          30.0   1.011           
+27       BSK1           100          35.0   1.026           
+28       BSK1           100          40.0   1.042  Open land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+20       BSK1           100          18.0  -1.527      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+15       BSK1           100          10.0   1.961      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+25       BSK1           100          26.0   1.004      RB
+ sencionno=BSK1 CL distance=18.0 RL=-1.527
+ Finished Section no =BSK1**********************************
+ 
+
+
+
+Initiated Section no =BSK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+29       BSK2           200           0.0   2.251  High land
+30       BSK2           200           5.0   2.239           
+31       BSK2           200          10.0   2.226         LB
+32       BSK2           200          11.0   0.917           
+33       BSK2           200          13.0  -0.053           
+34       BSK2           200          15.0  -0.683           
+35       BSK2           200          17.0  -0.785         CL
+36       BSK2           200          19.0  -0.674           
+37       BSK2           200          21.0  -0.082           
+38       BSK2           200          23.0   0.898           
+39       BSK2           200          24.0   2.077         RB
+40       BSK2           200          30.0   2.073           
+41       BSK2           200          35.0   2.090           
+42       BSK2           200          40.0   2.099  Pond bank
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+35       BSK2           200          17.0  -0.785      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+31       BSK2           200          10.0   2.226      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+39       BSK2           200          24.0   2.077      RB
+ sencionno=BSK2 CL distance=17.0 RL=-0.785
+ Finished Section no =BSK2**********************************
+ 
+
+
+
+Initiated Section no =BSK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+43       BSK3           300           0.0   0.250  Fisheries
+44       BSK3           300           2.0   0.748           
+45       BSK3           300           3.0   1.539           
+46       BSK3           300           4.0   1.526         LB
+47       BSK3           300           5.0   1.241           
+48       BSK3           300           7.0   0.024           
+49       BSK3           300           9.0  -0.459           
+50       BSK3           300          11.0  -0.563         CL
+51       BSK3           300          13.0  -0.456           
+52       BSK3           300          15.0   0.016           
+53       BSK3           300          17.0   0.823           
+54       BSK3           300          18.0   2.049         RB
+55       BSK3           300          19.0   2.038           
+56       BSK3           300          20.0   1.195           
+57       BSK3           300          21.0   0.539  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+50       BSK3           300          11.0  -0.563      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+46       BSK3           300           4.0   1.526      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+54       BSK3           300          18.0   2.049      RB
+ sencionno=BSK3 CL distance=11.0 RL=-0.563
+ Finished Section no =BSK3**********************************
+ 
+
+
+
+Initiated Section no =BSK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+58       BSK4           400           0.0   2.398  High land
+59       BSK4           400           5.0   2.393           
+60       BSK4           400          10.0   2.385         LB
+61       BSK4           400          11.0   1.107           
+62       BSK4           400          12.0   0.549           
+63       BSK4           400          14.0   0.061           
+64       BSK4           400          16.0  -0.041         CL
+65       BSK4           400          18.0   0.065           
+66       BSK4           400          20.0   0.523           
+67       BSK4           400          21.0   1.147           
+68       BSK4           400          22.0   2.245         RB
+69       BSK4           400          23.0   2.234           
+70       BSK4           400          24.0   1.645           
+71       BSK4           400          26.0   1.154  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+64       BSK4           400          16.0  -0.041      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+60       BSK4           400          10.0   2.385      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       BSK4           400          22.0   2.245      RB
+ sencionno=BSK4 CL distance=16.0 RL=-0.041
+ Finished Section no =BSK4**********************************
+ 
+
+
+
+Initiated Section no =BSK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+72       BSK5           500           0.0   1.878  House road
+73       BSK5           500           5.0   1.873            
+74       BSK5           500          10.0   1.859          LB
+75       BSK5           500          11.0   1.038            
+76       BSK5           500          12.0   0.647            
+77       BSK5           500          13.0   0.259            
+78       BSK5           500          15.0   0.155          CL
+79       BSK5           500          17.0   0.258            
+80       BSK5           500          18.0   0.652            
+81       BSK5           500          19.0   1.023            
+82       BSK5           500          20.0   2.092          RB
+83       BSK5           500          25.0   2.103            
+84       BSK5           500          30.0   2.108   Pond bank
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+78       BSK5           500          15.0   0.155      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+74       BSK5           500          10.0   1.859      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+82       BSK5           500          20.0   2.092      RB
+ sencionno=BSK5 CL distance=15.0 RL=0.155
+ Finished Section no =BSK5**********************************
+ 
+
+
+
+Initiated Section no =BSK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+85       BSK6           600           0.0   0.725  Fisheries
+86       BSK6           600           2.0   1.600           
+87       BSK6           600           3.0   2.129           
+88       BSK6           600           4.0   2.102         LB
+89       BSK6           600           5.0   1.135           
+90       BSK6           600           6.0   0.527           
+91       BSK6           600           8.0   0.227           
+92       BSK6           600          10.0   0.124         CL
+93       BSK6           600          12.0   0.228           
+94       BSK6           600          14.0   0.537           
+95       BSK6           600          15.0   1.183           
+96       BSK6           600          16.0   2.159         RB
+97       BSK6           600          17.0   2.154           
+98       BSK6           600          18.0   1.434           
+99       BSK6           600          20.0   0.823  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       BSK6           600          10.0   0.124      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+88       BSK6           600           4.0   2.102      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+96       BSK6           600          16.0   2.159      RB
+ sencionno=BSK6 CL distance=10.0 RL=0.124
+ Finished Section no =BSK6**********************************
+ 
+
+
+
+Initiated Section no =BSK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+100       BSK7           700           0.0   0.973  Fisheries
+101       BSK7           700           2.0   1.571           
+102       BSK7           700           4.0   3.451           
+103       BSK7           700           8.0   3.462         LB
+104       BSK7           700           9.0   1.872           
+105       BSK7           700          11.0   0.531           
+106       BSK7           700          13.0  -0.268           
+107       BSK7           700          15.0  -0.373         CL
+108       BSK7           700          17.0  -0.271           
+109       BSK7           700          19.0   0.462           
+110       BSK7           700          21.0   1.376           
+111       BSK7           700          22.0   2.122         RB
+112       BSK7           700          23.0   2.117           
+113       BSK7           700          24.0   1.482           
+114       BSK7           700          26.0   0.663  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+107       BSK7           700          15.0  -0.373      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+103       BSK7           700           8.0   3.462      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+111       BSK7           700          22.0   2.122      RB
+ sencionno=BSK7 CL distance=15.0 RL=-0.373
+ Finished Section no =BSK7**********************************
+ 
+
+
+
+Initiated Section no =BSK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+115       BSK8           800           0.0   0.629  Fisheries
+116       BSK8           800           2.0   1.263           
+117       BSK8           800           4.0   3.202    BC road
+118       BSK8           800           8.0   3.197         LB
+119       BSK8           800           9.0   1.827           
+120       BSK8           800          11.0   0.652           
+121       BSK8           800          13.0  -0.006           
+122       BSK8           800          15.0  -0.049         CL
+123       BSK8           800          17.0   0.053           
+124       BSK8           800          19.0   0.647           
+125       BSK8           800          21.0   1.359           
+126       BSK8           800          22.0   2.242         RB
+127       BSK8           800          23.0   2.237           
+128       BSK8           800          24.0   1.351           
+129       BSK8           800          26.0   0.751  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+122       BSK8           800          15.0  -0.049      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+118       BSK8           800           8.0   3.197      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+126       BSK8           800          22.0   2.242      RB
+ sencionno=BSK8 CL distance=15.0 RL=-0.049
+ Finished Section no =BSK8**********************************
+ 
+
+
+
+Initiated Section no =BSK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+130       BSK9           900           0.0   1.250   Fisheries
+131       BSK9           900           2.0   2.062            
+132       BSK9           900           4.0   3.150     BC road
+133       BSK9           900           8.0   3.136          LB
+134       BSK9           900           9.0   1.758            
+135       BSK9           900          11.0   0.562            
+136       BSK9           900          13.0  -0.085            
+137       BSK9           900          14.5  -0.189          CL
+138       BSK9           900          16.0  -0.087            
+139       BSK9           900          18.0   0.028            
+140       BSK9           900          20.0   0.162            
+141       BSK9           900          21.0   0.250          RB
+142       BSK9           900          25.0   0.241            
+143       BSK9           900          30.0   0.236            
+144       BSK9           900          35.0   0.219  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       BSK9           900          14.5  -0.189      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+133       BSK9           900           8.0   3.136      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+141       BSK9           900          21.0    0.25      RB
+ sencionno=BSK9 CL distance=14.5 RL=-0.189
+ Finished Section no =BSK9**********************************
+ 
+
+
+
+Initiated Section no =BSK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+145      BSK10          1000           0.0   0.295       Ditch
+146      BSK10          1000           2.0   1.100            
+147      BSK10          1000           6.0   2.926     BC road
+148      BSK10          1000          10.0   2.921          LB
+149      BSK10          1000          11.0   1.773            
+150      BSK10          1000          13.0   0.696            
+151      BSK10          1000          15.0   0.099            
+152      BSK10          1000          17.0  -0.004          CL
+153      BSK10          1000          19.0   0.098            
+154      BSK10          1000          21.0   0.130            
+155      BSK10          1000          23.0   0.204            
+156      BSK10          1000          24.0   0.306          RB
+157      BSK10          1000          30.0   0.296            
+158      BSK10          1000          35.0   0.285  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+152      BSK10          1000          17.0  -0.004      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148      BSK10          1000          10.0   2.921      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      BSK10          1000          24.0   0.306      RB
+ sencionno=BSK10 CL distance=17.0 RL=-0.004
+ Finished Section no =BSK10**********************************
+ 
+
+
+
+Initiated Section no =BSK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+159      BSK11          1100           0.0   0.093  Fisheries
+160      BSK11          1100           2.0   0.888           
+161      BSK11          1100           6.0   2.964    BC road
+162      BSK11          1100          10.0   2.953         LB
+163      BSK11          1100          11.0   1.682           
+164      BSK11          1100          13.0   0.986           
+165      BSK11          1100          15.0   0.587           
+166      BSK11          1100          17.0   0.147           
+167      BSK11          1100          19.0   0.044         CL
+168      BSK11          1100          21.0   0.146           
+169      BSK11          1100          23.0   0.578           
+170      BSK11          1100          25.0   0.972           
+171      BSK11          1100          27.0   1.587           
+172      BSK11          1100          28.0   2.482         RB
+173      BSK11          1100          29.0   2.464           
+174      BSK11          1100          31.0   1.588           
+175      BSK11          1100          32.0   0.898  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+167      BSK11          1100          19.0   0.044      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+162      BSK11          1100          10.0   2.953      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+172      BSK11          1100          28.0   2.482      RB
+ sencionno=BSK11 CL distance=19.0 RL=0.044
+ Finished Section no =BSK11**********************************
+ 
+
+
+
+Initiated Section no =BSK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+176      BSK12          1200           0.0   0.462   Fisheries
+177      BSK12          1200           2.0   1.087            
+178      BSK12          1200           4.0   2.986     BC road
+179      BSK12          1200          10.0   2.972          LB
+180      BSK12          1200          12.0   1.564            
+181      BSK12          1200          14.0   1.086            
+182      BSK12          1200          16.0   0.642            
+183      BSK12          1200          18.0   0.267            
+184      BSK12          1200          20.0   0.162          CL
+185      BSK12          1200          22.0   0.264            
+186      BSK12          1200          24.0   0.377            
+187      BSK12          1200          26.0   0.498            
+188      BSK12          1200          28.0   0.561            
+189      BSK12          1200          30.0   0.798          RB
+190      BSK12          1200          35.0   0.787            
+191      BSK12          1200          40.0   0.762  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+184      BSK12          1200          20.0   0.162      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+179      BSK12          1200          10.0   2.972      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+189      BSK12          1200          30.0   0.798      RB
+ sencionno=BSK12 CL distance=20.0 RL=0.162
+ Finished Section no =BSK12**********************************
+ 
+
+
+
+Initiated Section no =BSK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+192      BSK13          1300           0.0   0.438       Ditch
+193      BSK13          1300           2.0   1.245            
+194      BSK13          1300           6.0   2.728     BC road
+195      BSK13          1300          10.0   2.723          LB
+196      BSK13          1300          12.0   1.545            
+197      BSK13          1300          14.0   0.893            
+198      BSK13          1300          16.0   0.387            
+199      BSK13          1300          18.0  -0.018            
+200      BSK13          1300          21.0  -0.122          CL
+201      BSK13          1300          24.0  -0.015            
+202      BSK13          1300          26.0   0.025            
+203      BSK13          1300          28.0   0.114            
+204      BSK13          1300          30.0   0.325            
+205      BSK13          1300          32.0   0.787          RB
+206      BSK13          1300          40.0   0.799            
+207      BSK13          1300          45.0   0.815            
+208      BSK13          1300          50.0   0.823  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+200      BSK13          1300          21.0  -0.122      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+195      BSK13          1300          10.0   2.723      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+205      BSK13          1300          32.0   0.787      RB
+ sencionno=BSK13 CL distance=21.0 RL=-0.122
+ Finished Section no =BSK13**********************************
+ 
+
+
+
+Initiated Section no =BSK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+209      BSK14          1400           0.0   1.210      Ditch
+210      BSK14          1400           2.0   1.854           
+211      BSK14          1400           6.0   3.094           
+212      BSK14          1400          10.0   3.079         LB
+213      BSK14          1400          12.0   1.859           
+214      BSK14          1400          14.0   1.110           
+215      BSK14          1400          16.0   0.496           
+216      BSK14          1400          18.0   0.086           
+217      BSK14          1400          19.5  -0.015         CL
+218      BSK14          1400          21.0   0.089           
+219      BSK14          1400          23.0   0.354           
+220      BSK14          1400          25.0   0.700           
+221      BSK14          1400          27.0   0.999           
+222      BSK14          1400          29.0   1.909         RB
+223      BSK14          1400          30.0   1.904           
+224      BSK14          1400          32.0   1.209           
+225      BSK14          1400          34.0   0.680  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+217      BSK14          1400          19.5  -0.015      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+212      BSK14          1400          10.0   3.079      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+222      BSK14          1400          29.0   1.909      RB
+ sencionno=BSK14 CL distance=19.5 RL=-0.015
+ Finished Section no =BSK14**********************************
+ 
+
+
+
+Initiated Section no =BSK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+226      BSK15          1500           0.0   1.252  Fisheries
+227      BSK15          1500           4.0   1.368           
+228      BSK15          1500           6.0   3.058    BC road
+229      BSK15          1500          10.0   3.047         LB
+230      BSK15          1500          12.0   1.858           
+231      BSK15          1500          14.0   0.856           
+232      BSK15          1500          16.0   0.158           
+233      BSK15          1500          18.0  -0.140           
+234      BSK15          1500          20.0  -0.243         CL
+235      BSK15          1500          22.0  -0.142           
+236      BSK15          1500          24.0   0.147           
+237      BSK15          1500          26.0   0.854           
+238      BSK15          1500          28.0   1.558           
+239      BSK15          1500          30.0   2.456         RB
+240      BSK15          1500          31.0   2.447           
+241      BSK15          1500          33.0   1.534           
+242      BSK15          1500          34.0   0.957  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+234      BSK15          1500          20.0  -0.243      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+229      BSK15          1500          10.0   3.047      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+239      BSK15          1500          30.0   2.456      RB
+ sencionno=BSK15 CL distance=20.0 RL=-0.243
+ Finished Section no =BSK15**********************************
+ 
+
+
+
+Initiated Section no =BSK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+243      BSK16          1600           0.0   0.956  Fisheries
+244      BSK16          1600           2.0   1.367           
+245      BSK16          1600           4.0   3.394    BC road
+246      BSK16          1600          10.0   3.387         LB
+247      BSK16          1600          11.0   2.151           
+248      BSK16          1600          13.0   1.168           
+249      BSK16          1600          15.0   0.347           
+250      BSK16          1600          17.0  -0.140           
+251      BSK16          1600          19.0  -0.298         CL
+252      BSK16          1600          21.0  -0.142           
+253      BSK16          1600          23.0   0.316           
+254      BSK16          1600          25.0   1.154           
+255      BSK16          1600          27.0   2.064           
+256      BSK16          1600          28.0   2.558         RB
+257      BSK16          1600          29.0   2.547           
+258      BSK16          1600          31.0   1.457           
+259      BSK16          1600          33.0   0.954  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+251      BSK16          1600          19.0  -0.298      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+246      BSK16          1600          10.0   3.387      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+256      BSK16          1600          28.0   2.558      RB
+ sencionno=BSK16 CL distance=19.0 RL=-0.298
+ Finished Section no =BSK16**********************************
+ 
+
+
+
+Initiated Section no =BSK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+260      BSK17          1660           0.0   1.474  Khal bank
+261      BSK17          1660           5.0   1.463           
+262      BSK17          1660          10.0   1.449         LB
+263      BSK17          1660          11.0   0.942           
+264      BSK17          1660          13.0   0.102           
+265      BSK17          1660          15.0  -0.131           
+266      BSK17          1660          17.0  -0.254         CL
+267      BSK17          1660          19.0  -0.126           
+268      BSK17          1660          21.0   0.264           
+269      BSK17          1660          23.0   1.068           
+270      BSK17          1660          24.0   1.661         RB
+271      BSK17          1660          30.0   1.668           
+272      BSK17          1660          35.0   1.673  Khal bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+266      BSK17          1660          17.0  -0.254      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+262      BSK17          1660          10.0   1.449      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+270      BSK17          1660          24.0   1.661      RB
+ sencionno=BSK17 CL distance=17.0 RL=-0.254
+ Finished Section no =BSK17**********************************
