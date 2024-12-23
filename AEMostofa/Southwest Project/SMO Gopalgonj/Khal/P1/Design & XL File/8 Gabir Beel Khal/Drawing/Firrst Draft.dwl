@@ -1,3 +1,0 @@
-Dell
-DESKTOP-JEV5B00 
-Sunday, December 22, 2024  11:00:17 AM
