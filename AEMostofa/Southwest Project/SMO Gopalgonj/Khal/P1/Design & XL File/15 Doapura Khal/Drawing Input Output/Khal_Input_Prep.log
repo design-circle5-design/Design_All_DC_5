@@ -1,0 +1,2638 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_11   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2      KhalName     GL  Ivert Level  \
+0        DP10         0    5   18  B  D  Duapara khal  0.402         -1.6   
+1        DP11       100   22   39  B  D  Duapara khal  0.402         -1.6   
+2        DP12       200   43   55  B  D  Duapara khal  0.402         -1.6   
+3        DP13       300   66   78  B  D  Duapara khal  0.402         -1.6   
+4        DP14       400   82   97  B  D  Duapara khal  0.402         -1.6   
+5        DP15       500  101  116  B  D  Duapara khal  0.402         -1.6   
+6        DP16       600  129  145  B  D  Duapara khal  0.402         -1.6   
+7        DP17       700  149  163  B  D  Duapara khal  0.402         -1.6   
+8        DP18       800  167  181  B  D  Duapara khal  0.402         -1.6   
+9        DP19       900  192  208  B  D  Duapara khal  0.402         -1.6   
+10      DP110      1000  211  223  B  D  Duapara khal  0.402         -1.6   
+11      DP111      1100  226  239  B  D  Duapara khal  0.402         -1.6   
+12      DP112      1200  242  254  B  D  Duapara khal  0.402         -1.6   
+13      DP113      1300  258  281  B  D  Duapara khal  0.402         -1.6   
+14      DP114      1404  285  301  B  D  Duapara khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+ --------Intiated Data Transfer for section no=DP10--------
+
+
+
+
+ chainage=0 sec=DP10 row1=5 row2=18 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 16.5, 17, 19, 21, 23, 30, 35], 'rl': [0.893, 0.903, 0.948, -0.257, -0.603, -0.803, -1.004, -1.063, -1.003, -0.852, -0.536, 0.958, 0.948, 0.903], 'remarks': ['River bank', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'River bank'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP10--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP11--------
+
+
+
+
+ chainage=100 sec=DP11 row1=22 row2=39 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22, 25], 'rl': [-0.776, -0.371, -0.106, 2.001, 2.009, 0.868, 0.869, -0.386, -0.632, -0.958, -1.021, -0.962, -0.682, -0.371, 0.864, 0.859, -0.271, -0.771], 'remarks': ['Fisheries', '', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Ditch'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP11--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP12--------
+
+
+
+
+ chainage=200 sec=DP12 row1=43 row2=55 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.367, 0.362, 0.352, -0.578, -0.799, -0.92, -0.978, -0.923, -0.73, -0.534, 0.392, 0.402, 0.406], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP12--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP13--------
+
+
+
+
+ chainage=300 sec=DP13 row1=66 row2=78 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 25, 30], 'rl': [0.193, 0.186, 0.183, -0.281, -0.517, -0.816, -0.866, -0.817, -0.518, -0.266, 0.083, 0.089, 0.094], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP13--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP14--------
+
+
+
+
+ chainage=400 sec=DP14 row1=82 row2=97 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 8, 10, 12, 13, 14, 15, 16, 17, 18, 20, 22, 25, 27], 'rl': [0.359, 0.353, 0.344, 1.574, 1.579, -0.417, -0.751, -0.806, -0.747, -0.518, -0.122, 0.083, 0.089, -0.656, -0.817, -0.966], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', '', 'CL', '', 'RB', '', '', '', '', 'Ditch'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP14--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP15--------
+
+
+
+
+ chainage=500 sec=DP15 row1=101 row2=116 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 30], 'rl': [-2.026, -1.581, -1.426, -0.118, -0.116, -0.431, -0.581, -0.778, -0.842, -0.777, -0.626, -0.426, 1.224, 1.214, 0.288, 0.294], 'remarks': ['Ditch', '', 'LB', '', '', '', 'CL', '', '', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP15--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP16--------
+
+
+
+
+ chainage=600 sec=DP16 row1=129 row2=145 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19, 20, 25, 30], 'rl': [-1.266, -0.866, -0.566, -0.176, -0.127, -0.376, -0.617, -0.736, -0.796, -0.742, -0.618, -0.427, 1.154, 1.149, 0.299, -0.521, -0.526], 'remarks': ['Ditch', '', 'LB', '', '', '', 'CL', '', '', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP16--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP17--------
+
+
+
+
+ chainage=700 sec=DP17 row1=149 row2=163 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 20, 25], 'rl': [-1.282, -1.143, -1.082, -0.037, 0.043, -0.148, -0.352, -0.472, -0.542, -0.482, -0.343, -0.192, 0.348, 0.353, 0.358], 'remarks': ['Ditch', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP17--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP18--------
+
+
+
+
+ chainage=800 sec=DP18 row1=167 row2=181 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 25, 27], 'rl': [0.298, 0.293, 0.288, -0.292, -0.493, -0.642, -0.692, -0.633, -0.442, -0.282, -0.143, -0.133, -0.943, -1.082, -1.243], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', 'Ditch'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP18--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP19--------
+
+
+
+
+ chainage=900 sec=DP19 row1=192 row2=208 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 25, 30], 'rl': [-1.421, -1.152, -0.901, -0.001, 0.048, -0.096, -0.306, -0.501, -0.541, -0.601, -0.551, -0.452, -0.281, -0.052, 0.389, 0.394, 0.397], 'remarks': ['Ditch', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', '', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP19--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP110--------
+
+
+
+
+ chainage=1000 sec=DP110 row1=211 row2=223 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 13, 14, 15, 16, 17, 18, 20, 25, 30], 'rl': [0.294, 0.289, 0.284, -0.116, -0.267, -0.472, -0.542, -0.467, -0.321, -0.124, 0.304, 0.309, 0.319], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP110--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP111--------
+
+
+
+
+ chainage=1100 sec=DP111 row1=226 row2=239 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 25, 30], 'rl': [0.343, 0.333, 0.294, -0.067, -0.267, -0.406, -0.466, -0.397, -0.268, -0.068, 0.259, 0.264, 0.269, 0.274], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land', ''], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP111--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP112--------
+
+
+
+
+ chainage=1200 sec=DP112 row1=242 row2=254 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.431, 0.416, 0.405, -0.29, -0.534, -0.719, -0.79, -0.724, -0.539, -0.244, 0.361, 0.366, 0.371], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP112--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP113--------
+
+
+
+
+ chainage=1300 sec=DP113 row1=258 row2=281 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 14.5, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28, 29, 30, 35, 40], 'rl': [0.441, 0.436, 0.431, -0.129, -0.39, -0.595, -0.819, -0.89, -0.82, -0.619, -0.404, -0.129, 0.71, 0.701, -0.344, -0.644, -0.799, -0.864, -0.804, -0.639, -0.339, 0.456, 0.461, 0.471], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', '', 'RB', '', ''], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP113--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP114--------
+
+
+
+
+ chainage=1404 sec=DP114 row1=285 row2=301 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 15.5, 16, 17, 18, 19, 20, 21, 25, 30], 'rl': [0.841, 0.846, 0.851, -0.129, -0.284, -0.39, -0.649, -0.819, -0.88, -0.824, -0.644, -0.454, -0.244, 0.1, 0.51, 0.516, 0.526], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404], 'sectionNo': ['DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP114--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =DP10**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        DP10             0           0.0   0.893  River bank
+1        DP10             0           5.0   0.903            
+2        DP10             0          10.0   0.948          LB
+3        DP10             0          11.0  -0.257            
+4        DP10             0          12.0  -0.603            
+5        DP10             0          14.0  -0.803            
+6        DP10             0          16.0  -1.004          CL
+7        DP10             0          16.5  -1.063            
+8        DP10             0          17.0  -1.003            
+9        DP10             0          19.0  -0.852            
+10       DP10             0          21.0  -0.536            
+11       DP10             0          23.0   0.958          RB
+12       DP10             0          30.0   0.948            
+13       DP10             0          35.0   0.903  River bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       DP10             0          16.0  -1.004      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       DP10             0          10.0   0.948      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       DP10             0          23.0   0.958      RB
+ sencionno=DP10 CL distance=16.0 RL=-1.004
+ Finished Section no =DP10**********************************
+ 
+
+
+
+Initiated Section no =DP11**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+14       DP11           100           0.0  -0.776  Fisheries
+15       DP11           100           3.0  -0.371           
+16       DP11           100           5.0  -0.106         LB
+17       DP11           100           6.0   2.001           
+18       DP11           100           8.0   2.009           
+19       DP11           100           9.0   0.868           
+20       DP11           100          10.0   0.869           
+21       DP11           100          11.0  -0.386           
+22       DP11           100          12.0  -0.632           
+23       DP11           100          13.0  -0.958           
+24       DP11           100          14.0  -1.021         CL
+25       DP11           100          15.0  -0.962           
+26       DP11           100          16.0  -0.682           
+27       DP11           100          17.0  -0.371           
+28       DP11           100          18.0   0.864         RB
+29       DP11           100          21.0   0.859           
+30       DP11           100          22.0  -0.271           
+31       DP11           100          25.0  -0.771      Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+24       DP11           100          14.0  -1.021      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       DP11           100           5.0  -0.106      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       DP11           100          18.0   0.864      RB
+ sencionno=DP11 CL distance=14.0 RL=-1.021
+ Finished Section no =DP11**********************************
+ 
+
+
+
+Initiated Section no =DP12**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+32       DP12           200           0.0   0.367  Paddy land
+33       DP12           200           5.0   0.362            
+34       DP12           200          10.0   0.352          LB
+35       DP12           200          11.0  -0.578            
+36       DP12           200          12.0  -0.799            
+37       DP12           200          12.5  -0.920          CL
+38       DP12           200          13.0  -0.978            
+39       DP12           200          13.5  -0.923            
+40       DP12           200          14.0  -0.730            
+41       DP12           200          15.0  -0.534            
+42       DP12           200          16.0   0.392          RB
+43       DP12           200          20.0   0.402            
+44       DP12           200          25.0   0.406  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       DP12           200          12.5   -0.92      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       DP12           200          10.0   0.352      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       DP12           200          16.0   0.392      RB
+ sencionno=DP12 CL distance=12.5 RL=-0.92
+ Finished Section no =DP12**********************************
+ 
+
+
+
+Initiated Section no =DP13**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+45       DP13           300           0.0   0.193  Paddy land
+46       DP13           300           5.0   0.186            
+47       DP13           300          10.0   0.183          LB
+48       DP13           300          11.0  -0.281            
+49       DP13           300          12.0  -0.517            
+50       DP13           300          13.0  -0.816            
+51       DP13           300          14.0  -0.866          CL
+52       DP13           300          15.0  -0.817            
+53       DP13           300          16.0  -0.518            
+54       DP13           300          17.0  -0.266            
+55       DP13           300          18.0   0.083          RB
+56       DP13           300          25.0   0.089            
+57       DP13           300          30.0   0.094  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       DP13           300          14.0  -0.866      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+47       DP13           300          10.0   0.183      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+55       DP13           300          18.0   0.083      RB
+ sencionno=DP13 CL distance=14.0 RL=-0.866
+ Finished Section no =DP13**********************************
+ 
+
+
+
+Initiated Section no =DP14**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+58       DP14           400           0.0   0.359  Paddy land
+59       DP14           400           3.0   0.353            
+60       DP14           400           6.0   0.344          LB
+61       DP14           400           8.0   1.574            
+62       DP14           400          10.0   1.579            
+63       DP14           400          12.0  -0.417            
+64       DP14           400          13.0  -0.751            
+65       DP14           400          14.0  -0.806            
+66       DP14           400          15.0  -0.747          CL
+67       DP14           400          16.0  -0.518            
+68       DP14           400          17.0  -0.122          RB
+69       DP14           400          18.0   0.083            
+70       DP14           400          20.0   0.089            
+71       DP14           400          22.0  -0.656            
+72       DP14           400          25.0  -0.817            
+73       DP14           400          27.0  -0.966       Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       DP14           400          15.0  -0.747      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+60       DP14           400           6.0   0.344      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       DP14           400          17.0  -0.122      RB
+ sencionno=DP14 CL distance=15.0 RL=-0.747
+ Finished Section no =DP14**********************************
+ 
+
+
+
+Initiated Section no =DP15**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+74       DP15           500           0.0  -2.026       Ditch
+75       DP15           500           3.0  -1.581            
+76       DP15           500           6.0  -1.426          LB
+77       DP15           500           8.0  -0.118            
+78       DP15           500          10.0  -0.116            
+79       DP15           500          11.0  -0.431            
+80       DP15           500          12.0  -0.581          CL
+81       DP15           500          13.0  -0.778            
+82       DP15           500          14.0  -0.842            
+83       DP15           500          15.0  -0.777            
+84       DP15           500          16.0  -0.626            
+85       DP15           500          17.0  -0.426            
+86       DP15           500          18.0   1.224          RB
+87       DP15           500          20.0   1.214            
+88       DP15           500          22.0   0.288            
+89       DP15           500          30.0   0.294  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       DP15           500          12.0  -0.581      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       DP15           500           6.0  -1.426      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+86       DP15           500          18.0   1.224      RB
+ sencionno=DP15 CL distance=12.0 RL=-0.581
+ Finished Section no =DP15**********************************
+ 
+
+
+
+Initiated Section no =DP16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+90        DP16           600           0.0  -1.266       Ditch
+91        DP16           600           3.0  -0.866            
+92        DP16           600           6.0  -0.566          LB
+93        DP16           600           7.0  -0.176            
+94        DP16           600           8.0  -0.127            
+95        DP16           600           9.0  -0.376            
+96        DP16           600          10.0  -0.617          CL
+97        DP16           600          11.0  -0.736            
+98        DP16           600          12.0  -0.796            
+99        DP16           600          13.0  -0.742            
+100       DP16           600          14.0  -0.618            
+101       DP16           600          15.0  -0.427            
+102       DP16           600          16.0   1.154          RB
+103       DP16           600          19.0   1.149            
+104       DP16           600          20.0   0.299            
+105       DP16           600          25.0  -0.521            
+106       DP16           600          30.0  -0.526  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+96       DP16           600          10.0  -0.617      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       DP16           600           6.0  -0.566      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+102       DP16           600          16.0   1.154      RB
+ sencionno=DP16 CL distance=10.0 RL=-0.617
+ Finished Section no =DP16**********************************
+ 
+
+
+
+Initiated Section no =DP17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+107       DP17           700           0.0  -1.282       Ditch
+108       DP17           700           3.0  -1.143            
+109       DP17           700           6.0  -1.082          LB
+110       DP17           700           7.0  -0.037            
+111       DP17           700           8.0   0.043            
+112       DP17           700           9.0  -0.148            
+113       DP17           700          10.0  -0.352            
+114       DP17           700          11.0  -0.472          CL
+115       DP17           700          12.0  -0.542            
+116       DP17           700          13.0  -0.482            
+117       DP17           700          14.0  -0.343            
+118       DP17           700          15.0  -0.192            
+119       DP17           700          16.0   0.348          RB
+120       DP17           700          20.0   0.353            
+121       DP17           700          25.0   0.358  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       DP17           700          11.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+109       DP17           700           6.0  -1.082      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+119       DP17           700          16.0   0.348      RB
+ sencionno=DP17 CL distance=11.0 RL=-0.472
+ Finished Section no =DP17**********************************
+ 
+
+
+
+Initiated Section no =DP18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+122       DP18           800           0.0   0.298  Paddy land
+123       DP18           800           5.0   0.293            
+124       DP18           800          10.0   0.288          LB
+125       DP18           800          11.0  -0.292            
+126       DP18           800          12.0  -0.493            
+127       DP18           800          13.0  -0.642            
+128       DP18           800          14.0  -0.692            
+129       DP18           800          15.0  -0.633          CL
+130       DP18           800          16.0  -0.442            
+131       DP18           800          17.0  -0.282            
+132       DP18           800          18.0  -0.143          RB
+133       DP18           800          20.0  -0.133            
+134       DP18           800          22.0  -0.943            
+135       DP18           800          25.0  -1.082            
+136       DP18           800          27.0  -1.243       Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+129       DP18           800          15.0  -0.633      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       DP18           800          10.0   0.288      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       DP18           800          18.0  -0.143      RB
+ sencionno=DP18 CL distance=15.0 RL=-0.633
+ Finished Section no =DP18**********************************
+ 
+
+
+
+Initiated Section no =DP19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+137       DP19           900           0.0  -1.421       Ditch
+138       DP19           900           3.0  -1.152            
+139       DP19           900           5.0  -0.901          LB
+140       DP19           900           7.0  -0.001            
+141       DP19           900           9.0   0.048            
+142       DP19           900          10.0  -0.096            
+143       DP19           900          11.0  -0.306            
+144       DP19           900          12.0  -0.501          CL
+145       DP19           900          13.0  -0.541            
+146       DP19           900          14.0  -0.601            
+147       DP19           900          15.0  -0.551          RB
+148       DP19           900          16.0  -0.452            
+149       DP19           900          17.0  -0.281            
+150       DP19           900          18.0  -0.052            
+151       DP19           900          19.0   0.389            
+152       DP19           900          25.0   0.394            
+153       DP19           900          30.0   0.397  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144       DP19           900          12.0  -0.501      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       DP19           900           5.0  -0.901      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+147       DP19           900          15.0  -0.551      RB
+ sencionno=DP19 CL distance=12.0 RL=-0.501
+ Finished Section no =DP19**********************************
+ 
+
+
+
+Initiated Section no =DP110**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+154      DP110          1000           0.0   0.294  Paddy land
+155      DP110          1000           5.0   0.289            
+156      DP110          1000          10.0   0.284          LB
+157      DP110          1000          12.0  -0.116            
+158      DP110          1000          13.0  -0.267            
+159      DP110          1000          14.0  -0.472          CL
+160      DP110          1000          15.0  -0.542            
+161      DP110          1000          16.0  -0.467            
+162      DP110          1000          17.0  -0.321            
+163      DP110          1000          18.0  -0.124            
+164      DP110          1000          20.0   0.304          RB
+165      DP110          1000          25.0   0.309            
+166      DP110          1000          30.0   0.319  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+159      DP110          1000          14.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      DP110          1000          10.0   0.284      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+164      DP110          1000          20.0   0.304      RB
+ sencionno=DP110 CL distance=14.0 RL=-0.472
+ Finished Section no =DP110**********************************
+ 
+
+
+
+Initiated Section no =DP111**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+167      DP111          1100           0.0   0.343  Paddy land
+168      DP111          1100           5.0   0.333            
+169      DP111          1100          10.0   0.294          LB
+170      DP111          1100          11.0  -0.067            
+171      DP111          1100          12.0  -0.267            
+172      DP111          1100          13.0  -0.406            
+173      DP111          1100          14.0  -0.466          CL
+174      DP111          1100          15.0  -0.397            
+175      DP111          1100          16.0  -0.268            
+176      DP111          1100          17.0  -0.068            
+177      DP111          1100          18.0   0.259          RB
+178      DP111          1100          20.0   0.264            
+179      DP111          1100          25.0   0.269  Paddy land
+180      DP111          1100          30.0   0.274            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+173      DP111          1100          14.0  -0.466      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      DP111          1100          10.0   0.294      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      DP111          1100          18.0   0.259      RB
+ sencionno=DP111 CL distance=14.0 RL=-0.466
+ Finished Section no =DP111**********************************
+ 
+
+
+
+Initiated Section no =DP112**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+181      DP112          1200           0.0   0.431  Paddy land
+182      DP112          1200           5.0   0.416            
+183      DP112          1200          10.0   0.405          LB
+184      DP112          1200          11.0  -0.290            
+185      DP112          1200          12.0  -0.534            
+186      DP112          1200          12.5  -0.719          CL
+187      DP112          1200          13.0  -0.790            
+188      DP112          1200          13.5  -0.724            
+189      DP112          1200          14.0  -0.539            
+190      DP112          1200          15.0  -0.244            
+191      DP112          1200          16.0   0.361          RB
+192      DP112          1200          20.0   0.366            
+193      DP112          1200          25.0   0.371  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186      DP112          1200          12.5  -0.719      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+183      DP112          1200          10.0   0.405      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+191      DP112          1200          16.0   0.361      RB
+ sencionno=DP112 CL distance=12.5 RL=-0.719
+ Finished Section no =DP112**********************************
+ 
+
+
+
+Initiated Section no =DP113**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+194      DP113          1300           0.0   0.441  Paddy land
+195      DP113          1300           5.0   0.436            
+196      DP113          1300          10.0   0.431            
+197      DP113          1300          11.0  -0.129          LB
+198      DP113          1300          12.0  -0.390            
+199      DP113          1300          13.0  -0.595            
+200      DP113          1300          14.0  -0.819            
+201      DP113          1300          14.5  -0.890            
+202      DP113          1300          15.0  -0.820            
+203      DP113          1300          16.0  -0.619            
+204      DP113          1300          17.0  -0.404            
+205      DP113          1300          18.0  -0.129            
+206      DP113          1300          19.0   0.710          CL
+207      DP113          1300          22.0   0.701            
+208      DP113          1300          23.0  -0.344            
+209      DP113          1300          24.0  -0.644            
+210      DP113          1300          25.0  -0.799            
+211      DP113          1300          26.0  -0.864            
+212      DP113          1300          27.0  -0.804            
+213      DP113          1300          28.0  -0.639            
+214      DP113          1300          29.0  -0.339            
+215      DP113          1300          30.0   0.456          RB
+216      DP113          1300          35.0   0.461            
+217      DP113          1300          40.0   0.471            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+206      DP113          1300          19.0    0.71      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+197      DP113          1300          11.0  -0.129      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+215      DP113          1300          30.0   0.456      RB
+ sencionno=DP113 CL distance=19.0 RL=0.71
+ Finished Section no =DP113**********************************
+ 
+
+
+
+Initiated Section no =DP114**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+218      DP114          1404           0.0   0.841  Paddy land
+219      DP114          1404           5.0   0.846            
+220      DP114          1404          10.0   0.851          LB
+221      DP114          1404          11.0  -0.129            
+222      DP114          1404          12.0  -0.284            
+223      DP114          1404          13.0  -0.390            
+224      DP114          1404          14.0  -0.649            
+225      DP114          1404          15.0  -0.819          CL
+226      DP114          1404          15.5  -0.880            
+227      DP114          1404          16.0  -0.824            
+228      DP114          1404          17.0  -0.644            
+229      DP114          1404          18.0  -0.454            
+230      DP114          1404          19.0  -0.244            
+231      DP114          1404          20.0   0.100            
+232      DP114          1404          21.0   0.510          RB
+233      DP114          1404          25.0   0.516            
+234      DP114          1404          30.0   0.526  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      DP114          1404          15.0  -0.819      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      DP114          1404          10.0   0.851      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+232      DP114          1404          21.0    0.51      RB
+ sencionno=DP114 CL distance=15.0 RL=-0.819
+ Finished Section no =DP114**********************************
+ Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =DP10**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        DP10             0           0.0   0.893  River bank
+1        DP10             0           5.0   0.903            
+2        DP10             0          10.0   0.948          LB
+3        DP10             0          11.0  -0.257            
+4        DP10             0          12.0  -0.603            
+5        DP10             0          14.0  -0.803            
+6        DP10             0          16.0  -1.004          CL
+7        DP10             0          16.5  -1.063            
+8        DP10             0          17.0  -1.003            
+9        DP10             0          19.0  -0.852            
+10       DP10             0          21.0  -0.536            
+11       DP10             0          23.0   0.958          RB
+12       DP10             0          30.0   0.948            
+13       DP10             0          35.0   0.903  River bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       DP10             0          16.0  -1.004      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       DP10             0          10.0   0.948      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       DP10             0          23.0   0.958      RB
+ sencionno=DP10 CL distance=16.0 RL=-1.004
+ Finished Section no =DP10**********************************
+ 
+
+
+
+Initiated Section no =DP11**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+14       DP11           100           0.0  -0.776  Fisheries
+15       DP11           100           3.0  -0.371           
+16       DP11           100           5.0  -0.106         LB
+17       DP11           100           6.0   2.001           
+18       DP11           100           8.0   2.009           
+19       DP11           100           9.0   0.868           
+20       DP11           100          10.0   0.869           
+21       DP11           100          11.0  -0.386           
+22       DP11           100          12.0  -0.632           
+23       DP11           100          13.0  -0.958           
+24       DP11           100          14.0  -1.021         CL
+25       DP11           100          15.0  -0.962           
+26       DP11           100          16.0  -0.682           
+27       DP11           100          17.0  -0.371           
+28       DP11           100          18.0   0.864         RB
+29       DP11           100          21.0   0.859           
+30       DP11           100          22.0  -0.271           
+31       DP11           100          25.0  -0.771      Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+24       DP11           100          14.0  -1.021      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       DP11           100           5.0  -0.106      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       DP11           100          18.0   0.864      RB
+ sencionno=DP11 CL distance=14.0 RL=-1.021
+ Finished Section no =DP11**********************************
+ 
+
+
+
+Initiated Section no =DP12**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+32       DP12           200           0.0   0.367  Paddy land
+33       DP12           200           5.0   0.362            
+34       DP12           200          10.0   0.352          LB
+35       DP12           200          11.0  -0.578            
+36       DP12           200          12.0  -0.799            
+37       DP12           200          12.5  -0.920          CL
+38       DP12           200          13.0  -0.978            
+39       DP12           200          13.5  -0.923            
+40       DP12           200          14.0  -0.730            
+41       DP12           200          15.0  -0.534            
+42       DP12           200          16.0   0.392          RB
+43       DP12           200          20.0   0.402            
+44       DP12           200          25.0   0.406  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       DP12           200          12.5   -0.92      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       DP12           200          10.0   0.352      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       DP12           200          16.0   0.392      RB
+ sencionno=DP12 CL distance=12.5 RL=-0.92
+ Finished Section no =DP12**********************************
+ 
+
+
+
+Initiated Section no =DP13**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+45       DP13           300           0.0   0.193  Paddy land
+46       DP13           300           5.0   0.186            
+47       DP13           300          10.0   0.183          LB
+48       DP13           300          11.0  -0.281            
+49       DP13           300          12.0  -0.517            
+50       DP13           300          13.0  -0.816            
+51       DP13           300          14.0  -0.866          CL
+52       DP13           300          15.0  -0.817            
+53       DP13           300          16.0  -0.518            
+54       DP13           300          17.0  -0.266            
+55       DP13           300          18.0   0.083          RB
+56       DP13           300          25.0   0.089            
+57       DP13           300          30.0   0.094  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       DP13           300          14.0  -0.866      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+47       DP13           300          10.0   0.183      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+55       DP13           300          18.0   0.083      RB
+ sencionno=DP13 CL distance=14.0 RL=-0.866
+ Finished Section no =DP13**********************************
+ 
+
+
+
+Initiated Section no =DP14**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+58       DP14           400           0.0   0.359  Paddy land
+59       DP14           400           3.0   0.353            
+60       DP14           400           6.0   0.344          LB
+61       DP14           400           8.0   1.574            
+62       DP14           400          10.0   1.579            
+63       DP14           400          12.0  -0.417            
+64       DP14           400          13.0  -0.751            
+65       DP14           400          14.0  -0.806            
+66       DP14           400          15.0  -0.747          CL
+67       DP14           400          16.0  -0.518            
+68       DP14           400          17.0  -0.122          RB
+69       DP14           400          18.0   0.083            
+70       DP14           400          20.0   0.089            
+71       DP14           400          22.0  -0.656            
+72       DP14           400          25.0  -0.817            
+73       DP14           400          27.0  -0.966       Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       DP14           400          15.0  -0.747      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+60       DP14           400           6.0   0.344      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       DP14           400          17.0  -0.122      RB
+ sencionno=DP14 CL distance=15.0 RL=-0.747
+ Finished Section no =DP14**********************************
+ 
+
+
+
+Initiated Section no =DP15**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+74       DP15           500           0.0  -2.026       Ditch
+75       DP15           500           3.0  -1.581            
+76       DP15           500           6.0  -1.426          LB
+77       DP15           500           8.0  -0.118            
+78       DP15           500          10.0  -0.116            
+79       DP15           500          11.0  -0.431            
+80       DP15           500          12.0  -0.581          CL
+81       DP15           500          13.0  -0.778            
+82       DP15           500          14.0  -0.842            
+83       DP15           500          15.0  -0.777            
+84       DP15           500          16.0  -0.626            
+85       DP15           500          17.0  -0.426            
+86       DP15           500          18.0   1.224          RB
+87       DP15           500          20.0   1.214            
+88       DP15           500          22.0   0.288            
+89       DP15           500          30.0   0.294  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       DP15           500          12.0  -0.581      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       DP15           500           6.0  -1.426      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+86       DP15           500          18.0   1.224      RB
+ sencionno=DP15 CL distance=12.0 RL=-0.581
+ Finished Section no =DP15**********************************
+ 
+
+
+
+Initiated Section no =DP16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+90        DP16           600           0.0  -1.266       Ditch
+91        DP16           600           3.0  -0.866            
+92        DP16           600           6.0  -0.566          LB
+93        DP16           600           7.0  -0.176            
+94        DP16           600           8.0  -0.127            
+95        DP16           600           9.0  -0.376            
+96        DP16           600          10.0  -0.617          CL
+97        DP16           600          11.0  -0.736            
+98        DP16           600          12.0  -0.796            
+99        DP16           600          13.0  -0.742            
+100       DP16           600          14.0  -0.618            
+101       DP16           600          15.0  -0.427            
+102       DP16           600          16.0   1.154          RB
+103       DP16           600          19.0   1.149            
+104       DP16           600          20.0   0.299            
+105       DP16           600          25.0  -0.521            
+106       DP16           600          30.0  -0.526  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+96       DP16           600          10.0  -0.617      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       DP16           600           6.0  -0.566      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+102       DP16           600          16.0   1.154      RB
+ sencionno=DP16 CL distance=10.0 RL=-0.617
+ Finished Section no =DP16**********************************
+ 
+
+
+
+Initiated Section no =DP17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+107       DP17           700           0.0  -1.282       Ditch
+108       DP17           700           3.0  -1.143            
+109       DP17           700           6.0  -1.082          LB
+110       DP17           700           7.0  -0.037            
+111       DP17           700           8.0   0.043            
+112       DP17           700           9.0  -0.148            
+113       DP17           700          10.0  -0.352            
+114       DP17           700          11.0  -0.472          CL
+115       DP17           700          12.0  -0.542            
+116       DP17           700          13.0  -0.482            
+117       DP17           700          14.0  -0.343            
+118       DP17           700          15.0  -0.192            
+119       DP17           700          16.0   0.348          RB
+120       DP17           700          20.0   0.353            
+121       DP17           700          25.0   0.358  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       DP17           700          11.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+109       DP17           700           6.0  -1.082      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+119       DP17           700          16.0   0.348      RB
+ sencionno=DP17 CL distance=11.0 RL=-0.472
+ Finished Section no =DP17**********************************
+ 
+
+
+
+Initiated Section no =DP18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+122       DP18           800           0.0   0.298  Paddy land
+123       DP18           800           5.0   0.293            
+124       DP18           800          10.0   0.288          LB
+125       DP18           800          11.0  -0.292            
+126       DP18           800          12.0  -0.493            
+127       DP18           800          13.0  -0.642            
+128       DP18           800          14.0  -0.692            
+129       DP18           800          15.0  -0.633          CL
+130       DP18           800          16.0  -0.442            
+131       DP18           800          17.0  -0.282            
+132       DP18           800          18.0  -0.143          RB
+133       DP18           800          20.0  -0.133            
+134       DP18           800          22.0  -0.943            
+135       DP18           800          25.0  -1.082            
+136       DP18           800          27.0  -1.243       Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+129       DP18           800          15.0  -0.633      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       DP18           800          10.0   0.288      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       DP18           800          18.0  -0.143      RB
+ sencionno=DP18 CL distance=15.0 RL=-0.633
+ Finished Section no =DP18**********************************
+ 
+
+
+
+Initiated Section no =DP19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+137       DP19           900           0.0  -1.421       Ditch
+138       DP19           900           3.0  -1.152            
+139       DP19           900           5.0  -0.901          LB
+140       DP19           900           7.0  -0.001            
+141       DP19           900           9.0   0.048            
+142       DP19           900          10.0  -0.096            
+143       DP19           900          11.0  -0.306            
+144       DP19           900          12.0  -0.501          CL
+145       DP19           900          13.0  -0.541            
+146       DP19           900          14.0  -0.601            
+147       DP19           900          15.0  -0.551          RB
+148       DP19           900          16.0  -0.452            
+149       DP19           900          17.0  -0.281            
+150       DP19           900          18.0  -0.052            
+151       DP19           900          19.0   0.389            
+152       DP19           900          25.0   0.394            
+153       DP19           900          30.0   0.397  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144       DP19           900          12.0  -0.501      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       DP19           900           5.0  -0.901      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+147       DP19           900          15.0  -0.551      RB
+ sencionno=DP19 CL distance=12.0 RL=-0.501
+ Finished Section no =DP19**********************************
+ 
+
+
+
+Initiated Section no =DP110**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+154      DP110          1000           0.0   0.294  Paddy land
+155      DP110          1000           5.0   0.289            
+156      DP110          1000          10.0   0.284          LB
+157      DP110          1000          12.0  -0.116            
+158      DP110          1000          13.0  -0.267            
+159      DP110          1000          14.0  -0.472          CL
+160      DP110          1000          15.0  -0.542            
+161      DP110          1000          16.0  -0.467            
+162      DP110          1000          17.0  -0.321            
+163      DP110          1000          18.0  -0.124            
+164      DP110          1000          20.0   0.304          RB
+165      DP110          1000          25.0   0.309            
+166      DP110          1000          30.0   0.319  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+159      DP110          1000          14.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      DP110          1000          10.0   0.284      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+164      DP110          1000          20.0   0.304      RB
+ sencionno=DP110 CL distance=14.0 RL=-0.472
+ Finished Section no =DP110**********************************
+ 
+
+
+
+Initiated Section no =DP111**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+167      DP111          1100           0.0   0.343  Paddy land
+168      DP111          1100           5.0   0.333            
+169      DP111          1100          10.0   0.294          LB
+170      DP111          1100          11.0  -0.067            
+171      DP111          1100          12.0  -0.267            
+172      DP111          1100          13.0  -0.406            
+173      DP111          1100          14.0  -0.466          CL
+174      DP111          1100          15.0  -0.397            
+175      DP111          1100          16.0  -0.268            
+176      DP111          1100          17.0  -0.068            
+177      DP111          1100          18.0   0.259          RB
+178      DP111          1100          20.0   0.264            
+179      DP111          1100          25.0   0.269  Paddy land
+180      DP111          1100          30.0   0.274            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+173      DP111          1100          14.0  -0.466      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      DP111          1100          10.0   0.294      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      DP111          1100          18.0   0.259      RB
+ sencionno=DP111 CL distance=14.0 RL=-0.466
+ Finished Section no =DP111**********************************
+ 
+
+
+
+Initiated Section no =DP112**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+181      DP112          1200           0.0   0.431  Paddy land
+182      DP112          1200           5.0   0.416            
+183      DP112          1200          10.0   0.405          LB
+184      DP112          1200          11.0  -0.290            
+185      DP112          1200          12.0  -0.534            
+186      DP112          1200          12.5  -0.719          CL
+187      DP112          1200          13.0  -0.790            
+188      DP112          1200          13.5  -0.724            
+189      DP112          1200          14.0  -0.539            
+190      DP112          1200          15.0  -0.244            
+191      DP112          1200          16.0   0.361          RB
+192      DP112          1200          20.0   0.366            
+193      DP112          1200          25.0   0.371  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186      DP112          1200          12.5  -0.719      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+183      DP112          1200          10.0   0.405      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+191      DP112          1200          16.0   0.361      RB
+ sencionno=DP112 CL distance=12.5 RL=-0.719
+ Finished Section no =DP112**********************************
+ 
+
+
+
+Initiated Section no =DP113**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+194      DP113          1300           0.0   0.441  Paddy land
+195      DP113          1300           5.0   0.436            
+196      DP113          1300          10.0   0.431            
+197      DP113          1300          11.0  -0.129          LB
+198      DP113          1300          12.0  -0.390            
+199      DP113          1300          13.0  -0.595            
+200      DP113          1300          14.0  -0.819            
+201      DP113          1300          14.5  -0.890            
+202      DP113          1300          15.0  -0.820            
+203      DP113          1300          16.0  -0.619            
+204      DP113          1300          17.0  -0.404            
+205      DP113          1300          18.0  -0.129            
+206      DP113          1300          19.0   0.710          CL
+207      DP113          1300          22.0   0.701            
+208      DP113          1300          23.0  -0.344            
+209      DP113          1300          24.0  -0.644            
+210      DP113          1300          25.0  -0.799            
+211      DP113          1300          26.0  -0.864            
+212      DP113          1300          27.0  -0.804            
+213      DP113          1300          28.0  -0.639            
+214      DP113          1300          29.0  -0.339            
+215      DP113          1300          30.0   0.456          RB
+216      DP113          1300          35.0   0.461            
+217      DP113          1300          40.0   0.471            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+206      DP113          1300          19.0    0.71      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+197      DP113          1300          11.0  -0.129      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+215      DP113          1300          30.0   0.456      RB
+ sencionno=DP113 CL distance=19.0 RL=0.71
+ Finished Section no =DP113**********************************
+ 
+
+
+
+Initiated Section no =DP114**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+218      DP114          1404           0.0   0.841  Paddy land
+219      DP114          1404           5.0   0.846            
+220      DP114          1404          10.0   0.851          LB
+221      DP114          1404          11.0  -0.129            
+222      DP114          1404          12.0  -0.284            
+223      DP114          1404          13.0  -0.390            
+224      DP114          1404          14.0  -0.649            
+225      DP114          1404          15.0  -0.819          CL
+226      DP114          1404          15.5  -0.880            
+227      DP114          1404          16.0  -0.824            
+228      DP114          1404          17.0  -0.644            
+229      DP114          1404          18.0  -0.454            
+230      DP114          1404          19.0  -0.244            
+231      DP114          1404          20.0   0.100            
+232      DP114          1404          21.0   0.510          RB
+233      DP114          1404          25.0   0.516            
+234      DP114          1404          30.0   0.526  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      DP114          1404          15.0  -0.819      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      DP114          1404          10.0   0.851      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+232      DP114          1404          21.0    0.51      RB
+ sencionno=DP114 CL distance=15.0 RL=-0.819
+ Finished Section no =DP114**********************************
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_11   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2      KhalName     GL  Ivert Level  \
+0        DP10         0    5   18  B  D  Duapara khal  0.402         -1.6   
+1        DP11       100   22   39  B  D  Duapara khal  0.402         -1.6   
+2        DP12       200   43   55  B  D  Duapara khal  0.402         -1.6   
+3        DP13       300   66   78  B  D  Duapara khal  0.402         -1.6   
+4        DP14       400   82   97  B  D  Duapara khal  0.402         -1.6   
+5        DP15       500  101  116  B  D  Duapara khal  0.402         -1.6   
+6        DP16       600  129  145  B  D  Duapara khal  0.402         -1.6   
+7        DP17       700  149  163  B  D  Duapara khal  0.402         -1.6   
+8        DP18       800  167  181  B  D  Duapara khal  0.402         -1.6   
+9        DP19       900  192  208  B  D  Duapara khal  0.402         -1.6   
+10      DP110      1000  211  223  B  D  Duapara khal  0.402         -1.6   
+11      DP111      1100  226  239  B  D  Duapara khal  0.402         -1.6   
+12      DP112      1200  242  254  B  D  Duapara khal  0.402         -1.6   
+13      DP113      1300  258  281  B  D  Duapara khal  0.402         -1.6   
+14      DP114      1404  285  301  B  D  Duapara khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+ --------Intiated Data Transfer for section no=DP10--------
+
+
+
+
+ chainage=0 sec=DP10 row1=5 row2=18 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 16.5, 17, 19, 21, 23, 30, 35], 'rl': [0.893, 0.903, 0.948, -0.257, -0.603, -0.803, -1.004, -1.063, -1.003, -0.852, -0.536, 0.958, 0.948, 0.903], 'remarks': ['River bank', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'River bank'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10', 'DP10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP10--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP11--------
+
+
+
+
+ chainage=100 sec=DP11 row1=22 row2=39 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22, 25], 'rl': [-0.776, -0.371, -0.106, 2.001, 2.009, 0.868, 0.869, -0.386, -0.632, -0.958, -1.021, -0.962, -0.682, -0.371, 0.864, 0.859, -0.271, -0.771], 'remarks': ['Fisheries', '', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Ditch'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11', 'DP11']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP11--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP12--------
+
+
+
+
+ chainage=200 sec=DP12 row1=43 row2=55 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.367, 0.362, 0.352, -0.578, -0.799, -0.92, -0.978, -0.923, -0.73, -0.534, 0.392, 0.402, 0.406], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12', 'DP12']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP12--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP13--------
+
+
+
+
+ chainage=300 sec=DP13 row1=66 row2=78 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 25, 30], 'rl': [0.193, 0.186, 0.183, -0.281, -0.517, -0.816, -0.866, -0.817, -0.518, -0.266, 0.083, 0.089, 0.094], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13', 'DP13']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP13--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP14--------
+
+
+
+
+ chainage=400 sec=DP14 row1=82 row2=97 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 8, 10, 12, 13, 14, 15, 16, 17, 18, 20, 22, 25, 27], 'rl': [0.359, 0.353, 0.344, 1.574, 1.579, -0.417, -0.751, -0.806, -0.747, -0.518, -0.122, 0.083, 0.089, -0.656, -0.817, -0.966], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', '', 'CL', '', 'RB', '', '', '', '', 'Ditch'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14', 'DP14']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP14--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP15--------
+
+
+
+
+ chainage=500 sec=DP15 row1=101 row2=116 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 30], 'rl': [-2.026, -1.581, -1.426, -0.118, -0.116, -0.431, -0.581, -0.778, -0.842, -0.777, -0.626, -0.426, 1.224, 1.214, 0.288, 0.294], 'remarks': ['Ditch', '', 'LB', '', '', '', 'CL', '', '', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15', 'DP15']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP15--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP16--------
+
+
+
+
+ chainage=600 sec=DP16 row1=129 row2=145 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19, 20, 25, 30], 'rl': [-1.266, -0.866, -0.566, -0.176, -0.127, -0.376, -0.617, -0.736, -0.796, -0.742, -0.618, -0.427, 1.154, 1.149, 0.299, -0.521, -0.526], 'remarks': ['Ditch', '', 'LB', '', '', '', 'CL', '', '', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16', 'DP16']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP16--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP17--------
+
+
+
+
+ chainage=700 sec=DP17 row1=149 row2=163 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 20, 25], 'rl': [-1.282, -1.143, -1.082, -0.037, 0.043, -0.148, -0.352, -0.472, -0.542, -0.482, -0.343, -0.192, 0.348, 0.353, 0.358], 'remarks': ['Ditch', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17', 'DP17']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP17--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP18--------
+
+
+
+
+ chainage=800 sec=DP18 row1=167 row2=181 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 25, 27], 'rl': [0.298, 0.293, 0.288, -0.292, -0.493, -0.642, -0.692, -0.633, -0.442, -0.282, -0.143, -0.133, -0.943, -1.082, -1.243], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', 'Ditch'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18', 'DP18']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP18--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP19--------
+
+
+
+
+ chainage=900 sec=DP19 row1=192 row2=208 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 25, 30], 'rl': [-1.421, -1.152, -0.901, -0.001, 0.048, -0.096, -0.306, -0.501, -0.541, -0.601, -0.551, -0.452, -0.281, -0.052, 0.389, 0.394, 0.397], 'remarks': ['Ditch', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', '', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19', 'DP19']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP19--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP110--------
+
+
+
+
+ chainage=1000 sec=DP110 row1=211 row2=223 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 13, 14, 15, 16, 17, 18, 20, 25, 30], 'rl': [0.294, 0.289, 0.284, -0.116, -0.267, -0.472, -0.542, -0.467, -0.321, -0.124, 0.304, 0.309, 0.319], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110', 'DP110']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP110--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP111--------
+
+
+
+
+ chainage=1100 sec=DP111 row1=226 row2=239 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 25, 30], 'rl': [0.343, 0.333, 0.294, -0.067, -0.267, -0.406, -0.466, -0.397, -0.268, -0.068, 0.259, 0.264, 0.269, 0.274], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land', ''], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111', 'DP111']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP111--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP112--------
+
+
+
+
+ chainage=1200 sec=DP112 row1=242 row2=254 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 12.5, 13, 13.5, 14, 15, 16, 20, 25], 'rl': [0.431, 0.416, 0.405, -0.29, -0.534, -0.719, -0.79, -0.724, -0.539, -0.244, 0.361, 0.366, 0.371], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112', 'DP112']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP112--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP113--------
+
+
+
+
+ chainage=1300 sec=DP113 row1=258 row2=281 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 14.5, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28, 29, 30, 35, 40], 'rl': [0.441, 0.436, 0.431, -0.129, -0.39, -0.595, -0.819, -0.89, -0.82, -0.619, -0.404, -0.129, 0.71, 0.701, -0.344, -0.644, -0.799, -0.864, -0.804, -0.639, -0.339, 0.456, 0.461, 0.471], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', '', 'RB', '', ''], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113', 'DP113']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP113--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DP114--------
+
+
+
+
+ chainage=1404 sec=DP114 row1=285 row2=301 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 15.5, 16, 17, 18, 19, 20, 21, 25, 30], 'rl': [0.841, 0.846, 0.851, -0.129, -0.284, -0.39, -0.649, -0.819, -0.88, -0.824, -0.644, -0.454, -0.244, 0.1, 0.51, 0.516, 0.526], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404], 'sectionNo': ['DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114', 'DP114']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DP114--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =DP10**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        DP10             0           0.0   0.893  River bank
+1        DP10             0           5.0   0.903            
+2        DP10             0          10.0   0.948          LB
+3        DP10             0          11.0  -0.257            
+4        DP10             0          12.0  -0.603            
+5        DP10             0          14.0  -0.803            
+6        DP10             0          16.0  -1.004          CL
+7        DP10             0          16.5  -1.063            
+8        DP10             0          17.0  -1.003            
+9        DP10             0          19.0  -0.852            
+10       DP10             0          21.0  -0.536            
+11       DP10             0          23.0   0.958          RB
+12       DP10             0          30.0   0.948            
+13       DP10             0          35.0   0.903  River bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       DP10             0          16.0  -1.004      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       DP10             0          10.0   0.948      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       DP10             0          23.0   0.958      RB
+ sencionno=DP10 CL distance=16.0 RL=-1.004
+ Finished Section no =DP10**********************************
+ 
+
+
+
+Initiated Section no =DP11**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+14       DP11           100           0.0  -0.776  Fisheries
+15       DP11           100           3.0  -0.371           
+16       DP11           100           5.0  -0.106         LB
+17       DP11           100           6.0   2.001           
+18       DP11           100           8.0   2.009           
+19       DP11           100           9.0   0.868           
+20       DP11           100          10.0   0.869           
+21       DP11           100          11.0  -0.386           
+22       DP11           100          12.0  -0.632           
+23       DP11           100          13.0  -0.958           
+24       DP11           100          14.0  -1.021         CL
+25       DP11           100          15.0  -0.962           
+26       DP11           100          16.0  -0.682           
+27       DP11           100          17.0  -0.371           
+28       DP11           100          18.0   0.864         RB
+29       DP11           100          21.0   0.859           
+30       DP11           100          22.0  -0.271           
+31       DP11           100          25.0  -0.771      Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+24       DP11           100          14.0  -1.021      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       DP11           100           5.0  -0.106      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       DP11           100          18.0   0.864      RB
+ sencionno=DP11 CL distance=14.0 RL=-1.021
+ Finished Section no =DP11**********************************
+ 
+
+
+
+Initiated Section no =DP12**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+32       DP12           200           0.0   0.367  Paddy land
+33       DP12           200           5.0   0.362            
+34       DP12           200          10.0   0.352          LB
+35       DP12           200          11.0  -0.578            
+36       DP12           200          12.0  -0.799            
+37       DP12           200          12.5  -0.920          CL
+38       DP12           200          13.0  -0.978            
+39       DP12           200          13.5  -0.923            
+40       DP12           200          14.0  -0.730            
+41       DP12           200          15.0  -0.534            
+42       DP12           200          16.0   0.392          RB
+43       DP12           200          20.0   0.402            
+44       DP12           200          25.0   0.406  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       DP12           200          12.5   -0.92      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       DP12           200          10.0   0.352      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       DP12           200          16.0   0.392      RB
+ sencionno=DP12 CL distance=12.5 RL=-0.92
+ Finished Section no =DP12**********************************
+ 
+
+
+
+Initiated Section no =DP13**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+45       DP13           300           0.0   0.193  Paddy land
+46       DP13           300           5.0   0.186            
+47       DP13           300          10.0   0.183          LB
+48       DP13           300          11.0  -0.281            
+49       DP13           300          12.0  -0.517            
+50       DP13           300          13.0  -0.816            
+51       DP13           300          14.0  -0.866          CL
+52       DP13           300          15.0  -0.817            
+53       DP13           300          16.0  -0.518            
+54       DP13           300          17.0  -0.266            
+55       DP13           300          18.0   0.083          RB
+56       DP13           300          25.0   0.089            
+57       DP13           300          30.0   0.094  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       DP13           300          14.0  -0.866      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+47       DP13           300          10.0   0.183      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+55       DP13           300          18.0   0.083      RB
+ sencionno=DP13 CL distance=14.0 RL=-0.866
+ Finished Section no =DP13**********************************
+ 
+
+
+
+Initiated Section no =DP14**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+58       DP14           400           0.0   0.359  Paddy land
+59       DP14           400           3.0   0.353            
+60       DP14           400           6.0   0.344          LB
+61       DP14           400           8.0   1.574            
+62       DP14           400          10.0   1.579            
+63       DP14           400          12.0  -0.417            
+64       DP14           400          13.0  -0.751            
+65       DP14           400          14.0  -0.806            
+66       DP14           400          15.0  -0.747          CL
+67       DP14           400          16.0  -0.518            
+68       DP14           400          17.0  -0.122          RB
+69       DP14           400          18.0   0.083            
+70       DP14           400          20.0   0.089            
+71       DP14           400          22.0  -0.656            
+72       DP14           400          25.0  -0.817            
+73       DP14           400          27.0  -0.966       Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       DP14           400          15.0  -0.747      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+60       DP14           400           6.0   0.344      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       DP14           400          17.0  -0.122      RB
+ sencionno=DP14 CL distance=15.0 RL=-0.747
+ Finished Section no =DP14**********************************
+ 
+
+
+
+Initiated Section no =DP15**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+74       DP15           500           0.0  -2.026       Ditch
+75       DP15           500           3.0  -1.581            
+76       DP15           500           6.0  -1.426          LB
+77       DP15           500           8.0  -0.118            
+78       DP15           500          10.0  -0.116            
+79       DP15           500          11.0  -0.431            
+80       DP15           500          12.0  -0.581          CL
+81       DP15           500          13.0  -0.778            
+82       DP15           500          14.0  -0.842            
+83       DP15           500          15.0  -0.777            
+84       DP15           500          16.0  -0.626            
+85       DP15           500          17.0  -0.426            
+86       DP15           500          18.0   1.224          RB
+87       DP15           500          20.0   1.214            
+88       DP15           500          22.0   0.288            
+89       DP15           500          30.0   0.294  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       DP15           500          12.0  -0.581      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       DP15           500           6.0  -1.426      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+86       DP15           500          18.0   1.224      RB
+ sencionno=DP15 CL distance=12.0 RL=-0.581
+ Finished Section no =DP15**********************************
+ 
+
+
+
+Initiated Section no =DP16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+90        DP16           600           0.0  -1.266       Ditch
+91        DP16           600           3.0  -0.866            
+92        DP16           600           6.0  -0.566          LB
+93        DP16           600           7.0  -0.176            
+94        DP16           600           8.0  -0.127            
+95        DP16           600           9.0  -0.376            
+96        DP16           600          10.0  -0.617          CL
+97        DP16           600          11.0  -0.736            
+98        DP16           600          12.0  -0.796            
+99        DP16           600          13.0  -0.742            
+100       DP16           600          14.0  -0.618            
+101       DP16           600          15.0  -0.427            
+102       DP16           600          16.0   1.154          RB
+103       DP16           600          19.0   1.149            
+104       DP16           600          20.0   0.299            
+105       DP16           600          25.0  -0.521            
+106       DP16           600          30.0  -0.526  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+96       DP16           600          10.0  -0.617      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       DP16           600           6.0  -0.566      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+102       DP16           600          16.0   1.154      RB
+ sencionno=DP16 CL distance=10.0 RL=-0.617
+ Finished Section no =DP16**********************************
+ 
+
+
+
+Initiated Section no =DP17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+107       DP17           700           0.0  -1.282       Ditch
+108       DP17           700           3.0  -1.143            
+109       DP17           700           6.0  -1.082          LB
+110       DP17           700           7.0  -0.037            
+111       DP17           700           8.0   0.043            
+112       DP17           700           9.0  -0.148            
+113       DP17           700          10.0  -0.352            
+114       DP17           700          11.0  -0.472          CL
+115       DP17           700          12.0  -0.542            
+116       DP17           700          13.0  -0.482            
+117       DP17           700          14.0  -0.343            
+118       DP17           700          15.0  -0.192            
+119       DP17           700          16.0   0.348          RB
+120       DP17           700          20.0   0.353            
+121       DP17           700          25.0   0.358  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       DP17           700          11.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+109       DP17           700           6.0  -1.082      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+119       DP17           700          16.0   0.348      RB
+ sencionno=DP17 CL distance=11.0 RL=-0.472
+ Finished Section no =DP17**********************************
+ 
+
+
+
+Initiated Section no =DP18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+122       DP18           800           0.0   0.298  Paddy land
+123       DP18           800           5.0   0.293            
+124       DP18           800          10.0   0.288          LB
+125       DP18           800          11.0  -0.292            
+126       DP18           800          12.0  -0.493            
+127       DP18           800          13.0  -0.642            
+128       DP18           800          14.0  -0.692            
+129       DP18           800          15.0  -0.633          CL
+130       DP18           800          16.0  -0.442            
+131       DP18           800          17.0  -0.282            
+132       DP18           800          18.0  -0.143          RB
+133       DP18           800          20.0  -0.133            
+134       DP18           800          22.0  -0.943            
+135       DP18           800          25.0  -1.082            
+136       DP18           800          27.0  -1.243       Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+129       DP18           800          15.0  -0.633      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       DP18           800          10.0   0.288      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       DP18           800          18.0  -0.143      RB
+ sencionno=DP18 CL distance=15.0 RL=-0.633
+ Finished Section no =DP18**********************************
+ 
+
+
+
+Initiated Section no =DP19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+137       DP19           900           0.0  -1.421       Ditch
+138       DP19           900           3.0  -1.152            
+139       DP19           900           5.0  -0.901          LB
+140       DP19           900           7.0  -0.001            
+141       DP19           900           9.0   0.048            
+142       DP19           900          10.0  -0.096            
+143       DP19           900          11.0  -0.306            
+144       DP19           900          12.0  -0.501          CL
+145       DP19           900          13.0  -0.541            
+146       DP19           900          14.0  -0.601            
+147       DP19           900          15.0  -0.551          RB
+148       DP19           900          16.0  -0.452            
+149       DP19           900          17.0  -0.281            
+150       DP19           900          18.0  -0.052            
+151       DP19           900          19.0   0.389            
+152       DP19           900          25.0   0.394            
+153       DP19           900          30.0   0.397  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144       DP19           900          12.0  -0.501      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       DP19           900           5.0  -0.901      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+147       DP19           900          15.0  -0.551      RB
+ sencionno=DP19 CL distance=12.0 RL=-0.501
+ Finished Section no =DP19**********************************
+ 
+
+
+
+Initiated Section no =DP110**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+154      DP110          1000           0.0   0.294  Paddy land
+155      DP110          1000           5.0   0.289            
+156      DP110          1000          10.0   0.284          LB
+157      DP110          1000          12.0  -0.116            
+158      DP110          1000          13.0  -0.267            
+159      DP110          1000          14.0  -0.472          CL
+160      DP110          1000          15.0  -0.542            
+161      DP110          1000          16.0  -0.467            
+162      DP110          1000          17.0  -0.321            
+163      DP110          1000          18.0  -0.124            
+164      DP110          1000          20.0   0.304          RB
+165      DP110          1000          25.0   0.309            
+166      DP110          1000          30.0   0.319  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+159      DP110          1000          14.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      DP110          1000          10.0   0.284      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+164      DP110          1000          20.0   0.304      RB
+ sencionno=DP110 CL distance=14.0 RL=-0.472
+ Finished Section no =DP110**********************************
+ 
+
+
+
+Initiated Section no =DP111**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+167      DP111          1100           0.0   0.343  Paddy land
+168      DP111          1100           5.0   0.333            
+169      DP111          1100          10.0   0.294          LB
+170      DP111          1100          11.0  -0.067            
+171      DP111          1100          12.0  -0.267            
+172      DP111          1100          13.0  -0.406            
+173      DP111          1100          14.0  -0.466          CL
+174      DP111          1100          15.0  -0.397            
+175      DP111          1100          16.0  -0.268            
+176      DP111          1100          17.0  -0.068            
+177      DP111          1100          18.0   0.259          RB
+178      DP111          1100          20.0   0.264            
+179      DP111          1100          25.0   0.269  Paddy land
+180      DP111          1100          30.0   0.274            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+173      DP111          1100          14.0  -0.466      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      DP111          1100          10.0   0.294      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      DP111          1100          18.0   0.259      RB
+ sencionno=DP111 CL distance=14.0 RL=-0.466
+ Finished Section no =DP111**********************************
+ 
+
+
+
+Initiated Section no =DP112**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+181      DP112          1200           0.0   0.431  Paddy land
+182      DP112          1200           5.0   0.416            
+183      DP112          1200          10.0   0.405          LB
+184      DP112          1200          11.0  -0.290            
+185      DP112          1200          12.0  -0.534            
+186      DP112          1200          12.5  -0.719          CL
+187      DP112          1200          13.0  -0.790            
+188      DP112          1200          13.5  -0.724            
+189      DP112          1200          14.0  -0.539            
+190      DP112          1200          15.0  -0.244            
+191      DP112          1200          16.0   0.361          RB
+192      DP112          1200          20.0   0.366            
+193      DP112          1200          25.0   0.371  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186      DP112          1200          12.5  -0.719      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+183      DP112          1200          10.0   0.405      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+191      DP112          1200          16.0   0.361      RB
+ sencionno=DP112 CL distance=12.5 RL=-0.719
+ Finished Section no =DP112**********************************
+ 
+
+
+
+Initiated Section no =DP113**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+194      DP113          1300           0.0   0.441  Paddy land
+195      DP113          1300           5.0   0.436            
+196      DP113          1300          10.0   0.431            
+197      DP113          1300          11.0  -0.129          LB
+198      DP113          1300          12.0  -0.390            
+199      DP113          1300          13.0  -0.595            
+200      DP113          1300          14.0  -0.819            
+201      DP113          1300          14.5  -0.890            
+202      DP113          1300          15.0  -0.820            
+203      DP113          1300          16.0  -0.619            
+204      DP113          1300          17.0  -0.404            
+205      DP113          1300          18.0  -0.129            
+206      DP113          1300          19.0   0.710          CL
+207      DP113          1300          22.0   0.701            
+208      DP113          1300          23.0  -0.344            
+209      DP113          1300          24.0  -0.644            
+210      DP113          1300          25.0  -0.799            
+211      DP113          1300          26.0  -0.864            
+212      DP113          1300          27.0  -0.804            
+213      DP113          1300          28.0  -0.639            
+214      DP113          1300          29.0  -0.339            
+215      DP113          1300          30.0   0.456          RB
+216      DP113          1300          35.0   0.461            
+217      DP113          1300          40.0   0.471            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+206      DP113          1300          19.0    0.71      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+197      DP113          1300          11.0  -0.129      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+215      DP113          1300          30.0   0.456      RB
+ sencionno=DP113 CL distance=19.0 RL=0.71
+ Finished Section no =DP113**********************************
+ 
+
+
+
+Initiated Section no =DP114**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+218      DP114          1404           0.0   0.841  Paddy land
+219      DP114          1404           5.0   0.846            
+220      DP114          1404          10.0   0.851          LB
+221      DP114          1404          11.0  -0.129            
+222      DP114          1404          12.0  -0.284            
+223      DP114          1404          13.0  -0.390            
+224      DP114          1404          14.0  -0.649            
+225      DP114          1404          15.0  -0.819          CL
+226      DP114          1404          15.5  -0.880            
+227      DP114          1404          16.0  -0.824            
+228      DP114          1404          17.0  -0.644            
+229      DP114          1404          18.0  -0.454            
+230      DP114          1404          19.0  -0.244            
+231      DP114          1404          20.0   0.100            
+232      DP114          1404          21.0   0.510          RB
+233      DP114          1404          25.0   0.516            
+234      DP114          1404          30.0   0.526  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      DP114          1404          15.0  -0.819      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      DP114          1404          10.0   0.851      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+232      DP114          1404          21.0    0.51      RB
+ sencionno=DP114 CL distance=15.0 RL=-0.819
+ Finished Section no =DP114**********************************
+ Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =DP10**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        DP10             0           0.0   0.893  River bank
+1        DP10             0           5.0   0.903            
+2        DP10             0          10.0   0.948          LB
+3        DP10             0          11.0  -0.257            
+4        DP10             0          12.0  -0.603            
+5        DP10             0          14.0  -0.803            
+6        DP10             0          16.0  -1.004          CL
+7        DP10             0          16.5  -1.063            
+8        DP10             0          17.0  -1.003            
+9        DP10             0          19.0  -0.852            
+10       DP10             0          21.0  -0.536            
+11       DP10             0          23.0   0.958          RB
+12       DP10             0          30.0   0.948            
+13       DP10             0          35.0   0.903  River bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       DP10             0          16.0  -1.004      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       DP10             0          10.0   0.948      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       DP10             0          23.0   0.958      RB
+ sencionno=DP10 CL distance=16.0 RL=-1.004
+ Finished Section no =DP10**********************************
+ 
+
+
+
+Initiated Section no =DP11**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+14       DP11           100           0.0  -0.776  Fisheries
+15       DP11           100           3.0  -0.371           
+16       DP11           100           5.0  -0.106         LB
+17       DP11           100           6.0   2.001           
+18       DP11           100           8.0   2.009           
+19       DP11           100           9.0   0.868           
+20       DP11           100          10.0   0.869           
+21       DP11           100          11.0  -0.386           
+22       DP11           100          12.0  -0.632           
+23       DP11           100          13.0  -0.958           
+24       DP11           100          14.0  -1.021         CL
+25       DP11           100          15.0  -0.962           
+26       DP11           100          16.0  -0.682           
+27       DP11           100          17.0  -0.371           
+28       DP11           100          18.0   0.864         RB
+29       DP11           100          21.0   0.859           
+30       DP11           100          22.0  -0.271           
+31       DP11           100          25.0  -0.771      Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+24       DP11           100          14.0  -1.021      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       DP11           100           5.0  -0.106      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       DP11           100          18.0   0.864      RB
+ sencionno=DP11 CL distance=14.0 RL=-1.021
+ Finished Section no =DP11**********************************
+ 
+
+
+
+Initiated Section no =DP12**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+32       DP12           200           0.0   0.367  Paddy land
+33       DP12           200           5.0   0.362            
+34       DP12           200          10.0   0.352          LB
+35       DP12           200          11.0  -0.578            
+36       DP12           200          12.0  -0.799            
+37       DP12           200          12.5  -0.920          CL
+38       DP12           200          13.0  -0.978            
+39       DP12           200          13.5  -0.923            
+40       DP12           200          14.0  -0.730            
+41       DP12           200          15.0  -0.534            
+42       DP12           200          16.0   0.392          RB
+43       DP12           200          20.0   0.402            
+44       DP12           200          25.0   0.406  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       DP12           200          12.5   -0.92      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       DP12           200          10.0   0.352      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       DP12           200          16.0   0.392      RB
+ sencionno=DP12 CL distance=12.5 RL=-0.92
+ Finished Section no =DP12**********************************
+ 
+
+
+
+Initiated Section no =DP13**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+45       DP13           300           0.0   0.193  Paddy land
+46       DP13           300           5.0   0.186            
+47       DP13           300          10.0   0.183          LB
+48       DP13           300          11.0  -0.281            
+49       DP13           300          12.0  -0.517            
+50       DP13           300          13.0  -0.816            
+51       DP13           300          14.0  -0.866          CL
+52       DP13           300          15.0  -0.817            
+53       DP13           300          16.0  -0.518            
+54       DP13           300          17.0  -0.266            
+55       DP13           300          18.0   0.083          RB
+56       DP13           300          25.0   0.089            
+57       DP13           300          30.0   0.094  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       DP13           300          14.0  -0.866      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+47       DP13           300          10.0   0.183      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+55       DP13           300          18.0   0.083      RB
+ sencionno=DP13 CL distance=14.0 RL=-0.866
+ Finished Section no =DP13**********************************
+ 
+
+
+
+Initiated Section no =DP14**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+58       DP14           400           0.0   0.359  Paddy land
+59       DP14           400           3.0   0.353            
+60       DP14           400           6.0   0.344          LB
+61       DP14           400           8.0   1.574            
+62       DP14           400          10.0   1.579            
+63       DP14           400          12.0  -0.417            
+64       DP14           400          13.0  -0.751            
+65       DP14           400          14.0  -0.806            
+66       DP14           400          15.0  -0.747          CL
+67       DP14           400          16.0  -0.518            
+68       DP14           400          17.0  -0.122          RB
+69       DP14           400          18.0   0.083            
+70       DP14           400          20.0   0.089            
+71       DP14           400          22.0  -0.656            
+72       DP14           400          25.0  -0.817            
+73       DP14           400          27.0  -0.966       Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       DP14           400          15.0  -0.747      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+60       DP14           400           6.0   0.344      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       DP14           400          17.0  -0.122      RB
+ sencionno=DP14 CL distance=15.0 RL=-0.747
+ Finished Section no =DP14**********************************
+ 
+
+
+
+Initiated Section no =DP15**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+74       DP15           500           0.0  -2.026       Ditch
+75       DP15           500           3.0  -1.581            
+76       DP15           500           6.0  -1.426          LB
+77       DP15           500           8.0  -0.118            
+78       DP15           500          10.0  -0.116            
+79       DP15           500          11.0  -0.431            
+80       DP15           500          12.0  -0.581          CL
+81       DP15           500          13.0  -0.778            
+82       DP15           500          14.0  -0.842            
+83       DP15           500          15.0  -0.777            
+84       DP15           500          16.0  -0.626            
+85       DP15           500          17.0  -0.426            
+86       DP15           500          18.0   1.224          RB
+87       DP15           500          20.0   1.214            
+88       DP15           500          22.0   0.288            
+89       DP15           500          30.0   0.294  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       DP15           500          12.0  -0.581      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       DP15           500           6.0  -1.426      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+86       DP15           500          18.0   1.224      RB
+ sencionno=DP15 CL distance=12.0 RL=-0.581
+ Finished Section no =DP15**********************************
+ 
+
+
+
+Initiated Section no =DP16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+90        DP16           600           0.0  -1.266       Ditch
+91        DP16           600           3.0  -0.866            
+92        DP16           600           6.0  -0.566          LB
+93        DP16           600           7.0  -0.176            
+94        DP16           600           8.0  -0.127            
+95        DP16           600           9.0  -0.376            
+96        DP16           600          10.0  -0.617          CL
+97        DP16           600          11.0  -0.736            
+98        DP16           600          12.0  -0.796            
+99        DP16           600          13.0  -0.742            
+100       DP16           600          14.0  -0.618            
+101       DP16           600          15.0  -0.427            
+102       DP16           600          16.0   1.154          RB
+103       DP16           600          19.0   1.149            
+104       DP16           600          20.0   0.299            
+105       DP16           600          25.0  -0.521            
+106       DP16           600          30.0  -0.526  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+96       DP16           600          10.0  -0.617      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+92       DP16           600           6.0  -0.566      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+102       DP16           600          16.0   1.154      RB
+ sencionno=DP16 CL distance=10.0 RL=-0.617
+ Finished Section no =DP16**********************************
+ 
+
+
+
+Initiated Section no =DP17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+107       DP17           700           0.0  -1.282       Ditch
+108       DP17           700           3.0  -1.143            
+109       DP17           700           6.0  -1.082          LB
+110       DP17           700           7.0  -0.037            
+111       DP17           700           8.0   0.043            
+112       DP17           700           9.0  -0.148            
+113       DP17           700          10.0  -0.352            
+114       DP17           700          11.0  -0.472          CL
+115       DP17           700          12.0  -0.542            
+116       DP17           700          13.0  -0.482            
+117       DP17           700          14.0  -0.343            
+118       DP17           700          15.0  -0.192            
+119       DP17           700          16.0   0.348          RB
+120       DP17           700          20.0   0.353            
+121       DP17           700          25.0   0.358  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       DP17           700          11.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+109       DP17           700           6.0  -1.082      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+119       DP17           700          16.0   0.348      RB
+ sencionno=DP17 CL distance=11.0 RL=-0.472
+ Finished Section no =DP17**********************************
+ 
+
+
+
+Initiated Section no =DP18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+122       DP18           800           0.0   0.298  Paddy land
+123       DP18           800           5.0   0.293            
+124       DP18           800          10.0   0.288          LB
+125       DP18           800          11.0  -0.292            
+126       DP18           800          12.0  -0.493            
+127       DP18           800          13.0  -0.642            
+128       DP18           800          14.0  -0.692            
+129       DP18           800          15.0  -0.633          CL
+130       DP18           800          16.0  -0.442            
+131       DP18           800          17.0  -0.282            
+132       DP18           800          18.0  -0.143          RB
+133       DP18           800          20.0  -0.133            
+134       DP18           800          22.0  -0.943            
+135       DP18           800          25.0  -1.082            
+136       DP18           800          27.0  -1.243       Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+129       DP18           800          15.0  -0.633      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       DP18           800          10.0   0.288      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       DP18           800          18.0  -0.143      RB
+ sencionno=DP18 CL distance=15.0 RL=-0.633
+ Finished Section no =DP18**********************************
+ 
+
+
+
+Initiated Section no =DP19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+137       DP19           900           0.0  -1.421       Ditch
+138       DP19           900           3.0  -1.152            
+139       DP19           900           5.0  -0.901          LB
+140       DP19           900           7.0  -0.001            
+141       DP19           900           9.0   0.048            
+142       DP19           900          10.0  -0.096            
+143       DP19           900          11.0  -0.306            
+144       DP19           900          12.0  -0.501          CL
+145       DP19           900          13.0  -0.541            
+146       DP19           900          14.0  -0.601            
+147       DP19           900          15.0  -0.551          RB
+148       DP19           900          16.0  -0.452            
+149       DP19           900          17.0  -0.281            
+150       DP19           900          18.0  -0.052            
+151       DP19           900          19.0   0.389            
+152       DP19           900          25.0   0.394            
+153       DP19           900          30.0   0.397  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144       DP19           900          12.0  -0.501      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       DP19           900           5.0  -0.901      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+147       DP19           900          15.0  -0.551      RB
+ sencionno=DP19 CL distance=12.0 RL=-0.501
+ Finished Section no =DP19**********************************
+ 
+
+
+
+Initiated Section no =DP110**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+154      DP110          1000           0.0   0.294  Paddy land
+155      DP110          1000           5.0   0.289            
+156      DP110          1000          10.0   0.284          LB
+157      DP110          1000          12.0  -0.116            
+158      DP110          1000          13.0  -0.267            
+159      DP110          1000          14.0  -0.472          CL
+160      DP110          1000          15.0  -0.542            
+161      DP110          1000          16.0  -0.467            
+162      DP110          1000          17.0  -0.321            
+163      DP110          1000          18.0  -0.124            
+164      DP110          1000          20.0   0.304          RB
+165      DP110          1000          25.0   0.309            
+166      DP110          1000          30.0   0.319  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+159      DP110          1000          14.0  -0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      DP110          1000          10.0   0.284      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+164      DP110          1000          20.0   0.304      RB
+ sencionno=DP110 CL distance=14.0 RL=-0.472
+ Finished Section no =DP110**********************************
+ 
+
+
+
+Initiated Section no =DP111**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+167      DP111          1100           0.0   0.343  Paddy land
+168      DP111          1100           5.0   0.333            
+169      DP111          1100          10.0   0.294          LB
+170      DP111          1100          11.0  -0.067            
+171      DP111          1100          12.0  -0.267            
+172      DP111          1100          13.0  -0.406            
+173      DP111          1100          14.0  -0.466          CL
+174      DP111          1100          15.0  -0.397            
+175      DP111          1100          16.0  -0.268            
+176      DP111          1100          17.0  -0.068            
+177      DP111          1100          18.0   0.259          RB
+178      DP111          1100          20.0   0.264            
+179      DP111          1100          25.0   0.269  Paddy land
+180      DP111          1100          30.0   0.274            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+173      DP111          1100          14.0  -0.466      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      DP111          1100          10.0   0.294      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      DP111          1100          18.0   0.259      RB
+ sencionno=DP111 CL distance=14.0 RL=-0.466
+ Finished Section no =DP111**********************************
+ 
+
+
+
+Initiated Section no =DP112**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+181      DP112          1200           0.0   0.431  Paddy land
+182      DP112          1200           5.0   0.416            
+183      DP112          1200          10.0   0.405          LB
+184      DP112          1200          11.0  -0.290            
+185      DP112          1200          12.0  -0.534            
+186      DP112          1200          12.5  -0.719          CL
+187      DP112          1200          13.0  -0.790            
+188      DP112          1200          13.5  -0.724            
+189      DP112          1200          14.0  -0.539            
+190      DP112          1200          15.0  -0.244            
+191      DP112          1200          16.0   0.361          RB
+192      DP112          1200          20.0   0.366            
+193      DP112          1200          25.0   0.371  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186      DP112          1200          12.5  -0.719      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+183      DP112          1200          10.0   0.405      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+191      DP112          1200          16.0   0.361      RB
+ sencionno=DP112 CL distance=12.5 RL=-0.719
+ Finished Section no =DP112**********************************
+ 
+
+
+
+Initiated Section no =DP113**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+194      DP113          1300           0.0   0.441  Paddy land
+195      DP113          1300           5.0   0.436            
+196      DP113          1300          10.0   0.431            
+197      DP113          1300          11.0  -0.129          LB
+198      DP113          1300          12.0  -0.390            
+199      DP113          1300          13.0  -0.595            
+200      DP113          1300          14.0  -0.819            
+201      DP113          1300          14.5  -0.890            
+202      DP113          1300          15.0  -0.820            
+203      DP113          1300          16.0  -0.619            
+204      DP113          1300          17.0  -0.404            
+205      DP113          1300          18.0  -0.129            
+206      DP113          1300          19.0   0.710          CL
+207      DP113          1300          22.0   0.701            
+208      DP113          1300          23.0  -0.344            
+209      DP113          1300          24.0  -0.644            
+210      DP113          1300          25.0  -0.799            
+211      DP113          1300          26.0  -0.864            
+212      DP113          1300          27.0  -0.804            
+213      DP113          1300          28.0  -0.639            
+214      DP113          1300          29.0  -0.339            
+215      DP113          1300          30.0   0.456          RB
+216      DP113          1300          35.0   0.461            
+217      DP113          1300          40.0   0.471            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+206      DP113          1300          19.0    0.71      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+197      DP113          1300          11.0  -0.129      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+215      DP113          1300          30.0   0.456      RB
+ sencionno=DP113 CL distance=19.0 RL=0.71
+ Finished Section no =DP113**********************************
+ 
+
+
+
+Initiated Section no =DP114**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+218      DP114          1404           0.0   0.841  Paddy land
+219      DP114          1404           5.0   0.846            
+220      DP114          1404          10.0   0.851          LB
+221      DP114          1404          11.0  -0.129            
+222      DP114          1404          12.0  -0.284            
+223      DP114          1404          13.0  -0.390            
+224      DP114          1404          14.0  -0.649            
+225      DP114          1404          15.0  -0.819          CL
+226      DP114          1404          15.5  -0.880            
+227      DP114          1404          16.0  -0.824            
+228      DP114          1404          17.0  -0.644            
+229      DP114          1404          18.0  -0.454            
+230      DP114          1404          19.0  -0.244            
+231      DP114          1404          20.0   0.100            
+232      DP114          1404          21.0   0.510          RB
+233      DP114          1404          25.0   0.516            
+234      DP114          1404          30.0   0.526  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      DP114          1404          15.0  -0.819      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      DP114          1404          10.0   0.851      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+232      DP114          1404          21.0    0.51      RB
+ sencionno=DP114 CL distance=15.0 RL=-0.819
+ Finished Section no =DP114**********************************
