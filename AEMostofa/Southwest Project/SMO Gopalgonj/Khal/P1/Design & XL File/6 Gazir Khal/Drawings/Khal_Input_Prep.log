@@ -1,0 +1,2463 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_06   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2    KhalName     GL  Ivert Level  \
+0        GZK0         0    3   16  B  D  Gazir Khal  0.402         -1.6   
+1        GZK1       100   19   31  B  D  Gazir Khal  0.402         -1.6   
+2        GZK2       200   34   46  B  D  Gazir Khal  0.402         -1.6   
+3        GZK3       300   49   61  B  D  Gazir Khal  0.402         -1.6   
+4        GZK4       400   65   78  B  D  Gazir Khal  0.402         -1.6   
+5        GZK5       500   82   95  B  D  Gazir Khal  0.402         -1.6   
+6        GZK6       600   98  112  B  D  Gazir Khal  0.402         -1.6   
+7        GZK7       700  115  127  B  D  Gazir Khal  0.402         -1.6   
+8        GZK8       800  130  142  B  D  Gazir Khal  0.402         -1.6   
+9        GZK9       900  146  158  B  D  Gazir Khal  0.402         -1.6   
+10      GZK10      1000  162  174  B  D  Gazir Khal  0.402         -1.6   
+11      GZK11      1100  180  192  B  D  Gazir Khal  0.402         -1.6   
+12      GZK12      1200  195  210  B  D  Gazir Khal  0.402         -1.6   
+13      GZK13      1300  213  226  B  D  Gazir Khal  0.402         -1.6   
+14      GZK14      1400  229  241  B  D  Gazir Khal  0.402         -1.6   
+15      GZK15      1500  244  257  B  D  Gazir Khal  0.402         -1.6   
+16      GZK16      1600  260  274  B  D  Gazir Khal  0.402         -1.6   
+17      GZK17      1700  278  290  B  D  Gazir Khal  0.402         -1.6   
+18      GZK18      1800  294  306  B  D  Gazir Khal  0.402         -1.6   
+19      GZK19      1900  308  321  B  D  Gazir Khal  0.402         -1.6   
+20      GZK20      2000  324  338  B  D  Gazir Khal  0.402         -1.6   
+21      GZK21      2100  341  356  B  D  Gazir Khal  0.402         -1.6   
+22      GZK22      2200  359  371  B  D  Gazir Khal  0.402         -1.6   
+23      GZK23      2325  374  386  B  D  Gazir Khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+23        0.6             30          1  
+ --------Intiated Data Transfer for section no=GZK0--------
+
+
+
+
+ chainage=0 sec=GZK0 row1=3 row2=16 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30, 35], 'rl': [2.268, 2.259, 2.248, 1.069, 0.194, -0.405, -0.507, -0.402, 0.198, 1.11, 2.193, 2.185, 2.17, 2.164], 'remarks': ['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Khal bank'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0', 'GZK0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK1--------
+
+
+
+
+ chainage=100 sec=GZK1 row1=19 row2=31 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [2.62, 2.605, 2.591, 1.268, 0.498, 0.005, -0.105, -0.001, 0.198, 0.39, 0.394, 0.68, 0.669], 'remarks': ['Project', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', 'Paddy land'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1', 'GZK1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK2--------
+
+
+
+
+ chainage=200 sec=GZK2 row1=34 row2=46 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [0.795, 0.784, 0.768, 0.454, 0.298, 0.102, -0.002, 0.104, 0.214, 0.302, 0.394, 0.38, 0.371], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', 'Br. Khal'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2', 'GZK2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK3--------
+
+
+
+
+ chainage=300 sec=GZK3 row1=49 row2=61 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [1.27, 1.283, 1.29, 0.568, 0.287, -0.01, -0.124, -0.018, 0.259, 0.686, 1.202, 1.198, 1.186], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3', 'GZK3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK4--------
+
+
+
+
+ chainage=400 sec=GZK4 row1=65 row2=78 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14.5, 16, 17, 18, 19, 25, 30, 35], 'rl': [1.193, 1.181, 1.159, 0.542, 0.183, -0.098, -0.207, -0.102, 0.197, 0.592, 1.242, 1.237, 1.229, 1.223], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4', 'GZK4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK5--------
+
+
+
+
+ chainage=500 sec=GZK5 row1=82 row2=95 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 15.5, 17, 19, 20, 21, 25, 30, 35], 'rl': [1.388, 1.372, 1.367, 0.561, 0.05, -0.318, -0.423, -0.317, 0.042, 0.593, 1.456, 1.437, 1.432, 1.42], 'remarks': ['Road side', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Road side'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5', 'GZK5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK6--------
+
+
+
+
+ chainage=600 sec=GZK6 row1=98 row2=112 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 22, 27, 32], 'rl': [1.91, 1.905, 1.884, 1.804, 0.135, -0.34, -0.44, -0.336, 0.111, 0.886, 2.047, 2.038, 1.076, 1.07, 1.065], 'remarks': ['Garden', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6', 'GZK6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK7--------
+
+
+
+
+ chainage=700 sec=GZK7 row1=115 row2=127 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 16, 17, 19, 21, 22, 27, 32], 'rl': [0.942, 0.935, 0.921, 0.293, -0.055, -0.254, -0.355, -0.249, -0.046, 0.257, 0.89, 0.879, 0.875], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7', 'GZK7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK8--------
+
+
+
+
+ chainage=800 sec=GZK8 row1=130 row2=142 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 15.5, 17, 19, 20, 21, 25, 30], 'rl': [0.94, 0.921, 0.909, 0.425, 0.111, -0.103, -0.209, -0.104, 0.116, 0.441, 0.855, 0.846, 0.834], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8', 'GZK8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK8--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK9--------
+
+
+
+
+ chainage=900 sec=GZK9 row1=146 row2=158 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14.5, 16, 17, 18, 19, 25, 30], 'rl': [0.909, 0.904, 0.891, 0.51, 0.221, 0.021, -0.071, 0.03, 0.214, 0.466, 0.811, 0.8, 0.794], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9', 'GZK9']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK9--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK10--------
+
+
+
+
+ chainage=1000 sec=GZK10 row1=162 row2=174 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [0.81, 0.8, 0.795, 0.49, 0.294, 0.111, 0.009, 0.114, 0.23, 0.416, 0.711, 0.697, 0.685], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', 'Paddy land'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10', 'GZK10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK10--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK11--------
+
+
+
+
+ chainage=1100 sec=GZK11 row1=180 row2=192 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14.5, 16, 17, 18, 19, 25, 30], 'rl': [1.155, 1.14, 1.127, 0.588, 0.351, 0.164, 0.056, 0.162, 0.34, 0.616, 1.05, 1.035, 1.026], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11', 'GZK11']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK11--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK12--------
+
+
+
+
+ chainage=1200 sec=GZK12 row1=195 row2=210 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 25, 30], 'rl': [0.936, 0.924, 1.751, 1.74, 0.91, 0.561, 0.334, 0.126, 0.33, 0.649, 1.051, 1.916, 1.905, 1.894, 0.888, 0.88], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12', 'GZK12']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK12--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK13--------
+
+
+
+
+ chainage=1300 sec=GZK13 row1=213 row2=226 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14.5, 16, 17, 18, 19, 25, 30, 35], 'rl': [1.236, 1.227, 1.216, 0.75, 0.458, 0.241, 0.136, 0.243, 0.45, 0.727, 1.026, 1.021, 1.01, 1.005], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13', 'GZK13']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK13--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK14--------
+
+
+
+
+ chainage=1400 sec=GZK14 row1=229 row2=241 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [0.954, 0.946, 0.941, 0.693, 0.46, 0.277, 0.172, 0.275, 0.506, 0.636, 0.921, 0.913, 0.893], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', '', 'Paddy land'], 'chainage': [1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400], 'sectionNo': ['GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14', 'GZK14']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK14--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK15--------
+
+
+
+
+ chainage=1500 sec=GZK15 row1=244 row2=257 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 7, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [0.833, 0.84, 2.058, 2.053, 1.037, 0.473, 0.161, 0.058, 0.164, 0.371, 0.458, 0.774, 0.762, 0.748], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500], 'sectionNo': ['GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15', 'GZK15']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK15--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK16--------
+
+
+
+
+ chainage=1600 sec=GZK16 row1=260 row2=274 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 7, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 22, 24], 'rl': [0.962, 0.949, 2.469, 2.453, 1.56, 0.761, 0.367, 0.264, 0.37, 0.767, 1.438, 2.158, 2.153, 1.453, 0.668], 'remarks': ['Paddy land', '', 'Earthen rd', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Pond'], 'chainage': [1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600], 'sectionNo': ['GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16', 'GZK16']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK16--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK17--------
+
+
+
+
+ chainage=1700 sec=GZK17 row1=278 row2=290 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 16, 17, 19, 21, 22, 27, 32], 'rl': [0.962, 0.957, 0.949, 0.663, 0.442, 0.287, 0.182, 0.283, 0.553, 0.958, 1.751, 1.762, 1.772], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', '', 'RB', '', 'Home stead'], 'chainage': [1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700], 'sectionNo': ['GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17', 'GZK17']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK17--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK18--------
+
+
+
+
+ chainage=1800 sec=GZK18 row1=294 row2=306 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 6, 10, 11, 12, 13, 13.5, 14, 15, 16, 17, 20], 'rl': [1.012, 1.025, 2.251, 2.141, 1.208, 0.732, 0.453, 0.282, 0.387, 0.763, 1.253, 2.257, 2.262], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', '', 'CL', '', '', 'RB', 'House'], 'chainage': [1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800], 'sectionNo': ['GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18', 'GZK18']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK18--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK19--------
+
+
+
+
+ chainage=1900 sec=GZK19 row1=308 row2=321 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 28], 'rl': [1.346, 1.364, 2.161, 2.15, 1.116, 0.461, -0.001, -0.103, 0.001, 0.46, 1.115, 2.41, 2.405, 2.39], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', ''], 'chainage': [1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900], 'sectionNo': ['GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19', 'GZK19']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK19--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK20--------
+
+
+
+
+ chainage=2000 sec=GZK20 row1=324 row2=338 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14.5, 16, 17, 18, 19, 22, 23, 28, 33], 'rl': [1.803, 1.785, 1.776, 1.589, 0.735, 0.03, -0.072, 0.033, 0.649, 1.54, 2.528, 2.514, 1.735, 1.729, 1.703], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000], 'sectionNo': ['GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20', 'GZK20']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK20--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK21--------
+
+
+
+
+ chainage=2100 sec=GZK21 row1=341 row2=356 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 23, 24, 30, 35], 'rl': [2.023, 2.04, 2.63, 2.615, 1.584, 0.733, 0.113, 0.009, 0.11, 0.729, 1.58, 2.749, 2.734, 1.866, 1.859, 1.854], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100], 'sectionNo': ['GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21', 'GZK21']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK21--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK22--------
+
+
+
+
+ chainage=2200 sec=GZK22 row1=359 row2=371 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 1, 2, 4, 6, 7, 8, 10, 12, 13, 16, 20, 25], 'rl': [2.829, 2.82, 1.582, 0.817, 0.34, 0.237, 0.343, 0.782, 1.587, 2.703, 2.709, 2.619, 2.13], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', '', 'House'], 'chainage': [2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200], 'sectionNo': ['GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22', 'GZK22']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK22--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GZK23--------
+
+
+
+
+ chainage=2325 sec=GZK23 row1=374 row2=386 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 27, 28], 'rl': [3.451, 3.444, 3.439, 2.313, 1.02, 0.198, 0.094, 0.195, 0.989, 2.315, 4.194, 4.18, 4.125], 'remarks': ['Garden', '', '', 'LB', '', '', 'CL', '', '', '', 'RB', 'BC road', 'House'], 'chainage': [2325, 2325, 2325, 2325, 2325, 2325, 2325, 2325, 2325, 2325, 2325, 2325, 2325], 'sectionNo': ['GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23', 'GZK23']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GZK23--------
+
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =GZK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+0        GZK0             0           0.0   2.268  Khal bank
+1        GZK0             0           5.0   2.259           
+2        GZK0             0          10.0   2.248         LB
+3        GZK0             0          11.0   1.069           
+4        GZK0             0          12.0   0.194           
+5        GZK0             0          13.0  -0.405           
+6        GZK0             0          15.0  -0.507         CL
+7        GZK0             0          17.0  -0.402           
+8        GZK0             0          18.0   0.198           
+9        GZK0             0          19.0   1.110           
+10       GZK0             0          20.0   2.193         RB
+11       GZK0             0          25.0   2.185           
+12       GZK0             0          30.0   2.170           
+13       GZK0             0          35.0   2.164  Khal bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       GZK0             0          15.0  -0.507      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       GZK0             0          10.0   2.248      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       GZK0             0          20.0   2.193      RB
+ sencionno=GZK0 CL distance=15.0 RL=-0.507
+ Finished Section no =GZK0**********************************
+ 
+
+
+
+Initiated Section no =GZK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+14       GZK1           100           0.0   2.620     Project
+15       GZK1           100           5.0   2.605            
+16       GZK1           100          10.0   2.591          LB
+17       GZK1           100          11.0   1.268            
+18       GZK1           100          12.0   0.498            
+19       GZK1           100          13.0   0.005            
+20       GZK1           100          14.0  -0.105            
+21       GZK1           100          15.0  -0.001          CL
+22       GZK1           100          16.0   0.198            
+23       GZK1           100          17.0   0.390            
+24       GZK1           100          18.0   0.394          RB
+25       GZK1           100          23.0   0.680            
+26       GZK1           100          28.0   0.669  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       GZK1           100          15.0  -0.001      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       GZK1           100          10.0   2.591      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+24       GZK1           100          18.0   0.394      RB
+ sencionno=GZK1 CL distance=15.0 RL=-0.001
+ Finished Section no =GZK1**********************************
+ 
+
+
+
+Initiated Section no =GZK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+27       GZK2           200           0.0   0.795  Paddy land
+28       GZK2           200           5.0   0.784            
+29       GZK2           200          10.0   0.768          LB
+30       GZK2           200          11.0   0.454            
+31       GZK2           200          12.0   0.298            
+32       GZK2           200          13.0   0.102            
+33       GZK2           200          14.0  -0.002            
+34       GZK2           200          15.0   0.104          CL
+35       GZK2           200          16.0   0.214            
+36       GZK2           200          17.0   0.302            
+37       GZK2           200          18.0   0.394          RB
+38       GZK2           200          23.0   0.380            
+39       GZK2           200          28.0   0.371    Br. Khal
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       GZK2           200          15.0   0.104      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+29       GZK2           200          10.0   0.768      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       GZK2           200          18.0   0.394      RB
+ sencionno=GZK2 CL distance=15.0 RL=0.104
+ Finished Section no =GZK2**********************************
+ 
+
+
+
+Initiated Section no =GZK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+40       GZK3           300           0.0   1.270  Paddy land
+41       GZK3           300           5.0   1.283            
+42       GZK3           300          10.0   1.290          LB
+43       GZK3           300          11.0   0.568            
+44       GZK3           300          12.0   0.287            
+45       GZK3           300          13.0  -0.010            
+46       GZK3           300          15.0  -0.124          CL
+47       GZK3           300          17.0  -0.018            
+48       GZK3           300          18.0   0.259            
+49       GZK3           300          19.0   0.686            
+50       GZK3           300          20.0   1.202          RB
+51       GZK3           300          25.0   1.198            
+52       GZK3           300          30.0   1.186  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+46       GZK3           300          15.0  -0.124      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       GZK3           300          10.0    1.29      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+50       GZK3           300          20.0   1.202      RB
+ sencionno=GZK3 CL distance=15.0 RL=-0.124
+ Finished Section no =GZK3**********************************
+ 
+
+
+
+Initiated Section no =GZK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+53       GZK4           400           0.0   1.193  Paddy land
+54       GZK4           400           5.0   1.181            
+55       GZK4           400          10.0   1.159          LB
+56       GZK4           400          11.0   0.542            
+57       GZK4           400          12.0   0.183            
+58       GZK4           400          13.0  -0.098            
+59       GZK4           400          14.5  -0.207          CL
+60       GZK4           400          16.0  -0.102            
+61       GZK4           400          17.0   0.197            
+62       GZK4           400          18.0   0.592            
+63       GZK4           400          19.0   1.242          RB
+64       GZK4           400          25.0   1.237            
+65       GZK4           400          30.0   1.229            
+66       GZK4           400          35.0   1.223  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+59       GZK4           400          14.5  -0.207      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+55       GZK4           400          10.0   1.159      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+63       GZK4           400          19.0   1.242      RB
+ sencionno=GZK4 CL distance=14.5 RL=-0.207
+ Finished Section no =GZK4**********************************
+ 
+
+
+
+Initiated Section no =GZK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+67       GZK5           500           0.0   1.388  Road side
+68       GZK5           500           5.0   1.372           
+69       GZK5           500          10.0   1.367         LB
+70       GZK5           500          11.0   0.561           
+71       GZK5           500          12.0   0.050           
+72       GZK5           500          14.0  -0.318         CL
+73       GZK5           500          15.5  -0.423           
+74       GZK5           500          17.0  -0.317           
+75       GZK5           500          19.0   0.042           
+76       GZK5           500          20.0   0.593           
+77       GZK5           500          21.0   1.456         RB
+78       GZK5           500          25.0   1.437           
+79       GZK5           500          30.0   1.432           
+80       GZK5           500          35.0   1.420  Road side
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+72       GZK5           500          14.0  -0.318      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+69       GZK5           500          10.0   1.367      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+77       GZK5           500          21.0   1.456      RB
+ sencionno=GZK5 CL distance=14.0 RL=-0.318
+ Finished Section no =GZK5**********************************
+ 
+
+
+
+Initiated Section no =GZK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+81       GZK6           600           0.0   1.910      Garden
+82       GZK6           600           5.0   1.905            
+83       GZK6           600          10.0   1.884          LB
+84       GZK6           600          11.0   1.804            
+85       GZK6           600          12.0   0.135            
+86       GZK6           600          13.0  -0.340            
+87       GZK6           600          15.0  -0.440          CL
+88       GZK6           600          17.0  -0.336            
+89       GZK6           600          18.0   0.111            
+90       GZK6           600          19.0   0.886            
+91       GZK6           600          20.0   2.047          RB
+92       GZK6           600          21.0   2.038            
+93       GZK6           600          22.0   1.076            
+94       GZK6           600          27.0   1.070            
+95       GZK6           600          32.0   1.065  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+87       GZK6           600          15.0   -0.44      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+83       GZK6           600          10.0   1.884      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+91       GZK6           600          20.0   2.047      RB
+ sencionno=GZK6 CL distance=15.0 RL=-0.44
+ Finished Section no =GZK6**********************************
+ 
+
+
+
+Initiated Section no =GZK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+96        GZK7           700           0.0   0.942  Paddy land
+97        GZK7           700           5.0   0.935            
+98        GZK7           700          10.0   0.921          LB
+99        GZK7           700          11.0   0.293            
+100       GZK7           700          13.0  -0.055            
+101       GZK7           700          15.0  -0.254          CL
+102       GZK7           700          16.0  -0.355            
+103       GZK7           700          17.0  -0.249            
+104       GZK7           700          19.0  -0.046            
+105       GZK7           700          21.0   0.257            
+106       GZK7           700          22.0   0.890          RB
+107       GZK7           700          27.0   0.879            
+108       GZK7           700          32.0   0.875  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+101       GZK7           700          15.0  -0.254      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+98       GZK7           700          10.0   0.921      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       GZK7           700          22.0    0.89      RB
+ sencionno=GZK7 CL distance=15.0 RL=-0.254
+ Finished Section no =GZK7**********************************
+ 
+
+
+
+Initiated Section no =GZK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+109       GZK8           800           0.0   0.940  Paddy land
+110       GZK8           800           5.0   0.921            
+111       GZK8           800          10.0   0.909          LB
+112       GZK8           800          11.0   0.425            
+113       GZK8           800          12.0   0.111            
+114       GZK8           800          14.0  -0.103          CL
+115       GZK8           800          15.5  -0.209            
+116       GZK8           800          17.0  -0.104            
+117       GZK8           800          19.0   0.116            
+118       GZK8           800          20.0   0.441            
+119       GZK8           800          21.0   0.855          RB
+120       GZK8           800          25.0   0.846            
+121       GZK8           800          30.0   0.834  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       GZK8           800          14.0  -0.103      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+111       GZK8           800          10.0   0.909      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+119       GZK8           800          21.0   0.855      RB
+ sencionno=GZK8 CL distance=14.0 RL=-0.103
+ Finished Section no =GZK8**********************************
+ 
+
+
+
+Initiated Section no =GZK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+122       GZK9           900           0.0   0.909  Paddy land
+123       GZK9           900           5.0   0.904            
+124       GZK9           900          10.0   0.891          LB
+125       GZK9           900          11.0   0.510            
+126       GZK9           900          12.0   0.221            
+127       GZK9           900          13.0   0.021            
+128       GZK9           900          14.5  -0.071          CL
+129       GZK9           900          16.0   0.030            
+130       GZK9           900          17.0   0.214            
+131       GZK9           900          18.0   0.466            
+132       GZK9           900          19.0   0.811          RB
+133       GZK9           900          25.0   0.800            
+134       GZK9           900          30.0   0.794  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+128       GZK9           900          14.5  -0.071      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       GZK9           900          10.0   0.891      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       GZK9           900          19.0   0.811      RB
+ sencionno=GZK9 CL distance=14.5 RL=-0.071
+ Finished Section no =GZK9**********************************
+ 
+
+
+
+Initiated Section no =GZK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+135      GZK10          1000           0.0   0.810  Paddy land
+136      GZK10          1000           5.0   0.800            
+137      GZK10          1000          10.0   0.795          LB
+138      GZK10          1000          11.0   0.490            
+139      GZK10          1000          12.0   0.294            
+140      GZK10          1000          13.0   0.111            
+141      GZK10          1000          14.0   0.009            
+142      GZK10          1000          15.0   0.114          CL
+143      GZK10          1000          16.0   0.230            
+144      GZK10          1000          17.0   0.416            
+145      GZK10          1000          18.0   0.711          RB
+146      GZK10          1000          23.0   0.697            
+147      GZK10          1000          28.0   0.685  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+142      GZK10          1000          15.0   0.114      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137      GZK10          1000          10.0   0.795      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+145      GZK10          1000          18.0   0.711      RB
+ sencionno=GZK10 CL distance=15.0 RL=0.114
+ Finished Section no =GZK10**********************************
+ 
+
+
+
+Initiated Section no =GZK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+148      GZK11          1100           0.0   1.155  Paddy land
+149      GZK11          1100           5.0   1.140            
+150      GZK11          1100          10.0   1.127          LB
+151      GZK11          1100          11.0   0.588            
+152      GZK11          1100          12.0   0.351            
+153      GZK11          1100          13.0   0.164            
+154      GZK11          1100          14.5   0.056          CL
+155      GZK11          1100          16.0   0.162            
+156      GZK11          1100          17.0   0.340            
+157      GZK11          1100          18.0   0.616            
+158      GZK11          1100          19.0   1.050          RB
+159      GZK11          1100          25.0   1.035            
+160      GZK11          1100          30.0   1.026  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+154      GZK11          1100          14.5   0.056      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+150      GZK11          1100          10.0   1.127      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+158      GZK11          1100          19.0    1.05      RB
+ sencionno=GZK11 CL distance=14.5 RL=0.056
+ Finished Section no =GZK11**********************************
+ 
+
+
+
+Initiated Section no =GZK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+161      GZK12          1200           0.0   0.936  Paddy land
+162      GZK12          1200           8.0   0.924            
+163      GZK12          1200           9.0   1.751            
+164      GZK12          1200          10.0   1.740          LB
+165      GZK12          1200          11.0   0.910            
+166      GZK12          1200          12.0   0.561            
+167      GZK12          1200          13.0   0.334            
+168      GZK12          1200          14.0   0.126            
+169      GZK12          1200          15.0   0.330          CL
+170      GZK12          1200          16.0   0.649            
+171      GZK12          1200          17.0   1.051            
+172      GZK12          1200          18.0   1.916          RB
+173      GZK12          1200          19.0   1.905            
+174      GZK12          1200          20.0   1.894            
+175      GZK12          1200          25.0   0.888            
+176      GZK12          1200          30.0   0.880  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      GZK12          1200          15.0    0.33      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+164      GZK12          1200          10.0    1.74      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+172      GZK12          1200          18.0   1.916      RB
+ sencionno=GZK12 CL distance=15.0 RL=0.33
+ Finished Section no =GZK12**********************************
+ 
+
+
+
+Initiated Section no =GZK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+177      GZK13          1300           0.0   1.236  Paddy land
+178      GZK13          1300           5.0   1.227            
+179      GZK13          1300          10.0   1.216          LB
+180      GZK13          1300          11.0   0.750            
+181      GZK13          1300          12.0   0.458            
+182      GZK13          1300          13.0   0.241            
+183      GZK13          1300          14.5   0.136          CL
+184      GZK13          1300          16.0   0.243            
+185      GZK13          1300          17.0   0.450            
+186      GZK13          1300          18.0   0.727            
+187      GZK13          1300          19.0   1.026          RB
+188      GZK13          1300          25.0   1.021            
+189      GZK13          1300          30.0   1.010            
+190      GZK13          1300          35.0   1.005  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+183      GZK13          1300          14.5   0.136      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+179      GZK13          1300          10.0   1.216      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+187      GZK13          1300          19.0   1.026      RB
+ sencionno=GZK13 CL distance=14.5 RL=0.136
+ Finished Section no =GZK13**********************************
+ 
+
+
+
+Initiated Section no =GZK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+191      GZK14          1400           0.0   0.954  Paddy land
+192      GZK14          1400           5.0   0.946            
+193      GZK14          1400          10.0   0.941          LB
+194      GZK14          1400          11.0   0.693            
+195      GZK14          1400          12.0   0.460            
+196      GZK14          1400          13.0   0.277            
+197      GZK14          1400          14.0   0.172            
+198      GZK14          1400          15.0   0.275          CL
+199      GZK14          1400          16.0   0.506            
+200      GZK14          1400          17.0   0.636            
+201      GZK14          1400          18.0   0.921          RB
+202      GZK14          1400          23.0   0.913            
+203      GZK14          1400          28.0   0.893  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      GZK14          1400          15.0   0.275      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+193      GZK14          1400          10.0   0.941      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+201      GZK14          1400          18.0   0.921      RB
+ sencionno=GZK14 CL distance=15.0 RL=0.275
+ Finished Section no =GZK14**********************************
+ 
+
+
+
+Initiated Section no =GZK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+204      GZK15          1500           0.0   0.833  Paddy land
+205      GZK15          1500           6.0   0.840            
+206      GZK15          1500           7.0   2.058            
+207      GZK15          1500          10.0   2.053          LB
+208      GZK15          1500          11.0   1.037            
+209      GZK15          1500          12.0   0.473            
+210      GZK15          1500          13.0   0.161            
+211      GZK15          1500          15.0   0.058          CL
+212      GZK15          1500          17.0   0.164            
+213      GZK15          1500          18.0   0.371            
+214      GZK15          1500          19.0   0.458            
+215      GZK15          1500          20.0   0.774          RB
+216      GZK15          1500          25.0   0.762            
+217      GZK15          1500          30.0   0.748  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      GZK15          1500          15.0   0.058      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+207      GZK15          1500          10.0   2.053      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+215      GZK15          1500          20.0   0.774      RB
+ sencionno=GZK15 CL distance=15.0 RL=0.058
+ Finished Section no =GZK15**********************************
+ 
+
+
+
+Initiated Section no =GZK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+218      GZK16          1600           0.0   0.962  Paddy land
+219      GZK16          1600           6.0   0.949            
+220      GZK16          1600           7.0   2.469  Earthen rd
+221      GZK16          1600          10.0   2.453          LB
+222      GZK16          1600          11.0   1.560            
+223      GZK16          1600          12.0   0.761            
+224      GZK16          1600          13.0   0.367            
+225      GZK16          1600          15.0   0.264          CL
+226      GZK16          1600          17.0   0.370            
+227      GZK16          1600          18.0   0.767            
+228      GZK16          1600          19.0   1.438            
+229      GZK16          1600          20.0   2.158          RB
+230      GZK16          1600          21.0   2.153            
+231      GZK16          1600          22.0   1.453            
+232      GZK16          1600          24.0   0.668        Pond
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      GZK16          1600          15.0   0.264      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+221      GZK16          1600          10.0   2.453      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+229      GZK16          1600          20.0   2.158      RB
+ sencionno=GZK16 CL distance=15.0 RL=0.264
+ Finished Section no =GZK16**********************************
+ 
+
+
+
+Initiated Section no =GZK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+233      GZK17          1700           0.0   0.962  Paddy land
+234      GZK17          1700           5.0   0.957            
+235      GZK17          1700          10.0   0.949          LB
+236      GZK17          1700          11.0   0.663            
+237      GZK17          1700          13.0   0.442            
+238      GZK17          1700          15.0   0.287          CL
+239      GZK17          1700          16.0   0.182            
+240      GZK17          1700          17.0   0.283            
+241      GZK17          1700          19.0   0.553            
+242      GZK17          1700          21.0   0.958            
+243      GZK17          1700          22.0   1.751          RB
+244      GZK17          1700          27.0   1.762            
+245      GZK17          1700          32.0   1.772  Home stead
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+238      GZK17          1700          15.0   0.287      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+235      GZK17          1700          10.0   0.949      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+243      GZK17          1700          22.0   1.751      RB
+ sencionno=GZK17 CL distance=15.0 RL=0.287
+ Finished Section no =GZK17**********************************
+ 
+
+
+
+Initiated Section no =GZK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+246      GZK18          1800           0.0   1.012  Paddy land
+247      GZK18          1800           5.0   1.025            
+248      GZK18          1800           6.0   2.251            
+249      GZK18          1800          10.0   2.141          LB
+250      GZK18          1800          11.0   1.208            
+251      GZK18          1800          12.0   0.732            
+252      GZK18          1800          13.0   0.453            
+253      GZK18          1800          13.5   0.282            
+254      GZK18          1800          14.0   0.387          CL
+255      GZK18          1800          15.0   0.763            
+256      GZK18          1800          16.0   1.253            
+257      GZK18          1800          17.0   2.257          RB
+258      GZK18          1800          20.0   2.262       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+254      GZK18          1800          14.0   0.387      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+249      GZK18          1800          10.0   2.141      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+257      GZK18          1800          17.0   2.257      RB
+ sencionno=GZK18 CL distance=14.0 RL=0.387
+ Finished Section no =GZK18**********************************
+ 
+
+
+
+Initiated Section no =GZK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+259      GZK19          1900           0.0   1.346  Paddy land
+260      GZK19          1900           7.0   1.364            
+261      GZK19          1900           8.0   2.161            
+262      GZK19          1900          10.0   2.150          LB
+263      GZK19          1900          11.0   1.116            
+264      GZK19          1900          12.0   0.461            
+265      GZK19          1900          13.0  -0.001            
+266      GZK19          1900          14.0  -0.103          CL
+267      GZK19          1900          15.0   0.001            
+268      GZK19          1900          16.0   0.460            
+269      GZK19          1900          17.0   1.115            
+270      GZK19          1900          18.0   2.410          RB
+271      GZK19          1900          23.0   2.405            
+272      GZK19          1900          28.0   2.390            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+266      GZK19          1900          14.0  -0.103      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+262      GZK19          1900          10.0    2.15      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+270      GZK19          1900          18.0    2.41      RB
+ sencionno=GZK19 CL distance=14.0 RL=-0.103
+ Finished Section no =GZK19**********************************
+ 
+
+
+
+Initiated Section no =GZK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+273      GZK20          2000           0.0   1.803  Paddy land
+274      GZK20          2000           5.0   1.785            
+275      GZK20          2000          10.0   1.776          LB
+276      GZK20          2000          11.0   1.589            
+277      GZK20          2000          12.0   0.735            
+278      GZK20          2000          13.0   0.030            
+279      GZK20          2000          14.5  -0.072          CL
+280      GZK20          2000          16.0   0.033            
+281      GZK20          2000          17.0   0.649            
+282      GZK20          2000          18.0   1.540            
+283      GZK20          2000          19.0   2.528          RB
+284      GZK20          2000          22.0   2.514            
+285      GZK20          2000          23.0   1.735            
+286      GZK20          2000          28.0   1.729            
+287      GZK20          2000          33.0   1.703  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      GZK20          2000          14.5  -0.072      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+275      GZK20          2000          10.0   1.776      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+283      GZK20          2000          19.0   2.528      RB
+ sencionno=GZK20 CL distance=14.5 RL=-0.072
+ Finished Section no =GZK20**********************************
+ 
+
+
+
+Initiated Section no =GZK21**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+288      GZK21          2100           0.0   2.023  Paddy land
+289      GZK21          2100           7.0   2.040            
+290      GZK21          2100           8.0   2.630            
+291      GZK21          2100          10.0   2.615          LB
+292      GZK21          2100          11.0   1.584            
+293      GZK21          2100          12.0   0.733            
+294      GZK21          2100          13.0   0.113            
+295      GZK21          2100          15.0   0.009          CL
+296      GZK21          2100          17.0   0.110            
+297      GZK21          2100          18.0   0.729            
+298      GZK21          2100          19.0   1.580            
+299      GZK21          2100          20.0   2.749          RB
+300      GZK21          2100          23.0   2.734            
+301      GZK21          2100          24.0   1.866            
+302      GZK21          2100          30.0   1.859            
+303      GZK21          2100          35.0   1.854  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+295      GZK21          2100          15.0   0.009      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+291      GZK21          2100          10.0   2.615      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+299      GZK21          2100          20.0   2.749      RB
+ sencionno=GZK21 CL distance=15.0 RL=0.009
+ Finished Section no =GZK21**********************************
+ 
+
+
+
+Initiated Section no =GZK22**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+304      GZK22          2200           0.0   2.829     House
+305      GZK22          2200           1.0   2.820        LB
+306      GZK22          2200           2.0   1.582          
+307      GZK22          2200           4.0   0.817          
+308      GZK22          2200           6.0   0.340          
+309      GZK22          2200           7.0   0.237        CL
+310      GZK22          2200           8.0   0.343          
+311      GZK22          2200          10.0   0.782          
+312      GZK22          2200          12.0   1.587          
+313      GZK22          2200          13.0   2.703        RB
+314      GZK22          2200          16.0   2.709  HBB road
+315      GZK22          2200          20.0   2.619          
+316      GZK22          2200          25.0   2.130     House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+309      GZK22          2200           7.0   0.237      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+305      GZK22          2200           1.0    2.82      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+313      GZK22          2200          13.0   2.703      RB
+ sencionno=GZK22 CL distance=7.0 RL=0.237
+ Finished Section no =GZK22**********************************
+ 
+
+
+
+Initiated Section no =GZK23**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+317      GZK23          2325           0.0   3.451   Garden
+318      GZK23          2325           5.0   3.444         
+319      GZK23          2325          10.0   3.439         
+320      GZK23          2325          11.0   2.313       LB
+321      GZK23          2325          13.0   1.020         
+322      GZK23          2325          15.0   0.198         
+323      GZK23          2325          17.0   0.094       CL
+324      GZK23          2325          19.0   0.195         
+325      GZK23          2325          21.0   0.989         
+326      GZK23          2325          23.0   2.315         
+327      GZK23          2325          24.0   4.194       RB
+328      GZK23          2325          27.0   4.180  BC road
+329      GZK23          2325          28.0   4.125    House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+323      GZK23          2325          17.0   0.094      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+320      GZK23          2325          11.0   2.313      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+327      GZK23          2325          24.0   4.194      RB
+ sencionno=GZK23 CL distance=17.0 RL=0.094
+ Finished Section no =GZK23**********************************
+ 
+
+
+############# We Are Checking Sectional properties.............
+ 
+
+
+############# ##################################################
+    XsectionNo  chainage   r1   r2 c1 c2    KhalName     GL  Ivert Level  \
+0        GZK0         0    3   16  B  D  Gazir Khal  0.402         -1.6   
+1        GZK1       100   19   31  B  D  Gazir Khal  0.402         -1.6   
+2        GZK2       200   34   46  B  D  Gazir Khal  0.402         -1.6   
+3        GZK3       300   49   61  B  D  Gazir Khal  0.402         -1.6   
+4        GZK4       400   65   78  B  D  Gazir Khal  0.402         -1.6   
+5        GZK5       500   82   95  B  D  Gazir Khal  0.402         -1.6   
+6        GZK6       600   98  112  B  D  Gazir Khal  0.402         -1.6   
+7        GZK7       700  115  127  B  D  Gazir Khal  0.402         -1.6   
+8        GZK8       800  130  142  B  D  Gazir Khal  0.402         -1.6   
+9        GZK9       900  146  158  B  D  Gazir Khal  0.402         -1.6   
+10      GZK10      1000  162  174  B  D  Gazir Khal  0.402         -1.6   
+11      GZK11      1100  180  192  B  D  Gazir Khal  0.402         -1.6   
+12      GZK12      1200  195  210  B  D  Gazir Khal  0.402         -1.6   
+13      GZK13      1300  213  226  B  D  Gazir Khal  0.402         -1.6   
+14      GZK14      1400  229  241  B  D  Gazir Khal  0.402         -1.6   
+15      GZK15      1500  244  257  B  D  Gazir Khal  0.402         -1.6   
+16      GZK16      1600  260  274  B  D  Gazir Khal  0.402         -1.6   
+17      GZK17      1700  278  290  B  D  Gazir Khal  0.402         -1.6   
+18      GZK18      1800  294  306  B  D  Gazir Khal  0.402         -1.6   
+19      GZK19      1900  308  321  B  D  Gazir Khal  0.402         -1.6   
+20      GZK20      2000  324  338  B  D  Gazir Khal  0.402         -1.6   
+21      GZK21      2100  341  356  B  D  Gazir Khal  0.402         -1.6   
+22      GZK22      2200  359  371  B  D  Gazir Khal  0.402         -1.6   
+23      GZK23      2325  374  386  B  D  Gazir Khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+23        0.6             30          1  
+ Intitiated X-sectional Properties Calculation for section no=GZK0 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(2.248), np.float64(1.069), np.float64(0.194), np.float64(-0.405), np.float64(-0.507), np.float64(-0.402), np.float64(0.198), np.float64(1.11), np.float64(2.193)]
+ section no=GZK0 total data points=9
+ deepest point of section=-0.507
+ Maximum Water Level without over flow=1.11
+ si=1 fin=7
+ distance=[np.float64(15.54), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ RL=[np.float64(2.193), np.float64(1.069), np.float64(0.194), np.float64(-0.405), np.float64(-0.507), np.float64(-0.402), np.float64(0.198), np.float64(1.11), np.float64(2.193)]
+ water level=2.193
+ Left=20.0 Right=15.54 Topwidth=4.460000000000001
+ Finished X-sectional Properties Calculation for section no=GZK0
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK1 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(2.591), np.float64(1.268), np.float64(0.498), np.float64(0.005), np.float64(-0.105), np.float64(-0.001), np.float64(0.198), np.float64(0.39), np.float64(0.394)]
+ section no=GZK1 total data points=9
+ deepest point of section=-0.105
+ Maximum Water Level without over flow=0.39
+ si=3 fin=7
+ distance=[np.float64(7.51), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ RL=[np.float64(0.394), np.float64(0.005), np.float64(-0.105), np.float64(-0.001), np.float64(0.198), np.float64(0.39), np.float64(0.394)]
+ water level=0.394
+ Left=18.0 Right=7.51 Topwidth=10.49
+ Finished X-sectional Properties Calculation for section no=GZK1
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK2 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(0.768), np.float64(0.454), np.float64(0.298), np.float64(0.102), np.float64(-0.002), np.float64(0.104), np.float64(0.214), np.float64(0.302), np.float64(0.394)]
+ section no=GZK2 total data points=9
+ deepest point of section=-0.002
+ Maximum Water Level without over flow=0.302
+ si=2 fin=7
+ distance=[np.float64(10.49), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ RL=[np.float64(0.394), np.float64(0.298), np.float64(0.102), np.float64(-0.002), np.float64(0.104), np.float64(0.214), np.float64(0.302), np.float64(0.394)]
+ water level=0.394
+ Left=18.0 Right=10.49 Topwidth=7.51
+ Finished X-sectional Properties Calculation for section no=GZK2
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK3 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(1.29), np.float64(0.568), np.float64(0.287), np.float64(-0.01), np.float64(-0.124), np.float64(-0.018), np.float64(0.259), np.float64(0.686), np.float64(1.202)]
+ section no=GZK3 total data points=9
+ deepest point of section=-0.124
+ Maximum Water Level without over flow=0.686
+ si=1 fin=7
+ distance=[np.float64(11.57), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ RL=[np.float64(1.202), np.float64(0.568), np.float64(0.287), np.float64(-0.01), np.float64(-0.124), np.float64(-0.018), np.float64(0.259), np.float64(0.686), np.float64(1.202)]
+ water level=1.202
+ Left=20.0 Right=11.57 Topwidth=8.43
+ Finished X-sectional Properties Calculation for section no=GZK3
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK4 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ y=[np.float64(1.159), np.float64(0.542), np.float64(0.183), np.float64(-0.098), np.float64(-0.207), np.float64(-0.102), np.float64(0.197), np.float64(0.592), np.float64(1.242)]
+ section no=GZK4 total data points=9
+ deepest point of section=-0.207
+ Maximum Water Level without over flow=0.592
+ si=1 fin=7
+ distance=[np.float64(10.98), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(18.87)]
+ RL=[np.float64(1.159), np.float64(0.542), np.float64(0.183), np.float64(-0.098), np.float64(-0.207), np.float64(-0.102), np.float64(0.197), np.float64(0.592), np.float64(1.159)]
+ water level=1.159
+ Left=18.87 Right=10.98 Topwidth=7.890000000000001
+ Finished X-sectional Properties Calculation for section no=GZK4
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK5 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.5), np.float64(17.0), np.float64(19.0), np.float64(20.0), np.float64(21.0)]
+ y=[np.float64(1.367), np.float64(0.561), np.float64(0.05), np.float64(-0.318), np.float64(-0.423), np.float64(-0.317), np.float64(0.042), np.float64(0.593), np.float64(1.456)]
+ section no=GZK5 total data points=9
+ deepest point of section=-0.423
+ Maximum Water Level without over flow=0.593
+ si=1 fin=7
+ distance=[np.float64(12.12), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.5), np.float64(17.0), np.float64(19.0), np.float64(20.0), np.float64(20.9)]
+ RL=[np.float64(1.367), np.float64(0.561), np.float64(0.05), np.float64(-0.318), np.float64(-0.423), np.float64(-0.317), np.float64(0.042), np.float64(0.593), np.float64(1.367)]
+ water level=1.367
+ Left=20.9 Right=12.12 Topwidth=8.78
+ Finished X-sectional Properties Calculation for section no=GZK5
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK6 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(1.884), np.float64(1.804), np.float64(0.135), np.float64(-0.34), np.float64(-0.44), np.float64(-0.336), np.float64(0.111), np.float64(0.886), np.float64(2.047)]
+ section no=GZK6 total data points=9
+ deepest point of section=-0.44
+ Maximum Water Level without over flow=0.886
+ si=1 fin=7
+ distance=[np.float64(11.19), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(19.86)]
+ RL=[np.float64(1.884), np.float64(1.804), np.float64(0.135), np.float64(-0.34), np.float64(-0.44), np.float64(-0.336), np.float64(0.111), np.float64(0.886), np.float64(1.884)]
+ water level=1.884
+ Left=19.86 Right=11.19 Topwidth=8.67
+ Finished X-sectional Properties Calculation for section no=GZK6
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK7 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(0.921), np.float64(0.293), np.float64(-0.055), np.float64(-0.254), np.float64(-0.355), np.float64(-0.249), np.float64(-0.046), np.float64(0.257), np.float64(0.89)]
+ section no=GZK7 total data points=9
+ deepest point of section=-0.355
+ Maximum Water Level without over flow=0.257
+ si=1 fin=7
+ distance=[np.float64(9.66), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ RL=[np.float64(0.89), np.float64(0.293), np.float64(-0.055), np.float64(-0.254), np.float64(-0.355), np.float64(-0.249), np.float64(-0.046), np.float64(0.257), np.float64(0.89)]
+ water level=0.89
+ Left=22.0 Right=9.66 Topwidth=12.34
+ Finished X-sectional Properties Calculation for section no=GZK7
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK8 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.5), np.float64(17.0), np.float64(19.0), np.float64(20.0), np.float64(21.0)]
+ y=[np.float64(0.909), np.float64(0.425), np.float64(0.111), np.float64(-0.103), np.float64(-0.209), np.float64(-0.104), np.float64(0.116), np.float64(0.441), np.float64(0.855)]
+ section no=GZK8 total data points=9
+ deepest point of section=-0.209
+ Maximum Water Level without over flow=0.441
+ si=1 fin=7
+ distance=[np.float64(9.91), np.float64(11.0), np.float64(12.0), np.float64(14.0), np.float64(15.5), np.float64(17.0), np.float64(19.0), np.float64(20.0), np.float64(21.0)]
+ RL=[np.float64(0.855), np.float64(0.425), np.float64(0.111), np.float64(-0.103), np.float64(-0.209), np.float64(-0.104), np.float64(0.116), np.float64(0.441), np.float64(0.855)]
+ water level=0.855
+ Left=21.0 Right=9.91 Topwidth=11.09
+ Finished X-sectional Properties Calculation for section no=GZK8
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK9 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ y=[np.float64(0.891), np.float64(0.51), np.float64(0.221), np.float64(0.021), np.float64(-0.071), np.float64(0.03), np.float64(0.214), np.float64(0.466), np.float64(0.811)]
+ section no=GZK9 total data points=9
+ deepest point of section=-0.071
+ Maximum Water Level without over flow=0.466
+ si=1 fin=7
+ distance=[np.float64(10.14), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ RL=[np.float64(0.811), np.float64(0.51), np.float64(0.221), np.float64(0.021), np.float64(-0.071), np.float64(0.03), np.float64(0.214), np.float64(0.466), np.float64(0.811)]
+ water level=0.811
+ Left=19.0 Right=10.14 Topwidth=8.86
+ Finished X-sectional Properties Calculation for section no=GZK9
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK10 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(0.795), np.float64(0.49), np.float64(0.294), np.float64(0.111), np.float64(0.009), np.float64(0.114), np.float64(0.23), np.float64(0.416), np.float64(0.711)]
+ section no=GZK10 total data points=9
+ deepest point of section=0.009
+ Maximum Water Level without over flow=0.416
+ si=1 fin=7
+ distance=[np.float64(10.04), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ RL=[np.float64(0.711), np.float64(0.49), np.float64(0.294), np.float64(0.111), np.float64(0.009), np.float64(0.114), np.float64(0.23), np.float64(0.416), np.float64(0.711)]
+ water level=0.711
+ Left=18.0 Right=10.04 Topwidth=7.960000000000001
+ Finished X-sectional Properties Calculation for section no=GZK10
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK11 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ y=[np.float64(1.127), np.float64(0.588), np.float64(0.351), np.float64(0.164), np.float64(0.056), np.float64(0.162), np.float64(0.34), np.float64(0.616), np.float64(1.05)]
+ section no=GZK11 total data points=9
+ deepest point of section=0.056
+ Maximum Water Level without over flow=0.616
+ si=1 fin=7
+ distance=[np.float64(10.84), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ RL=[np.float64(1.05), np.float64(0.588), np.float64(0.351), np.float64(0.164), np.float64(0.056), np.float64(0.162), np.float64(0.34), np.float64(0.616), np.float64(1.05)]
+ water level=1.05
+ Left=19.0 Right=10.84 Topwidth=8.16
+ Finished X-sectional Properties Calculation for section no=GZK11
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK12 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(1.74), np.float64(0.91), np.float64(0.561), np.float64(0.334), np.float64(0.126), np.float64(0.33), np.float64(0.649), np.float64(1.051), np.float64(1.916)]
+ section no=GZK12 total data points=9
+ deepest point of section=0.126
+ Maximum Water Level without over flow=1.051
+ si=1 fin=7
+ distance=[np.float64(13.3), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(17.8)]
+ RL=[np.float64(1.74), np.float64(0.91), np.float64(0.561), np.float64(0.334), np.float64(0.126), np.float64(0.33), np.float64(0.649), np.float64(1.051), np.float64(1.74)]
+ water level=1.74
+ Left=17.8 Right=13.3 Topwidth=4.5
+ Finished X-sectional Properties Calculation for section no=GZK12
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK13 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ y=[np.float64(1.216), np.float64(0.75), np.float64(0.458), np.float64(0.241), np.float64(0.136), np.float64(0.243), np.float64(0.45), np.float64(0.727), np.float64(1.026)]
+ section no=GZK13 total data points=9
+ deepest point of section=0.136
+ Maximum Water Level without over flow=0.727
+ si=1 fin=7
+ distance=[np.float64(11.06), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ RL=[np.float64(1.026), np.float64(0.75), np.float64(0.458), np.float64(0.241), np.float64(0.136), np.float64(0.243), np.float64(0.45), np.float64(0.727), np.float64(1.026)]
+ water level=1.026
+ Left=19.0 Right=11.06 Topwidth=7.9399999999999995
+ Finished X-sectional Properties Calculation for section no=GZK13
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK14 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(0.941), np.float64(0.693), np.float64(0.46), np.float64(0.277), np.float64(0.172), np.float64(0.275), np.float64(0.506), np.float64(0.636), np.float64(0.921)]
+ section no=GZK14 total data points=9
+ deepest point of section=0.172
+ Maximum Water Level without over flow=0.636
+ si=1 fin=7
+ distance=[np.float64(10.46), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ RL=[np.float64(0.921), np.float64(0.693), np.float64(0.46), np.float64(0.277), np.float64(0.172), np.float64(0.275), np.float64(0.506), np.float64(0.636), np.float64(0.921)]
+ water level=0.921
+ Left=18.0 Right=10.46 Topwidth=7.539999999999999
+ Finished X-sectional Properties Calculation for section no=GZK14
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK15 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(2.053), np.float64(1.037), np.float64(0.473), np.float64(0.161), np.float64(0.058), np.float64(0.164), np.float64(0.371), np.float64(0.458), np.float64(0.774)]
+ section no=GZK15 total data points=9
+ deepest point of section=0.058
+ Maximum Water Level without over flow=0.458
+ si=2 fin=7
+ distance=[np.float64(11.69), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ RL=[np.float64(0.774), np.float64(0.473), np.float64(0.161), np.float64(0.058), np.float64(0.164), np.float64(0.371), np.float64(0.458), np.float64(0.774)]
+ water level=0.774
+ Left=20.0 Right=11.69 Topwidth=8.31
+ Finished X-sectional Properties Calculation for section no=GZK15
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK16 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(2.453), np.float64(1.56), np.float64(0.761), np.float64(0.367), np.float64(0.264), np.float64(0.37), np.float64(0.767), np.float64(1.438), np.float64(2.158)]
+ section no=GZK16 total data points=9
+ deepest point of section=0.264
+ Maximum Water Level without over flow=1.438
+ si=1 fin=7
+ distance=[np.float64(13.37), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ RL=[np.float64(2.158), np.float64(1.56), np.float64(0.761), np.float64(0.367), np.float64(0.264), np.float64(0.37), np.float64(0.767), np.float64(1.438), np.float64(2.158)]
+ water level=2.158
+ Left=20.0 Right=13.37 Topwidth=6.630000000000001
+ Finished X-sectional Properties Calculation for section no=GZK16
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK17 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(22.0)]
+ y=[np.float64(0.949), np.float64(0.663), np.float64(0.442), np.float64(0.287), np.float64(0.182), np.float64(0.283), np.float64(0.553), np.float64(0.958), np.float64(1.751)]
+ section no=GZK17 total data points=9
+ deepest point of section=0.182
+ Maximum Water Level without over flow=0.949
+ si=1 fin=6
+ distance=[np.float64(10.36), np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(19.0), np.float64(20.96)]
+ RL=[np.float64(0.949), np.float64(0.663), np.float64(0.442), np.float64(0.287), np.float64(0.182), np.float64(0.283), np.float64(0.553), np.float64(0.949)]
+ water level=0.949
+ Left=20.96 Right=10.36 Topwidth=10.600000000000001
+ Finished X-sectional Properties Calculation for section no=GZK17
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK18 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0)]
+ y=[np.float64(2.141), np.float64(1.208), np.float64(0.732), np.float64(0.453), np.float64(0.282), np.float64(0.387), np.float64(0.763), np.float64(1.253), np.float64(2.257)]
+ section no=GZK18 total data points=9
+ deepest point of section=0.282
+ Maximum Water Level without over flow=1.253
+ si=1 fin=7
+ distance=[np.float64(14.41), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(13.5), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(16.88)]
+ RL=[np.float64(2.141), np.float64(1.208), np.float64(0.732), np.float64(0.453), np.float64(0.282), np.float64(0.387), np.float64(0.763), np.float64(1.253), np.float64(2.141)]
+ water level=2.141
+ Left=16.88 Right=14.41 Topwidth=2.469999999999999
+ Finished X-sectional Properties Calculation for section no=GZK18
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK19 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(18.0)]
+ y=[np.float64(2.15), np.float64(1.116), np.float64(0.461), np.float64(-0.001), np.float64(-0.103), np.float64(0.001), np.float64(0.46), np.float64(1.115), np.float64(2.41)]
+ section no=GZK19 total data points=9
+ deepest point of section=-0.103
+ Maximum Water Level without over flow=1.115
+ si=1 fin=7
+ distance=[np.float64(14.9), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.0), np.float64(15.0), np.float64(16.0), np.float64(17.0), np.float64(17.8)]
+ RL=[np.float64(2.15), np.float64(1.116), np.float64(0.461), np.float64(-0.001), np.float64(-0.103), np.float64(0.001), np.float64(0.46), np.float64(1.115), np.float64(2.15)]
+ water level=2.15
+ Left=17.8 Right=14.9 Topwidth=2.9000000000000004
+ Finished X-sectional Properties Calculation for section no=GZK19
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK20 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(19.0)]
+ y=[np.float64(1.776), np.float64(1.589), np.float64(0.735), np.float64(0.03), np.float64(-0.072), np.float64(0.033), np.float64(0.649), np.float64(1.54), np.float64(2.528)]
+ section no=GZK20 total data points=9
+ deepest point of section=-0.072
+ Maximum Water Level without over flow=1.54
+ si=1 fin=7
+ distance=[np.float64(11.41), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(14.5), np.float64(16.0), np.float64(17.0), np.float64(18.0), np.float64(18.24)]
+ RL=[np.float64(1.776), np.float64(1.589), np.float64(0.735), np.float64(0.03), np.float64(-0.072), np.float64(0.033), np.float64(0.649), np.float64(1.54), np.float64(1.776)]
+ water level=1.776
+ Left=18.24 Right=11.41 Topwidth=6.829999999999998
+ Finished X-sectional Properties Calculation for section no=GZK20
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK21 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(10.0), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(20.0)]
+ y=[np.float64(2.615), np.float64(1.584), np.float64(0.733), np.float64(0.113), np.float64(0.009), np.float64(0.11), np.float64(0.729), np.float64(1.58), np.float64(2.749)]
+ section no=GZK21 total data points=9
+ deepest point of section=0.009
+ Maximum Water Level without over flow=1.58
+ si=1 fin=7
+ distance=[np.float64(15.34), np.float64(11.0), np.float64(12.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(18.0), np.float64(19.0), np.float64(19.89)]
+ RL=[np.float64(2.615), np.float64(1.584), np.float64(0.733), np.float64(0.113), np.float64(0.009), np.float64(0.11), np.float64(0.729), np.float64(1.58), np.float64(2.615)]
+ water level=2.615
+ Left=19.89 Right=15.34 Topwidth=4.550000000000001
+ Finished X-sectional Properties Calculation for section no=GZK21
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK22 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(1.0), np.float64(2.0), np.float64(4.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(13.0)]
+ y=[np.float64(2.82), np.float64(1.582), np.float64(0.817), np.float64(0.34), np.float64(0.237), np.float64(0.343), np.float64(0.782), np.float64(1.587), np.float64(2.703)]
+ section no=GZK22 total data points=9
+ deepest point of section=0.237
+ Maximum Water Level without over flow=1.587
+ si=1 fin=7
+ distance=[np.float64(0.55), np.float64(2.0), np.float64(4.0), np.float64(6.0), np.float64(7.0), np.float64(8.0), np.float64(10.0), np.float64(12.0), np.float64(13.0)]
+ RL=[np.float64(2.703), np.float64(1.582), np.float64(0.817), np.float64(0.34), np.float64(0.237), np.float64(0.343), np.float64(0.782), np.float64(1.587), np.float64(2.703)]
+ water level=2.703
+ Left=13.0 Right=0.55 Topwidth=12.45
+ Finished X-sectional Properties Calculation for section no=GZK22
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=GZK23 
+ ########################Displaying Section Properties###########################
+ x=[np.float64(11.0), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0), np.float64(24.0)]
+ y=[np.float64(2.313), np.float64(1.02), np.float64(0.198), np.float64(0.094), np.float64(0.195), np.float64(0.989), np.float64(2.315), np.float64(4.194)]
+ section no=GZK23 total data points=8
+ deepest point of section=0.094
+ Maximum Water Level without over flow=2.313
+ si=1 fin=5
+ distance=[np.float64(18.64), np.float64(13.0), np.float64(15.0), np.float64(17.0), np.float64(19.0), np.float64(21.0), np.float64(23.0)]
+ RL=[np.float64(2.313), np.float64(1.02), np.float64(0.198), np.float64(0.094), np.float64(0.195), np.float64(0.989), np.float64(2.313)]
+ water level=2.313
+ Left=23.0 Right=18.64 Topwidth=4.359999999999999
+ Finished X-sectional Properties Calculation for section no=GZK23
+
+
+
+
+ ############# #################################################
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =GZK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+0        GZK0             0           0.0   2.268  Khal bank
+1        GZK0             0           5.0   2.259           
+2        GZK0             0          10.0   2.248         LB
+3        GZK0             0          11.0   1.069           
+4        GZK0             0          12.0   0.194           
+5        GZK0             0          13.0  -0.405           
+6        GZK0             0          15.0  -0.507         CL
+7        GZK0             0          17.0  -0.402           
+8        GZK0             0          18.0   0.198           
+9        GZK0             0          19.0   1.110           
+10       GZK0             0          20.0   2.193         RB
+11       GZK0             0          25.0   2.185           
+12       GZK0             0          30.0   2.170           
+13       GZK0             0          35.0   2.164  Khal bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       GZK0             0          15.0  -0.507      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       GZK0             0          10.0   2.248      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       GZK0             0          20.0   2.193      RB
+ sencionno=GZK0 CL distance=15.0 RL=-0.507
+ Finished Section no =GZK0**********************************
+ 
+
+
+
+Initiated Section no =GZK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+14       GZK1           100           0.0   2.620     Project
+15       GZK1           100           5.0   2.605            
+16       GZK1           100          10.0   2.591          LB
+17       GZK1           100          11.0   1.268            
+18       GZK1           100          12.0   0.498            
+19       GZK1           100          13.0   0.005            
+20       GZK1           100          14.0  -0.105            
+21       GZK1           100          15.0  -0.001          CL
+22       GZK1           100          16.0   0.198            
+23       GZK1           100          17.0   0.390            
+24       GZK1           100          18.0   0.394          RB
+25       GZK1           100          23.0   0.680            
+26       GZK1           100          28.0   0.669  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       GZK1           100          15.0  -0.001      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       GZK1           100          10.0   2.591      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+24       GZK1           100          18.0   0.394      RB
+ sencionno=GZK1 CL distance=15.0 RL=-0.001
+ Finished Section no =GZK1**********************************
+ 
+
+
+
+Initiated Section no =GZK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+27       GZK2           200           0.0   0.795  Paddy land
+28       GZK2           200           5.0   0.784            
+29       GZK2           200          10.0   0.768          LB
+30       GZK2           200          11.0   0.454            
+31       GZK2           200          12.0   0.298            
+32       GZK2           200          13.0   0.102            
+33       GZK2           200          14.0  -0.002            
+34       GZK2           200          15.0   0.104          CL
+35       GZK2           200          16.0   0.214            
+36       GZK2           200          17.0   0.302            
+37       GZK2           200          18.0   0.394          RB
+38       GZK2           200          23.0   0.380            
+39       GZK2           200          28.0   0.371    Br. Khal
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       GZK2           200          15.0   0.104      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+29       GZK2           200          10.0   0.768      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       GZK2           200          18.0   0.394      RB
+ sencionno=GZK2 CL distance=15.0 RL=0.104
+ Finished Section no =GZK2**********************************
+ 
+
+
+
+Initiated Section no =GZK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+40       GZK3           300           0.0   1.270  Paddy land
+41       GZK3           300           5.0   1.283            
+42       GZK3           300          10.0   1.290          LB
+43       GZK3           300          11.0   0.568            
+44       GZK3           300          12.0   0.287            
+45       GZK3           300          13.0  -0.010            
+46       GZK3           300          15.0  -0.124          CL
+47       GZK3           300          17.0  -0.018            
+48       GZK3           300          18.0   0.259            
+49       GZK3           300          19.0   0.686            
+50       GZK3           300          20.0   1.202          RB
+51       GZK3           300          25.0   1.198            
+52       GZK3           300          30.0   1.186  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+46       GZK3           300          15.0  -0.124      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       GZK3           300          10.0    1.29      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+50       GZK3           300          20.0   1.202      RB
+ sencionno=GZK3 CL distance=15.0 RL=-0.124
+ Finished Section no =GZK3**********************************
+ 
+
+
+
+Initiated Section no =GZK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+53       GZK4           400           0.0   1.193  Paddy land
+54       GZK4           400           5.0   1.181            
+55       GZK4           400          10.0   1.159          LB
+56       GZK4           400          11.0   0.542            
+57       GZK4           400          12.0   0.183            
+58       GZK4           400          13.0  -0.098            
+59       GZK4           400          14.5  -0.207          CL
+60       GZK4           400          16.0  -0.102            
+61       GZK4           400          17.0   0.197            
+62       GZK4           400          18.0   0.592            
+63       GZK4           400          19.0   1.242          RB
+64       GZK4           400          25.0   1.237            
+65       GZK4           400          30.0   1.229            
+66       GZK4           400          35.0   1.223  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+59       GZK4           400          14.5  -0.207      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+55       GZK4           400          10.0   1.159      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+63       GZK4           400          19.0   1.242      RB
+ sencionno=GZK4 CL distance=14.5 RL=-0.207
+ Finished Section no =GZK4**********************************
+ 
+
+
+
+Initiated Section no =GZK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+67       GZK5           500           0.0   1.388  Road side
+68       GZK5           500           5.0   1.372           
+69       GZK5           500          10.0   1.367         LB
+70       GZK5           500          11.0   0.561           
+71       GZK5           500          12.0   0.050           
+72       GZK5           500          14.0  -0.318         CL
+73       GZK5           500          15.5  -0.423           
+74       GZK5           500          17.0  -0.317           
+75       GZK5           500          19.0   0.042           
+76       GZK5           500          20.0   0.593           
+77       GZK5           500          21.0   1.456         RB
+78       GZK5           500          25.0   1.437           
+79       GZK5           500          30.0   1.432           
+80       GZK5           500          35.0   1.420  Road side
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+72       GZK5           500          14.0  -0.318      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+69       GZK5           500          10.0   1.367      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+77       GZK5           500          21.0   1.456      RB
+ sencionno=GZK5 CL distance=14.0 RL=-0.318
+ Finished Section no =GZK5**********************************
+ 
+
+
+
+Initiated Section no =GZK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+81       GZK6           600           0.0   1.910      Garden
+82       GZK6           600           5.0   1.905            
+83       GZK6           600          10.0   1.884          LB
+84       GZK6           600          11.0   1.804            
+85       GZK6           600          12.0   0.135            
+86       GZK6           600          13.0  -0.340            
+87       GZK6           600          15.0  -0.440          CL
+88       GZK6           600          17.0  -0.336            
+89       GZK6           600          18.0   0.111            
+90       GZK6           600          19.0   0.886            
+91       GZK6           600          20.0   2.047          RB
+92       GZK6           600          21.0   2.038            
+93       GZK6           600          22.0   1.076            
+94       GZK6           600          27.0   1.070            
+95       GZK6           600          32.0   1.065  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+87       GZK6           600          15.0   -0.44      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+83       GZK6           600          10.0   1.884      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+91       GZK6           600          20.0   2.047      RB
+ sencionno=GZK6 CL distance=15.0 RL=-0.44
+ Finished Section no =GZK6**********************************
+ 
+
+
+
+Initiated Section no =GZK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+96        GZK7           700           0.0   0.942  Paddy land
+97        GZK7           700           5.0   0.935            
+98        GZK7           700          10.0   0.921          LB
+99        GZK7           700          11.0   0.293            
+100       GZK7           700          13.0  -0.055            
+101       GZK7           700          15.0  -0.254          CL
+102       GZK7           700          16.0  -0.355            
+103       GZK7           700          17.0  -0.249            
+104       GZK7           700          19.0  -0.046            
+105       GZK7           700          21.0   0.257            
+106       GZK7           700          22.0   0.890          RB
+107       GZK7           700          27.0   0.879            
+108       GZK7           700          32.0   0.875  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+101       GZK7           700          15.0  -0.254      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+98       GZK7           700          10.0   0.921      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       GZK7           700          22.0    0.89      RB
+ sencionno=GZK7 CL distance=15.0 RL=-0.254
+ Finished Section no =GZK7**********************************
+ 
+
+
+
+Initiated Section no =GZK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+109       GZK8           800           0.0   0.940  Paddy land
+110       GZK8           800           5.0   0.921            
+111       GZK8           800          10.0   0.909          LB
+112       GZK8           800          11.0   0.425            
+113       GZK8           800          12.0   0.111            
+114       GZK8           800          14.0  -0.103          CL
+115       GZK8           800          15.5  -0.209            
+116       GZK8           800          17.0  -0.104            
+117       GZK8           800          19.0   0.116            
+118       GZK8           800          20.0   0.441            
+119       GZK8           800          21.0   0.855          RB
+120       GZK8           800          25.0   0.846            
+121       GZK8           800          30.0   0.834  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+114       GZK8           800          14.0  -0.103      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+111       GZK8           800          10.0   0.909      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+119       GZK8           800          21.0   0.855      RB
+ sencionno=GZK8 CL distance=14.0 RL=-0.103
+ Finished Section no =GZK8**********************************
+ 
+
+
+
+Initiated Section no =GZK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+122       GZK9           900           0.0   0.909  Paddy land
+123       GZK9           900           5.0   0.904            
+124       GZK9           900          10.0   0.891          LB
+125       GZK9           900          11.0   0.510            
+126       GZK9           900          12.0   0.221            
+127       GZK9           900          13.0   0.021            
+128       GZK9           900          14.5  -0.071          CL
+129       GZK9           900          16.0   0.030            
+130       GZK9           900          17.0   0.214            
+131       GZK9           900          18.0   0.466            
+132       GZK9           900          19.0   0.811          RB
+133       GZK9           900          25.0   0.800            
+134       GZK9           900          30.0   0.794  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+128       GZK9           900          14.5  -0.071      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       GZK9           900          10.0   0.891      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       GZK9           900          19.0   0.811      RB
+ sencionno=GZK9 CL distance=14.5 RL=-0.071
+ Finished Section no =GZK9**********************************
+ 
+
+
+
+Initiated Section no =GZK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+135      GZK10          1000           0.0   0.810  Paddy land
+136      GZK10          1000           5.0   0.800            
+137      GZK10          1000          10.0   0.795          LB
+138      GZK10          1000          11.0   0.490            
+139      GZK10          1000          12.0   0.294            
+140      GZK10          1000          13.0   0.111            
+141      GZK10          1000          14.0   0.009            
+142      GZK10          1000          15.0   0.114          CL
+143      GZK10          1000          16.0   0.230            
+144      GZK10          1000          17.0   0.416            
+145      GZK10          1000          18.0   0.711          RB
+146      GZK10          1000          23.0   0.697            
+147      GZK10          1000          28.0   0.685  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+142      GZK10          1000          15.0   0.114      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137      GZK10          1000          10.0   0.795      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+145      GZK10          1000          18.0   0.711      RB
+ sencionno=GZK10 CL distance=15.0 RL=0.114
+ Finished Section no =GZK10**********************************
+ 
+
+
+
+Initiated Section no =GZK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+148      GZK11          1100           0.0   1.155  Paddy land
+149      GZK11          1100           5.0   1.140            
+150      GZK11          1100          10.0   1.127          LB
+151      GZK11          1100          11.0   0.588            
+152      GZK11          1100          12.0   0.351            
+153      GZK11          1100          13.0   0.164            
+154      GZK11          1100          14.5   0.056          CL
+155      GZK11          1100          16.0   0.162            
+156      GZK11          1100          17.0   0.340            
+157      GZK11          1100          18.0   0.616            
+158      GZK11          1100          19.0   1.050          RB
+159      GZK11          1100          25.0   1.035            
+160      GZK11          1100          30.0   1.026  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+154      GZK11          1100          14.5   0.056      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+150      GZK11          1100          10.0   1.127      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+158      GZK11          1100          19.0    1.05      RB
+ sencionno=GZK11 CL distance=14.5 RL=0.056
+ Finished Section no =GZK11**********************************
+ 
+
+
+
+Initiated Section no =GZK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+161      GZK12          1200           0.0   0.936  Paddy land
+162      GZK12          1200           8.0   0.924            
+163      GZK12          1200           9.0   1.751            
+164      GZK12          1200          10.0   1.740          LB
+165      GZK12          1200          11.0   0.910            
+166      GZK12          1200          12.0   0.561            
+167      GZK12          1200          13.0   0.334            
+168      GZK12          1200          14.0   0.126            
+169      GZK12          1200          15.0   0.330          CL
+170      GZK12          1200          16.0   0.649            
+171      GZK12          1200          17.0   1.051            
+172      GZK12          1200          18.0   1.916          RB
+173      GZK12          1200          19.0   1.905            
+174      GZK12          1200          20.0   1.894            
+175      GZK12          1200          25.0   0.888            
+176      GZK12          1200          30.0   0.880  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      GZK12          1200          15.0    0.33      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+164      GZK12          1200          10.0    1.74      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+172      GZK12          1200          18.0   1.916      RB
+ sencionno=GZK12 CL distance=15.0 RL=0.33
+ Finished Section no =GZK12**********************************
+ 
+
+
+
+Initiated Section no =GZK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+177      GZK13          1300           0.0   1.236  Paddy land
+178      GZK13          1300           5.0   1.227            
+179      GZK13          1300          10.0   1.216          LB
+180      GZK13          1300          11.0   0.750            
+181      GZK13          1300          12.0   0.458            
+182      GZK13          1300          13.0   0.241            
+183      GZK13          1300          14.5   0.136          CL
+184      GZK13          1300          16.0   0.243            
+185      GZK13          1300          17.0   0.450            
+186      GZK13          1300          18.0   0.727            
+187      GZK13          1300          19.0   1.026          RB
+188      GZK13          1300          25.0   1.021            
+189      GZK13          1300          30.0   1.010            
+190      GZK13          1300          35.0   1.005  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+183      GZK13          1300          14.5   0.136      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+179      GZK13          1300          10.0   1.216      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+187      GZK13          1300          19.0   1.026      RB
+ sencionno=GZK13 CL distance=14.5 RL=0.136
+ Finished Section no =GZK13**********************************
+ 
+
+
+
+Initiated Section no =GZK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+191      GZK14          1400           0.0   0.954  Paddy land
+192      GZK14          1400           5.0   0.946            
+193      GZK14          1400          10.0   0.941          LB
+194      GZK14          1400          11.0   0.693            
+195      GZK14          1400          12.0   0.460            
+196      GZK14          1400          13.0   0.277            
+197      GZK14          1400          14.0   0.172            
+198      GZK14          1400          15.0   0.275          CL
+199      GZK14          1400          16.0   0.506            
+200      GZK14          1400          17.0   0.636            
+201      GZK14          1400          18.0   0.921          RB
+202      GZK14          1400          23.0   0.913            
+203      GZK14          1400          28.0   0.893  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      GZK14          1400          15.0   0.275      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+193      GZK14          1400          10.0   0.941      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+201      GZK14          1400          18.0   0.921      RB
+ sencionno=GZK14 CL distance=15.0 RL=0.275
+ Finished Section no =GZK14**********************************
+ 
+
+
+
+Initiated Section no =GZK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+204      GZK15          1500           0.0   0.833  Paddy land
+205      GZK15          1500           6.0   0.840            
+206      GZK15          1500           7.0   2.058            
+207      GZK15          1500          10.0   2.053          LB
+208      GZK15          1500          11.0   1.037            
+209      GZK15          1500          12.0   0.473            
+210      GZK15          1500          13.0   0.161            
+211      GZK15          1500          15.0   0.058          CL
+212      GZK15          1500          17.0   0.164            
+213      GZK15          1500          18.0   0.371            
+214      GZK15          1500          19.0   0.458            
+215      GZK15          1500          20.0   0.774          RB
+216      GZK15          1500          25.0   0.762            
+217      GZK15          1500          30.0   0.748  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      GZK15          1500          15.0   0.058      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+207      GZK15          1500          10.0   2.053      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+215      GZK15          1500          20.0   0.774      RB
+ sencionno=GZK15 CL distance=15.0 RL=0.058
+ Finished Section no =GZK15**********************************
+ 
+
+
+
+Initiated Section no =GZK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+218      GZK16          1600           0.0   0.962  Paddy land
+219      GZK16          1600           6.0   0.949            
+220      GZK16          1600           7.0   2.469  Earthen rd
+221      GZK16          1600          10.0   2.453          LB
+222      GZK16          1600          11.0   1.560            
+223      GZK16          1600          12.0   0.761            
+224      GZK16          1600          13.0   0.367            
+225      GZK16          1600          15.0   0.264          CL
+226      GZK16          1600          17.0   0.370            
+227      GZK16          1600          18.0   0.767            
+228      GZK16          1600          19.0   1.438            
+229      GZK16          1600          20.0   2.158          RB
+230      GZK16          1600          21.0   2.153            
+231      GZK16          1600          22.0   1.453            
+232      GZK16          1600          24.0   0.668        Pond
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      GZK16          1600          15.0   0.264      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+221      GZK16          1600          10.0   2.453      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+229      GZK16          1600          20.0   2.158      RB
+ sencionno=GZK16 CL distance=15.0 RL=0.264
+ Finished Section no =GZK16**********************************
+ 
+
+
+
+Initiated Section no =GZK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+233      GZK17          1700           0.0   0.962  Paddy land
+234      GZK17          1700           5.0   0.957            
+235      GZK17          1700          10.0   0.949          LB
+236      GZK17          1700          11.0   0.663            
+237      GZK17          1700          13.0   0.442            
+238      GZK17          1700          15.0   0.287          CL
+239      GZK17          1700          16.0   0.182            
+240      GZK17          1700          17.0   0.283            
+241      GZK17          1700          19.0   0.553            
+242      GZK17          1700          21.0   0.958            
+243      GZK17          1700          22.0   1.751          RB
+244      GZK17          1700          27.0   1.762            
+245      GZK17          1700          32.0   1.772  Home stead
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+238      GZK17          1700          15.0   0.287      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+235      GZK17          1700          10.0   0.949      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+243      GZK17          1700          22.0   1.751      RB
+ sencionno=GZK17 CL distance=15.0 RL=0.287
+ Finished Section no =GZK17**********************************
+ 
+
+
+
+Initiated Section no =GZK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+246      GZK18          1800           0.0   1.012  Paddy land
+247      GZK18          1800           5.0   1.025            
+248      GZK18          1800           6.0   2.251            
+249      GZK18          1800          10.0   2.141          LB
+250      GZK18          1800          11.0   1.208            
+251      GZK18          1800          12.0   0.732            
+252      GZK18          1800          13.0   0.453            
+253      GZK18          1800          13.5   0.282            
+254      GZK18          1800          14.0   0.387          CL
+255      GZK18          1800          15.0   0.763            
+256      GZK18          1800          16.0   1.253            
+257      GZK18          1800          17.0   2.257          RB
+258      GZK18          1800          20.0   2.262       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+254      GZK18          1800          14.0   0.387      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+249      GZK18          1800          10.0   2.141      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+257      GZK18          1800          17.0   2.257      RB
+ sencionno=GZK18 CL distance=14.0 RL=0.387
+ Finished Section no =GZK18**********************************
+ 
+
+
+
+Initiated Section no =GZK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+259      GZK19          1900           0.0   1.346  Paddy land
+260      GZK19          1900           7.0   1.364            
+261      GZK19          1900           8.0   2.161            
+262      GZK19          1900          10.0   2.150          LB
+263      GZK19          1900          11.0   1.116            
+264      GZK19          1900          12.0   0.461            
+265      GZK19          1900          13.0  -0.001            
+266      GZK19          1900          14.0  -0.103          CL
+267      GZK19          1900          15.0   0.001            
+268      GZK19          1900          16.0   0.460            
+269      GZK19          1900          17.0   1.115            
+270      GZK19          1900          18.0   2.410          RB
+271      GZK19          1900          23.0   2.405            
+272      GZK19          1900          28.0   2.390            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+266      GZK19          1900          14.0  -0.103      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+262      GZK19          1900          10.0    2.15      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+270      GZK19          1900          18.0    2.41      RB
+ sencionno=GZK19 CL distance=14.0 RL=-0.103
+ Finished Section no =GZK19**********************************
+ 
+
+
+
+Initiated Section no =GZK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+273      GZK20          2000           0.0   1.803  Paddy land
+274      GZK20          2000           5.0   1.785            
+275      GZK20          2000          10.0   1.776          LB
+276      GZK20          2000          11.0   1.589            
+277      GZK20          2000          12.0   0.735            
+278      GZK20          2000          13.0   0.030            
+279      GZK20          2000          14.5  -0.072          CL
+280      GZK20          2000          16.0   0.033            
+281      GZK20          2000          17.0   0.649            
+282      GZK20          2000          18.0   1.540            
+283      GZK20          2000          19.0   2.528          RB
+284      GZK20          2000          22.0   2.514            
+285      GZK20          2000          23.0   1.735            
+286      GZK20          2000          28.0   1.729            
+287      GZK20          2000          33.0   1.703  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      GZK20          2000          14.5  -0.072      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+275      GZK20          2000          10.0   1.776      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+283      GZK20          2000          19.0   2.528      RB
+ sencionno=GZK20 CL distance=14.5 RL=-0.072
+ Finished Section no =GZK20**********************************
+ 
+
+
+
+Initiated Section no =GZK21**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+288      GZK21          2100           0.0   2.023  Paddy land
+289      GZK21          2100           7.0   2.040            
+290      GZK21          2100           8.0   2.630            
+291      GZK21          2100          10.0   2.615          LB
+292      GZK21          2100          11.0   1.584            
+293      GZK21          2100          12.0   0.733            
+294      GZK21          2100          13.0   0.113            
+295      GZK21          2100          15.0   0.009          CL
+296      GZK21          2100          17.0   0.110            
+297      GZK21          2100          18.0   0.729            
+298      GZK21          2100          19.0   1.580            
+299      GZK21          2100          20.0   2.749          RB
+300      GZK21          2100          23.0   2.734            
+301      GZK21          2100          24.0   1.866            
+302      GZK21          2100          30.0   1.859            
+303      GZK21          2100          35.0   1.854  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+295      GZK21          2100          15.0   0.009      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+291      GZK21          2100          10.0   2.615      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+299      GZK21          2100          20.0   2.749      RB
+ sencionno=GZK21 CL distance=15.0 RL=0.009
+ Finished Section no =GZK21**********************************
+ 
+
+
+
+Initiated Section no =GZK22**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+304      GZK22          2200           0.0   2.829     House
+305      GZK22          2200           1.0   2.820        LB
+306      GZK22          2200           2.0   1.582          
+307      GZK22          2200           4.0   0.817          
+308      GZK22          2200           6.0   0.340          
+309      GZK22          2200           7.0   0.237        CL
+310      GZK22          2200           8.0   0.343          
+311      GZK22          2200          10.0   0.782          
+312      GZK22          2200          12.0   1.587          
+313      GZK22          2200          13.0   2.703        RB
+314      GZK22          2200          16.0   2.709  HBB road
+315      GZK22          2200          20.0   2.619          
+316      GZK22          2200          25.0   2.130     House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+309      GZK22          2200           7.0   0.237      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+305      GZK22          2200           1.0    2.82      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+313      GZK22          2200          13.0   2.703      RB
+ sencionno=GZK22 CL distance=7.0 RL=0.237
+ Finished Section no =GZK22**********************************
+ 
+
+
+
+Initiated Section no =GZK23**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+317      GZK23          2325           0.0   3.451   Garden
+318      GZK23          2325           5.0   3.444         
+319      GZK23          2325          10.0   3.439         
+320      GZK23          2325          11.0   2.313       LB
+321      GZK23          2325          13.0   1.020         
+322      GZK23          2325          15.0   0.198         
+323      GZK23          2325          17.0   0.094       CL
+324      GZK23          2325          19.0   0.195         
+325      GZK23          2325          21.0   0.989         
+326      GZK23          2325          23.0   2.315         
+327      GZK23          2325          24.0   4.194       RB
+328      GZK23          2325          27.0   4.180  BC road
+329      GZK23          2325          28.0   4.125    House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+323      GZK23          2325          17.0   0.094      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+320      GZK23          2325          11.0   2.313      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+327      GZK23          2325          24.0   4.194      RB
+ sencionno=GZK23 CL distance=17.0 RL=0.094
+ Finished Section no =GZK23**********************************
