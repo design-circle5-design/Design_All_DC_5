@@ -1,0 +1,779 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_17   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+   XsectionNo  chainage   r1   r2 c1 c2   KhalName     GL  Ivert Level  \
+0       AKH0         0    5   20  B  D  Aria khal  0.402         -1.6   
+1       AKH1       100   24   38  B  D  Aria khal  0.402         -1.6   
+2       AKH2       200   42   55  B  D  Aria khal  0.402         -1.6   
+3       AKH3       300   65   78  B  D  Aria khal  0.402         -1.6   
+4       AKH4       350   81   94  B  D  Aria khal  0.402         -1.6   
+5       AKH5       400   97  110  B  D  Aria khal  0.402         -1.6   
+6       AKH6       450  113  126  B  D  Aria khal  0.402         -1.6   
+7       AKH7       500  130  143  B  D  Aria khal  0.402         -1.6   
+8       AKH8       605  147  158  B  D  Aria khal  0.402         -1.6   
+
+   Retention  Required_Area  Direction  
+0        0.6             30          1  
+1        0.6             30          1  
+2        0.6             30          1  
+3        0.6             30          1  
+4        0.6             30          1  
+5        0.6             30          1  
+6        0.6             30          1  
+7        0.6             30          1  
+8        0.6             30          1  
+ --------Intiated Data Transfer for section no=AKH0--------
+
+
+
+
+ chainage=0 sec=AKH0 row1=5 row2=20 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 7, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 30, 35], 'rl': [-1.747, -0.747, 0.492, 0.443, 0.192, 0.143, -0.008, -0.213, -0.277, -0.223, -0.009, 0.091, 0.693, 2.253, 2.262, 2.273], 'remarks': ['House Area', '', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Garden'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0', 'AKH0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH1--------
+
+
+
+
+ chainage=100 sec=AKH1 row1=24 row2=38 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 25, 30], 'rl': [2.355, 2.36, 2.35, 0.079, -0.221, -0.57, -0.718, -0.77, -0.721, -0.585, -0.27, 0.179, 0.48, 1.485, 1.495], 'remarks': ['BC  road', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'House'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1', 'AKH1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH2--------
+
+
+
+
+ chainage=200 sec=AKH2 row1=42 row2=55 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 6, 8, 10, 11, 12, 14, 16, 17, 18, 25, 30], 'rl': [2.315, 2.325, 2.31, 0.034, -0.225, -0.38, -0.449, -0.386, -0.166, 0.033, 0.185, 0.834, 0.84, 0.845], 'remarks': ['BC  road', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2', 'AKH2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH3--------
+
+
+
+
+ chainage=300 sec=AKH3 row1=65 row2=78 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 7, 9, 10, 12, 14, 15, 17, 18, 19, 25, 30], 'rl': [2.61, 2.615, 2.605, 0.139, -0.261, -0.47, -0.515, -0.461, -0.31, -0.061, 0.19, 0.42, 0.435, 0.43], 'remarks': ['BC  road', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3', 'AKH3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH4--------
+
+
+
+
+ chainage=350 sec=AKH4 row1=81 row2=94 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 7, 9, 11, 12, 13, 15, 17, 18, 19, 25, 30], 'rl': [2.735, 2.745, 2.74, 0.185, -0.135, -0.391, -0.46, -0.391, -0.215, 0.039, 0.19, 0.49, 0.495, 0.5], 'remarks': ['BC  road', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350], 'sectionNo': ['AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4', 'AKH4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH5--------
+
+
+
+
+ chainage=400 sec=AKH5 row1=97 row2=110 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 7, 9, 11, 12, 13, 15, 17, 18, 19, 25, 30], 'rl': [3.3239, 3.244, 3.234, -0.046, -0.297, -0.491, -0.566, -0.495, -0.297, -0.097, 0.103, 0.489, 0.494, 0.299], 'remarks': ['BC  road', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5', 'AKH5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH6--------
+
+
+
+
+ chainage=450 sec=AKH6 row1=113 row2=126 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 7, 9, 11, 12, 13, 15, 17, 18, 19, 25, 30], 'rl': [2.794, 2.809, 2.804, -0.246, -0.297, -0.416, -0.497, -0.421, -0.371, -0.297, -0.136, 0.409, 0.414, 0.424], 'remarks': ['BC  road', '', 'LB', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450], 'sectionNo': ['AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6', 'AKH6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH7--------
+
+
+
+
+ chainage=500 sec=AKH7 row1=130 row2=143 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 20], 'rl': [2.785, 2.794, 2.78, -0.115, -0.36, -0.415, -0.361, -0.066, 0.129, -0.071, -0.075, -0.56, -0.666, -0.767], 'remarks': ['BC  road', '', 'LB', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Ditch'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7', 'AKH7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=AKH8--------
+
+
+
+
+ chainage=605 sec=AKH8 row1=147 row2=158 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 7, 8, 9, 10, 11, 12, 13, 20, 25], 'rl': [2.602, 2.626, 2.617, -0.023, -0.0181, -0.233, -0.178, -0.084, 0.015, 0.167, 0.162, 0.159], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', '', 'RB', '', 'open land'], 'chainage': [605, 605, 605, 605, 605, 605, 605, 605, 605, 605, 605, 605], 'sectionNo': ['AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8', 'AKH8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=AKH8--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =AKH0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        AKH0             0             0  -1.747  House Area
+1        AKH0             0             5  -0.747            
+2        AKH0             0             7   0.492            
+3        AKH0             0            10   0.443          LB
+4        AKH0             0            12   0.192            
+5        AKH0             0            13   0.143            
+6        AKH0             0            14  -0.008            
+7        AKH0             0            15  -0.213            
+8        AKH0             0            16  -0.277          CL
+9        AKH0             0            17  -0.223            
+10       AKH0             0            18  -0.009            
+11       AKH0             0            19   0.091            
+12       AKH0             0            20   0.693            
+13       AKH0             0            22   2.253          RB
+14       AKH0             0            30   2.262            
+15       AKH0             0            35   2.273      Garden
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+8       AKH0             0            16  -0.277      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+3       AKH0             0            10   0.443      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+13       AKH0             0            22   2.253      RB
+ sencionno=AKH0 CL distance=16 RL=-0.277
+ Finished Section no =AKH0**********************************
+ 
+
+
+
+Initiated Section no =AKH1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+16       AKH1           100             0   2.355  BC  road
+17       AKH1           100             3   2.360          
+18       AKH1           100             7   2.350        LB
+19       AKH1           100             9   0.079          
+20       AKH1           100            10  -0.221          
+21       AKH1           100            11  -0.570          
+22       AKH1           100            12  -0.718          
+23       AKH1           100            13  -0.770        CL
+24       AKH1           100            14  -0.721          
+25       AKH1           100            15  -0.585          
+26       AKH1           100            16  -0.270          
+27       AKH1           100            17   0.179          
+28       AKH1           100            19   0.480        RB
+29       AKH1           100            25   1.485          
+30       AKH1           100            30   1.495     House
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+23       AKH1           100            13   -0.77      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+18       AKH1           100             7    2.35      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       AKH1           100            19    0.48      RB
+ sencionno=AKH1 CL distance=13 RL=-0.77
+ Finished Section no =AKH1**********************************
+ 
+
+
+
+Initiated Section no =AKH2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+31       AKH2           200             0   2.315    BC  road
+32       AKH2           200             3   2.325            
+33       AKH2           200             4   2.310          LB
+34       AKH2           200             6   0.034            
+35       AKH2           200             8  -0.225            
+36       AKH2           200            10  -0.380            
+37       AKH2           200            11  -0.449          CL
+38       AKH2           200            12  -0.386            
+39       AKH2           200            14  -0.166            
+40       AKH2           200            16   0.033            
+41       AKH2           200            17   0.185            
+42       AKH2           200            18   0.834          RB
+43       AKH2           200            25   0.840            
+44       AKH2           200            30   0.845  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       AKH2           200            11  -0.449      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+33       AKH2           200             4    2.31      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       AKH2           200            18   0.834      RB
+ sencionno=AKH2 CL distance=11 RL=-0.449
+ Finished Section no =AKH2**********************************
+ 
+
+
+
+Initiated Section no =AKH3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+45       AKH3           300             0   2.610    BC  road
+46       AKH3           300             3   2.615            
+47       AKH3           300             5   2.605          LB
+48       AKH3           300             7   0.139            
+49       AKH3           300             9  -0.261            
+50       AKH3           300            10  -0.470            
+51       AKH3           300            12  -0.515          CL
+52       AKH3           300            14  -0.461            
+53       AKH3           300            15  -0.310            
+54       AKH3           300            17  -0.061            
+55       AKH3           300            18   0.190            
+56       AKH3           300            19   0.420          RB
+57       AKH3           300            25   0.435            
+58       AKH3           300            30   0.430  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       AKH3           300            12  -0.515      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+47       AKH3           300             5   2.605      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+56       AKH3           300            19    0.42      RB
+ sencionno=AKH3 CL distance=12 RL=-0.515
+ Finished Section no =AKH3**********************************
+ 
+
+
+
+Initiated Section no =AKH4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+59       AKH4           350             0   2.735    BC  road
+60       AKH4           350             3   2.745            
+61       AKH4           350             5   2.740          LB
+62       AKH4           350             7   0.185            
+63       AKH4           350             9  -0.135            
+64       AKH4           350            11  -0.391            
+65       AKH4           350            12  -0.460          CL
+66       AKH4           350            13  -0.391            
+67       AKH4           350            15  -0.215            
+68       AKH4           350            17   0.039            
+69       AKH4           350            18   0.190            
+70       AKH4           350            19   0.490          RB
+71       AKH4           350            25   0.495            
+72       AKH4           350            30   0.500  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+65       AKH4           350            12   -0.46      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+61       AKH4           350             5    2.74      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+70       AKH4           350            19    0.49      RB
+ sencionno=AKH4 CL distance=12 RL=-0.46
+ Finished Section no =AKH4**********************************
+ 
+
+
+
+Initiated Section no =AKH5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+73       AKH5           400             0  3.3239    BC  road
+74       AKH5           400             4  3.2440            
+75       AKH5           400             5  3.2340          LB
+76       AKH5           400             7 -0.0460            
+77       AKH5           400             9 -0.2970            
+78       AKH5           400            11 -0.4910            
+79       AKH5           400            12 -0.5660          CL
+80       AKH5           400            13 -0.4950            
+81       AKH5           400            15 -0.2970            
+82       AKH5           400            17 -0.0970            
+83       AKH5           400            18  0.1030            
+84       AKH5           400            19  0.4890          RB
+85       AKH5           400            25  0.4940            
+86       AKH5           400            30  0.2990  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+79       AKH5           400            12  -0.566      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+75       AKH5           400             5   3.234      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+84       AKH5           400            19   0.489      RB
+ sencionno=AKH5 CL distance=12 RL=-0.566
+ Finished Section no =AKH5**********************************
+ 
+
+
+
+Initiated Section no =AKH6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+87        AKH6           450             0   2.794    BC  road
+88        AKH6           450             4   2.809            
+89        AKH6           450             5   2.804          LB
+90        AKH6           450             7  -0.246            
+91        AKH6           450             9  -0.297            
+92        AKH6           450            11  -0.416            
+93        AKH6           450            12  -0.497          CL
+94        AKH6           450            13  -0.421            
+95        AKH6           450            15  -0.371            
+96        AKH6           450            17  -0.297            
+97        AKH6           450            18  -0.136            
+98        AKH6           450            19   0.409          RB
+99        AKH6           450            25   0.414            
+100       AKH6           450            30   0.424  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+93       AKH6           450            12  -0.497      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+89       AKH6           450             5   2.804      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+98       AKH6           450            19   0.409      RB
+ sencionno=AKH6 CL distance=12 RL=-0.497
+ Finished Section no =AKH6**********************************
+ 
+
+
+
+Initiated Section no =AKH7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+101       AKH7           500             0   2.785  BC  road
+102       AKH7           500             4   2.794          
+103       AKH7           500             5   2.780        LB
+104       AKH7           500             7  -0.115          
+105       AKH7           500             8  -0.360          
+106       AKH7           500             9  -0.415        CL
+107       AKH7           500            10  -0.361          
+108       AKH7           500            11  -0.066          
+109       AKH7           500            12   0.129          
+110       AKH7           500            13  -0.071        RB
+111       AKH7           500            14  -0.075          
+112       AKH7           500            16  -0.560          
+113       AKH7           500            18  -0.666          
+114       AKH7           500            20  -0.767     Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       AKH7           500             9  -0.415      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+103       AKH7           500             5    2.78      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+110       AKH7           500            13  -0.071      RB
+ sencionno=AKH7 CL distance=9 RL=-0.415
+ Finished Section no =AKH7**********************************
+ 
+
+
+
+Initiated Section no =AKH8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+115       AKH8           605             0  2.6020  Paddy land
+116       AKH8           605             4  2.6260            
+117       AKH8           605             5  2.6170          LB
+118       AKH8           605             7 -0.0230            
+119       AKH8           605             8 -0.0181            
+120       AKH8           605             9 -0.2330          CL
+121       AKH8           605            10 -0.1780            
+122       AKH8           605            11 -0.0840            
+123       AKH8           605            12  0.0150            
+124       AKH8           605            13  0.1670          RB
+125       AKH8           605            20  0.1620            
+126       AKH8           605            25  0.1590   open land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       AKH8           605             9  -0.233      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+117       AKH8           605             5   2.617      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       AKH8           605            13   0.167      RB
+ sencionno=AKH8 CL distance=9 RL=-0.233
+ Finished Section no =AKH8**********************************
+ Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =AKH0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        AKH0             0             0  -1.747  House Area
+1        AKH0             0             5  -0.747            
+2        AKH0             0             7   0.492            
+3        AKH0             0            10   0.443          LB
+4        AKH0             0            12   0.192            
+5        AKH0             0            13   0.143            
+6        AKH0             0            14  -0.008            
+7        AKH0             0            15  -0.213            
+8        AKH0             0            16  -0.277          CL
+9        AKH0             0            17  -0.223            
+10       AKH0             0            18  -0.009            
+11       AKH0             0            19   0.091            
+12       AKH0             0            20   0.693            
+13       AKH0             0            22   2.253          RB
+14       AKH0             0            30   2.262            
+15       AKH0             0            35   2.273      Garden
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+8       AKH0             0            16  -0.277      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+3       AKH0             0            10   0.443      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+13       AKH0             0            22   2.253      RB
+ sencionno=AKH0 CL distance=16 RL=-0.277
+ Finished Section no =AKH0**********************************
+ 
+
+
+
+Initiated Section no =AKH1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+16       AKH1           100             0   2.355  BC  road
+17       AKH1           100             3   2.360          
+18       AKH1           100             7   2.350        LB
+19       AKH1           100             9   0.079          
+20       AKH1           100            10  -0.221          
+21       AKH1           100            11  -0.570          
+22       AKH1           100            12  -0.718          
+23       AKH1           100            13  -0.770        CL
+24       AKH1           100            14  -0.721          
+25       AKH1           100            15  -0.585          
+26       AKH1           100            16  -0.270          
+27       AKH1           100            17   0.179          
+28       AKH1           100            19   0.480        RB
+29       AKH1           100            25   1.485          
+30       AKH1           100            30   1.495     House
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+23       AKH1           100            13   -0.77      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+18       AKH1           100             7    2.35      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       AKH1           100            19    0.48      RB
+ sencionno=AKH1 CL distance=13 RL=-0.77
+ Finished Section no =AKH1**********************************
+ 
+
+
+
+Initiated Section no =AKH2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+31       AKH2           200             0   2.315    BC  road
+32       AKH2           200             3   2.325            
+33       AKH2           200             4   2.310          LB
+34       AKH2           200             6   0.034            
+35       AKH2           200             8  -0.225            
+36       AKH2           200            10  -0.380            
+37       AKH2           200            11  -0.449          CL
+38       AKH2           200            12  -0.386            
+39       AKH2           200            14  -0.166            
+40       AKH2           200            16   0.033            
+41       AKH2           200            17   0.185            
+42       AKH2           200            18   0.834          RB
+43       AKH2           200            25   0.840            
+44       AKH2           200            30   0.845  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       AKH2           200            11  -0.449      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+33       AKH2           200             4    2.31      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       AKH2           200            18   0.834      RB
+ sencionno=AKH2 CL distance=11 RL=-0.449
+ Finished Section no =AKH2**********************************
+ 
+
+
+
+Initiated Section no =AKH3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+45       AKH3           300             0   2.610    BC  road
+46       AKH3           300             3   2.615            
+47       AKH3           300             5   2.605          LB
+48       AKH3           300             7   0.139            
+49       AKH3           300             9  -0.261            
+50       AKH3           300            10  -0.470            
+51       AKH3           300            12  -0.515          CL
+52       AKH3           300            14  -0.461            
+53       AKH3           300            15  -0.310            
+54       AKH3           300            17  -0.061            
+55       AKH3           300            18   0.190            
+56       AKH3           300            19   0.420          RB
+57       AKH3           300            25   0.435            
+58       AKH3           300            30   0.430  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+51       AKH3           300            12  -0.515      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+47       AKH3           300             5   2.605      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+56       AKH3           300            19    0.42      RB
+ sencionno=AKH3 CL distance=12 RL=-0.515
+ Finished Section no =AKH3**********************************
+ 
+
+
+
+Initiated Section no =AKH4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+59       AKH4           350             0   2.735    BC  road
+60       AKH4           350             3   2.745            
+61       AKH4           350             5   2.740          LB
+62       AKH4           350             7   0.185            
+63       AKH4           350             9  -0.135            
+64       AKH4           350            11  -0.391            
+65       AKH4           350            12  -0.460          CL
+66       AKH4           350            13  -0.391            
+67       AKH4           350            15  -0.215            
+68       AKH4           350            17   0.039            
+69       AKH4           350            18   0.190            
+70       AKH4           350            19   0.490          RB
+71       AKH4           350            25   0.495            
+72       AKH4           350            30   0.500  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+65       AKH4           350            12   -0.46      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+61       AKH4           350             5    2.74      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+70       AKH4           350            19    0.49      RB
+ sencionno=AKH4 CL distance=12 RL=-0.46
+ Finished Section no =AKH4**********************************
+ 
+
+
+
+Initiated Section no =AKH5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+73       AKH5           400             0  3.3239    BC  road
+74       AKH5           400             4  3.2440            
+75       AKH5           400             5  3.2340          LB
+76       AKH5           400             7 -0.0460            
+77       AKH5           400             9 -0.2970            
+78       AKH5           400            11 -0.4910            
+79       AKH5           400            12 -0.5660          CL
+80       AKH5           400            13 -0.4950            
+81       AKH5           400            15 -0.2970            
+82       AKH5           400            17 -0.0970            
+83       AKH5           400            18  0.1030            
+84       AKH5           400            19  0.4890          RB
+85       AKH5           400            25  0.4940            
+86       AKH5           400            30  0.2990  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+79       AKH5           400            12  -0.566      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+75       AKH5           400             5   3.234      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+84       AKH5           400            19   0.489      RB
+ sencionno=AKH5 CL distance=12 RL=-0.566
+ Finished Section no =AKH5**********************************
+ 
+
+
+
+Initiated Section no =AKH6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+87        AKH6           450             0   2.794    BC  road
+88        AKH6           450             4   2.809            
+89        AKH6           450             5   2.804          LB
+90        AKH6           450             7  -0.246            
+91        AKH6           450             9  -0.297            
+92        AKH6           450            11  -0.416            
+93        AKH6           450            12  -0.497          CL
+94        AKH6           450            13  -0.421            
+95        AKH6           450            15  -0.371            
+96        AKH6           450            17  -0.297            
+97        AKH6           450            18  -0.136            
+98        AKH6           450            19   0.409          RB
+99        AKH6           450            25   0.414            
+100       AKH6           450            30   0.424  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+93       AKH6           450            12  -0.497      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+89       AKH6           450             5   2.804      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+98       AKH6           450            19   0.409      RB
+ sencionno=AKH6 CL distance=12 RL=-0.497
+ Finished Section no =AKH6**********************************
+ 
+
+
+
+Initiated Section no =AKH7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+101       AKH7           500             0   2.785  BC  road
+102       AKH7           500             4   2.794          
+103       AKH7           500             5   2.780        LB
+104       AKH7           500             7  -0.115          
+105       AKH7           500             8  -0.360          
+106       AKH7           500             9  -0.415        CL
+107       AKH7           500            10  -0.361          
+108       AKH7           500            11  -0.066          
+109       AKH7           500            12   0.129          
+110       AKH7           500            13  -0.071        RB
+111       AKH7           500            14  -0.075          
+112       AKH7           500            16  -0.560          
+113       AKH7           500            18  -0.666          
+114       AKH7           500            20  -0.767     Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       AKH7           500             9  -0.415      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+103       AKH7           500             5    2.78      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+110       AKH7           500            13  -0.071      RB
+ sencionno=AKH7 CL distance=9 RL=-0.415
+ Finished Section no =AKH7**********************************
+ 
+
+
+
+Initiated Section no =AKH8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+115       AKH8           605             0  2.6020  Paddy land
+116       AKH8           605             4  2.6260            
+117       AKH8           605             5  2.6170          LB
+118       AKH8           605             7 -0.0230            
+119       AKH8           605             8 -0.0181            
+120       AKH8           605             9 -0.2330          CL
+121       AKH8           605            10 -0.1780            
+122       AKH8           605            11 -0.0840            
+123       AKH8           605            12  0.0150            
+124       AKH8           605            13  0.1670          RB
+125       AKH8           605            20  0.1620            
+126       AKH8           605            25  0.1590   open land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       AKH8           605             9  -0.233      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+117       AKH8           605             5   2.617      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+124       AKH8           605            13   0.167      RB
+ sencionno=AKH8 CL distance=9 RL=-0.233
+ Finished Section no =AKH8**********************************
