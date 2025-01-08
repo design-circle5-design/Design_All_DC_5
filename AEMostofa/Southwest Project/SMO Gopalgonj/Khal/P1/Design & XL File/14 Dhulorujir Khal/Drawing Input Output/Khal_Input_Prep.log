@@ -1,0 +1,1170 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_06   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2         KhalName     GL  Ivert Level  \
+0        DLK0         0    5   18  B  D  Dhulorujir khal  0.402         -1.6   
+1        DLK1       100   22   37  B  D  Dhulorujir khal  0.402         -1.6   
+2        DLK2       200   41   56  B  D  Dhulorujir khal  0.402         -1.6   
+3        DLK3       300   65   80  B  D  Dhulorujir khal  0.402         -1.6   
+4        DLK4       400   83   94  B  D  Dhulorujir khal  0.402         -1.6   
+5        DLK5       500   97  110  B  D  Dhulorujir khal  0.402         -1.6   
+6        DLK6       600  113  126  B  D  Dhulorujir khal  0.402         -1.6   
+7        DLK7       700  129  142  B  D  Dhulorujir khal  0.402         -1.6   
+8        DLK8       800  146  159  B  D  Dhulorujir khal  0.402         -1.6   
+9        DLK9       900  162  176  B  D  Dhulorujir khal  0.402         -1.6   
+10      DLK10       950  179  191  B  D  Dhulorujir khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+ --------Intiated Data Transfer for section no=DLK0--------
+
+
+
+
+ chainage=0 sec=DLK0 row1=5 row2=18 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 30, 35, 40], 'rl': [1.097, 1.084, 1.072, -0.003, -0.703, -1.145, -1.252, -1.148, -0.661, 0.302, 1.235, 1.229, 1.222, 1.209], 'remarks': ['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Khal bank'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0', 'DLK0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK1--------
+
+
+
+
+ chainage=100 sec=DLK1 row1=22 row2=37 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 33, 38, 43], 'rl': [0.755, 0.748, 0.735, -0.003, -0.291, -0.525, -0.75, -0.857, -0.752, -0.534, -0.289, 0.102, 1.009, 0.988, 0.983, 0.976], 'remarks': ['Low land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Low land'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1', 'DLK1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK2--------
+
+
+
+
+ chainage=200 sec=DLK2 row1=41 row2=56 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 33, 38, 43], 'rl': [0.693, 0.684, 0.672, 0.098, -0.196, -0.387, -0.4698, -0.598, -0.497, -0.382, -0.202, 0.099, 0.773, 0.785, 0.798, 0.804], 'remarks': ['Low land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Low land'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2', 'DLK2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK3--------
+
+
+
+
+ chainage=300 sec=DLK3 row1=65 row2=80 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 5, 6, 7, 9, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35], 'rl': [-0.525, 0.067, 1.864, 1.853, 0.841, 0.172, -0.335, -0.647, -0.749, -0.648, -0.348, -0.027, 0.466, 0.952, 0.94, 0.931], 'remarks': ['Fisheries', '', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3', 'DLK3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK4--------
+
+
+
+
+ chainage=400 sec=DLK4 row1=83 row2=94 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 17, 20, 22, 24, 30, 35, 40], 'rl': [0.872, 0.865, 0.853, 0.17, -0.237, -0.333, -0.228, 0.166, 0.977, 0.965, 0.983, 0.992], 'remarks': ['Paddy land', '', 'LB', '', '', 'CL', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4', 'DLK4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK5--------
+
+
+
+
+ chainage=500 sec=DLK5 row1=97 row2=110 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 30, 35, 40], 'rl': [0.919, 0.914, 0.905, 0.279, -0.115, -0.422, -0.534, -0.431, -0.122, 0.258, 1.08, 1.069, 1.064, 1.056], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5', 'DLK5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK6--------
+
+
+
+
+ chainage=600 sec=DLK6 row1=113 row2=126 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 25, 26, 28], 'rl': [0.885, 0.879, 0.874, 0.169, -0.322, -0.622, -0.726, -0.621, -0.31, 0.153, 1.874, 1.865, 0.474, -0.346], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6', 'DLK6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK7--------
+
+
+
+
+ chainage=700 sec=DLK7 row1=129 row2=142 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 25, 26, 28], 'rl': [0.627, 0.621, 0.608, -0.18, -0.568, -0.771, -0.873, -0.768, -0.562, 0.232, 1.62, 1.611, 0.6074, -0.071], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7', 'DLK7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK8--------
+
+
+
+
+ chainage=800 sec=DLK8 row1=146 row2=159 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 18, 20, 21, 22, 25, 30, 35], 'rl': [0.668, 0.68, 0.685, -0.38, -0.57, -0.702, -0.803, -0.697, -0.563, -0.075, 0.897, 0.921, 0.925, 0.937], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Open land'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8', 'DLK8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK8--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK9--------
+
+
+
+
+ chainage=900 sec=DLK9 row1=162 row2=176 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 27, 32], 'rl': [0.671, 0.666, 0.66, 0.217, -0.199, -0.428, -0.619, -0.702, -0.62, -0.421, -0.195, 0.169, 0.805, 0.8, 0.787], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9', 'DLK9']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK9--------
+
+
+
+
+ --------Intiated Data Transfer for section no=DLK10--------
+
+
+
+
+ chainage=950 sec=DLK10 row1=179 row2=191 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [0.78, 0.77, 0.762, 0.105, -0.489, -0.831, -0.933, -0.83, -0.502, -0.001, 0.609, 0.6, 0.586], 'remarks': ['Khal bank', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [950, 950, 950, 950, 950, 950, 950, 950, 950, 950, 950, 950, 950], 'sectionNo': ['DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10', 'DLK10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=DLK10--------
+
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =DLK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+0        DLK0             0             0   1.097  Khal bank
+1        DLK0             0             5   1.084           
+2        DLK0             0            10   1.072         LB
+3        DLK0             0            12  -0.003           
+4        DLK0             0            14  -0.703           
+5        DLK0             0            16  -1.145           
+6        DLK0             0            18  -1.252         CL
+7        DLK0             0            20  -1.148           
+8        DLK0             0            22  -0.661           
+9        DLK0             0            24   0.302           
+10       DLK0             0            26   1.235         RB
+11       DLK0             0            30   1.229           
+12       DLK0             0            35   1.222           
+13       DLK0             0            40   1.209  Khal bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       DLK0             0            18  -1.252      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       DLK0             0            10   1.072      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       DLK0             0            26   1.235      RB
+ sencionno=DLK0 CL distance=18 RL=-1.252
+ Finished Section no =DLK0**********************************
+ 
+
+
+
+Initiated Section no =DLK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+14       DLK1           100             0   0.755  Low land
+15       DLK1           100             5   0.748          
+16       DLK1           100            10   0.735        LB
+17       DLK1           100            11  -0.003          
+18       DLK1           100            13  -0.291          
+19       DLK1           100            15  -0.525          
+20       DLK1           100            17  -0.750          
+21       DLK1           100            19  -0.857        CL
+22       DLK1           100            21  -0.752          
+23       DLK1           100            23  -0.534          
+24       DLK1           100            25  -0.289          
+25       DLK1           100            27   0.102          
+26       DLK1           100            28   1.009        RB
+27       DLK1           100            33   0.988          
+28       DLK1           100            38   0.983          
+29       DLK1           100            43   0.976  Low land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       DLK1           100            19  -0.857      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       DLK1           100            10   0.735      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+26       DLK1           100            28   1.009      RB
+ sencionno=DLK1 CL distance=19 RL=-0.857
+ Finished Section no =DLK1**********************************
+ 
+
+
+
+Initiated Section no =DLK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+30       DLK2           200             0  0.6930  Low land
+31       DLK2           200             5  0.6840          
+32       DLK2           200            10  0.6720        LB
+33       DLK2           200            11  0.0980          
+34       DLK2           200            13 -0.1960          
+35       DLK2           200            15 -0.3870          
+36       DLK2           200            17 -0.4698          
+37       DLK2           200            19 -0.5980        CL
+38       DLK2           200            21 -0.4970          
+39       DLK2           200            23 -0.3820          
+40       DLK2           200            25 -0.2020          
+41       DLK2           200            27  0.0990          
+42       DLK2           200            28  0.7730        RB
+43       DLK2           200            33  0.7850          
+44       DLK2           200            38  0.7980          
+45       DLK2           200            43  0.8040  Low land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       DLK2           200            19  -0.598      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+32       DLK2           200            10   0.672      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       DLK2           200            28   0.773      RB
+ sencionno=DLK2 CL distance=19 RL=-0.598
+ Finished Section no =DLK2**********************************
+ 
+
+
+
+Initiated Section no =DLK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+46       DLK3           300             0  -0.525   Fisheries
+47       DLK3           300             2   0.067            
+48       DLK3           300             5   1.864            
+49       DLK3           300             6   1.853          LB
+50       DLK3           300             7   0.841            
+51       DLK3           300             9   0.172            
+52       DLK3           300            11  -0.335            
+53       DLK3           300            13  -0.647            
+54       DLK3           300            15  -0.749          CL
+55       DLK3           300            17  -0.648            
+56       DLK3           300            19  -0.348            
+57       DLK3           300            21  -0.027            
+58       DLK3           300            23   0.466            
+59       DLK3           300            24   0.952          RB
+60       DLK3           300            30   0.940            
+61       DLK3           300            35   0.931  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+54       DLK3           300            15  -0.749      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+49       DLK3           300             6   1.853      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+59       DLK3           300            24   0.952      RB
+ sencionno=DLK3 CL distance=15 RL=-0.749
+ Finished Section no =DLK3**********************************
+ 
+
+
+
+Initiated Section no =DLK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+62       DLK4           400             0   0.872  Paddy land
+63       DLK4           400             5   0.865            
+64       DLK4           400            10   0.853          LB
+65       DLK4           400            12   0.170            
+66       DLK4           400            14  -0.237            
+67       DLK4           400            17  -0.333          CL
+68       DLK4           400            20  -0.228            
+69       DLK4           400            22   0.166            
+70       DLK4           400            24   0.977          RB
+71       DLK4           400            30   0.965            
+72       DLK4           400            35   0.983            
+73       DLK4           400            40   0.992  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+67       DLK4           400            17  -0.333      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+64       DLK4           400            10   0.853      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+70       DLK4           400            24   0.977      RB
+ sencionno=DLK4 CL distance=17 RL=-0.333
+ Finished Section no =DLK4**********************************
+ 
+
+
+
+Initiated Section no =DLK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+74       DLK5           500             0   0.919  Paddy land
+75       DLK5           500             5   0.914            
+76       DLK5           500            10   0.905          LB
+77       DLK5           500            12   0.279            
+78       DLK5           500            14  -0.115            
+79       DLK5           500            16  -0.422            
+80       DLK5           500            18  -0.534          CL
+81       DLK5           500            20  -0.431            
+82       DLK5           500            22  -0.122            
+83       DLK5           500            24   0.258            
+84       DLK5           500            26   1.080          RB
+85       DLK5           500            30   1.069            
+86       DLK5           500            35   1.064            
+87       DLK5           500            40   1.056  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       DLK5           500            18  -0.534      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       DLK5           500            10   0.905      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+84       DLK5           500            26    1.08      RB
+ sencionno=DLK5 CL distance=18 RL=-0.534
+ Finished Section no =DLK5**********************************
+ 
+
+
+
+Initiated Section no =DLK6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+88        DLK6           600             0   0.885  Paddy land
+89        DLK6           600             5   0.879            
+90        DLK6           600            10   0.874          LB
+91        DLK6           600            11   0.169            
+92        DLK6           600            13  -0.322            
+93        DLK6           600            15  -0.622            
+94        DLK6           600            17  -0.726          CL
+95        DLK6           600            19  -0.621            
+96        DLK6           600            21  -0.310            
+97        DLK6           600            23   0.153            
+98        DLK6           600            24   1.874          RB
+99        DLK6           600            25   1.865            
+100       DLK6           600            26   0.474            
+101       DLK6           600            28  -0.346   Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+94       DLK6           600            17  -0.726      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+90       DLK6           600            10   0.874      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+98       DLK6           600            24   1.874      RB
+ sencionno=DLK6 CL distance=17 RL=-0.726
+ Finished Section no =DLK6**********************************
+ 
+
+
+
+Initiated Section no =DLK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+102       DLK7           700             0  0.6270  Paddy land
+103       DLK7           700             5  0.6210            
+104       DLK7           700            10  0.6080          LB
+105       DLK7           700            11 -0.1800            
+106       DLK7           700            13 -0.5680            
+107       DLK7           700            15 -0.7710            
+108       DLK7           700            17 -0.8730          CL
+109       DLK7           700            19 -0.7680            
+110       DLK7           700            21 -0.5620            
+111       DLK7           700            23  0.2320            
+112       DLK7           700            24  1.6200          RB
+113       DLK7           700            25  1.6110            
+114       DLK7           700            26  0.6074            
+115       DLK7           700            28 -0.0710   Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+108       DLK7           700            17  -0.873      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+104       DLK7           700            10   0.608      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+112       DLK7           700            24    1.62      RB
+ sencionno=DLK7 CL distance=17 RL=-0.873
+ Finished Section no =DLK7**********************************
+ 
+
+
+
+Initiated Section no =DLK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+116       DLK8           800             0   0.668  Paddy land
+117       DLK8           800             5   0.680            
+118       DLK8           800            10   0.685          LB
+119       DLK8           800            11  -0.380            
+120       DLK8           800            12  -0.570            
+121       DLK8           800            14  -0.702            
+122       DLK8           800            16  -0.803          CL
+123       DLK8           800            18  -0.697            
+124       DLK8           800            20  -0.563            
+125       DLK8           800            21  -0.075            
+126       DLK8           800            22   0.897          RB
+127       DLK8           800            25   0.921            
+128       DLK8           800            30   0.925            
+129       DLK8           800            35   0.937   Open land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+122       DLK8           800            16  -0.803      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+118       DLK8           800            10   0.685      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+126       DLK8           800            22   0.897      RB
+ sencionno=DLK8 CL distance=16 RL=-0.803
+ Finished Section no =DLK8**********************************
+ 
+
+
+
+Initiated Section no =DLK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+130       DLK9           900             0   0.671  Paddy land
+131       DLK9           900             5   0.666            
+132       DLK9           900            10   0.660          LB
+133       DLK9           900            11   0.217            
+134       DLK9           900            12  -0.199            
+135       DLK9           900            13  -0.428            
+136       DLK9           900            15  -0.619            
+137       DLK9           900            16  -0.702          CL
+138       DLK9           900            17  -0.620            
+139       DLK9           900            19  -0.421            
+140       DLK9           900            20  -0.195            
+141       DLK9           900            21   0.169            
+142       DLK9           900            22   0.805          RB
+143       DLK9           900            27   0.800            
+144       DLK9           900            32   0.787  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       DLK9           900            16  -0.702      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       DLK9           900            10    0.66      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+142       DLK9           900            22   0.805      RB
+ sencionno=DLK9 CL distance=16 RL=-0.702
+ Finished Section no =DLK9**********************************
+ 
+
+
+
+Initiated Section no =DLK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+145      DLK10           950             0   0.780   Khal bank
+146      DLK10           950             5   0.770            
+147      DLK10           950            10   0.762          LB
+148      DLK10           950            11   0.105            
+149      DLK10           950            12  -0.489            
+150      DLK10           950            13  -0.831            
+151      DLK10           950            15  -0.933          CL
+152      DLK10           950            17  -0.830            
+153      DLK10           950            18  -0.502            
+154      DLK10           950            19  -0.001            
+155      DLK10           950            20   0.609          RB
+156      DLK10           950            25   0.600            
+157      DLK10           950            30   0.586  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+151      DLK10           950            15  -0.933      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+147      DLK10           950            10   0.762      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+155      DLK10           950            20   0.609      RB
+ sencionno=DLK10 CL distance=15 RL=-0.933
+ Finished Section no =DLK10**********************************
+ 
+
+
+############# We Are Checking Sectional properties.............
+ 
+
+
+############# ##################################################
+    XsectionNo  chainage   r1   r2 c1 c2         KhalName     GL  Ivert Level  \
+0        DLK0         0    5   18  B  D  Dhulorujir khal  0.402         -1.6   
+1        DLK1       100   22   37  B  D  Dhulorujir khal  0.402         -1.6   
+2        DLK2       200   41   56  B  D  Dhulorujir khal  0.402         -1.6   
+3        DLK3       300   65   80  B  D  Dhulorujir khal  0.402         -1.6   
+4        DLK4       400   83   94  B  D  Dhulorujir khal  0.402         -1.6   
+5        DLK5       500   97  110  B  D  Dhulorujir khal  0.402         -1.6   
+6        DLK6       600  113  126  B  D  Dhulorujir khal  0.402         -1.6   
+7        DLK7       700  129  142  B  D  Dhulorujir khal  0.402         -1.6   
+8        DLK8       800  146  159  B  D  Dhulorujir khal  0.402         -1.6   
+9        DLK9       900  162  176  B  D  Dhulorujir khal  0.402         -1.6   
+10      DLK10       950  179  191  B  D  Dhulorujir khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+ Intitiated X-sectional Properties Calculation for section no=DLK0 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(12), np.int64(14), np.int64(16), np.int64(18), np.int64(20), np.int64(22), np.int64(24), np.int64(26)]
+ y=[np.float64(1.072), np.float64(-0.003), np.float64(-0.703), np.float64(-1.145), np.float64(-1.252), np.float64(-1.148), np.float64(-0.661), np.float64(0.302), np.float64(1.235)]
+ section no=DLK0 total data points=9
+ deepest point of section=-1.252
+ Maximum Water Level without over flow=0.302
+ si=1 fin=7
+ distance=[np.float64(10.72), np.int64(12), np.int64(14), np.int64(16), np.int64(18), np.int64(20), np.int64(22), np.int64(24), np.float64(25.65)]
+ RL=[np.float64(1.072), np.float64(-0.003), np.float64(-0.703), np.float64(-1.145), np.float64(-1.252), np.float64(-1.148), np.float64(-0.661), np.float64(0.302), np.float64(1.072)]
+ water level=1.072
+ Left=25.65 Right=10.72 Topwidth=14.929999999999998
+ Finished X-sectional Properties Calculation for section no=DLK0
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK1 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(25), np.int64(27), np.int64(28)]
+ y=[np.float64(0.735), np.float64(-0.003), np.float64(-0.291), np.float64(-0.525), np.float64(-0.75), np.float64(-0.857), np.float64(-0.752), np.float64(-0.534), np.float64(-0.289), np.float64(0.102), np.float64(1.009)]
+ section no=DLK1 total data points=11
+ deepest point of section=-0.857
+ Maximum Water Level without over flow=0.102
+ si=1 fin=9
+ distance=[np.float64(7.34), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(25), np.int64(27), np.float64(27.7)]
+ RL=[np.float64(0.735), np.float64(-0.003), np.float64(-0.291), np.float64(-0.525), np.float64(-0.75), np.float64(-0.857), np.float64(-0.752), np.float64(-0.534), np.float64(-0.289), np.float64(0.102), np.float64(0.735)]
+ water level=0.735
+ Left=27.7 Right=7.34 Topwidth=20.36
+ Finished X-sectional Properties Calculation for section no=DLK1
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK2 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(25), np.int64(27), np.int64(28)]
+ y=[np.float64(0.672), np.float64(0.098), np.float64(-0.196), np.float64(-0.387), np.float64(-0.4698), np.float64(-0.598), np.float64(-0.497), np.float64(-0.382), np.float64(-0.202), np.float64(0.099), np.float64(0.773)]
+ section no=DLK2 total data points=11
+ deepest point of section=-0.598
+ Maximum Water Level without over flow=0.099
+ si=1 fin=9
+ distance=[np.float64(7.29), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(25), np.int64(27), np.float64(27.85)]
+ RL=[np.float64(0.672), np.float64(0.098), np.float64(-0.196), np.float64(-0.387), np.float64(-0.4698), np.float64(-0.598), np.float64(-0.497), np.float64(-0.382), np.float64(-0.202), np.float64(0.099), np.float64(0.672)]
+ water level=0.672
+ Left=27.85 Right=7.29 Topwidth=20.560000000000002
+ Finished X-sectional Properties Calculation for section no=DLK2
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK3 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(6), np.int64(7), np.int64(9), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(24)]
+ y=[np.float64(1.853), np.float64(0.841), np.float64(0.172), np.float64(-0.335), np.float64(-0.647), np.float64(-0.749), np.float64(-0.648), np.float64(-0.348), np.float64(-0.027), np.float64(0.466), np.float64(0.952)]
+ section no=DLK3 total data points=11
+ deepest point of section=-0.749
+ Maximum Water Level without over flow=0.466
+ si=1 fin=9
+ distance=[np.float64(7.15), np.int64(7), np.int64(9), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.float64(24.0)]
+ RL=[np.float64(0.952), np.float64(0.841), np.float64(0.172), np.float64(-0.335), np.float64(-0.647), np.float64(-0.749), np.float64(-0.648), np.float64(-0.348), np.float64(-0.027), np.float64(0.466), np.float64(0.952)]
+ water level=0.952
+ Left=24.0 Right=7.15 Topwidth=16.85
+ Finished X-sectional Properties Calculation for section no=DLK3
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK4 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(12), np.int64(14), np.int64(17), np.int64(20), np.int64(22), np.int64(24)]
+ y=[np.float64(0.853), np.float64(0.17), np.float64(-0.237), np.float64(-0.333), np.float64(-0.228), np.float64(0.166), np.float64(0.977)]
+ section no=DLK4 total data points=7
+ deepest point of section=-0.333
+ Maximum Water Level without over flow=0.166
+ si=1 fin=5
+ distance=[np.float64(9.11), np.int64(12), np.int64(14), np.int64(17), np.int64(20), np.int64(22), np.float64(23.69)]
+ RL=[np.float64(0.853), np.float64(0.17), np.float64(-0.237), np.float64(-0.333), np.float64(-0.228), np.float64(0.166), np.float64(0.853)]
+ water level=0.853
+ Left=23.69 Right=9.11 Topwidth=14.580000000000002
+ Finished X-sectional Properties Calculation for section no=DLK4
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK5 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(12), np.int64(14), np.int64(16), np.int64(18), np.int64(20), np.int64(22), np.int64(24), np.int64(26)]
+ y=[np.float64(0.905), np.float64(0.279), np.float64(-0.115), np.float64(-0.422), np.float64(-0.534), np.float64(-0.431), np.float64(-0.122), np.float64(0.258), np.float64(1.08)]
+ section no=DLK5 total data points=9
+ deepest point of section=-0.534
+ Maximum Water Level without over flow=0.258
+ si=1 fin=7
+ distance=[np.float64(9.78), np.int64(12), np.int64(14), np.int64(16), np.int64(18), np.int64(20), np.int64(22), np.int64(24), np.float64(25.57)]
+ RL=[np.float64(0.905), np.float64(0.279), np.float64(-0.115), np.float64(-0.422), np.float64(-0.534), np.float64(-0.431), np.float64(-0.122), np.float64(0.258), np.float64(0.905)]
+ water level=0.905
+ Left=25.57 Right=9.78 Topwidth=15.790000000000001
+ Finished X-sectional Properties Calculation for section no=DLK5
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK6 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(24)]
+ y=[np.float64(0.874), np.float64(0.169), np.float64(-0.322), np.float64(-0.622), np.float64(-0.726), np.float64(-0.621), np.float64(-0.31), np.float64(0.153), np.float64(1.874)]
+ section no=DLK6 total data points=9
+ deepest point of section=-0.726
+ Maximum Water Level without over flow=0.153
+ si=1 fin=7
+ distance=[np.float64(9.06), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.float64(23.42)]
+ RL=[np.float64(0.874), np.float64(0.169), np.float64(-0.322), np.float64(-0.622), np.float64(-0.726), np.float64(-0.621), np.float64(-0.31), np.float64(0.153), np.float64(0.874)]
+ water level=0.874
+ Left=23.42 Right=9.06 Topwidth=14.360000000000001
+ Finished X-sectional Properties Calculation for section no=DLK6
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK7 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.int64(24)]
+ y=[np.float64(0.608), np.float64(-0.18), np.float64(-0.568), np.float64(-0.771), np.float64(-0.873), np.float64(-0.768), np.float64(-0.562), np.float64(0.232), np.float64(1.62)]
+ section no=DLK7 total data points=9
+ deepest point of section=-0.873
+ Maximum Water Level without over flow=0.232
+ si=1 fin=7
+ distance=[np.float64(4.77), np.int64(11), np.int64(13), np.int64(15), np.int64(17), np.int64(19), np.int64(21), np.int64(23), np.float64(23.27)]
+ RL=[np.float64(0.608), np.float64(-0.18), np.float64(-0.568), np.float64(-0.771), np.float64(-0.873), np.float64(-0.768), np.float64(-0.562), np.float64(0.232), np.float64(0.608)]
+ water level=0.608
+ Left=23.27 Right=4.77 Topwidth=18.5
+ Finished X-sectional Properties Calculation for section no=DLK7
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK8 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(12), np.int64(14), np.int64(16), np.int64(18), np.int64(20), np.int64(21), np.int64(22)]
+ y=[np.float64(0.685), np.float64(-0.38), np.float64(-0.57), np.float64(-0.702), np.float64(-0.803), np.float64(-0.697), np.float64(-0.563), np.float64(-0.075), np.float64(0.897)]
+ section no=DLK8 total data points=9
+ deepest point of section=-0.803
+ Maximum Water Level without over flow=-0.075
+ si=1 fin=7
+ distance=[np.float64(4.95), np.int64(11), np.int64(12), np.int64(14), np.int64(16), np.int64(18), np.int64(20), np.int64(21), np.float64(21.78)]
+ RL=[np.float64(0.685), np.float64(-0.38), np.float64(-0.57), np.float64(-0.702), np.float64(-0.803), np.float64(-0.697), np.float64(-0.563), np.float64(-0.075), np.float64(0.685)]
+ water level=0.685
+ Left=21.78 Right=4.95 Topwidth=16.830000000000002
+ Finished X-sectional Properties Calculation for section no=DLK8
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK9 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(12), np.int64(13), np.int64(15), np.int64(16), np.int64(17), np.int64(19), np.int64(20), np.int64(21), np.int64(22)]
+ y=[np.float64(0.66), np.float64(0.217), np.float64(-0.199), np.float64(-0.428), np.float64(-0.619), np.float64(-0.702), np.float64(-0.62), np.float64(-0.421), np.float64(-0.195), np.float64(0.169), np.float64(0.805)]
+ section no=DLK9 total data points=11
+ deepest point of section=-0.702
+ Maximum Water Level without over flow=0.169
+ si=1 fin=9
+ distance=[np.float64(7.95), np.int64(11), np.int64(12), np.int64(13), np.int64(15), np.int64(16), np.int64(17), np.int64(19), np.int64(20), np.int64(21), np.float64(21.77)]
+ RL=[np.float64(0.66), np.float64(0.217), np.float64(-0.199), np.float64(-0.428), np.float64(-0.619), np.float64(-0.702), np.float64(-0.62), np.float64(-0.421), np.float64(-0.195), np.float64(0.169), np.float64(0.66)]
+ water level=0.66
+ Left=21.77 Right=7.95 Topwidth=13.82
+ Finished X-sectional Properties Calculation for section no=DLK9
+
+
+
+
+ Intitiated X-sectional Properties Calculation for section no=DLK10 
+ ########################Displaying Section Properties###########################
+ x=[np.int64(10), np.int64(11), np.int64(12), np.int64(13), np.int64(15), np.int64(17), np.int64(18), np.int64(19), np.int64(20)]
+ y=[np.float64(0.762), np.float64(0.105), np.float64(-0.489), np.float64(-0.831), np.float64(-0.933), np.float64(-0.83), np.float64(-0.502), np.float64(-0.001), np.float64(0.609)]
+ section no=DLK10 total data points=9
+ deepest point of section=-0.933
+ Maximum Water Level without over flow=-0.001
+ si=1 fin=7
+ distance=[np.float64(8.71), np.int64(11), np.int64(12), np.int64(13), np.int64(15), np.int64(17), np.int64(18), np.int64(19), np.float64(20.0)]
+ RL=[np.float64(0.609), np.float64(0.105), np.float64(-0.489), np.float64(-0.831), np.float64(-0.933), np.float64(-0.83), np.float64(-0.502), np.float64(-0.001), np.float64(0.609)]
+ water level=0.609
+ Left=20.0 Right=8.71 Topwidth=11.29
+ Finished X-sectional Properties Calculation for section no=DLK10
+
+
+
+
+ ############# #################################################
+
+
+
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =DLK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+0        DLK0             0             0   1.097  Khal bank
+1        DLK0             0             5   1.084           
+2        DLK0             0            10   1.072         LB
+3        DLK0             0            12  -0.003           
+4        DLK0             0            14  -0.703           
+5        DLK0             0            16  -1.145           
+6        DLK0             0            18  -1.252         CL
+7        DLK0             0            20  -1.148           
+8        DLK0             0            22  -0.661           
+9        DLK0             0            24   0.302           
+10       DLK0             0            26   1.235         RB
+11       DLK0             0            30   1.229           
+12       DLK0             0            35   1.222           
+13       DLK0             0            40   1.209  Khal bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       DLK0             0            18  -1.252      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       DLK0             0            10   1.072      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       DLK0             0            26   1.235      RB
+ sencionno=DLK0 CL distance=18 RL=-1.252
+ Finished Section no =DLK0**********************************
+ 
+
+
+
+Initiated Section no =DLK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+14       DLK1           100             0   0.755  Low land
+15       DLK1           100             5   0.748          
+16       DLK1           100            10   0.735        LB
+17       DLK1           100            11  -0.003          
+18       DLK1           100            13  -0.291          
+19       DLK1           100            15  -0.525          
+20       DLK1           100            17  -0.750          
+21       DLK1           100            19  -0.857        CL
+22       DLK1           100            21  -0.752          
+23       DLK1           100            23  -0.534          
+24       DLK1           100            25  -0.289          
+25       DLK1           100            27   0.102          
+26       DLK1           100            28   1.009        RB
+27       DLK1           100            33   0.988          
+28       DLK1           100            38   0.983          
+29       DLK1           100            43   0.976  Low land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       DLK1           100            19  -0.857      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+16       DLK1           100            10   0.735      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+26       DLK1           100            28   1.009      RB
+ sencionno=DLK1 CL distance=19 RL=-0.857
+ Finished Section no =DLK1**********************************
+ 
+
+
+
+Initiated Section no =DLK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+30       DLK2           200             0  0.6930  Low land
+31       DLK2           200             5  0.6840          
+32       DLK2           200            10  0.6720        LB
+33       DLK2           200            11  0.0980          
+34       DLK2           200            13 -0.1960          
+35       DLK2           200            15 -0.3870          
+36       DLK2           200            17 -0.4698          
+37       DLK2           200            19 -0.5980        CL
+38       DLK2           200            21 -0.4970          
+39       DLK2           200            23 -0.3820          
+40       DLK2           200            25 -0.2020          
+41       DLK2           200            27  0.0990          
+42       DLK2           200            28  0.7730        RB
+43       DLK2           200            33  0.7850          
+44       DLK2           200            38  0.7980          
+45       DLK2           200            43  0.8040  Low land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       DLK2           200            19  -0.598      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+32       DLK2           200            10   0.672      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       DLK2           200            28   0.773      RB
+ sencionno=DLK2 CL distance=19 RL=-0.598
+ Finished Section no =DLK2**********************************
+ 
+
+
+
+Initiated Section no =DLK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+46       DLK3           300             0  -0.525   Fisheries
+47       DLK3           300             2   0.067            
+48       DLK3           300             5   1.864            
+49       DLK3           300             6   1.853          LB
+50       DLK3           300             7   0.841            
+51       DLK3           300             9   0.172            
+52       DLK3           300            11  -0.335            
+53       DLK3           300            13  -0.647            
+54       DLK3           300            15  -0.749          CL
+55       DLK3           300            17  -0.648            
+56       DLK3           300            19  -0.348            
+57       DLK3           300            21  -0.027            
+58       DLK3           300            23   0.466            
+59       DLK3           300            24   0.952          RB
+60       DLK3           300            30   0.940            
+61       DLK3           300            35   0.931  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+54       DLK3           300            15  -0.749      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+49       DLK3           300             6   1.853      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+59       DLK3           300            24   0.952      RB
+ sencionno=DLK3 CL distance=15 RL=-0.749
+ Finished Section no =DLK3**********************************
+ 
+
+
+
+Initiated Section no =DLK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+62       DLK4           400             0   0.872  Paddy land
+63       DLK4           400             5   0.865            
+64       DLK4           400            10   0.853          LB
+65       DLK4           400            12   0.170            
+66       DLK4           400            14  -0.237            
+67       DLK4           400            17  -0.333          CL
+68       DLK4           400            20  -0.228            
+69       DLK4           400            22   0.166            
+70       DLK4           400            24   0.977          RB
+71       DLK4           400            30   0.965            
+72       DLK4           400            35   0.983            
+73       DLK4           400            40   0.992  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+67       DLK4           400            17  -0.333      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+64       DLK4           400            10   0.853      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+70       DLK4           400            24   0.977      RB
+ sencionno=DLK4 CL distance=17 RL=-0.333
+ Finished Section no =DLK4**********************************
+ 
+
+
+
+Initiated Section no =DLK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+74       DLK5           500             0   0.919  Paddy land
+75       DLK5           500             5   0.914            
+76       DLK5           500            10   0.905          LB
+77       DLK5           500            12   0.279            
+78       DLK5           500            14  -0.115            
+79       DLK5           500            16  -0.422            
+80       DLK5           500            18  -0.534          CL
+81       DLK5           500            20  -0.431            
+82       DLK5           500            22  -0.122            
+83       DLK5           500            24   0.258            
+84       DLK5           500            26   1.080          RB
+85       DLK5           500            30   1.069            
+86       DLK5           500            35   1.064            
+87       DLK5           500            40   1.056  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       DLK5           500            18  -0.534      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       DLK5           500            10   0.905      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+84       DLK5           500            26    1.08      RB
+ sencionno=DLK5 CL distance=18 RL=-0.534
+ Finished Section no =DLK5**********************************
+ 
+
+
+
+Initiated Section no =DLK6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+88        DLK6           600             0   0.885  Paddy land
+89        DLK6           600             5   0.879            
+90        DLK6           600            10   0.874          LB
+91        DLK6           600            11   0.169            
+92        DLK6           600            13  -0.322            
+93        DLK6           600            15  -0.622            
+94        DLK6           600            17  -0.726          CL
+95        DLK6           600            19  -0.621            
+96        DLK6           600            21  -0.310            
+97        DLK6           600            23   0.153            
+98        DLK6           600            24   1.874          RB
+99        DLK6           600            25   1.865            
+100       DLK6           600            26   0.474            
+101       DLK6           600            28  -0.346   Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+94       DLK6           600            17  -0.726      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+90       DLK6           600            10   0.874      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+98       DLK6           600            24   1.874      RB
+ sencionno=DLK6 CL distance=17 RL=-0.726
+ Finished Section no =DLK6**********************************
+ 
+
+
+
+Initiated Section no =DLK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+102       DLK7           700             0  0.6270  Paddy land
+103       DLK7           700             5  0.6210            
+104       DLK7           700            10  0.6080          LB
+105       DLK7           700            11 -0.1800            
+106       DLK7           700            13 -0.5680            
+107       DLK7           700            15 -0.7710            
+108       DLK7           700            17 -0.8730          CL
+109       DLK7           700            19 -0.7680            
+110       DLK7           700            21 -0.5620            
+111       DLK7           700            23  0.2320            
+112       DLK7           700            24  1.6200          RB
+113       DLK7           700            25  1.6110            
+114       DLK7           700            26  0.6074            
+115       DLK7           700            28 -0.0710   Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+108       DLK7           700            17  -0.873      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+104       DLK7           700            10   0.608      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+112       DLK7           700            24    1.62      RB
+ sencionno=DLK7 CL distance=17 RL=-0.873
+ Finished Section no =DLK7**********************************
+ 
+
+
+
+Initiated Section no =DLK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+116       DLK8           800             0   0.668  Paddy land
+117       DLK8           800             5   0.680            
+118       DLK8           800            10   0.685          LB
+119       DLK8           800            11  -0.380            
+120       DLK8           800            12  -0.570            
+121       DLK8           800            14  -0.702            
+122       DLK8           800            16  -0.803          CL
+123       DLK8           800            18  -0.697            
+124       DLK8           800            20  -0.563            
+125       DLK8           800            21  -0.075            
+126       DLK8           800            22   0.897          RB
+127       DLK8           800            25   0.921            
+128       DLK8           800            30   0.925            
+129       DLK8           800            35   0.937   Open land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+122       DLK8           800            16  -0.803      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+118       DLK8           800            10   0.685      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+126       DLK8           800            22   0.897      RB
+ sencionno=DLK8 CL distance=16 RL=-0.803
+ Finished Section no =DLK8**********************************
+ 
+
+
+
+Initiated Section no =DLK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+130       DLK9           900             0   0.671  Paddy land
+131       DLK9           900             5   0.666            
+132       DLK9           900            10   0.660          LB
+133       DLK9           900            11   0.217            
+134       DLK9           900            12  -0.199            
+135       DLK9           900            13  -0.428            
+136       DLK9           900            15  -0.619            
+137       DLK9           900            16  -0.702          CL
+138       DLK9           900            17  -0.620            
+139       DLK9           900            19  -0.421            
+140       DLK9           900            20  -0.195            
+141       DLK9           900            21   0.169            
+142       DLK9           900            22   0.805          RB
+143       DLK9           900            27   0.800            
+144       DLK9           900            32   0.787  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       DLK9           900            16  -0.702      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+132       DLK9           900            10    0.66      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+142       DLK9           900            22   0.805      RB
+ sencionno=DLK9 CL distance=16 RL=-0.702
+ Finished Section no =DLK9**********************************
+ 
+
+
+
+Initiated Section no =DLK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+145      DLK10           950             0   0.780   Khal bank
+146      DLK10           950             5   0.770            
+147      DLK10           950            10   0.762          LB
+148      DLK10           950            11   0.105            
+149      DLK10           950            12  -0.489            
+150      DLK10           950            13  -0.831            
+151      DLK10           950            15  -0.933          CL
+152      DLK10           950            17  -0.830            
+153      DLK10           950            18  -0.502            
+154      DLK10           950            19  -0.001            
+155      DLK10           950            20   0.609          RB
+156      DLK10           950            25   0.600            
+157      DLK10           950            30   0.586  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+151      DLK10           950            15  -0.933      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+147      DLK10           950            10   0.762      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+155      DLK10           950            20   0.609      RB
+ sencionno=DLK10 CL distance=15 RL=-0.933
+ Finished Section no =DLK10**********************************
