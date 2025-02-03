@@ -1,0 +1,1685 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_14   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2       KhalName   GL  Ivert Level  \
+0        SNK0         0    5   18  B  D  Sunakur  khal  2.1         -1.6   
+1        SNK1       100   22   40  B  D  Sunakur  khal  2.1         -1.6   
+2        SNK2       200   44   61  B  D  Sunakur  khal  2.1         -1.6   
+3        SNK3       300   70   85  B  D  Sunakur  khal  2.1         -1.6   
+4        SNK4       400   88  102  B  D  Sunakur  khal  2.1         -1.6   
+5        SNK5       500  105  121  B  D  Sunakur  khal  2.1         -1.6   
+6        SNK6       600  124  138  B  D  Sunakur  khal  2.1         -1.6   
+7        SNK7       700  141  154  B  D  Sunakur  khal  2.1         -1.6   
+8        SNK8       800  157  167  B  D  Sunakur  khal  2.1         -1.6   
+9        SNK9       900  170  181  B  D  Sunakur  khal  2.1         -1.6   
+10      SNK10      1000  184  195  B  D  Sunakur  khal  2.1         -1.6   
+11      SNK11      1100  197  209  B  D  Sunakur  khal  2.1         -1.6   
+12      SNK12      1300  213  225  B  D  Sunakur  khal  2.1         -1.6   
+13      SNK13      1400  229  240  B  D  Sunakur  khal  2.1         -1.6   
+14      SNK14      1500  244  256  B  D  Sunakur  khal  2.1         -1.6   
+15      SNK15      1600  260  272  B  D  Sunakur  khal  2.1         -1.6   
+16      SNK16      1700  283  297  B  D  Sunakur  khal  2.1         -1.6   
+17      SNK17      1800  300  312  B  D  Sunakur  khal  2.1         -1.6   
+18      SNK18      1900  315  327  B  D  Sunakur  khal  2.1         -1.6   
+19      SNK19      1930  330  344  B  D  Sunakur  khal  2.1         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+ --------Intiated Data Transfer for section no=SNK0--------
+
+
+
+
+ chainage=0 sec=SNK0 row1=5 row2=18 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 30, 35], 'rl': [3.958, 3.947, 2.622, 1.566, 0.561, -0.115, -0.214, -0.112, 0.385, 0.91, 1.818, 2.749, 2.742, 2.736], 'remarks': ['House', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Khal bank'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0', 'SNK0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK1--------
+
+
+
+
+ chainage=100 sec=SNK1 row1=22 row2=40 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 1, 5, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 30, 31, 35, 40, 45], 'rl': [1.239, 1.246, 3.926, 3.919, 2.398, 1.346, 0.398, -0.283, -0.384, -0.282, 0.293, 1.216, 2.313, 4.125, 4.114, 2.946, 2.94, 2.925, 2.914], 'remarks': ['Paddy land', '', 'BC Road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', '', '', 'Garden'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1', 'SNK1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK2--------
+
+
+
+
+ chainage=200 sec=SNK2 row1=44 row2=61 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 7, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 25, 27, 28, 33, 38], 'rl': [3.851, 3.856, 1.924, 1.919, 0.678, -0.02, -0.48, -0.582, -0.479, -0.07, 0.685, 1.875, 1.88, 4.48, 4.474, 3.173, 3.16, 3.151], 'remarks': ['BC Road', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', '', '', 'Garden'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2', 'SNK2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK3--------
+
+
+
+
+ chainage=300 sec=SNK3 row1=70 row2=85 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 7, 10, 11, 13, 15, 17, 19, 21, 23, 24, 26, 28, 33, 38], 'rl': [3.986, 3.978, 1.913, 1.909, 0.945, 0.34, -0.071, -0.175, -0.084, 0.445, 2.126, 4.124, 4.115, 2.738, 2.714, 2.695], 'remarks': ['BC Road', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Garden'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3', 'SNK3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK4--------
+
+
+
+
+ chainage=400 sec=SNK4 row1=88 row2=102 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 3, 5, 7, 9, 10.5, 12, 14, 16, 18, 19, 23, 24, 30], 'rl': [3.032, 3.023, 2.03, 1.109, 0.437, 0.04, -0.064, 0.031, 0.463, 1.125, 2.012, 3.936, 3.931, 2.806, 2.795], 'remarks': ['House', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'BC Road', '', 'Garden'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4', 'SNK4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK5--------
+
+
+
+
+ chainage=500 sec=SNK5 row1=105 row2=121 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 7, 10, 11, 13, 15, 17, 19, 21, 23, 25, 27, 28, 32, 33, 40], 'rl': [2.177, 2.192, 4.183, 4.177, 2.687, 1.623, 0.697, 0.072, -0.027, 0.076, 0.67, 1.594, 2.595, 4.096, 4.091, 3.19, 3.176], 'remarks': ['Paddy land', 'BC Road', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'BC Road', '', 'Garden'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5', 'SNK5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK6--------
+
+
+
+
+ chainage=600 sec=SNK6 row1=124 row2=138 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 7, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 32, 33], 'rl': [1.942, 1.99, 4.174, 4.183, 1.79, 0.269, -0.469, -0.57, -0.467, 0.233, 1.684, 3.482, 3.42, 3.428, 3.433], 'remarks': ['Paddy land', '', 'BC Road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'BC Road', 'House'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6', 'SNK6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK7--------
+
+
+
+
+ chainage=700 sec=SNK7 row1=141 row2=154 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 7, 10, 11, 13, 15, 17, 19, 21, 23, 24, 29, 30], 'rl': [3.369, 3.382, 4.207, 4.095, 2.337, 0.772, -0.003, -0.098, 0.003, 0.756, 2.186, 3.759, 3.781, 3.793], 'remarks': ['Home stead', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'BC Road', 'House'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7', 'SNK7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK8--------
+
+
+
+
+ chainage=800 sec=SNK8 row1=157 row2=167 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 6, 8, 10, 11, 12, 14, 16, 17, 20], 'rl': [2.979, 2.966, 1.684, 0.885, 0.414, 0.313, 0.415, 0.853, 1.677, 3.177, 3.189], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'House'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8', 'SNK8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK8--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK9--------
+
+
+
+
+ chainage=900 sec=SNK9 row1=170 row2=181 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 3, 5, 7, 8, 9, 11, 13, 14, 20, 25], 'rl': [2.695, 2.687, 1.642, 0.838, 0.375, 0.273, 0.374, 0.815, 1.619, 2.609, 2.633, 2.638], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9', 'SNK9']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK9--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK10--------
+
+
+
+
+ chainage=1000 sec=SNK10 row1=184 row2=195 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 3, 5, 7, 8, 9, 11, 13, 14, 20, 25], 'rl': [3.294, 3.286, 1.472, 0.506, 0.091, -0.008, 0.093, 0.492, 1.454, 3.073, 3.08, 3.085], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10', 'SNK10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK10--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK11--------
+
+
+
+
+ chainage=1100 sec=SNK11 row1=197 row2=209 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 16, 17, 19, 21, 22, 27, 32], 'rl': [2.989, 2.978, 2.969, 1.656, 0.738, 0.259, 0.156, 0.257, 0.717, 1.691, 2.866, 2.878, 2.889], 'remarks': ['Home stead', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11', 'SNK11']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK11--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK12--------
+
+
+
+
+ chainage=1300 sec=SNK12 row1=213 row2=225 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 30, 35], 'rl': [3.337, 3.325, 3.316, 2.137, 1.134, 0.32, 0.216, 0.317, 1.036, 2.031, 3.396, 3.405, 3.41], 'remarks': ['Garden', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Home stead'], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12', 'SNK12']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK12--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK13--------
+
+
+
+
+ chainage=1400 sec=SNK13 row1=229 row2=240 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 3, 4, 6, 7.5, 9, 11, 12, 13, 18, 23], 'rl': [2.944, 2.938, 1.843, 0.976, 0.481, 0.378, 0.479, 1.038, 1.778, 2.782, 2.787, 2.794], 'remarks': ['B/W', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400], 'sectionNo': ['SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13', 'SNK13']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK13--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK14--------
+
+
+
+
+ chainage=1500 sec=SNK14 row1=244 row2=256 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 16.5, 18, 20, 22, 23, 28, 33], 'rl': [2.832, 2.824, 2.815, 1.802, 0.97, 0.58, 0.482, 0.583, 0.994, 1.789, 3.057, 3.073, 3.084], 'remarks': ['House Area', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500], 'sectionNo': ['SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14', 'SNK14']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK14--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK15--------
+
+
+
+
+ chainage=1600 sec=SNK15 row1=260 row2=272 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 13, 15, 16.5, 18, 20, 22, 23, 28, 33], 'rl': [2.628, 2.623, 2.615, 1.658, 0.845, 0.268, 0.168, 0.27, 0.838, 1.674, 2.558, 2.565, 2.579], 'remarks': ['Open land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600], 'sectionNo': ['SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15', 'SNK15']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK15--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK16--------
+
+
+
+
+ chainage=1700 sec=SNK16 row1=283 row2=297 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [2.091, 2.097, 2.102, 2.706, 2.697, 1.718, 0.884, 0.666, 0.567, 0.668, 0.875, 1.617, 2.497, 2.502, 2.507], 'remarks': ['Paddy land', '', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700], 'sectionNo': ['SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16', 'SNK16']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK16--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK17--------
+
+
+
+
+ chainage=1800 sec=SNK17 row1=300 row2=312 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 14.5, 16, 17, 18, 19, 25, 30], 'rl': [2.232, 2.227, 2.216, 1.548, 1.12, 0.811, 0.71, 0.809, 1.112, 1.549, 2.306, 2.312, 2.32], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Garden'], 'chainage': [1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800], 'sectionNo': ['SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17', 'SNK17']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK17--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK18--------
+
+
+
+
+ chainage=1900 sec=SNK18 row1=315 row2=327 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 13, 15, 17, 18, 19, 20, 25, 30], 'rl': [2.358, 2.351, 2.344, 1.604, 0.975, 0.617, 0.52, 0.619, 1.068, 1.6, 2.474, 2.486, 2.499], 'remarks': ['Garden', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'House Area'], 'chainage': [1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900], 'sectionNo': ['SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18', 'SNK18']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK18--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SNK19--------
+
+
+
+
+ chainage=1930 sec=SNK19 row1=330 row2=344 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 1, 5, 10, 11, 13, 15, 17, 19, 21, 23, 24, 26, 30, 31], 'rl': [3.475, 3.489, 2.115, 2.108, 1.127, 0.835, 0.497, 0.398, 0.499, 0.829, 1.128, 1.475, 1.486, 4.515, 4.533], 'remarks': ['House Aria', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'House'], 'chainage': [1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930, 1930], 'sectionNo': ['SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19', 'SNK19']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SNK19--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =SNK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+0        SNK0             0           0.0   3.958      House
+1        SNK0             0           5.0   3.947         LB
+2        SNK0             0           7.0   2.622           
+3        SNK0             0           9.0   1.566           
+4        SNK0             0          11.0   0.561           
+5        SNK0             0          13.0  -0.115           
+6        SNK0             0          15.0  -0.214         CL
+7        SNK0             0          17.0  -0.112           
+8        SNK0             0          19.0   0.385           
+9        SNK0             0          21.0   0.910           
+10       SNK0             0          23.0   1.818           
+11       SNK0             0          25.0   2.749         RB
+12       SNK0             0          30.0   2.742           
+13       SNK0             0          35.0   2.736  Khal bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       SNK0             0          15.0  -0.214      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+1       SNK0             0           5.0   3.947      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       SNK0             0          25.0   2.749      RB
+ sencionno=SNK0 CL distance=15.0 RL=-0.214
+ Finished Section no =SNK0**********************************
+ 
+
+
+
+Initiated Section no =SNK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+14       SNK1           100           0.0   1.239  Paddy land
+15       SNK1           100           1.0   1.246            
+16       SNK1           100           5.0   3.926     BC Road
+17       SNK1           100          10.0   3.919          LB
+18       SNK1           100          11.0   2.398            
+19       SNK1           100          13.0   1.346            
+20       SNK1           100          15.0   0.398            
+21       SNK1           100          17.0  -0.283            
+22       SNK1           100          19.0  -0.384          CL
+23       SNK1           100          21.0  -0.282            
+24       SNK1           100          23.0   0.293            
+25       SNK1           100          25.0   1.216            
+26       SNK1           100          27.0   2.313            
+27       SNK1           100          28.0   4.125          RB
+28       SNK1           100          30.0   4.114            
+29       SNK1           100          31.0   2.946            
+30       SNK1           100          35.0   2.940            
+31       SNK1           100          40.0   2.925            
+32       SNK1           100          45.0   2.914      Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+22       SNK1           100          19.0  -0.384      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       SNK1           100          10.0   3.919      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+27       SNK1           100          28.0   4.125      RB
+ sencionno=SNK1 CL distance=19.0 RL=-0.384
+ Finished Section no =SNK1**********************************
+ 
+
+
+
+Initiated Section no =SNK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+33       SNK2           200           0.0   3.851  BC Road
+34       SNK2           200           4.0   3.856         
+35       SNK2           200           7.0   1.924         
+36       SNK2           200          10.0   1.919       LB
+37       SNK2           200          11.0   0.678         
+38       SNK2           200          12.0  -0.020         
+39       SNK2           200          13.0  -0.480         
+40       SNK2           200          15.0  -0.582       CL
+41       SNK2           200          17.0  -0.479         
+42       SNK2           200          18.0  -0.070         
+43       SNK2           200          19.0   0.685         
+44       SNK2           200          20.0   1.875       RB
+45       SNK2           200          21.0   1.880         
+46       SNK2           200          25.0   4.480         
+47       SNK2           200          27.0   4.474         
+48       SNK2           200          28.0   3.173         
+49       SNK2           200          33.0   3.160         
+50       SNK2           200          38.0   3.151   Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+40       SNK2           200          15.0  -0.582      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+36       SNK2           200          10.0   1.919      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+44       SNK2           200          20.0   1.875      RB
+ sencionno=SNK2 CL distance=15.0 RL=-0.582
+ Finished Section no =SNK2**********************************
+ 
+
+
+
+Initiated Section no =SNK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+51       SNK3           300           0.0   3.986  BC Road
+52       SNK3           300           4.0   3.978         
+53       SNK3           300           7.0   1.913         
+54       SNK3           300          10.0   1.909       LB
+55       SNK3           300          11.0   0.945         
+56       SNK3           300          13.0   0.340         
+57       SNK3           300          15.0  -0.071         
+58       SNK3           300          17.0  -0.175       CL
+59       SNK3           300          19.0  -0.084         
+60       SNK3           300          21.0   0.445         
+61       SNK3           300          23.0   2.126         
+62       SNK3           300          24.0   4.124       RB
+63       SNK3           300          26.0   4.115         
+64       SNK3           300          28.0   2.738         
+65       SNK3           300          33.0   2.714         
+66       SNK3           300          38.0   2.695   Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       SNK3           300          17.0  -0.175      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+54       SNK3           300          10.0   1.909      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       SNK3           300          24.0   4.124      RB
+ sencionno=SNK3 CL distance=17.0 RL=-0.175
+ Finished Section no =SNK3**********************************
+ 
+
+
+
+Initiated Section no =SNK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+67       SNK4           400           0.0   3.032    House
+68       SNK4           400           2.0   3.023       LB
+69       SNK4           400           3.0   2.030         
+70       SNK4           400           5.0   1.109         
+71       SNK4           400           7.0   0.437         
+72       SNK4           400           9.0   0.040         
+73       SNK4           400          10.5  -0.064       CL
+74       SNK4           400          12.0   0.031         
+75       SNK4           400          14.0   0.463         
+76       SNK4           400          16.0   1.125         
+77       SNK4           400          18.0   2.012         
+78       SNK4           400          19.0   3.936       RB
+79       SNK4           400          23.0   3.931  BC Road
+80       SNK4           400          24.0   2.806         
+81       SNK4           400          30.0   2.795   Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+73       SNK4           400          10.5  -0.064      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       SNK4           400           2.0   3.023      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+78       SNK4           400          19.0   3.936      RB
+ sencionno=SNK4 CL distance=10.5 RL=-0.064
+ Finished Section no =SNK4**********************************
+ 
+
+
+
+Initiated Section no =SNK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+82       SNK5           500           0.0   2.177  Paddy land
+83       SNK5           500           4.0   2.192     BC Road
+84       SNK5           500           7.0   4.183            
+85       SNK5           500          10.0   4.177          LB
+86       SNK5           500          11.0   2.687            
+87       SNK5           500          13.0   1.623            
+88       SNK5           500          15.0   0.697            
+89       SNK5           500          17.0   0.072            
+90       SNK5           500          19.0  -0.027          CL
+91       SNK5           500          21.0   0.076            
+92       SNK5           500          23.0   0.670            
+93       SNK5           500          25.0   1.594            
+94       SNK5           500          27.0   2.595            
+95       SNK5           500          28.0   4.096          RB
+96       SNK5           500          32.0   4.091     BC Road
+97       SNK5           500          33.0   3.190            
+98       SNK5           500          40.0   3.176      Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+90       SNK5           500          19.0  -0.027      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+85       SNK5           500          10.0   4.177      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       SNK5           500          28.0   4.096      RB
+ sencionno=SNK5 CL distance=19.0 RL=-0.027
+ Finished Section no =SNK5**********************************
+ 
+
+
+
+Initiated Section no =SNK6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+99        SNK6           600           0.0   1.942  Paddy land
+100       SNK6           600           4.0   1.990            
+101       SNK6           600           7.0   4.174     BC Road
+102       SNK6           600          10.0   4.183          LB
+103       SNK6           600          12.0   1.790            
+104       SNK6           600          14.0   0.269            
+105       SNK6           600          16.0  -0.469            
+106       SNK6           600          18.0  -0.570          CL
+107       SNK6           600          20.0  -0.467            
+108       SNK6           600          22.0   0.233            
+109       SNK6           600          24.0   1.684            
+110       SNK6           600          26.0   3.482          RB
+111       SNK6           600          28.0   3.420            
+112       SNK6           600          32.0   3.428     BC Road
+113       SNK6           600          33.0   3.433       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       SNK6           600          18.0   -0.57      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+102       SNK6           600          10.0   4.183      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+110       SNK6           600          26.0   3.482      RB
+ sencionno=SNK6 CL distance=18.0 RL=-0.57
+ Finished Section no =SNK6**********************************
+ 
+
+
+
+Initiated Section no =SNK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+114       SNK7           700           0.0   3.369  Home stead
+115       SNK7           700           6.0   3.382            
+116       SNK7           700           7.0   4.207            
+117       SNK7           700          10.0   4.095          LB
+118       SNK7           700          11.0   2.337            
+119       SNK7           700          13.0   0.772            
+120       SNK7           700          15.0  -0.003            
+121       SNK7           700          17.0  -0.098          CL
+122       SNK7           700          19.0   0.003            
+123       SNK7           700          21.0   0.756            
+124       SNK7           700          23.0   2.186            
+125       SNK7           700          24.0   3.759          RB
+126       SNK7           700          29.0   3.781     BC Road
+127       SNK7           700          30.0   3.793       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+121       SNK7           700          17.0  -0.098      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+117       SNK7           700          10.0   4.095      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+125       SNK7           700          24.0   3.759      RB
+ sencionno=SNK7 CL distance=17.0 RL=-0.098
+ Finished Section no =SNK7**********************************
+ 
+
+
+
+Initiated Section no =SNK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+128       SNK8           800           0.0   2.979   House
+129       SNK8           800           5.0   2.966      LB
+130       SNK8           800           6.0   1.684        
+131       SNK8           800           8.0   0.885        
+132       SNK8           800          10.0   0.414        
+133       SNK8           800          11.0   0.313      CL
+134       SNK8           800          12.0   0.415        
+135       SNK8           800          14.0   0.853        
+136       SNK8           800          16.0   1.677        
+137       SNK8           800          17.0   3.177      RB
+138       SNK8           800          20.0   3.189   House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+133       SNK8           800          11.0   0.313      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+129       SNK8           800           5.0   2.966      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       SNK8           800          17.0   3.177      RB
+ sencionno=SNK8 CL distance=11.0 RL=0.313
+ Finished Section no =SNK8**********************************
+ 
+
+
+
+Initiated Section no =SNK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       SNK9           900           0.0   2.695   House
+140       SNK9           900           2.0   2.687      LB
+141       SNK9           900           3.0   1.642        
+142       SNK9           900           5.0   0.838        
+143       SNK9           900           7.0   0.375        
+144       SNK9           900           8.0   0.273      CL
+145       SNK9           900           9.0   0.374        
+146       SNK9           900          11.0   0.815        
+147       SNK9           900          13.0   1.619        
+148       SNK9           900          14.0   2.609      RB
+149       SNK9           900          20.0   2.633        
+150       SNK9           900          25.0   2.638  Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144       SNK9           900           8.0   0.273      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+140       SNK9           900           2.0   2.687      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148       SNK9           900          14.0   2.609      RB
+ sencionno=SNK9 CL distance=8.0 RL=0.273
+ Finished Section no =SNK9**********************************
+ 
+
+
+
+Initiated Section no =SNK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+151      SNK10          1000           0.0   3.294   House
+152      SNK10          1000           2.0   3.286      LB
+153      SNK10          1000           3.0   1.472        
+154      SNK10          1000           5.0   0.506        
+155      SNK10          1000           7.0   0.091        
+156      SNK10          1000           8.0  -0.008      CL
+157      SNK10          1000           9.0   0.093        
+158      SNK10          1000          11.0   0.492        
+159      SNK10          1000          13.0   1.454        
+160      SNK10          1000          14.0   3.073      RB
+161      SNK10          1000          20.0   3.080        
+162      SNK10          1000          25.0   3.085  Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      SNK10          1000           8.0  -0.008      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+152      SNK10          1000           2.0   3.286      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+160      SNK10          1000          14.0   3.073      RB
+ sencionno=SNK10 CL distance=8.0 RL=-0.008
+ Finished Section no =SNK10**********************************
+ 
+
+
+
+Initiated Section no =SNK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+163      SNK11          1100           0.0   2.989  Home stead
+164      SNK11          1100           5.0   2.978            
+165      SNK11          1100          10.0   2.969          LB
+166      SNK11          1100          11.0   1.656            
+167      SNK11          1100          13.0   0.738            
+168      SNK11          1100          15.0   0.259            
+169      SNK11          1100          16.0   0.156          CL
+170      SNK11          1100          17.0   0.257            
+171      SNK11          1100          19.0   0.717            
+172      SNK11          1100          21.0   1.691            
+173      SNK11          1100          22.0   2.866          RB
+174      SNK11          1100          27.0   2.878            
+175      SNK11          1100          32.0   2.889      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      SNK11          1100          16.0   0.156      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+165      SNK11          1100          10.0   2.969      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+173      SNK11          1100          22.0   2.866      RB
+ sencionno=SNK11 CL distance=16.0 RL=0.156
+ Finished Section no =SNK11**********************************
+ 
+
+
+
+Initiated Section no =SNK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+176      SNK12          1300           0.0   3.337      Garden
+177      SNK12          1300           5.0   3.325            
+178      SNK12          1300          10.0   3.316          LB
+179      SNK12          1300          11.0   2.137            
+180      SNK12          1300          13.0   1.134            
+181      SNK12          1300          15.0   0.320            
+182      SNK12          1300          17.0   0.216          CL
+183      SNK12          1300          19.0   0.317            
+184      SNK12          1300          21.0   1.036            
+185      SNK12          1300          23.0   2.031            
+186      SNK12          1300          24.0   3.396          RB
+187      SNK12          1300          30.0   3.405            
+188      SNK12          1300          35.0   3.410  Home stead
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+182      SNK12          1300          17.0   0.216      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+178      SNK12          1300          10.0   3.316      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186      SNK12          1300          24.0   3.396      RB
+ sencionno=SNK12 CL distance=17.0 RL=0.216
+ Finished Section no =SNK12**********************************
+ 
+
+
+
+Initiated Section no =SNK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+189      SNK13          1400           0.0   2.944     B/W
+190      SNK13          1400           2.0   2.938      LB
+191      SNK13          1400           3.0   1.843        
+192      SNK13          1400           4.0   0.976        
+193      SNK13          1400           6.0   0.481        
+194      SNK13          1400           7.5   0.378      CL
+195      SNK13          1400           9.0   0.479        
+196      SNK13          1400          11.0   1.038        
+197      SNK13          1400          12.0   1.778        
+198      SNK13          1400          13.0   2.782      RB
+199      SNK13          1400          18.0   2.787        
+200      SNK13          1400          23.0   2.794  Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+194      SNK13          1400           7.5   0.378      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+190      SNK13          1400           2.0   2.938      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      SNK13          1400          13.0   2.782      RB
+ sencionno=SNK13 CL distance=7.5 RL=0.378
+ Finished Section no =SNK13**********************************
+ 
+
+
+
+Initiated Section no =SNK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+201      SNK14          1500           0.0   2.832  House Area
+202      SNK14          1500           5.0   2.824            
+203      SNK14          1500          10.0   2.815          LB
+204      SNK14          1500          11.0   1.802            
+205      SNK14          1500          13.0   0.970            
+206      SNK14          1500          15.0   0.580            
+207      SNK14          1500          16.5   0.482          CL
+208      SNK14          1500          18.0   0.583            
+209      SNK14          1500          20.0   0.994            
+210      SNK14          1500          22.0   1.789            
+211      SNK14          1500          23.0   3.057          RB
+212      SNK14          1500          28.0   3.073            
+213      SNK14          1500          33.0   3.084      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+207      SNK14          1500          16.5   0.482      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+203      SNK14          1500          10.0   2.815      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      SNK14          1500          23.0   3.057      RB
+ sencionno=SNK14 CL distance=16.5 RL=0.482
+ Finished Section no =SNK14**********************************
+ 
+
+
+
+Initiated Section no =SNK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+214      SNK15          1600           0.0   2.628  Open land
+215      SNK15          1600           5.0   2.623           
+216      SNK15          1600          10.0   2.615         LB
+217      SNK15          1600          11.0   1.658           
+218      SNK15          1600          13.0   0.845           
+219      SNK15          1600          15.0   0.268           
+220      SNK15          1600          16.5   0.168         CL
+221      SNK15          1600          18.0   0.270           
+222      SNK15          1600          20.0   0.838           
+223      SNK15          1600          22.0   1.674           
+224      SNK15          1600          23.0   2.558         RB
+225      SNK15          1600          28.0   2.565           
+226      SNK15          1600          33.0   2.579     Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      SNK15          1600          16.5   0.168      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+216      SNK15          1600          10.0   2.615      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      SNK15          1600          23.0   2.558      RB
+ sencionno=SNK15 CL distance=16.5 RL=0.168
+ Finished Section no =SNK15**********************************
+ 
+
+
+
+Initiated Section no =SNK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+227      SNK16          1700           0.0   2.091  Paddy land
+228      SNK16          1700           5.0   2.097            
+229      SNK16          1700           7.0   2.102            
+230      SNK16          1700           8.0   2.706            
+231      SNK16          1700          10.0   2.697          LB
+232      SNK16          1700          11.0   1.718            
+233      SNK16          1700          12.0   0.884            
+234      SNK16          1700          13.0   0.666            
+235      SNK16          1700          15.0   0.567          CL
+236      SNK16          1700          17.0   0.668            
+237      SNK16          1700          18.0   0.875            
+238      SNK16          1700          19.0   1.617            
+239      SNK16          1700          20.0   2.497          RB
+240      SNK16          1700          25.0   2.502            
+241      SNK16          1700          30.0   2.507      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+235      SNK16          1700          15.0   0.567      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+231      SNK16          1700          10.0   2.697      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+239      SNK16          1700          20.0   2.497      RB
+ sencionno=SNK16 CL distance=15.0 RL=0.567
+ Finished Section no =SNK16**********************************
+ 
+
+
+
+Initiated Section no =SNK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+242      SNK17          1800           0.0   2.232  Paddy land
+243      SNK17          1800           5.0   2.227            
+244      SNK17          1800          10.0   2.216          LB
+245      SNK17          1800          11.0   1.548            
+246      SNK17          1800          12.0   1.120            
+247      SNK17          1800          13.0   0.811            
+248      SNK17          1800          14.5   0.710          CL
+249      SNK17          1800          16.0   0.809            
+250      SNK17          1800          17.0   1.112            
+251      SNK17          1800          18.0   1.549            
+252      SNK17          1800          19.0   2.306          RB
+253      SNK17          1800          25.0   2.312            
+254      SNK17          1800          30.0   2.320      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+248      SNK17          1800          14.5    0.71      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+244      SNK17          1800          10.0   2.216      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+252      SNK17          1800          19.0   2.306      RB
+ sencionno=SNK17 CL distance=14.5 RL=0.71
+ Finished Section no =SNK17**********************************
+ 
+
+
+
+Initiated Section no =SNK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+255      SNK18          1900           0.0   2.358      Garden
+256      SNK18          1900           5.0   2.351            
+257      SNK18          1900          10.0   2.344          LB
+258      SNK18          1900          11.0   1.604            
+259      SNK18          1900          12.0   0.975            
+260      SNK18          1900          13.0   0.617            
+261      SNK18          1900          15.0   0.520          CL
+262      SNK18          1900          17.0   0.619            
+263      SNK18          1900          18.0   1.068            
+264      SNK18          1900          19.0   1.600            
+265      SNK18          1900          20.0   2.474          RB
+266      SNK18          1900          25.0   2.486            
+267      SNK18          1900          30.0   2.499  House Area
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+261      SNK18          1900          15.0    0.52      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+257      SNK18          1900          10.0   2.344      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+265      SNK18          1900          20.0   2.474      RB
+ sencionno=SNK18 CL distance=15.0 RL=0.52
+ Finished Section no =SNK18**********************************
+ 
+
+
+
+Initiated Section no =SNK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+268      SNK19          1930           0.0   3.475  House Aria
+269      SNK19          1930           1.0   3.489            
+270      SNK19          1930           5.0   2.115            
+271      SNK19          1930          10.0   2.108          LB
+272      SNK19          1930          11.0   1.127            
+273      SNK19          1930          13.0   0.835            
+274      SNK19          1930          15.0   0.497            
+275      SNK19          1930          17.0   0.398          CL
+276      SNK19          1930          19.0   0.499            
+277      SNK19          1930          21.0   0.829            
+278      SNK19          1930          23.0   1.128            
+279      SNK19          1930          24.0   1.475          RB
+280      SNK19          1930          26.0   1.486            
+281      SNK19          1930          30.0   4.515            
+282      SNK19          1930          31.0   4.533       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+275      SNK19          1930          17.0   0.398      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+271      SNK19          1930          10.0   2.108      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      SNK19          1930          24.0   1.475      RB
+ sencionno=SNK19 CL distance=17.0 RL=0.398
+ Finished Section no =SNK19**********************************
+ Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =SNK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+0        SNK0             0           0.0   3.958      House
+1        SNK0             0           5.0   3.947         LB
+2        SNK0             0           7.0   2.622           
+3        SNK0             0           9.0   1.566           
+4        SNK0             0          11.0   0.561           
+5        SNK0             0          13.0  -0.115           
+6        SNK0             0          15.0  -0.214         CL
+7        SNK0             0          17.0  -0.112           
+8        SNK0             0          19.0   0.385           
+9        SNK0             0          21.0   0.910           
+10       SNK0             0          23.0   1.818           
+11       SNK0             0          25.0   2.749         RB
+12       SNK0             0          30.0   2.742           
+13       SNK0             0          35.0   2.736  Khal bank
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       SNK0             0          15.0  -0.214      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+1       SNK0             0           5.0   3.947      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+11       SNK0             0          25.0   2.749      RB
+ sencionno=SNK0 CL distance=15.0 RL=-0.214
+ Finished Section no =SNK0**********************************
+ 
+
+
+
+Initiated Section no =SNK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+14       SNK1           100           0.0   1.239  Paddy land
+15       SNK1           100           1.0   1.246            
+16       SNK1           100           5.0   3.926     BC Road
+17       SNK1           100          10.0   3.919          LB
+18       SNK1           100          11.0   2.398            
+19       SNK1           100          13.0   1.346            
+20       SNK1           100          15.0   0.398            
+21       SNK1           100          17.0  -0.283            
+22       SNK1           100          19.0  -0.384          CL
+23       SNK1           100          21.0  -0.282            
+24       SNK1           100          23.0   0.293            
+25       SNK1           100          25.0   1.216            
+26       SNK1           100          27.0   2.313            
+27       SNK1           100          28.0   4.125          RB
+28       SNK1           100          30.0   4.114            
+29       SNK1           100          31.0   2.946            
+30       SNK1           100          35.0   2.940            
+31       SNK1           100          40.0   2.925            
+32       SNK1           100          45.0   2.914      Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+22       SNK1           100          19.0  -0.384      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       SNK1           100          10.0   3.919      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+27       SNK1           100          28.0   4.125      RB
+ sencionno=SNK1 CL distance=19.0 RL=-0.384
+ Finished Section no =SNK1**********************************
+ 
+
+
+
+Initiated Section no =SNK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+33       SNK2           200           0.0   3.851  BC Road
+34       SNK2           200           4.0   3.856         
+35       SNK2           200           7.0   1.924         
+36       SNK2           200          10.0   1.919       LB
+37       SNK2           200          11.0   0.678         
+38       SNK2           200          12.0  -0.020         
+39       SNK2           200          13.0  -0.480         
+40       SNK2           200          15.0  -0.582       CL
+41       SNK2           200          17.0  -0.479         
+42       SNK2           200          18.0  -0.070         
+43       SNK2           200          19.0   0.685         
+44       SNK2           200          20.0   1.875       RB
+45       SNK2           200          21.0   1.880         
+46       SNK2           200          25.0   4.480         
+47       SNK2           200          27.0   4.474         
+48       SNK2           200          28.0   3.173         
+49       SNK2           200          33.0   3.160         
+50       SNK2           200          38.0   3.151   Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+40       SNK2           200          15.0  -0.582      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+36       SNK2           200          10.0   1.919      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+44       SNK2           200          20.0   1.875      RB
+ sencionno=SNK2 CL distance=15.0 RL=-0.582
+ Finished Section no =SNK2**********************************
+ 
+
+
+
+Initiated Section no =SNK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+51       SNK3           300           0.0   3.986  BC Road
+52       SNK3           300           4.0   3.978         
+53       SNK3           300           7.0   1.913         
+54       SNK3           300          10.0   1.909       LB
+55       SNK3           300          11.0   0.945         
+56       SNK3           300          13.0   0.340         
+57       SNK3           300          15.0  -0.071         
+58       SNK3           300          17.0  -0.175       CL
+59       SNK3           300          19.0  -0.084         
+60       SNK3           300          21.0   0.445         
+61       SNK3           300          23.0   2.126         
+62       SNK3           300          24.0   4.124       RB
+63       SNK3           300          26.0   4.115         
+64       SNK3           300          28.0   2.738         
+65       SNK3           300          33.0   2.714         
+66       SNK3           300          38.0   2.695   Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       SNK3           300          17.0  -0.175      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+54       SNK3           300          10.0   1.909      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       SNK3           300          24.0   4.124      RB
+ sencionno=SNK3 CL distance=17.0 RL=-0.175
+ Finished Section no =SNK3**********************************
+ 
+
+
+
+Initiated Section no =SNK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+67       SNK4           400           0.0   3.032    House
+68       SNK4           400           2.0   3.023       LB
+69       SNK4           400           3.0   2.030         
+70       SNK4           400           5.0   1.109         
+71       SNK4           400           7.0   0.437         
+72       SNK4           400           9.0   0.040         
+73       SNK4           400          10.5  -0.064       CL
+74       SNK4           400          12.0   0.031         
+75       SNK4           400          14.0   0.463         
+76       SNK4           400          16.0   1.125         
+77       SNK4           400          18.0   2.012         
+78       SNK4           400          19.0   3.936       RB
+79       SNK4           400          23.0   3.931  BC Road
+80       SNK4           400          24.0   2.806         
+81       SNK4           400          30.0   2.795   Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+73       SNK4           400          10.5  -0.064      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       SNK4           400           2.0   3.023      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+78       SNK4           400          19.0   3.936      RB
+ sencionno=SNK4 CL distance=10.5 RL=-0.064
+ Finished Section no =SNK4**********************************
+ 
+
+
+
+Initiated Section no =SNK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+82       SNK5           500           0.0   2.177  Paddy land
+83       SNK5           500           4.0   2.192     BC Road
+84       SNK5           500           7.0   4.183            
+85       SNK5           500          10.0   4.177          LB
+86       SNK5           500          11.0   2.687            
+87       SNK5           500          13.0   1.623            
+88       SNK5           500          15.0   0.697            
+89       SNK5           500          17.0   0.072            
+90       SNK5           500          19.0  -0.027          CL
+91       SNK5           500          21.0   0.076            
+92       SNK5           500          23.0   0.670            
+93       SNK5           500          25.0   1.594            
+94       SNK5           500          27.0   2.595            
+95       SNK5           500          28.0   4.096          RB
+96       SNK5           500          32.0   4.091     BC Road
+97       SNK5           500          33.0   3.190            
+98       SNK5           500          40.0   3.176      Garden
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+90       SNK5           500          19.0  -0.027      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+85       SNK5           500          10.0   4.177      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       SNK5           500          28.0   4.096      RB
+ sencionno=SNK5 CL distance=19.0 RL=-0.027
+ Finished Section no =SNK5**********************************
+ 
+
+
+
+Initiated Section no =SNK6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+99        SNK6           600           0.0   1.942  Paddy land
+100       SNK6           600           4.0   1.990            
+101       SNK6           600           7.0   4.174     BC Road
+102       SNK6           600          10.0   4.183          LB
+103       SNK6           600          12.0   1.790            
+104       SNK6           600          14.0   0.269            
+105       SNK6           600          16.0  -0.469            
+106       SNK6           600          18.0  -0.570          CL
+107       SNK6           600          20.0  -0.467            
+108       SNK6           600          22.0   0.233            
+109       SNK6           600          24.0   1.684            
+110       SNK6           600          26.0   3.482          RB
+111       SNK6           600          28.0   3.420            
+112       SNK6           600          32.0   3.428     BC Road
+113       SNK6           600          33.0   3.433       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+106       SNK6           600          18.0   -0.57      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+102       SNK6           600          10.0   4.183      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+110       SNK6           600          26.0   3.482      RB
+ sencionno=SNK6 CL distance=18.0 RL=-0.57
+ Finished Section no =SNK6**********************************
+ 
+
+
+
+Initiated Section no =SNK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+114       SNK7           700           0.0   3.369  Home stead
+115       SNK7           700           6.0   3.382            
+116       SNK7           700           7.0   4.207            
+117       SNK7           700          10.0   4.095          LB
+118       SNK7           700          11.0   2.337            
+119       SNK7           700          13.0   0.772            
+120       SNK7           700          15.0  -0.003            
+121       SNK7           700          17.0  -0.098          CL
+122       SNK7           700          19.0   0.003            
+123       SNK7           700          21.0   0.756            
+124       SNK7           700          23.0   2.186            
+125       SNK7           700          24.0   3.759          RB
+126       SNK7           700          29.0   3.781     BC Road
+127       SNK7           700          30.0   3.793       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+121       SNK7           700          17.0  -0.098      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+117       SNK7           700          10.0   4.095      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+125       SNK7           700          24.0   3.759      RB
+ sencionno=SNK7 CL distance=17.0 RL=-0.098
+ Finished Section no =SNK7**********************************
+ 
+
+
+
+Initiated Section no =SNK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+128       SNK8           800           0.0   2.979   House
+129       SNK8           800           5.0   2.966      LB
+130       SNK8           800           6.0   1.684        
+131       SNK8           800           8.0   0.885        
+132       SNK8           800          10.0   0.414        
+133       SNK8           800          11.0   0.313      CL
+134       SNK8           800          12.0   0.415        
+135       SNK8           800          14.0   0.853        
+136       SNK8           800          16.0   1.677        
+137       SNK8           800          17.0   3.177      RB
+138       SNK8           800          20.0   3.189   House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+133       SNK8           800          11.0   0.313      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+129       SNK8           800           5.0   2.966      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       SNK8           800          17.0   3.177      RB
+ sencionno=SNK8 CL distance=11.0 RL=0.313
+ Finished Section no =SNK8**********************************
+ 
+
+
+
+Initiated Section no =SNK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+139       SNK9           900           0.0   2.695   House
+140       SNK9           900           2.0   2.687      LB
+141       SNK9           900           3.0   1.642        
+142       SNK9           900           5.0   0.838        
+143       SNK9           900           7.0   0.375        
+144       SNK9           900           8.0   0.273      CL
+145       SNK9           900           9.0   0.374        
+146       SNK9           900          11.0   0.815        
+147       SNK9           900          13.0   1.619        
+148       SNK9           900          14.0   2.609      RB
+149       SNK9           900          20.0   2.633        
+150       SNK9           900          25.0   2.638  Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144       SNK9           900           8.0   0.273      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+140       SNK9           900           2.0   2.687      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148       SNK9           900          14.0   2.609      RB
+ sencionno=SNK9 CL distance=8.0 RL=0.273
+ Finished Section no =SNK9**********************************
+ 
+
+
+
+Initiated Section no =SNK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+151      SNK10          1000           0.0   3.294   House
+152      SNK10          1000           2.0   3.286      LB
+153      SNK10          1000           3.0   1.472        
+154      SNK10          1000           5.0   0.506        
+155      SNK10          1000           7.0   0.091        
+156      SNK10          1000           8.0  -0.008      CL
+157      SNK10          1000           9.0   0.093        
+158      SNK10          1000          11.0   0.492        
+159      SNK10          1000          13.0   1.454        
+160      SNK10          1000          14.0   3.073      RB
+161      SNK10          1000          20.0   3.080        
+162      SNK10          1000          25.0   3.085  Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+156      SNK10          1000           8.0  -0.008      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+152      SNK10          1000           2.0   3.286      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+160      SNK10          1000          14.0   3.073      RB
+ sencionno=SNK10 CL distance=8.0 RL=-0.008
+ Finished Section no =SNK10**********************************
+ 
+
+
+
+Initiated Section no =SNK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+163      SNK11          1100           0.0   2.989  Home stead
+164      SNK11          1100           5.0   2.978            
+165      SNK11          1100          10.0   2.969          LB
+166      SNK11          1100          11.0   1.656            
+167      SNK11          1100          13.0   0.738            
+168      SNK11          1100          15.0   0.259            
+169      SNK11          1100          16.0   0.156          CL
+170      SNK11          1100          17.0   0.257            
+171      SNK11          1100          19.0   0.717            
+172      SNK11          1100          21.0   1.691            
+173      SNK11          1100          22.0   2.866          RB
+174      SNK11          1100          27.0   2.878            
+175      SNK11          1100          32.0   2.889      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+169      SNK11          1100          16.0   0.156      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+165      SNK11          1100          10.0   2.969      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+173      SNK11          1100          22.0   2.866      RB
+ sencionno=SNK11 CL distance=16.0 RL=0.156
+ Finished Section no =SNK11**********************************
+ 
+
+
+
+Initiated Section no =SNK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+176      SNK12          1300           0.0   3.337      Garden
+177      SNK12          1300           5.0   3.325            
+178      SNK12          1300          10.0   3.316          LB
+179      SNK12          1300          11.0   2.137            
+180      SNK12          1300          13.0   1.134            
+181      SNK12          1300          15.0   0.320            
+182      SNK12          1300          17.0   0.216          CL
+183      SNK12          1300          19.0   0.317            
+184      SNK12          1300          21.0   1.036            
+185      SNK12          1300          23.0   2.031            
+186      SNK12          1300          24.0   3.396          RB
+187      SNK12          1300          30.0   3.405            
+188      SNK12          1300          35.0   3.410  Home stead
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+182      SNK12          1300          17.0   0.216      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+178      SNK12          1300          10.0   3.316      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186      SNK12          1300          24.0   3.396      RB
+ sencionno=SNK12 CL distance=17.0 RL=0.216
+ Finished Section no =SNK12**********************************
+ 
+
+
+
+Initiated Section no =SNK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+189      SNK13          1400           0.0   2.944     B/W
+190      SNK13          1400           2.0   2.938      LB
+191      SNK13          1400           3.0   1.843        
+192      SNK13          1400           4.0   0.976        
+193      SNK13          1400           6.0   0.481        
+194      SNK13          1400           7.5   0.378      CL
+195      SNK13          1400           9.0   0.479        
+196      SNK13          1400          11.0   1.038        
+197      SNK13          1400          12.0   1.778        
+198      SNK13          1400          13.0   2.782      RB
+199      SNK13          1400          18.0   2.787        
+200      SNK13          1400          23.0   2.794  Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+194      SNK13          1400           7.5   0.378      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+190      SNK13          1400           2.0   2.938      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+198      SNK13          1400          13.0   2.782      RB
+ sencionno=SNK13 CL distance=7.5 RL=0.378
+ Finished Section no =SNK13**********************************
+ 
+
+
+
+Initiated Section no =SNK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+201      SNK14          1500           0.0   2.832  House Area
+202      SNK14          1500           5.0   2.824            
+203      SNK14          1500          10.0   2.815          LB
+204      SNK14          1500          11.0   1.802            
+205      SNK14          1500          13.0   0.970            
+206      SNK14          1500          15.0   0.580            
+207      SNK14          1500          16.5   0.482          CL
+208      SNK14          1500          18.0   0.583            
+209      SNK14          1500          20.0   0.994            
+210      SNK14          1500          22.0   1.789            
+211      SNK14          1500          23.0   3.057          RB
+212      SNK14          1500          28.0   3.073            
+213      SNK14          1500          33.0   3.084      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+207      SNK14          1500          16.5   0.482      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+203      SNK14          1500          10.0   2.815      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+211      SNK14          1500          23.0   3.057      RB
+ sencionno=SNK14 CL distance=16.5 RL=0.482
+ Finished Section no =SNK14**********************************
+ 
+
+
+
+Initiated Section no =SNK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+214      SNK15          1600           0.0   2.628  Open land
+215      SNK15          1600           5.0   2.623           
+216      SNK15          1600          10.0   2.615         LB
+217      SNK15          1600          11.0   1.658           
+218      SNK15          1600          13.0   0.845           
+219      SNK15          1600          15.0   0.268           
+220      SNK15          1600          16.5   0.168         CL
+221      SNK15          1600          18.0   0.270           
+222      SNK15          1600          20.0   0.838           
+223      SNK15          1600          22.0   1.674           
+224      SNK15          1600          23.0   2.558         RB
+225      SNK15          1600          28.0   2.565           
+226      SNK15          1600          33.0   2.579     Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+220      SNK15          1600          16.5   0.168      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+216      SNK15          1600          10.0   2.615      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      SNK15          1600          23.0   2.558      RB
+ sencionno=SNK15 CL distance=16.5 RL=0.168
+ Finished Section no =SNK15**********************************
+ 
+
+
+
+Initiated Section no =SNK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+227      SNK16          1700           0.0   2.091  Paddy land
+228      SNK16          1700           5.0   2.097            
+229      SNK16          1700           7.0   2.102            
+230      SNK16          1700           8.0   2.706            
+231      SNK16          1700          10.0   2.697          LB
+232      SNK16          1700          11.0   1.718            
+233      SNK16          1700          12.0   0.884            
+234      SNK16          1700          13.0   0.666            
+235      SNK16          1700          15.0   0.567          CL
+236      SNK16          1700          17.0   0.668            
+237      SNK16          1700          18.0   0.875            
+238      SNK16          1700          19.0   1.617            
+239      SNK16          1700          20.0   2.497          RB
+240      SNK16          1700          25.0   2.502            
+241      SNK16          1700          30.0   2.507      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+235      SNK16          1700          15.0   0.567      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+231      SNK16          1700          10.0   2.697      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+239      SNK16          1700          20.0   2.497      RB
+ sencionno=SNK16 CL distance=15.0 RL=0.567
+ Finished Section no =SNK16**********************************
+ 
+
+
+
+Initiated Section no =SNK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+242      SNK17          1800           0.0   2.232  Paddy land
+243      SNK17          1800           5.0   2.227            
+244      SNK17          1800          10.0   2.216          LB
+245      SNK17          1800          11.0   1.548            
+246      SNK17          1800          12.0   1.120            
+247      SNK17          1800          13.0   0.811            
+248      SNK17          1800          14.5   0.710          CL
+249      SNK17          1800          16.0   0.809            
+250      SNK17          1800          17.0   1.112            
+251      SNK17          1800          18.0   1.549            
+252      SNK17          1800          19.0   2.306          RB
+253      SNK17          1800          25.0   2.312            
+254      SNK17          1800          30.0   2.320      Garden
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+248      SNK17          1800          14.5    0.71      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+244      SNK17          1800          10.0   2.216      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+252      SNK17          1800          19.0   2.306      RB
+ sencionno=SNK17 CL distance=14.5 RL=0.71
+ Finished Section no =SNK17**********************************
+ 
+
+
+
+Initiated Section no =SNK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+255      SNK18          1900           0.0   2.358      Garden
+256      SNK18          1900           5.0   2.351            
+257      SNK18          1900          10.0   2.344          LB
+258      SNK18          1900          11.0   1.604            
+259      SNK18          1900          12.0   0.975            
+260      SNK18          1900          13.0   0.617            
+261      SNK18          1900          15.0   0.520          CL
+262      SNK18          1900          17.0   0.619            
+263      SNK18          1900          18.0   1.068            
+264      SNK18          1900          19.0   1.600            
+265      SNK18          1900          20.0   2.474          RB
+266      SNK18          1900          25.0   2.486            
+267      SNK18          1900          30.0   2.499  House Area
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+261      SNK18          1900          15.0    0.52      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+257      SNK18          1900          10.0   2.344      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+265      SNK18          1900          20.0   2.474      RB
+ sencionno=SNK18 CL distance=15.0 RL=0.52
+ Finished Section no =SNK18**********************************
+ 
+
+
+
+Initiated Section no =SNK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+268      SNK19          1930           0.0   3.475  House Aria
+269      SNK19          1930           1.0   3.489            
+270      SNK19          1930           5.0   2.115            
+271      SNK19          1930          10.0   2.108          LB
+272      SNK19          1930          11.0   1.127            
+273      SNK19          1930          13.0   0.835            
+274      SNK19          1930          15.0   0.497            
+275      SNK19          1930          17.0   0.398          CL
+276      SNK19          1930          19.0   0.499            
+277      SNK19          1930          21.0   0.829            
+278      SNK19          1930          23.0   1.128            
+279      SNK19          1930          24.0   1.475          RB
+280      SNK19          1930          26.0   1.486            
+281      SNK19          1930          30.0   4.515            
+282      SNK19          1930          31.0   4.533       House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+275      SNK19          1930          17.0   0.398      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+271      SNK19          1930          10.0   2.108      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      SNK19          1930          24.0   1.475      RB
+ sencionno=SNK19 CL distance=17.0 RL=0.398
+ Finished Section no =SNK19**********************************
