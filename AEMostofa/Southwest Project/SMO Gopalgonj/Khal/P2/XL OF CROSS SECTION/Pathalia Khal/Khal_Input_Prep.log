@@ -1,0 +1,728 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_14   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2             KhalName   GL  \
+0        CPK0         0    5   17  B  D  Char Pathalia  Khal  1.9   
+1        CPK1       100   22   33  B  D  Char Pathalia  Khal  1.9   
+2        CPK2       200   37   48  B  D  Char Pathalia  Khal  1.9   
+3        CPK3       300   52   66  B  D  Char Pathalia  Khal  1.9   
+4        CPK4       400   73   84  B  D  Char Pathalia  Khal  1.9   
+5        CPK5       500   89  100  B  D  Char Pathalia  Khal  1.9   
+6        CPK6       600  105  120  B  D  Char Pathalia  Khal  1.9   
+7        CPK7       700  124  135  B  D  Char Pathalia  Khal  1.9   
+8        CPK8       800  144  155  B  D  Char Pathalia  Khal  1.9   
+9        CPK9       900  159  173  B  D  Char Pathalia  Khal  1.9   
+10      CPK10      1000  178  191  B  D  Char Pathalia  Khal  1.9   
+11      CPK11      1100  197  208  B  D  Char Pathalia  Khal  1.9   
+12      CPK12      1220  216  230  B  D  Char Pathalia  Khal  1.9   
+13      CPK13      1320  234  245  B  D  Char Pathalia  Khal  1.9   
+14      CPK14      1420  250  265  B  D  Char Pathalia  Khal  1.9   
+15      CPK15      1520  269  282  B  D  Char Pathalia  Khal  1.9   
+16      CPK16      1625  288  303  B  D  Char Pathalia  Khal  1.9   
+17      CPK17      1725  307  322  B  D  Char Pathalia  Khal  1.9   
+18      CPK18      1825  326  339  B  D  Char Pathalia  Khal  1.9   
+19      CPK19      1925  342  355  B  D  Char Pathalia  Khal  1.9   
+20      CPK20      2025  359  371  B  D  Char Pathalia  Khal  1.9   
+21      CPK21      2135  376  389  B  D  Char Pathalia  Khal  1.9   
+22      CPK22      2235  593  407  B  D  Char Pathalia  Khal  1.9   
+23      CPK23      2340  411  423  B  D  Char Pathalia  Khal  1.9   
+24      CPK24      2450  431  443  B  D  Char Pathalia  Khal  1.9   
+25      CPK25      2525  447  462  B  D  Char Pathalia  Khal  1.9   
+
+    Ivert Level  Retention  Required_Area  Direction  
+0          -1.6        0.6             30          1  
+1          -1.6        0.6             30          1  
+2          -1.6        0.6             30          1  
+3          -1.6        0.6             30          1  
+4          -1.6        0.6             30          1  
+5          -1.6        0.6             30          1  
+6          -1.6        0.6             30          1  
+7          -1.6        0.6             30          1  
+8          -1.6        0.6             30          1  
+9          -1.6        0.6             30          1  
+10         -1.6        0.6             30          1  
+11         -1.6        0.6             30          1  
+12         -1.6        0.6             30          1  
+13         -1.6        0.6             30          1  
+14         -1.6        0.6             30          1  
+15         -1.6        0.6             30          1  
+16         -1.6        0.6             30          1  
+17         -1.6        0.6             30          1  
+18         -1.6        0.6             30          1  
+19         -1.6        0.6             30          1  
+20         -1.6        0.6             30          1  
+21         -1.6        0.6             30          1  
+22         -1.6        0.6             30          1  
+23         -1.6        0.6             30          1  
+24         -1.6        0.6             30          1  
+25         -1.6        0.6             30          1  
+ --------Intiated Data Transfer for section no=CPK0--------
+
+
+
+
+ chainage=0 sec=CPK0 row1=5 row2=17 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [1.809, 1.803, 1.798, 0.833, 0.02, -0.398, -0.497, -0.396, -0.012, 0.639, 1.489, 1.503, 1.51], 'rl': ['Khal bank', None, 'LB', None, None, None, 'CL', None, None, None, 'RB', None, 'Khal bank'], 'remarks': ['', '=(B5+B6)/2', '=(B6+B7)/2', '=(B7+B8)/2', '=(B8+B9)/2', '=(B9+B10)/2', '=(B10+B11)/2', '=(B11+B12)/2', '=(B12+B13)/2', '=(B13+B14)/2', '=(B14+B15)/2', '=(B15+B16)/2', '=(B16+B17)/2'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0', 'CPK0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK1--------
+
+
+
+
+ chainage=100 sec=CPK1 row1=22 row2=33 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [2.911, 2.906, 1.725, 0.652, -0.04, -0.139, -0.038, 0.651, 1.658, 3.139, 3.152, 3.16], 'rl': ['Toilet', 'LB', None, None, None, 'CL', None, None, None, 'RB', None, 'Home stead'], 'remarks': ['', '=(B22+B23)/2', '=(B23+B24)/2', '=(B24+B25)/2', '=(B25+B26)/2', '=(B26+B27)/2', '=(B27+B28)/2', '=(B28+B29)/2', '=(B29+B30)/2', '=(B30+B31)/2', '=(B31+B32)/2', '=(B32+B33)/2'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1', 'CPK1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK2--------
+
+
+
+
+ chainage=200 sec=CPK2 row1=37 row2=48 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.47, 3.455, 3.5, 1.986, 0.577, -0.457, -0.56, -0.459, 0.387, 1.679, 3.279, 3.293], 'rl': ['House', 'RCC Road', 'LB', None, None, None, 'CL', None, None, None, 'RB', 'House'], 'remarks': ['', '=(B37+B38)/2', '=(B38+B39)/2', '=(B39+B40)/2', '=(B40+B41)/2', '=(B41+B42)/2', '=(B42+B43)/2', '=(B43+B44)/2', '=(B44+B45)/2', '=(B45+B46)/2', '=(B46+B47)/2', '=(B47+B48)/2'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2', 'CPK2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK3--------
+
+
+
+
+ chainage=300 sec=CPK3 row1=52 row2=66 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0.897, 1.79, 3.096, 3.302, 3.196, 1.668, 0.65, 0.092, -0.01, 0.091, 0.681, 1.695, 2.991, 2.997, 2.997], 'rl': ['Pond', None, None, 'RCC Road', 'LB', None, None, None, 'CL', None, None, None, 'RB', 'House', None], 'remarks': ['', '=(B52+B53)/2', '=(B53+B54)/2', '=(B54+B55)/2', '=(B55+B56)/2', '=(B56+B57)/2', '=(B57+B58)/2', '=(B58+B59)/2', '=(B59+B60)/2', '=(B60+B61)/2', '=(B61+B62)/2', '=(B62+B63)/2', '=(B63+B64)/2', '=(B64+B65)/2', '=(B65+B66)/2'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3', 'CPK3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK4--------
+
+
+
+
+ chainage=400 sec=CPK4 row1=73 row2=84 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [2.935, 2.966, 2.959, 1.436, 0.397, -0.022, -0.121, -0.02, 0.383, 1.379, 2.833, 2.838], 'rl': ['Home stead', None, 'LB', None, None, None, 'CL', None, None, None, 'RB', 'House'], 'remarks': ['', '=(B73+B74)/2', '=(B74+B75)/2', '=(B75+B76)/2', '=(B76+B77)/2', '=(B77+B78)/2', '=(B78+B79)/2', '=(B79+B80)/2', '=(B80+B81)/2', '=(B81+B82)/2', '=(B82+B83)/2', '=(B83+B84)/2'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4', 'CPK4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK5--------
+
+
+
+
+ chainage=500 sec=CPK5 row1=89 row2=100 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.764, 3.759, 1.978, 0.76, 0.045, -0.052, 0.049, 0.563, 1.93, 3.104, 3.113, 3.121], 'rl': ['Tin Boundary', 'LB', None, None, None, 'CL', None, None, None, 'RB', None, 'Garden'], 'remarks': ['', '=(B89+B90)/2', '=(B90+B91)/2', '=(B91+B92)/2', '=(B92+B93)/2', '=(B93+B94)/2', '=(B94+B95)/2', '=(B95+B96)/2', '=(B96+B97)/2', '=(B97+B98)/2', '=(B98+B99)/2', '=(B99+B100)/2'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5', 'CPK5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK6--------
+
+
+
+
+ chainage=600 sec=CPK6 row1=105 row2=120 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [1.973, 1.981, 4.221, 4.21, 2.412, 1.017, 0.203, 0.1, 0.201, 0.974, 2.39, 3.596, 3.591, 2.416, 2.411, 2.397], 'rl': ['Garden', None, 'BC Road', 'LB', None, None, None, 'CL', None, None, None, 'RB', None, None, None, 'Paddy land'], 'remarks': ['', '=(B105+B106)/2', '=(B106+B107)/2', '=(B107+B108)/2', '=(B108+B109)/2', '=(B109+B110)/2', '=(B110+B111)/2', '=(B111+B112)/2', '=(B112+B113)/2', '=(B113+B114)/2', '=(B114+B115)/2', '=(B115+B116)/2', '=(B116+B117)/2', '=(B117+B118)/2', '=(B118+B119)/2', '=(B119+B120)/2'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6', 'CPK6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK7--------
+
+
+
+
+ chainage=700 sec=CPK7 row1=124 row2=135 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.532, 3.694, 3.686, 1.84, 0.736, -0.129, -0.227, -0.125, 0.74, 1.814, 2.743, 2.757], 'rl': ['School', None, 'LB', None, None, None, 'CL', None, None, None, 'RB', 'B.wall'], 'remarks': ['', '=(B124+B125)/2', '=(B125+B126)/2', '=(B126+B127)/2', '=(B127+B128)/2', '=(B128+B129)/2', '=(B129+B130)/2', '=(B130+B131)/2', '=(B131+B132)/2', '=(B132+B133)/2', '=(B133+B134)/2', '=(B134+B135)/2'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7', 'CPK7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK8--------
+
+
+
+
+ chainage=800 sec=CPK8 row1=144 row2=155 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.686, 3.726, 2.029, 0.93, 0.087, -0.015, 0.086, 0.941, 2.003, 3.034, 3.039, 3.056], 'rl': ['House', 'LB', None, None, None, 'CL', None, None, None, 'RB', None, 'Garden'], 'remarks': ['', '=(B144+B145)/2', '=(B145+B146)/2', '=(B146+B147)/2', '=(B147+B148)/2', '=(B148+B149)/2', '=(B149+B150)/2', '=(B150+B151)/2', '=(B151+B152)/2', '=(B152+B153)/2', '=(B153+B154)/2', '=(B154+B155)/2'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8', 'CPK8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK8--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK9--------
+
+
+
+
+ chainage=900 sec=CPK9 row1=159 row2=173 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.142, 3.214, 2.247, 1.443, 0.72, 0.021, -0.082, 0.02, 0.598, 1.02, 1.842, 2.787, 2.799, 2.808, 2.813], 'rl': ['House', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', None, None, 'House Area'], 'remarks': ['', '=(B159+B160)/2', '=(B160+B161)/2', '=(B161+B162)/2', '=(B162+B163)/2', '=(B163+B164)/2', '=(B164+B165)/2', '=(B165+B166)/2', '=(B166+B167)/2', '=(B167+B168)/2', '=(B168+B169)/2', '=(B169+B170)/2', '=(B170+B171)/2', '=(B171+B172)/2', '=(B172+B173)/2'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9', 'CPK9']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK9--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK10--------
+
+
+
+
+ chainage=1000 sec=CPK10 row1=178 row2=191 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.341, 3.346, 3.196, 2.235, 1.342, 0.636, 0.109, 0.006, 0.107, 0.606, 1.331, 2.21, 3.097, 3.104], 'rl': ['BC Road', None, 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', 'House'], 'remarks': ['', '=(B178+B179)/2', '=(B179+B180)/2', '=(B180+B181)/2', '=(B181+B182)/2', '=(B182+B183)/2', '=(B183+B184)/2', '=(B184+B185)/2', '=(B185+B186)/2', '=(B186+B187)/2', '=(B187+B188)/2', '=(B188+B189)/2', '=(B189+B190)/2', '=(B190+B191)/2'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10', 'CPK10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK10--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK11--------
+
+
+
+
+ chainage=1100 sec=CPK11 row1=197 row2=208 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [2.397, 2.39, 1.351, 0.526, -0.08, -0.184, -0.082, 0.517, 1.351, 3.195, 3.2, 3.136], 'rl': ['House', 'LB', None, None, None, 'CL', None, None, None, 'RB', 'BC Road', 'House'], 'remarks': ['', '=(B197+B198)/2', '=(B198+B199)/2', '=(B199+B200)/2', '=(B200+B201)/2', '=(B201+B202)/2', '=(B202+B203)/2', '=(B203+B204)/2', '=(B204+B205)/2', '=(B205+B206)/2', '=(B206+B207)/2', '=(B207+B208)/2'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11', 'CPK11']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK11--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK12--------
+
+
+
+
+ chainage=1220 sec=CPK12 row1=216 row2=230 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.583, 3.598, 3.555, 1.782, 0.533, -0.121, -0.223, -0.122, 0.566, 1.753, 3.477, 3.464, 2.484, 2.47, 2.455], 'rl': ['House', 'HBB road', 'LB', None, None, None, 'CL', None, None, None, 'RB', 'BC Road', None, None, 'Garden'], 'remarks': ['', '=(B216+B217)/2', '=(B217+B218)/2', '=(B218+B219)/2', '=(B219+B220)/2', '=(B220+B221)/2', '=(B221+B222)/2', '=(B222+B223)/2', '=(B223+B224)/2', '=(B224+B225)/2', '=(B225+B226)/2', '=(B226+B227)/2', '=(B227+B228)/2', '=(B228+B229)/2', '=(B229+B230)/2'], 'chainage': [1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220, 1220], 'sectionNo': ['CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12', 'CPK12']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK12--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK13--------
+
+
+
+
+ chainage=1320 sec=CPK13 row1=234 row2=245 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [2.609, 2.596, 1.417, 0.515, -0.133, -0.235, -0.134, 0.473, 1.411, 2.704, 2.716, 2.716], 'rl': ['House', 'LB', None, None, None, 'CL', None, None, None, 'RB', 'House', None], 'remarks': ['', '=(B234+B235)/2', '=(B235+B236)/2', '=(B236+B237)/2', '=(B237+B238)/2', '=(B238+B239)/2', '=(B239+B240)/2', '=(B240+B241)/2', '=(B241+B242)/2', '=(B242+B243)/2', '=(B243+B244)/2', '=(B244+B245)/2'], 'chainage': [1320, 1320, 1320, 1320, 1320, 1320, 1320, 1320, 1320, 1320, 1320, 1320], 'sectionNo': ['CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13', 'CPK13']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK13--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK14--------
+
+
+
+
+ chainage=1420 sec=CPK14 row1=250 row2=265 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.055, 3.066, 3.044, 1.812, 1.017, 0.513, 0.093, -0.006, 0.097, 0.494, 1.01, 1.806, 3.498, 3.507, 1.961, 1.953], 'rl': ['House', 'HBB Road', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', 'BC Road', None, 'Open land'], 'remarks': ['', '=(B250+B251)/2', '=(B251+B252)/2', '=(B252+B253)/2', '=(B253+B254)/2', '=(B254+B255)/2', '=(B255+B256)/2', '=(B256+B257)/2', '=(B257+B258)/2', '=(B258+B259)/2', '=(B259+B260)/2', '=(B260+B261)/2', '=(B261+B262)/2', '=(B262+B263)/2', '=(B263+B264)/2', '=(B264+B265)/2'], 'chainage': [1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420, 1420], 'sectionNo': ['CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14', 'CPK14']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK14--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK15--------
+
+
+
+
+ chainage=1520 sec=CPK15 row1=269 row2=282 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.026, 3.012, 1.933, 1.128, 0.481, 0.003, -0.099, 0.002, 0.474, 1.082, 2.131, 3.607, 3.602, 3.589], 'rl': ['House', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', 'BC Road', 'House'], 'remarks': ['', '=(B269+B270)/2', '=(B270+B271)/2', '=(B271+B272)/2', '=(B272+B273)/2', '=(B273+B274)/2', '=(B274+B275)/2', '=(B275+B276)/2', '=(B276+B277)/2', '=(B277+B278)/2', '=(B278+B279)/2', '=(B279+B280)/2', '=(B280+B281)/2', '=(B281+B282)/2'], 'chainage': [1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520, 1520], 'sectionNo': ['CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15', 'CPK15']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK15--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK16--------
+
+
+
+
+ chainage=1625 sec=CPK16 row1=288 row2=303 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.118, 3.113, 1.946, 1.133, 0.538, 0.138, 0.037, 0.139, 0.543, 1.151, 1.919, 3.008, 3.016, 3.792, 3.787, 3.78], 'rl': ['Tin Boundary', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', None, None, 'BC Road', 'B.wall'], 'remarks': ['', '=(B288+B289)/2', '=(B289+B290)/2', '=(B290+B291)/2', '=(B291+B292)/2', '=(B292+B293)/2', '=(B293+B294)/2', '=(B294+B295)/2', '=(B295+B296)/2', '=(B296+B297)/2', '=(B297+B298)/2', '=(B298+B299)/2', '=(B299+B300)/2', '=(B300+B301)/2', '=(B301+B302)/2', '=(B302+B303)/2'], 'chainage': [1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625], 'sectionNo': ['CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16', 'CPK16']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK16--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK17--------
+
+
+
+
+ chainage=1725 sec=CPK17 row1=307 row2=322 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [2.529, 2.542, 3.535, 3.53, 2.406, 1.45, 0.781, 0.296, 0.194, 0.295, 0.799, 1.463, 2.345, 3.339, 3.346, 3.354], 'rl': ['Open land', None, 'BC Road', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', None, 'Garden'], 'remarks': ['', '=(B307+B308)/2', '=(B308+B309)/2', '=(B309+B310)/2', '=(B310+B311)/2', '=(B311+B312)/2', '=(B312+B313)/2', '=(B313+B314)/2', '=(B314+B315)/2', '=(B315+B316)/2', '=(B316+B317)/2', '=(B317+B318)/2', '=(B318+B319)/2', '=(B319+B320)/2', '=(B320+B321)/2', '=(B321+B322)/2'], 'chainage': [1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725, 1725], 'sectionNo': ['CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17', 'CPK17']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK17--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK18--------
+
+
+
+
+ chainage=1825 sec=CPK18 row1=326 row2=339 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [2.905, 2.914, 3.736, 3.727, 2.164, 0.963, 0.234, 0.132, 0.235, 0.937, 2.095, 3.35, 3.356, 3.356], 'rl': ['Home stead', None, None, 'LB', None, None, None, 'CL', None, None, None, 'RB', 'House', None], 'remarks': ['', '=(B326+B327)/2', '=(B327+B328)/2', '=(B328+B329)/2', '=(B329+B330)/2', '=(B330+B331)/2', '=(B331+B332)/2', '=(B332+B333)/2', '=(B333+B334)/2', '=(B334+B335)/2', '=(B335+B336)/2', '=(B336+B337)/2', '=(B337+B338)/2', '=(B338+B339)/2'], 'chainage': [1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825, 1825], 'sectionNo': ['CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18', 'CPK18']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK18--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK19--------
+
+
+
+
+ chainage=1925 sec=CPK19 row1=342 row2=355 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.627, 3.853, 3.828, 1.808, 0.811, 0.139, 0.037, 0.138, 0.823, 1.83, 3.507, 3.528, 3.533, 3.541], 'rl': ['House', None, 'LB', None, None, None, 'CL', None, None, None, 'RB', None, None, 'Garden'], 'remarks': ['', '=(B342+B343)/2', '=(B343+B344)/2', '=(B344+B345)/2', '=(B345+B346)/2', '=(B346+B347)/2', '=(B347+B348)/2', '=(B348+B349)/2', '=(B349+B350)/2', '=(B350+B351)/2', '=(B351+B352)/2', '=(B352+B353)/2', '=(B353+B354)/2', '=(B354+B355)/2'], 'chainage': [1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925, 1925], 'sectionNo': ['CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19', 'CPK19']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK19--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK20--------
+
+
+
+
+ chainage=2025 sec=CPK20 row1=359 row2=371 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [3.732, 3.975, 2.788, 1.772, 0.833, 0.254, 0.153, 0.256, 0.878, 1.789, 2.266, 2.632, 2.646], 'rl': ['House', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', 'House'], 'remarks': ['', '=(B359+B360)/2', '=(B360+B361)/2', '=(B361+B362)/2', '=(B362+B363)/2', '=(B363+B364)/2', '=(B364+B365)/2', '=(B365+B366)/2', '=(B366+B367)/2', '=(B367+B368)/2', '=(B368+B369)/2', '=(B369+B370)/2', '=(B370+B371)/2'], 'chainage': [2025, 2025, 2025, 2025, 2025, 2025, 2025, 2025, 2025, 2025, 2025, 2025, 2025], 'sectionNo': ['CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20', 'CPK20']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK20--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK21--------
+
+
+
+
+ chainage=2135 sec=CPK21 row1=376 row2=389 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [4.004, 3.999, 2.798, 1.749, 0.794, 0.001, -0.1, 0.002, 0.298, 0.784, 1.801, 2.662, 2.669, 2.681], 'rl': ['House', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', None, 'Home stead'], 'remarks': ['', '=(B376+B377)/2', '=(B377+B378)/2', '=(B378+B379)/2', '=(B379+B380)/2', '=(B380+B381)/2', '=(B381+B382)/2', '=(B382+B383)/2', '=(B383+B384)/2', '=(B384+B385)/2', '=(B385+B386)/2', '=(B386+B387)/2', '=(B387+B388)/2', '=(B388+B389)/2'], 'chainage': [2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135, 2135], 'sectionNo': ['CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21', 'CPK21']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK21--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK22--------
+
+
+
+
+ chainage=2235 sec=CPK22 row1=593 row2=407 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [], 'rl': [], 'remarks': [], 'chainage': [], 'sectionNo': []}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK22--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK23--------
+
+
+
+
+ chainage=2340 sec=CPK23 row1=411 row2=423 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [1.033, 1.019, 1.012, 0.612, 0.199, -0.097, -0.2, -0.098, 0.207, 0.603, 0.976, 0.972, 0.967], 'rl': ['Paddy land', None, 'LB', None, None, None, 'CL', None, None, None, 'RB', None, 'Paddy land'], 'remarks': ['', '=(B411+B412)/2', '=(B412+B413)/2', '=(B413+B414)/2', '=(B414+B415)/2', '=(B415+B416)/2', '=(B416+B417)/2', '=(B417+B418)/2', '=(B418+B419)/2', '=(B419+B420)/2', '=(B420+B421)/2', '=(B421+B422)/2', '=(B422+B423)/2'], 'chainage': [2340, 2340, 2340, 2340, 2340, 2340, 2340, 2340, 2340, 2340, 2340, 2340, 2340], 'sectionNo': ['CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23', 'CPK23']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK23--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK24--------
+
+
+
+
+ chainage=2450 sec=CPK24 row1=431 row2=443 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0.854, 0.847, 0.838, 0.463, 0.014, -0.277, -0.381, -0.279, 0.11, 0.764, 1.598, 1.61, 1.617], 'rl': ['Paddy land', None, 'LB', None, None, None, 'CL', None, None, None, 'RB', None, 'Home stead'], 'remarks': ['', '=(B431+B432)/2', '=(B432+B433)/2', '=(B433+B434)/2', '=(B434+B435)/2', '=(B435+B436)/2', '=(B436+B437)/2', '=(B437+B438)/2', '=(B438+B439)/2', '=(B439+B440)/2', '=(B440+B441)/2', '=(B441+B442)/2', '=(B442+B443)/2'], 'chainage': [2450, 2450, 2450, 2450, 2450, 2450, 2450, 2450, 2450, 2450, 2450, 2450, 2450], 'sectionNo': ['CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24', 'CPK24']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK24--------
+
+
+
+
+ --------Intiated Data Transfer for section no=CPK25--------
+
+
+
+
+ chainage=2525 sec=CPK25 row1=447 row2=462 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [1.305, 1.294, 2.774, 2.769, 1.863, 1.095, 0.555, 0.16, 0.059, 0.161, 0.562, 1.058, 1.965, 3.594, 3.599, 3.604], 'rl': ['Khal bank', None, 'HBB road', 'LB', None, None, None, None, 'CL', None, None, None, None, 'RB', None, 'Khal bank'], 'remarks': ['', '=(B447+B448)/2', '=(B448+B449)/2', '=(B449+B450)/2', '=(B450+B451)/2', '=(B451+B452)/2', '=(B452+B453)/2', '=(B453+B454)/2', '=(B454+B455)/2', '=(B455+B456)/2', '=(B456+B457)/2', '=(B457+B458)/2', '=(B458+B459)/2', '=(B459+B460)/2', '=(B460+B461)/2', '=(B461+B462)/2'], 'chainage': [2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525, 2525], 'sectionNo': ['CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25', 'CPK25']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=CPK25--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =CPK0**********************************
+    Section No  Chainage (m)  Distance (m)     RL (m)       Remarks
+0        CPK0             0         1.809  Khal bank              
+1        CPK0             0         1.803       None    =(B5+B6)/2
+2        CPK0             0         1.798         LB    =(B6+B7)/2
+3        CPK0             0         0.833       None    =(B7+B8)/2
+4        CPK0             0         0.020       None    =(B8+B9)/2
+5        CPK0             0        -0.398       None   =(B9+B10)/2
+6        CPK0             0        -0.497         CL  =(B10+B11)/2
+7        CPK0             0        -0.396       None  =(B11+B12)/2
+8        CPK0             0        -0.012       None  =(B12+B13)/2
+9        CPK0             0         0.639       None  =(B13+B14)/2
+10       CPK0             0         1.489         RB  =(B14+B15)/2
+11       CPK0             0         1.503       None  =(B15+B16)/2
+12       CPK0             0         1.510  Khal bank  =(B16+B17)/2
+ Empty DataFrame
+Columns: [Section No, Chainage (m), Distance (m), RL (m), Remarks]
+Index: []

@@ -1161,3 +1161,597 @@ Initiated Section no =BPK20**********************************
  sencionno=BPK20 CL distance=12.0 RL=-0.33
  Finished Section no =BPK20**********************************
  Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =BPK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+0        BPK0           0.0           0.0   0.377   Open land
+1        BPK0           0.0           5.0   0.372            
+2        BPK0           0.0          10.0   0.367          LB
+3        BPK0           0.0          11.0  -0.038            
+4        BPK0           0.0          13.0  -0.284            
+5        BPK0           0.0          14.0  -0.485            
+6        BPK0           0.0          15.0  -0.533          CL
+7        BPK0           0.0          16.0  -0.484            
+8        BPK0           0.0          18.0  -0.285            
+9        BPK0           0.0          19.0   0.033            
+10       BPK0           0.0          20.0   0.416          RB
+11       BPK0           0.0          25.0   0.422            
+12       BPK0           0.0          30.0   0.426  Paddy land
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+6       BPK0           0.0          15.0  -0.533      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+2       BPK0           0.0          10.0   0.367      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+10       BPK0           0.0          20.0   0.416      RB
+ sencionno=BPK0 CL distance=15.0 RL=-0.533
+ Finished Section no =BPK0**********************************
+ 
+
+
+
+Initiated Section no =BPK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+13       BPK1         100.0           0.0   0.457  Paddy land
+14       BPK1         100.0           5.0   0.452            
+15       BPK1         100.0          10.0   0.447          LB
+16       BPK1         100.0          11.0  -0.038            
+17       BPK1         100.0          12.0  -0.184            
+18       BPK1         100.0          13.0  -0.411            
+19       BPK1         100.0          14.0  -0.474          CL
+20       BPK1         100.0          15.0  -0.414            
+21       BPK1         100.0          16.0  -0.198            
+22       BPK1         100.0          17.0  -0.033            
+23       BPK1         100.0          18.0   0.422          RB
+24       BPK1         100.0          25.0   0.427            
+25       BPK1         100.0          30.0   0.437  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+19       BPK1         100.0          14.0  -0.474      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+15       BPK1         100.0          10.0   0.447      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+23       BPK1         100.0          18.0   0.422      RB
+ sencionno=BPK1 CL distance=14.0 RL=-0.474
+ Finished Section no =BPK1**********************************
+ 
+
+
+
+Initiated Section no =BPK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+26       BPK2         200.0           0.0   0.306  Paddy land
+27       BPK2         200.0           5.0   0.301            
+28       BPK2         200.0          10.0   0.296          LB
+29       BPK2         200.0          11.0   0.071            
+30       BPK2         200.0          12.0   0.045            
+31       BPK2         200.0          13.0  -0.094            
+32       BPK2         200.0          14.0  -0.144          CL
+33       BPK2         200.0          15.0  -0.085            
+34       BPK2         200.0          16.0   0.006            
+35       BPK2         200.0          17.0   0.091            
+36       BPK2         200.0          18.0   0.306          RB
+37       BPK2         200.0          25.0   0.311            
+38       BPK2         200.0          30.0   0.316  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+32       BPK2         200.0          14.0  -0.144      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+28       BPK2         200.0          10.0   0.296      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+36       BPK2         200.0          18.0   0.306      RB
+ sencionno=BPK2 CL distance=14.0 RL=-0.144
+ Finished Section no =BPK2**********************************
+ 
+
+
+
+Initiated Section no =BPK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+39       BPK3         300.0           0.0   0.501  Paddy land
+40       BPK3         300.0           5.0   0.496            
+41       BPK3         300.0          10.0   0.491          LB
+42       BPK3         300.0          11.0   0.291            
+43       BPK3         300.0          12.0   0.116            
+44       BPK3         300.0          13.0  -0.046            
+45       BPK3         300.0          14.0  -0.094          CL
+46       BPK3         300.0          15.0  -0.045            
+47       BPK3         300.0          16.0   0.131            
+48       BPK3         300.0          17.0   0.281            
+49       BPK3         300.0          18.0   0.391          RB
+50       BPK3         300.0          25.0   0.396            
+51       BPK3         300.0          30.0   0.401  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+45       BPK3         300.0          14.0  -0.094      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+41       BPK3         300.0          10.0   0.491      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+49       BPK3         300.0          18.0   0.391      RB
+ sencionno=BPK3 CL distance=14.0 RL=-0.094
+ Finished Section no =BPK3**********************************
+ 
+
+
+
+Initiated Section no =BPK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+52       BPK4         400.0           0.0   0.513  Paddy land
+53       BPK4         400.0           5.0   0.508          LB
+54       BPK4         400.0          10.0   0.503            
+55       BPK4         400.0          11.0   0.288            
+56       BPK4         400.0          12.0   0.197            
+57       BPK4         400.0          13.0   0.067            
+58       BPK4         400.0          14.0   0.008          CL
+59       BPK4         400.0          15.0   0.058            
+60       BPK4         400.0          16.0   0.197            
+61       BPK4         400.0          17.0   0.258            
+62       BPK4         400.0          18.0   0.363          RB
+63       BPK4         400.0          19.0   0.358            
+64       BPK4         400.0          20.0  -0.942            
+65       BPK4         400.0          23.0  -1.108            
+66       BPK4         400.0          25.0  -1.342       Ditch
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       BPK4         400.0          14.0   0.008      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+53       BPK4         400.0           5.0   0.508      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       BPK4         400.0          18.0   0.363      RB
+ sencionno=BPK4 CL distance=14.0 RL=0.008
+ Finished Section no =BPK4**********************************
+ 
+
+
+
+Initiated Section no =BPK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+67       BPK5         500.0           0.0  -0.977       Ditch
+68       BPK5         500.0           2.0  -0.842            
+69       BPK5         500.0           3.0  -0.642            
+70       BPK5         500.0           5.0   0.253            
+71       BPK5         500.0           6.0   0.248          LB
+72       BPK5         500.0           7.0   0.048            
+73       BPK5         500.0           8.0  -0.077            
+74       BPK5         500.0           9.0  -0.182            
+75       BPK5         500.0          10.0  -0.232          CL
+76       BPK5         500.0          11.0  -0.177            
+77       BPK5         500.0          12.0  -0.073            
+78       BPK5         500.0          13.0   0.077            
+79       BPK5         500.0          14.0   0.548          RB
+80       BPK5         500.0          20.0   0.553            
+81       BPK5         500.0          25.0   0.558  Paddy land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+75       BPK5         500.0          10.0  -0.232      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+71       BPK5         500.0           6.0   0.248      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+79       BPK5         500.0          14.0   0.548      RB
+ sencionno=BPK5 CL distance=10.0 RL=-0.232
+ Finished Section no =BPK5**********************************
+ 
+
+
+
+Initiated Section no =BPK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+82       BPK6         600.0           0.0   2.944    Home
+83       BPK6         600.0           2.0   2.954      LB
+84       BPK6         600.0           4.0   0.919        
+85       BPK6         600.0           5.0   0.298        
+86       BPK6         600.0           6.0  -0.051        
+87       BPK6         600.0           6.5  -0.101      CL
+88       BPK6         600.0           7.0   0.294        
+89       BPK6         600.0           8.0   0.829        
+90       BPK6         600.0           9.0   1.068        
+91       BPK6         600.0          11.0   2.268      RB
+92       BPK6         600.0          12.0   2.274   House
+93       BPK6         600.0          16.0   2.274        
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+87       BPK6         600.0           6.5  -0.101      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+83       BPK6         600.0           2.0   2.954      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+91       BPK6         600.0          11.0   2.268      RB
+ sencionno=BPK6 CL distance=6.5 RL=-0.101
+ Finished Section no =BPK6**********************************
+ 
+
+
+
+Initiated Section no =BPK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+94        BPK7         700.0           0.0   2.117      House
+95        BPK7         700.0           2.0   2.107         LB
+96        BPK7         700.0           4.0   0.017           
+97        BPK7         700.0           5.0  -0.244           
+98        BPK7         700.0           6.0  -0.463           
+99        BPK7         700.0           6.5  -0.526         CL
+100       BPK7         700.0           7.0  -0.528           
+101       BPK7         700.0           8.0  -0.258           
+102       BPK7         700.0           9.0  -0.049           
+103       BPK7         700.0          10.0   0.207           
+104       BPK7         700.0          11.0   0.207         RB
+105       BPK7         700.0          15.0   0.212           
+106       BPK7         700.0          20.0   0.217  Open land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+99       BPK7         700.0           6.5  -0.526      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       BPK7         700.0           2.0   2.107      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+104       BPK7         700.0          11.0   0.207      RB
+ sencionno=BPK7 CL distance=6.5 RL=-0.526
+ Finished Section no =BPK7**********************************
+ 
+
+
+
+Initiated Section no =BPK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+107       BPK8         800.0           0.0   0.393  Open land
+108       BPK8         800.0           5.0   0.391           
+109       BPK8         800.0          10.0   0.391         LB
+110       BPK8         800.0          11.0  -0.897           
+111       BPK8         800.0          12.0  -1.048           
+112       BPK8         800.0          13.0  -1.245           
+113       BPK8         800.0          14.0  -1.297         CL
+114       BPK8         800.0          15.0  -1.247           
+115       BPK8         800.0          16.0  -1.217           
+116       BPK8         800.0          17.0  -1.148           
+117       BPK8         800.0          18.0  -1.048         RB
+118       BPK8         800.0          20.0  -1.042           
+119       BPK8         800.0          22.0  -1.348           
+120       BPK8         800.0          24.0  -1.372           
+121       BPK8         800.0          26.0  -1.548      Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+113       BPK8         800.0          14.0  -1.297      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+109       BPK8         800.0          10.0   0.391      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+117       BPK8         800.0          18.0  -1.048      RB
+ sencionno=BPK8 CL distance=14.0 RL=-1.297
+ Finished Section no =BPK8**********************************
+ 
+
+
+
+Initiated Section no =BPK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+122       BPK9         900.0           0.0  -2.522   Ditch
+123       BPK9         900.0           2.0  -2.501        
+124       BPK9         900.0           5.0  -1.701        
+125       BPK9         900.0           7.0  -1.101        
+126       BPK9         900.0           9.0   1.764        
+127       BPK9         900.0          10.0   1.754      LB
+128       BPK9         900.0          12.0  -0.016        
+129       BPK9         900.0          13.0  -0.201        
+130       BPK9         900.0          14.0  -0.395        
+131       BPK9         900.0          15.0  -0.441      CL
+132       BPK9         900.0          16.0  -0.396        
+133       BPK9         900.0          17.0  -0.207        
+134       BPK9         900.0          18.0  -0.024        
+135       BPK9         900.0          20.0   1.259      RB
+136       BPK9         900.0          21.0   1.279   House
+137       BPK9         900.0          22.0   1.300        
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+131       BPK9         900.0          15.0  -0.441      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+127       BPK9         900.0          10.0   1.754      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+135       BPK9         900.0          20.0   1.259      RB
+ sencionno=BPK9 CL distance=15.0 RL=-0.441
+ Finished Section no =BPK9**********************************
+ 
+
+
+
+Initiated Section no =BPK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+138      BPK10        1000.0           0.0   0.396  Paddy land
+139      BPK10        1000.0           5.0   0.391            
+140      BPK10        1000.0          10.0   0.386          LB
+141      BPK10        1000.0          11.0  -0.024            
+142      BPK10        1000.0          12.0  -0.175            
+143      BPK10        1000.0          12.5  -0.394            
+144      BPK10        1000.0          13.0  -0.439          CL
+145      BPK10        1000.0          13.5  -0.389            
+146      BPK10        1000.0          14.0  -0.180            
+147      BPK10        1000.0          15.0  -0.031            
+148      BPK10        1000.0          16.0   1.221          RB
+149      BPK10        1000.0          20.0   1.226            
+150      BPK10        1000.0          25.0   1.231  Home stead
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+144      BPK10        1000.0          13.0  -0.439      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+140      BPK10        1000.0          10.0   0.386      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148      BPK10        1000.0          16.0   1.221      RB
+ sencionno=BPK10 CL distance=13.0 RL=-0.439
+ Finished Section no =BPK10**********************************
+ 
+
+
+
+Initiated Section no =BPK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+151      BPK11        1100.0           0.0   0.281  Paddy land
+152      BPK11        1100.0           5.0   0.286            
+153      BPK11        1100.0          10.0   0.291          LB
+154      BPK11        1100.0          11.0  -0.059            
+155      BPK11        1100.0          12.0  -0.114            
+156      BPK11        1100.0          13.0  -0.190            
+157      BPK11        1100.0          14.0  -0.229          CL
+158      BPK11        1100.0          15.0  -0.189            
+159      BPK11        1100.0          16.0  -0.111            
+160      BPK11        1100.0          17.0  -0.020            
+161      BPK11        1100.0          18.0   0.641          RB
+162      BPK11        1100.0          20.0   0.680            
+163      BPK11        1100.0          22.0   0.331            
+164      BPK11        1100.0          23.0   0.326            
+165      BPK11        1100.0          25.0   0.321  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+157      BPK11        1100.0          14.0  -0.229      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+153      BPK11        1100.0          10.0   0.291      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+161      BPK11        1100.0          18.0   0.641      RB
+ sencionno=BPK11 CL distance=14.0 RL=-0.229
+ Finished Section no =BPK11**********************************
+ 
+
+
+
+Initiated Section no =BPK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+166      BPK12        1200.0           0.0   0.274  Paddy land
+167      BPK12        1200.0           5.0   0.269            
+168      BPK12        1200.0          10.0   0.264          LB
+169      BPK12        1200.0          11.0  -0.116            
+170      BPK12        1200.0          12.0  -0.326            
+171      BPK12        1200.0          13.0  -0.478            
+172      BPK12        1200.0          13.5  -0.526          CL
+173      BPK12        1200.0          14.0  -0.477            
+174      BPK12        1200.0          15.0  -0.277            
+175      BPK12        1200.0          16.0  -0.141            
+176      BPK12        1200.0          17.0   1.123          RB
+177      BPK12        1200.0          20.0   1.129            
+178      BPK12        1200.0          25.0   1.134   Pond bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+172      BPK12        1200.0          13.5  -0.526      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+168      BPK12        1200.0          10.0   0.264      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+176      BPK12        1200.0          17.0   1.123      RB
+ sencionno=BPK12 CL distance=13.5 RL=-0.526
+ Finished Section no =BPK12**********************************
+ 
+
+
+
+Initiated Section no =BPK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+179      BPK13        1300.0           0.0   0.207  Paddy land
+180      BPK13        1300.0           5.0   0.197            
+181      BPK13        1300.0          10.0   0.147          LB
+182      BPK13        1300.0          11.0   0.013            
+183      BPK13        1300.0          12.0  -0.064            
+184      BPK13        1300.0          13.0  -0.258            
+185      BPK13        1300.0          13.5  -0.273          CL
+186      BPK13        1300.0          14.0  -0.228            
+187      BPK13        1300.0          15.0  -0.113            
+188      BPK13        1300.0          16.0  -0.028            
+189      BPK13        1300.0          17.0   1.067          RB
+190      BPK13        1300.0          20.0   1.072            
+191      BPK13        1300.0          25.0   1.077   Pond bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      BPK13        1300.0          13.5  -0.273      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+181      BPK13        1300.0          10.0   0.147      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+189      BPK13        1300.0          17.0   1.067      RB
+ sencionno=BPK13 CL distance=13.5 RL=-0.273
+ Finished Section no =BPK13**********************************
+ 
+
+
+
+Initiated Section no =BPK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+192      BPK14        1400.0           0.0   0.131  Paddy land
+193      BPK14        1400.0           5.0   0.136            
+194      BPK14        1400.0          10.0   0.161          LB
+195      BPK14        1400.0          11.0  -0.120            
+196      BPK14        1400.0          12.0  -0.369            
+197      BPK14        1400.0          13.0  -0.520            
+198      BPK14        1400.0          14.0  -0.620            
+199      BPK14        1400.0          14.5  -0.670          CL
+200      BPK14        1400.0          15.0  -0.624            
+201      BPK14        1400.0          16.0  -0.569            
+202      BPK14        1400.0          17.0  -0.389            
+203      BPK14        1400.0          18.0  -0.169            
+204      BPK14        1400.0          19.0   0.271          RB
+205      BPK14        1400.0          25.0   0.276            
+206      BPK14        1400.0          30.0   0.286   Pond bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+199      BPK14        1400.0          14.5   -0.67      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+194      BPK14        1400.0          10.0   0.161      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+204      BPK14        1400.0          19.0   0.271      RB
+ sencionno=BPK14 CL distance=14.5 RL=-0.67
+ Finished Section no =BPK14**********************************
+ 
+
+
+
+Initiated Section no =BPK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+207      BPK15        1500.0           0.0   0.123  Paddy land
+208      BPK15        1500.0           5.0   0.118            
+209      BPK15        1500.0          10.0   0.113          LB
+210      BPK15        1500.0          11.0  -0.082            
+211      BPK15        1500.0          12.0  -0.128            
+212      BPK15        1500.0          12.5  -0.322            
+213      BPK15        1500.0          13.0  -0.337          CL
+214      BPK15        1500.0          13.5  -0.318            
+215      BPK15        1500.0          14.0  -0.137            
+216      BPK15        1500.0          15.0   0.033            
+217      BPK15        1500.0          16.0   0.332          RB
+218      BPK15        1500.0          20.0   0.333            
+219      BPK15        1500.0          25.0   0.338  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+213      BPK15        1500.0          13.0  -0.337      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+209      BPK15        1500.0          10.0   0.113      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+217      BPK15        1500.0          16.0   0.332      RB
+ sencionno=BPK15 CL distance=13.0 RL=-0.337
+ Finished Section no =BPK15**********************************
+ 
+
+
+
+Initiated Section no =BPK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+220      BPK16        1600.0           0.0  -1.991   Fisheries
+221      BPK16        1600.0           2.0  -1.601            
+222      BPK16        1600.0           5.0  -1.491            
+223      BPK16        1600.0           7.0  -1.201            
+224      BPK16        1600.0           9.0  -1.101            
+225      BPK16        1600.0          10.0  -1.091          LB
+226      BPK16        1600.0          11.0  -0.867            
+227      BPK16        1600.0          12.0  -0.966            
+228      BPK16        1600.0          12.5  -1.052            
+229      BPK16        1600.0          13.0  -1.101          CL
+230      BPK16        1600.0          13.5  -1.053            
+231      BPK16        1600.0          14.0  -0.901            
+232      BPK16        1600.0          15.0  -0.806            
+233      BPK16        1600.0          16.0   0.034          RB
+234      BPK16        1600.0          20.0   0.039            
+235      BPK16        1600.0          25.0   0.044  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+229      BPK16        1600.0          13.0  -1.101      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+225      BPK16        1600.0          10.0  -1.091      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+233      BPK16        1600.0          16.0   0.034      RB
+ sencionno=BPK16 CL distance=13.0 RL=-1.101
+ Finished Section no =BPK16**********************************
+ 
+
+
+
+Initiated Section no =BPK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+236      BPK17        1700.0           0.0  -0.637   Fisheries
+237      BPK17        1700.0           2.0  -0.102            
+238      BPK17        1700.0           5.0   0.053            
+239      BPK17        1700.0           7.0   0.098            
+240      BPK17        1700.0           8.0   0.103            
+241      BPK17        1700.0           9.0   1.688            
+242      BPK17        1700.0          10.0   1.683          LB
+243      BPK17        1700.0          11.0  -0.072            
+244      BPK17        1700.0          12.0  -0.152            
+245      BPK17        1700.0          12.5  -0.198            
+246      BPK17        1700.0          13.0  -0.257          CL
+247      BPK17        1700.0          13.5  -0.207            
+248      BPK17        1700.0          14.0  -0.152            
+249      BPK17        1700.0          15.0  -0.082            
+250      BPK17        1700.0          16.0   0.102          RB
+251      BPK17        1700.0          20.0   0.108            
+252      BPK17        1700.0          25.0   0.113  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+246      BPK17        1700.0          13.0  -0.257      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+242      BPK17        1700.0          10.0   1.683      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+250      BPK17        1700.0          16.0   0.102      RB
+ sencionno=BPK17 CL distance=13.0 RL=-0.257
+ Finished Section no =BPK17**********************************
+ 
+
+
+
+Initiated Section no =BPK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+253      BPK18        1800.0           0.0   0.008  Open land
+254      BPK18        1800.0           5.0   0.003           
+255      BPK18        1800.0          10.0  -0.002         LB
+256      BPK18        1800.0          11.0  -0.101           
+257      BPK18        1800.0          12.0  -0.143           
+258      BPK18        1800.0          12.5  -0.184           
+259      BPK18        1800.0          13.0  -0.222         CL
+260      BPK18        1800.0          13.5  -0.183           
+261      BPK18        1800.0          14.0  -0.148           
+262      BPK18        1800.0          15.0  -0.046           
+263      BPK18        1800.0          16.0  -0.066         RB
+264      BPK18        1800.0          18.0  -0.095           
+265      BPK18        1800.0          20.0  -0.444           
+266      BPK18        1800.0          22.0  -0.505      Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+259      BPK18        1800.0          13.0  -0.222      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+255      BPK18        1800.0          10.0  -0.002      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+263      BPK18        1800.0          16.0  -0.066      RB
+ sencionno=BPK18 CL distance=13.0 RL=-0.222
+ Finished Section no =BPK18**********************************
+ 
+
+
+
+Initiated Section no =BPK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+267      BPK19        1900.0           0.0   0.123  Paddy land
+268      BPK19        1900.0           5.0   0.118            
+269      BPK19        1900.0          10.0   0.108          LB
+270      BPK19        1900.0          11.0   0.047            
+271      BPK19        1900.0          11.5  -0.117            
+272      BPK19        1900.0          12.0  -0.172            
+273      BPK19        1900.0          12.5  -0.202          CL
+274      BPK19        1900.0          13.0  -0.173            
+275      BPK19        1900.0          13.5  -0.102            
+276      BPK19        1900.0          14.0   0.012            
+277      BPK19        1900.0          15.0   0.113          RB
+278      BPK19        1900.0          20.0   0.118            
+279      BPK19        1900.0          25.0   0.128  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+273      BPK19        1900.0          12.5  -0.202      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+269      BPK19        1900.0          10.0   0.108      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+277      BPK19        1900.0          15.0   0.113      RB
+ sencionno=BPK19 CL distance=12.5 RL=-0.202
+ Finished Section no =BPK19**********************************
+ 
+
+
+
+Initiated Section no =BPK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+280      BPK20          2.02           0.0   0.045  Paddy land
+281      BPK20          2.02           5.0   0.040            
+282      BPK20          2.02          10.0   0.035          LB
+283      BPK20          2.02          11.0  -0.210            
+284      BPK20          2.02          11.5  -0.282            
+285      BPK20          2.02          12.0  -0.330          CL
+286      BPK20          2.02          12.5  -0.281            
+287      BPK20          2.02          13.0  -0.241            
+288      BPK20          2.02          13.5  -0.180            
+289      BPK20          2.02          14.0   0.030          RB
+290      BPK20          2.02          20.0   0.035            
+291      BPK20          2.02          25.0   0.040  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+285      BPK20          2.02          12.0   -0.33      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+282      BPK20          2.02          10.0   0.035      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+289      BPK20          2.02          14.0    0.03      RB
+ sencionno=BPK20 CL distance=12.0 RL=-0.33
+ Finished Section no =BPK20**********************************
