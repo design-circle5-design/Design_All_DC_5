@@ -1,0 +1,949 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_14   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+   XsectionNo  chainage   r1   r2 c1 c2              KhalName   GL  \
+0       SBK0         0    5   28  A  C  Shemanar Branch Khal -2.2   
+1       SBK1       100   34   55  A  C  Shemanar Branch Khal -2.2   
+2       SBK2       200   70   96  A  C  Shemanar Branch Khal -2.2   
+3       SBK3       300  101  126  A  C  Shemanar Branch Khal -2.2   
+4       SBK4       400  142  167  A  C  Shemanar Branch Khal -2.2   
+5       SBK5       500  169  191  A  C  Shemanar Branch Khal -2.2   
+6       SBK6       650  193  212  A  C  Shemanar Branch Khal -2.2   
+7       SBK7       800  214  236  A  C  Shemanar Branch Khal -2.2   
+8       SBK8       925  239  259  A  C  Shemanar Branch Khal -2.2   
+
+   Ivert Level  Retention  Required_Area  Direction  
+0         -1.6        0.6             30          1  
+1         -1.6        0.6             30          1  
+2         -1.6        0.6             30          1  
+3         -1.6        0.6             30          1  
+4         -1.6        0.6             30          1  
+5         -1.6        0.6             30          1  
+6         -1.6        0.6             30          1  
+7         -1.6        0.6             30          1  
+8         -1.6        0.6             30          1  
+ --------Intiated Data Transfer for section no=SBK0--------
+
+
+
+
+ chainage=0 sec=SBK0 row1=5 row2=28 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28, 30, 32], 'rl': [3.665, 3.6700000000000004, 2.2900000000000005, 1.6900000000000004, 0.6950000000000003, 0.26500000000000057, 0.08400000000000052, -0.0699999999999994, -0.3380000000000001, -0.54, -0.5899999999999999, -0.5449999999999999, -0.2159999999999993, 0.06200000000000028, 0.6950000000000003, 1.2650000000000006, 1.7390000000000003, 2.2650000000000006, 2.6620000000000004, 3.5840000000000005, 3.5850000000000004, 0.7300000000000004, 0.7240000000000002, 0.6699999999999999], 'remarks': ['Earthen road', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', 'RB', '', '', '', '', '', ''], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0', 'SBK0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK1--------
+
+
+
+
+ chainage=100 sec=SBK1 row1=34 row2=55 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 5, 6, 8, 10, 12, 14, 16, 17, 18, 20, 22, 24, 28, 29, 30, 31, 33, 35, 37], 'rl': [2.707, 2.7119999999999997, 1.8019999999999996, 0.9869999999999997, 0.16699999999999982, -0.3360000000000003, -0.6130000000000004, -0.798, -0.9590000000000005, -1.0680000000000005, -1.0980000000000008, -1.0600000000000005, -1.0130000000000008, -0.8330000000000002, -0.6130000000000004, -0.16800000000000015, 0.5869999999999997, 1.1669999999999998, 2.8919999999999995, 2.8869999999999996, 1.1669999999999998, 0.6369999999999996], 'remarks': ['HBB road', '', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1', 'SBK1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK2--------
+
+
+
+
+ chainage=200 sec=SBK2 row1=70 row2=96 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34], 'rl': [2.83, 2.84, 2.8389999999999995, 1.71, 1.29, 0.8249999999999997, 0.29000000000000004, -0.4800000000000004, -0.7130000000000001, -0.9400000000000004, -1.1630000000000003, -1.4850000000000003, -1.5250000000000004, -1.4910000000000005, -1.1900000000000004, -1.0499999999999998, -0.8360000000000003, -0.71, 0.31999999999999984, 0.7869999999999999, 1.3199999999999998, 1.7089999999999996, 3.21, 3.205, 1.7089999999999996, 1.0599999999999996, 0.71], 'remarks': ['HBB road', '', 'LB', '', '', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', '', '', 'RB', '', '', '', 'Fisheries'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2', 'SBK2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK3--------
+
+
+
+
+ chainage=300 sec=SBK3 row1=101 row2=126 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 33], 'rl': [2.79, 2.785, 2.79, 1.9849999999999999, 1.3650000000000002, 0.7850000000000001, 0.3650000000000002, -0.10500000000000043, -0.40500000000000025, -0.8380000000000001, -1.1050000000000004, -1.2619999999999996, -1.3099999999999996, -1.2610000000000001, -1.1100000000000003, -0.8099999999999996, -0.6349999999999998, -0.21499999999999986, -0.01499999999999968, 0.1349999999999998, 0.5950000000000002, 1.134, 1.6, 1.6150000000000002, 3.585, 3.58], 'remarks': ['HBB road', '', 'LB', '', '', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3', 'SBK3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK4--------
+
+
+
+
+ chainage=400 sec=SBK4 row1=142 row2=167 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 30, 32], 'rl': [2.673, 2.668, 2.663, 1.8569999999999998, 1.1179999999999999, 0.718, 0.613, -0.5419999999999998, -0.7930000000000001, -0.9489999999999998, -1.1930000000000005, -1.3390000000000004, -1.3769999999999998, -1.338, -1.1950000000000003, -0.9379999999999997, -0.7490000000000006, -0.5869999999999997, -0.2519999999999998, 0.08800000000000008, 0.5129999999999999, 1.088, 1.763, 1.758, 3.508, 3.503], 'remarks': ['HBB road', '', 'LB', '', '', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', '', '', 'RB', '', '', 'Fisheries'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4', 'SBK4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK5--------
+
+
+
+
+ chainage=500 sec=SBK5 row1=169 row2=191 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 6, 7, 8, 10, 12, 14, 16, 18, 20, 21, 22, 24, 26, 28, 30, 32, 34, 35, 36, 38], 'rl': [2.554, 2.5589999999999997, 1.5739999999999998, 1.5789999999999997, 1.0539999999999998, 0.7929999999999997, 0.5489999999999999, -0.04600000000000026, -0.5019999999999998, -0.7460000000000004, -0.976, -1.1560000000000006, -1.1909999999999998, -1.1509999999999998, -0.9510000000000005, -0.7460000000000004, -0.42600000000000016, 0.053999999999999826, 0.5539999999999998, 1.024, 1.4429999999999996, 2.449, 2.444], 'remarks': ['HBB road', '', 'LB', '', '', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', '', 'RB', 'Fisheries'], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5', 'SBK5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK6--------
+
+
+
+
+ chainage=650 sec=SBK6 row1=193 row2=212 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 18, 20, 22, 23, 24, 26, 28, 30, 32, 34, 35, 36, 38], 'rl': [2.507999999999999, 2.5129999999999995, 2.5179999999999993, 1.3619999999999992, 0.9729999999999994, -0.057000000000000384, -0.39700000000000024, -0.6370000000000005, -0.7270000000000003, -0.7980000000000009, -0.9370000000000003, -0.7940000000000005, -0.6830000000000007, -0.6420000000000003, -0.5070000000000006, 0.26199999999999957, 0.9429999999999996, 1.3679999999999994, 3.1169999999999995, 3.1029999999999993], 'remarks': ['Houae area', '', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', 'RB', 'Fisheries bank'], 'chainage': [650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650], 'sectionNo': ['SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6', 'SBK6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK7--------
+
+
+
+
+ chainage=800 sec=SBK7 row1=214 row2=236 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 4, 5, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 31, 32, 34, 36, 38, 40], 'rl': [2.9669999999999996, 2.9519999999999995, 1.8809999999999993, 1.2319999999999993, 0.49199999999999955, -0.1640000000000006, -0.6180000000000003, -1.0130000000000008, -1.1750000000000007, -1.213, -1.1750000000000007, -1.0130000000000008, -0.7190000000000003, -0.41800000000000015, 0.49199999999999955, 1.3819999999999997, 1.8819999999999997, 2.8359999999999994, 2.8349999999999995, 1.8809999999999993, 0.9789999999999996, 0.9869999999999997, 0.6919999999999997], 'remarks': ['HBB road', '', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', 'RB', '', '', '', 'Fisheries'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7', 'SBK7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=SBK8--------
+
+
+
+
+ chainage=925 sec=SBK8 row1=239 row2=259 col1=A col2=C 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 11, 12, 14, 16, 18, 20, 22, 22.5, 23, 25, 27, 29, 31, 33, 34, 35, 40, 45], 'rl': [2.3369999999999993, 2.3419999999999996, 2.3519999999999994, 1.7369999999999992, 1.2919999999999994, 0.8869999999999996, 0.4919999999999991, 0.129999999999999, -0.3730000000000002, -0.5090000000000003, -0.5480000000000009, -0.5080000000000009, -0.21300000000000097, 0.08699999999999974, 0.3019999999999996, 0.5019999999999998, 0.7369999999999992, 1.0019999999999993, 1.6919999999999993, 1.6964999999999995, 1.7019999999999995], 'remarks': ['Khal bank', '', 'LB', '', '', '', '', '', '', '', 'CL', '', '', '', '', '', '', '', 'RB', '', 'Khal bank'], 'chainage': [925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925, 925], 'sectionNo': ['SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8', 'SBK8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=SBK8--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =SBK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)       Remarks
+0        SBK0             0           0.0   3.665  Earthen road
+1        SBK0             0           4.0   3.670            LB
+2        SBK0             0           5.0   2.290              
+3        SBK0             0           6.0   1.690              
+4        SBK0             0           7.0   0.695              
+5        SBK0             0           8.0   0.265              
+6        SBK0             0           9.0   0.084              
+7        SBK0             0          10.0  -0.070              
+8        SBK0             0          11.0  -0.338              
+9        SBK0             0          12.0  -0.540            CL
+10       SBK0             0          14.0  -0.590              
+11       SBK0             0          16.0  -0.545              
+12       SBK0             0          17.0  -0.216              
+13       SBK0             0          18.0   0.062              
+14       SBK0             0          19.0   0.695              
+15       SBK0             0          20.0   1.265              
+16       SBK0             0          21.0   1.739              
+17       SBK0             0          22.0   2.265            RB
+18       SBK0             0          23.0   2.662              
+19       SBK0             0          24.0   3.584              
+20       SBK0             0          26.0   3.585              
+21       SBK0             0          28.0   0.730              
+22       SBK0             0          30.0   0.724              
+23       SBK0             0          32.0   0.670              
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+9       SBK0             0          12.0   -0.54      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+1       SBK0             0           4.0    3.67      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       SBK0             0          22.0   2.265      RB
+ sencionno=SBK0 CL distance=12.0 RL=-0.54
+ Finished Section no =SBK0**********************************
+ 
+
+
+
+Initiated Section no =SBK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+24       SBK1           100           0.0   2.707   HBB road
+25       SBK1           100           3.0   2.712           
+26       SBK1           100           4.0   1.802         LB
+27       SBK1           100           5.0   0.987           
+28       SBK1           100           6.0   0.167           
+29       SBK1           100           8.0  -0.336           
+30       SBK1           100          10.0  -0.613           
+31       SBK1           100          12.0  -0.798           
+32       SBK1           100          14.0  -0.959           
+33       SBK1           100          16.0  -1.068           
+34       SBK1           100          17.0  -1.098         CL
+35       SBK1           100          18.0  -1.060           
+36       SBK1           100          20.0  -1.013           
+37       SBK1           100          22.0  -0.833           
+38       SBK1           100          24.0  -0.613           
+39       SBK1           100          28.0  -0.168           
+40       SBK1           100          29.0   0.587           
+41       SBK1           100          30.0   1.167           
+42       SBK1           100          31.0   2.892         RB
+43       SBK1           100          33.0   2.887           
+44       SBK1           100          35.0   1.167           
+45       SBK1           100          37.0   0.637  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       SBK1           100          17.0  -1.098      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+26       SBK1           100           4.0   1.802      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       SBK1           100          31.0   2.892      RB
+ sencionno=SBK1 CL distance=17.0 RL=-1.0980000000000008
+ Finished Section no =SBK1**********************************
+ 
+
+
+
+Initiated Section no =SBK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+46       SBK2           200           0.0   2.830   HBB road
+47       SBK2           200           3.0   2.840           
+48       SBK2           200           4.0   2.839         LB
+49       SBK2           200           5.0   1.710           
+50       SBK2           200           6.0   1.290           
+51       SBK2           200           7.0   0.825           
+52       SBK2           200           8.0   0.290           
+53       SBK2           200           9.0  -0.480           
+54       SBK2           200          10.0  -0.713           
+55       SBK2           200          11.0  -0.940           
+56       SBK2           200          12.0  -1.163           
+57       SBK2           200          13.0  -1.485           
+58       SBK2           200          15.0  -1.525         CL
+59       SBK2           200          17.0  -1.491           
+60       SBK2           200          18.0  -1.190           
+61       SBK2           200          19.0  -1.050           
+62       SBK2           200          20.0  -0.836           
+63       SBK2           200          21.0  -0.710           
+64       SBK2           200          22.0   0.320           
+65       SBK2           200          23.0   0.787           
+66       SBK2           200          24.0   1.320           
+67       SBK2           200          25.0   1.709           
+68       SBK2           200          26.0   3.210         RB
+69       SBK2           200          28.0   3.205           
+70       SBK2           200          30.0   1.709           
+71       SBK2           200          32.0   1.060           
+72       SBK2           200          34.0   0.710  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       SBK2           200          15.0  -1.525      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+48       SBK2           200           4.0   2.839      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       SBK2           200          26.0    3.21      RB
+ sencionno=SBK2 CL distance=15.0 RL=-1.5250000000000004
+ Finished Section no =SBK2**********************************
+ 
+
+
+
+Initiated Section no =SBK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+73       SBK3           300           0.0   2.790   HBB road
+74       SBK3           300           3.0   2.785           
+75       SBK3           300           4.0   2.790         LB
+76       SBK3           300           5.0   1.985           
+77       SBK3           300           6.0   1.365           
+78       SBK3           300           7.0   0.785           
+79       SBK3           300           8.0   0.365           
+80       SBK3           300           9.0  -0.105           
+81       SBK3           300          10.0  -0.405           
+82       SBK3           300          11.0  -0.838           
+83       SBK3           300          12.0  -1.105           
+84       SBK3           300          13.0  -1.262           
+85       SBK3           300          15.0  -1.310         CL
+86       SBK3           300          17.0  -1.261           
+87       SBK3           300          18.0  -1.110           
+88       SBK3           300          19.0  -0.810           
+89       SBK3           300          20.0  -0.635           
+90       SBK3           300          21.0  -0.215           
+91       SBK3           300          22.0  -0.015           
+92       SBK3           300          23.0   0.135           
+93       SBK3           300          24.0   0.595           
+94       SBK3           300          25.0   1.134           
+95       SBK3           300          26.0   1.600         RB
+96       SBK3           300          28.0   1.615           
+97       SBK3           300          29.0   3.585           
+98       SBK3           300          33.0   3.580  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+85       SBK3           300          15.0   -1.31      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+75       SBK3           300           4.0    2.79      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       SBK3           300          26.0     1.6      RB
+ sencionno=SBK3 CL distance=15.0 RL=-1.3099999999999996
+ Finished Section no =SBK3**********************************
+ 
+
+
+
+Initiated Section no =SBK4**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+99        SBK4           400           0.0   2.673   HBB road
+100       SBK4           400           3.0   2.668           
+101       SBK4           400           4.0   2.663         LB
+102       SBK4           400           5.0   1.857           
+103       SBK4           400           6.0   1.118           
+104       SBK4           400           7.0   0.718           
+105       SBK4           400           8.0   0.613           
+106       SBK4           400           9.0  -0.542           
+107       SBK4           400          10.0  -0.793           
+108       SBK4           400          11.0  -0.949           
+109       SBK4           400          12.0  -1.193           
+110       SBK4           400          13.0  -1.339           
+111       SBK4           400          15.0  -1.377         CL
+112       SBK4           400          17.0  -1.338           
+113       SBK4           400          18.0  -1.195           
+114       SBK4           400          19.0  -0.938           
+115       SBK4           400          20.0  -0.749           
+116       SBK4           400          21.0  -0.587           
+117       SBK4           400          22.0  -0.252           
+118       SBK4           400          23.0   0.088           
+119       SBK4           400          24.0   0.513           
+120       SBK4           400          25.0   1.088           
+121       SBK4           400          26.0   1.763         RB
+122       SBK4           400          28.0   1.758           
+123       SBK4           400          30.0   3.508           
+124       SBK4           400          32.0   3.503  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+111       SBK4           400          15.0  -1.377      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+101       SBK4           400           4.0   2.663      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+121       SBK4           400          26.0   1.763      RB
+ sencionno=SBK4 CL distance=15.0 RL=-1.3769999999999998
+ Finished Section no =SBK4**********************************
+ 
+
+
+
+Initiated Section no =SBK5**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+125       SBK5           500           0.0   2.554   HBB road
+126       SBK5           500           3.0   2.559           
+127       SBK5           500           4.0   1.574         LB
+128       SBK5           500           6.0   1.579           
+129       SBK5           500           7.0   1.054           
+130       SBK5           500           8.0   0.793           
+131       SBK5           500          10.0   0.549           
+132       SBK5           500          12.0  -0.046           
+133       SBK5           500          14.0  -0.502           
+134       SBK5           500          16.0  -0.746           
+135       SBK5           500          18.0  -0.976           
+136       SBK5           500          20.0  -1.156           
+137       SBK5           500          21.0  -1.191         CL
+138       SBK5           500          22.0  -1.151           
+139       SBK5           500          24.0  -0.951           
+140       SBK5           500          26.0  -0.746           
+141       SBK5           500          28.0  -0.426           
+142       SBK5           500          30.0   0.054           
+143       SBK5           500          32.0   0.554           
+144       SBK5           500          34.0   1.024           
+145       SBK5           500          35.0   1.443           
+146       SBK5           500          36.0   2.449         RB
+147       SBK5           500          38.0   2.444  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       SBK5           500          21.0  -1.191      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+127       SBK5           500           4.0   1.574      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+146       SBK5           500          36.0   2.449      RB
+ sencionno=SBK5 CL distance=21.0 RL=-1.1909999999999998
+ Finished Section no =SBK5**********************************
+ 
+
+
+
+Initiated Section no =SBK6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)         Remarks
+148       SBK6           650           0.0   2.508      Houae area
+149       SBK6           650           5.0   2.513                
+150       SBK6           650          10.0   2.518              LB
+151       SBK6           650          11.0   1.362                
+152       SBK6           650          12.0   0.973                
+153       SBK6           650          14.0  -0.057                
+154       SBK6           650          16.0  -0.397                
+155       SBK6           650          18.0  -0.637                
+156       SBK6           650          20.0  -0.727                
+157       SBK6           650          22.0  -0.798                
+158       SBK6           650          23.0  -0.937              CL
+159       SBK6           650          24.0  -0.794                
+160       SBK6           650          26.0  -0.683                
+161       SBK6           650          28.0  -0.642                
+162       SBK6           650          30.0  -0.507                
+163       SBK6           650          32.0   0.262                
+164       SBK6           650          34.0   0.943                
+165       SBK6           650          35.0   1.368                
+166       SBK6           650          36.0   3.117              RB
+167       SBK6           650          38.0   3.103  Fisheries bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+158       SBK6           650          23.0  -0.937      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+150       SBK6           650          10.0   2.518      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+166       SBK6           650          36.0   3.117      RB
+ sencionno=SBK6 CL distance=23.0 RL=-0.9370000000000003
+ Finished Section no =SBK6**********************************
+ 
+
+
+
+Initiated Section no =SBK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+168       SBK7           800           0.0   2.967   HBB road
+169       SBK7           800           3.0   2.952           
+170       SBK7           800           4.0   1.881         LB
+171       SBK7           800           5.0   1.232           
+172       SBK7           800           6.0   0.492           
+173       SBK7           800           8.0  -0.164           
+174       SBK7           800          10.0  -0.618           
+175       SBK7           800          12.0  -1.013           
+176       SBK7           800          14.0  -1.175           
+177       SBK7           800          16.0  -1.213           
+178       SBK7           800          18.0  -1.175         CL
+179       SBK7           800          20.0  -1.013           
+180       SBK7           800          22.0  -0.719           
+181       SBK7           800          24.0  -0.418           
+182       SBK7           800          26.0   0.492           
+183       SBK7           800          28.0   1.382           
+184       SBK7           800          30.0   1.882           
+185       SBK7           800          31.0   2.836           
+186       SBK7           800          32.0   2.835         RB
+187       SBK7           800          34.0   1.881           
+188       SBK7           800          36.0   0.979           
+189       SBK7           800          38.0   0.987           
+190       SBK7           800          40.0   0.692  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+178       SBK7           800          18.0  -1.175      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+170       SBK7           800           4.0   1.881      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186       SBK7           800          32.0   2.835      RB
+ sencionno=SBK7 CL distance=18.0 RL=-1.1750000000000007
+ Finished Section no =SBK7**********************************
+ 
+
+
+
+Initiated Section no =SBK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+191       SBK8           925           0.0  2.3370  Khal bank
+192       SBK8           925           5.0  2.3420           
+193       SBK8           925          10.0  2.3520         LB
+194       SBK8           925          11.0  1.7370           
+195       SBK8           925          12.0  1.2920           
+196       SBK8           925          14.0  0.8870           
+197       SBK8           925          16.0  0.4920           
+198       SBK8           925          18.0  0.1300           
+199       SBK8           925          20.0 -0.3730           
+200       SBK8           925          22.0 -0.5090           
+201       SBK8           925          22.5 -0.5480         CL
+202       SBK8           925          23.0 -0.5080           
+203       SBK8           925          25.0 -0.2130           
+204       SBK8           925          27.0  0.0870           
+205       SBK8           925          29.0  0.3020           
+206       SBK8           925          31.0  0.5020           
+207       SBK8           925          33.0  0.7370           
+208       SBK8           925          34.0  1.0020           
+209       SBK8           925          35.0  1.6920         RB
+210       SBK8           925          40.0  1.6965           
+211       SBK8           925          45.0  1.7020  Khal bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+201       SBK8           925          22.5  -0.548      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+193       SBK8           925          10.0   2.352      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+209       SBK8           925          35.0   1.692      RB
+ sencionno=SBK8 CL distance=22.5 RL=-0.5480000000000009
+ Finished Section no =SBK8**********************************
+ Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =SBK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)       Remarks
+0        SBK0             0           0.0   3.665  Earthen road
+1        SBK0             0           4.0   3.670            LB
+2        SBK0             0           5.0   2.290              
+3        SBK0             0           6.0   1.690              
+4        SBK0             0           7.0   0.695              
+5        SBK0             0           8.0   0.265              
+6        SBK0             0           9.0   0.084              
+7        SBK0             0          10.0  -0.070              
+8        SBK0             0          11.0  -0.338              
+9        SBK0             0          12.0  -0.540            CL
+10       SBK0             0          14.0  -0.590              
+11       SBK0             0          16.0  -0.545              
+12       SBK0             0          17.0  -0.216              
+13       SBK0             0          18.0   0.062              
+14       SBK0             0          19.0   0.695              
+15       SBK0             0          20.0   1.265              
+16       SBK0             0          21.0   1.739              
+17       SBK0             0          22.0   2.265            RB
+18       SBK0             0          23.0   2.662              
+19       SBK0             0          24.0   3.584              
+20       SBK0             0          26.0   3.585              
+21       SBK0             0          28.0   0.730              
+22       SBK0             0          30.0   0.724              
+23       SBK0             0          32.0   0.670              
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+9       SBK0             0          12.0   -0.54      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+1       SBK0             0           4.0    3.67      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       SBK0             0          22.0   2.265      RB
+ sencionno=SBK0 CL distance=12.0 RL=-0.54
+ Finished Section no =SBK0**********************************
+ 
+
+
+
+Initiated Section no =SBK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+24       SBK1           100           0.0   2.707   HBB road
+25       SBK1           100           3.0   2.712           
+26       SBK1           100           4.0   1.802         LB
+27       SBK1           100           5.0   0.987           
+28       SBK1           100           6.0   0.167           
+29       SBK1           100           8.0  -0.336           
+30       SBK1           100          10.0  -0.613           
+31       SBK1           100          12.0  -0.798           
+32       SBK1           100          14.0  -0.959           
+33       SBK1           100          16.0  -1.068           
+34       SBK1           100          17.0  -1.098         CL
+35       SBK1           100          18.0  -1.060           
+36       SBK1           100          20.0  -1.013           
+37       SBK1           100          22.0  -0.833           
+38       SBK1           100          24.0  -0.613           
+39       SBK1           100          28.0  -0.168           
+40       SBK1           100          29.0   0.587           
+41       SBK1           100          30.0   1.167           
+42       SBK1           100          31.0   2.892         RB
+43       SBK1           100          33.0   2.887           
+44       SBK1           100          35.0   1.167           
+45       SBK1           100          37.0   0.637  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+34       SBK1           100          17.0  -1.098      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+26       SBK1           100           4.0   1.802      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+42       SBK1           100          31.0   2.892      RB
+ sencionno=SBK1 CL distance=17.0 RL=-1.0980000000000008
+ Finished Section no =SBK1**********************************
+ 
+
+
+
+Initiated Section no =SBK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+46       SBK2           200           0.0   2.830   HBB road
+47       SBK2           200           3.0   2.840           
+48       SBK2           200           4.0   2.839         LB
+49       SBK2           200           5.0   1.710           
+50       SBK2           200           6.0   1.290           
+51       SBK2           200           7.0   0.825           
+52       SBK2           200           8.0   0.290           
+53       SBK2           200           9.0  -0.480           
+54       SBK2           200          10.0  -0.713           
+55       SBK2           200          11.0  -0.940           
+56       SBK2           200          12.0  -1.163           
+57       SBK2           200          13.0  -1.485           
+58       SBK2           200          15.0  -1.525         CL
+59       SBK2           200          17.0  -1.491           
+60       SBK2           200          18.0  -1.190           
+61       SBK2           200          19.0  -1.050           
+62       SBK2           200          20.0  -0.836           
+63       SBK2           200          21.0  -0.710           
+64       SBK2           200          22.0   0.320           
+65       SBK2           200          23.0   0.787           
+66       SBK2           200          24.0   1.320           
+67       SBK2           200          25.0   1.709           
+68       SBK2           200          26.0   3.210         RB
+69       SBK2           200          28.0   3.205           
+70       SBK2           200          30.0   1.709           
+71       SBK2           200          32.0   1.060           
+72       SBK2           200          34.0   0.710  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       SBK2           200          15.0  -1.525      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+48       SBK2           200           4.0   2.839      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+68       SBK2           200          26.0    3.21      RB
+ sencionno=SBK2 CL distance=15.0 RL=-1.5250000000000004
+ Finished Section no =SBK2**********************************
+ 
+
+
+
+Initiated Section no =SBK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+73       SBK3           300           0.0   2.790   HBB road
+74       SBK3           300           3.0   2.785           
+75       SBK3           300           4.0   2.790         LB
+76       SBK3           300           5.0   1.985           
+77       SBK3           300           6.0   1.365           
+78       SBK3           300           7.0   0.785           
+79       SBK3           300           8.0   0.365           
+80       SBK3           300           9.0  -0.105           
+81       SBK3           300          10.0  -0.405           
+82       SBK3           300          11.0  -0.838           
+83       SBK3           300          12.0  -1.105           
+84       SBK3           300          13.0  -1.262           
+85       SBK3           300          15.0  -1.310         CL
+86       SBK3           300          17.0  -1.261           
+87       SBK3           300          18.0  -1.110           
+88       SBK3           300          19.0  -0.810           
+89       SBK3           300          20.0  -0.635           
+90       SBK3           300          21.0  -0.215           
+91       SBK3           300          22.0  -0.015           
+92       SBK3           300          23.0   0.135           
+93       SBK3           300          24.0   0.595           
+94       SBK3           300          25.0   1.134           
+95       SBK3           300          26.0   1.600         RB
+96       SBK3           300          28.0   1.615           
+97       SBK3           300          29.0   3.585           
+98       SBK3           300          33.0   3.580  Fisheries
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+85       SBK3           300          15.0   -1.31      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+75       SBK3           300           4.0    2.79      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+95       SBK3           300          26.0     1.6      RB
+ sencionno=SBK3 CL distance=15.0 RL=-1.3099999999999996
+ Finished Section no =SBK3**********************************
+ 
+
+
+
+Initiated Section no =SBK4**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+99        SBK4           400           0.0   2.673   HBB road
+100       SBK4           400           3.0   2.668           
+101       SBK4           400           4.0   2.663         LB
+102       SBK4           400           5.0   1.857           
+103       SBK4           400           6.0   1.118           
+104       SBK4           400           7.0   0.718           
+105       SBK4           400           8.0   0.613           
+106       SBK4           400           9.0  -0.542           
+107       SBK4           400          10.0  -0.793           
+108       SBK4           400          11.0  -0.949           
+109       SBK4           400          12.0  -1.193           
+110       SBK4           400          13.0  -1.339           
+111       SBK4           400          15.0  -1.377         CL
+112       SBK4           400          17.0  -1.338           
+113       SBK4           400          18.0  -1.195           
+114       SBK4           400          19.0  -0.938           
+115       SBK4           400          20.0  -0.749           
+116       SBK4           400          21.0  -0.587           
+117       SBK4           400          22.0  -0.252           
+118       SBK4           400          23.0   0.088           
+119       SBK4           400          24.0   0.513           
+120       SBK4           400          25.0   1.088           
+121       SBK4           400          26.0   1.763         RB
+122       SBK4           400          28.0   1.758           
+123       SBK4           400          30.0   3.508           
+124       SBK4           400          32.0   3.503  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+111       SBK4           400          15.0  -1.377      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+101       SBK4           400           4.0   2.663      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+121       SBK4           400          26.0   1.763      RB
+ sencionno=SBK4 CL distance=15.0 RL=-1.3769999999999998
+ Finished Section no =SBK4**********************************
+ 
+
+
+
+Initiated Section no =SBK5**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+125       SBK5           500           0.0   2.554   HBB road
+126       SBK5           500           3.0   2.559           
+127       SBK5           500           4.0   1.574         LB
+128       SBK5           500           6.0   1.579           
+129       SBK5           500           7.0   1.054           
+130       SBK5           500           8.0   0.793           
+131       SBK5           500          10.0   0.549           
+132       SBK5           500          12.0  -0.046           
+133       SBK5           500          14.0  -0.502           
+134       SBK5           500          16.0  -0.746           
+135       SBK5           500          18.0  -0.976           
+136       SBK5           500          20.0  -1.156           
+137       SBK5           500          21.0  -1.191         CL
+138       SBK5           500          22.0  -1.151           
+139       SBK5           500          24.0  -0.951           
+140       SBK5           500          26.0  -0.746           
+141       SBK5           500          28.0  -0.426           
+142       SBK5           500          30.0   0.054           
+143       SBK5           500          32.0   0.554           
+144       SBK5           500          34.0   1.024           
+145       SBK5           500          35.0   1.443           
+146       SBK5           500          36.0   2.449         RB
+147       SBK5           500          38.0   2.444  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+137       SBK5           500          21.0  -1.191      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+127       SBK5           500           4.0   1.574      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+146       SBK5           500          36.0   2.449      RB
+ sencionno=SBK5 CL distance=21.0 RL=-1.1909999999999998
+ Finished Section no =SBK5**********************************
+ 
+
+
+
+Initiated Section no =SBK6**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)         Remarks
+148       SBK6           650           0.0   2.508      Houae area
+149       SBK6           650           5.0   2.513                
+150       SBK6           650          10.0   2.518              LB
+151       SBK6           650          11.0   1.362                
+152       SBK6           650          12.0   0.973                
+153       SBK6           650          14.0  -0.057                
+154       SBK6           650          16.0  -0.397                
+155       SBK6           650          18.0  -0.637                
+156       SBK6           650          20.0  -0.727                
+157       SBK6           650          22.0  -0.798                
+158       SBK6           650          23.0  -0.937              CL
+159       SBK6           650          24.0  -0.794                
+160       SBK6           650          26.0  -0.683                
+161       SBK6           650          28.0  -0.642                
+162       SBK6           650          30.0  -0.507                
+163       SBK6           650          32.0   0.262                
+164       SBK6           650          34.0   0.943                
+165       SBK6           650          35.0   1.368                
+166       SBK6           650          36.0   3.117              RB
+167       SBK6           650          38.0   3.103  Fisheries bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+158       SBK6           650          23.0  -0.937      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+150       SBK6           650          10.0   2.518      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+166       SBK6           650          36.0   3.117      RB
+ sencionno=SBK6 CL distance=23.0 RL=-0.9370000000000003
+ Finished Section no =SBK6**********************************
+ 
+
+
+
+Initiated Section no =SBK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+168       SBK7           800           0.0   2.967   HBB road
+169       SBK7           800           3.0   2.952           
+170       SBK7           800           4.0   1.881         LB
+171       SBK7           800           5.0   1.232           
+172       SBK7           800           6.0   0.492           
+173       SBK7           800           8.0  -0.164           
+174       SBK7           800          10.0  -0.618           
+175       SBK7           800          12.0  -1.013           
+176       SBK7           800          14.0  -1.175           
+177       SBK7           800          16.0  -1.213           
+178       SBK7           800          18.0  -1.175         CL
+179       SBK7           800          20.0  -1.013           
+180       SBK7           800          22.0  -0.719           
+181       SBK7           800          24.0  -0.418           
+182       SBK7           800          26.0   0.492           
+183       SBK7           800          28.0   1.382           
+184       SBK7           800          30.0   1.882           
+185       SBK7           800          31.0   2.836           
+186       SBK7           800          32.0   2.835         RB
+187       SBK7           800          34.0   1.881           
+188       SBK7           800          36.0   0.979           
+189       SBK7           800          38.0   0.987           
+190       SBK7           800          40.0   0.692  Fisheries
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+178       SBK7           800          18.0  -1.175      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+170       SBK7           800           4.0   1.881      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+186       SBK7           800          32.0   2.835      RB
+ sencionno=SBK7 CL distance=18.0 RL=-1.1750000000000007
+ Finished Section no =SBK7**********************************
+ 
+
+
+
+Initiated Section no =SBK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+191       SBK8           925           0.0  2.3370  Khal bank
+192       SBK8           925           5.0  2.3420           
+193       SBK8           925          10.0  2.3520         LB
+194       SBK8           925          11.0  1.7370           
+195       SBK8           925          12.0  1.2920           
+196       SBK8           925          14.0  0.8870           
+197       SBK8           925          16.0  0.4920           
+198       SBK8           925          18.0  0.1300           
+199       SBK8           925          20.0 -0.3730           
+200       SBK8           925          22.0 -0.5090           
+201       SBK8           925          22.5 -0.5480         CL
+202       SBK8           925          23.0 -0.5080           
+203       SBK8           925          25.0 -0.2130           
+204       SBK8           925          27.0  0.0870           
+205       SBK8           925          29.0  0.3020           
+206       SBK8           925          31.0  0.5020           
+207       SBK8           925          33.0  0.7370           
+208       SBK8           925          34.0  1.0020           
+209       SBK8           925          35.0  1.6920         RB
+210       SBK8           925          40.0  1.6965           
+211       SBK8           925          45.0  1.7020  Khal bank
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+201       SBK8           925          22.5  -0.548      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+193       SBK8           925          10.0   2.352      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+209       SBK8           925          35.0   1.692      RB
+ sencionno=SBK8 CL distance=22.5 RL=-0.5480000000000009
+ Finished Section no =SBK8**********************************
