@@ -1,0 +1,3531 @@
+ Sucessfully Setup Logger for this programme.............
+ Printing Data Matrix Direction.................
+
+               Data Name         Value  \
+0          Package Name  TP_KEX_10_14   
+1           Data Matrix             V   
+2  Long_Slope_Direction             1   
+
+                                         Explanation  
+0                               package_name_of_khal  
+1                            Data written vertically  
+2  1:zero chaiange at outfall 0:zero chainage at ...  
+ 
+
+###############################################
+
+
+    XsectionNo  chainage   r1   r2 c1 c2      KhalName     GL  Ivert Level  \
+0        GVK0         0    5   20  B  D  Gavita  khal  0.402         -1.6   
+1        GVK1       100   24   35  B  D  Gavita  khal  0.402         -1.6   
+2        GVK2       200   39   51  B  D  Gavita  khal  0.402         -1.6   
+3        GVK3       300   55   69  B  D  Gavita  khal  0.402         -1.6   
+4        GVK4       400   72   84  B  D  Gavita  khal  0.402         -1.6   
+5        GVK5       500   88  102  B  D  Gavita  khal  0.402         -1.6   
+6        GVK6       600  106  118  B  D  Gavita  khal  0.402         -1.6   
+7        GVK7       700  122  134  B  D  Gavita  khal  0.402         -1.6   
+8        GVK8       800  144  157  B  D  Gavita  khal  0.402         -1.6   
+9        GVK9       900  161  177  B  D  Gavita  khal  0.402         -1.6   
+10      GVK10      1000  181  197  B  D  Gavita  khal  0.402         -1.6   
+11      GVK11      1100  216  231  B  D  Gavita  khal  0.402         -1.6   
+12      GVK12      1200  234  249  B  D  Gavita  khal  0.402         -1.6   
+13      GVK13      1300  252  267  B  D  Gavita  khal  0.402         -1.6   
+14      GVK14      1400  271  285  B  D  Gavita  khal  0.402         -1.6   
+15      GVK15      1500  288  303  B  D  Gavita  khal  0.402         -1.6   
+16      GVK16      1600  306  321  B  D  Gavita  khal  0.402         -1.6   
+17      GVK17      1700  325  339  B  D  Gavita  khal  0.402         -1.6   
+18      GVK18      1800  342  357  B  D  Gavita  khal  0.402         -1.6   
+19      GVK19      1900  360  373  B  D  Gavita  khal  0.402         -1.6   
+20      GVK20      2000  377  390  B  D  Gavita  khal  0.402         -1.6   
+21      GVK21      2100  394  407  B  D  Gavita  khal  0.402         -1.6   
+22      GVK22      2200  411  421  B  D  Gavita  khal  0.402         -1.6   
+23      GVK23      2300  432  445  B  D  Gavita  khal  0.402         -1.6   
+24      GVK24      2400  449  462  B  D  Gavita  khal  0.402         -1.6   
+25      GVK25      2500  466  478  B  D  Gavita  khal  0.402         -1.6   
+26      GVK26      2600  482  493  B  D  Gavita  khal  0.402         -1.6   
+27      GVK27      2700  504  516  B  D  Gavita  khal  0.402         -1.6   
+28      GVK28      2800  519  533  B  D  Gavita  khal  0.402         -1.6   
+29      GVK29      2900  537  553  B  D  Gavita  khal  0.402         -1.6   
+30      GVK30      3000  556  573  B  D  Gavita  khal  0.402         -1.6   
+31      GVK31      3100  576  590  B  D  Gavita  khal  0.402         -1.6   
+32      GVK32      3200  594  604  B  D  Gavita  khal  0.402         -1.6   
+33      GVK33      3300  608  619  B  D  Gavita  khal  0.402         -1.6   
+34      GVK34      3400  623  634  B  D  Gavita  khal  0.402         -1.6   
+35      GVK35      3500  648  661  B  D  Gavita  khal  0.402         -1.6   
+36      GVK36      3600  665  678  B  D  Gavita  khal  0.402         -1.6   
+37      GVK37      3700  682  694  B  D  Gavita  khal  0.402         -1.6   
+38      GVK38      3800  698  710  B  D  Gavita  khal  0.402         -1.6   
+39      GVK39      3900  720  732  B  D  Gavita  khal  0.402         -1.6   
+40      GVK40      4000  736  748  B  D  Gavita  khal  0.402         -1.6   
+41      GVK41      4053  752  766  B  D  Gavita  khal  0.402         -1.6   
+
+    Retention  Required_Area  Direction  
+0         0.6             30          1  
+1         0.6             30          1  
+2         0.6             30          1  
+3         0.6             30          1  
+4         0.6             30          1  
+5         0.6             30          1  
+6         0.6             30          1  
+7         0.6             30          1  
+8         0.6             30          1  
+9         0.6             30          1  
+10        0.6             30          1  
+11        0.6             30          1  
+12        0.6             30          1  
+13        0.6             30          1  
+14        0.6             30          1  
+15        0.6             30          1  
+16        0.6             30          1  
+17        0.6             30          1  
+18        0.6             30          1  
+19        0.6             30          1  
+20        0.6             30          1  
+21        0.6             30          1  
+22        0.6             30          1  
+23        0.6             30          1  
+24        0.6             30          1  
+25        0.6             30          1  
+26        0.6             30          1  
+27        0.6             30          1  
+28        0.6             30          1  
+29        0.6             30          1  
+30        0.6             30          1  
+31        0.6             30          1  
+32        0.6             30          1  
+33        0.6             30          1  
+34        0.6             30          1  
+35        0.6             30          1  
+36        0.6             30          1  
+37        0.6             30          1  
+38        0.6             30          1  
+39        0.6             30          1  
+40        0.6             30          1  
+41        0.6             30          1  
+ --------Intiated Data Transfer for section no=GVK0--------
+
+
+
+
+ chainage=0 sec=GVK0 row1=5 row2=20 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 12, 14, 17, 20, 22, 24, 26, 28, 30, 35, 40], 'rl': [3.209, 3.214, 0.875, 0.614, 0.175, -0.16, -0.376, -0.44, -0.385, -0.186, 0.214, 0.514, 0.76, 3.114, 3.105, 3.1], 'remarks': ['BC road', 'LB', '', '', '', '', '', 'CL', '', '', '', '', '', 'RB', '', 'Garden'], 'chainage': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'sectionNo': ['GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0', 'GVK0']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK0--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK1--------
+
+
+
+
+ chainage=100 sec=GVK1 row1=24 row2=35 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 11, 12, 14, 16, 18, 21, 26], 'rl': [3.192, 3.187, 0.147, -0.238, -0.43, -0.488, -0.432, -0.199, 0.127, 3.032, 3.027, 3.027], 'remarks': ['BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', ''], 'chainage': [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100], 'sectionNo': ['GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1', 'GVK1']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK1--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK2--------
+
+
+
+
+ chainage=200 sec=GVK2 row1=39 row2=51 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 12, 14, 16, 18, 20, 23, 24, 30], 'rl': [2.516, 2.527, 0.047, -0.439, -0.666, -0.728, -0.673, -0.493, -0.087, 2.378, 2.377, 1.447, 1.437], 'remarks': ['BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', '', 'Poen land'], 'chainage': [200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200], 'sectionNo': ['GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2', 'GVK2']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK2--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK3--------
+
+
+
+
+ chainage=300 sec=GVK3 row1=55 row2=69 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 6, 8, 10, 12, 14, 14.5, 15, 17, 19, 21, 23, 26, 30], 'rl': [2.377, 2.383, 2.388, 0.207, -0.187, -0.338, -0.607, -0.661, -0.608, -0.339, -0.192, 0.208, 1.941, 1.928, 1.908], 'remarks': ['House', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'HBB ropad', 'Open land'], 'chainage': [300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300], 'sectionNo': ['GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3', 'GVK3']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK3--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK4--------
+
+
+
+
+ chainage=400 sec=GVK4 row1=72 row2=84 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 10, 12, 14, 16, 18, 20, 22, 24, 26, 29, 30], 'rl': [2.379, 2.418, 2.408, -0.092, -0.446, -0.686, -0.756, -0.692, -0.458, -0.131, 2.153, 2.159, 2.164], 'remarks': ['Open land', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', 'B.wall'], 'chainage': [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400], 'sectionNo': ['GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4', 'GVK4']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK4--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK5--------
+
+
+
+
+ chainage=500 sec=GVK5 row1=88 row2=102 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 6, 10, 12, 14, 16, 17, 18, 20, 22, 24, 27, 28, 29], 'rl': [0.942, 1.047, 2.141, 2.153, -0.268, -0.514, -0.708, -0.763, -0.718, -0.529, -0.27, 2.105, 2.102, 2.096, 2.096], 'remarks': ['Open land', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', 'House', ''], 'chainage': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500], 'sectionNo': ['GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5', 'GVK5']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK5--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK6--------
+
+
+
+
+ chainage=600 sec=GVK6 row1=106 row2=118 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 26, 29], 'rl': [2.171, 2.18, -0.22, -0.562, -0.72, -0.796, -0.734, -0.52, -0.234, 1.276, 1.331, 2.275, 2.271], 'remarks': ['Open land', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'HBB road'], 'chainage': [600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600], 'sectionNo': ['GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6', 'GVK6']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK6--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK7--------
+
+
+
+
+ chainage=700 sec=GVK7 row1=122 row2=134 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 17, 18, 20, 22, 24, 27, 28], 'rl': [0.998, 0.993, 0.988, -0.292, -0.543, -0.757, -0.815, -0.75, -0.544, -0.317, 2.193, 2.194, 2.198], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', 'B.wall'], 'chainage': [700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700, 700], 'sectionNo': ['GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7', 'GVK7']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK7--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK8--------
+
+
+
+
+ chainage=800 sec=GVK8 row1=144 row2=157 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 29, 30, 35], 'rl': [0.483, 0.476, 0.471, -0.154, -0.529, -0.785, -0.857, -0.784, -0.546, -0.113, 2.301, 2.296, 0.564, 0.546], 'remarks': ['Paddy land', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', '', 'Paddy land'], 'chainage': [800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800, 800], 'sectionNo': ['GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8', 'GVK8']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK8--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK9--------
+
+
+
+
+ chainage=900 sec=GVK9 row1=161 row2=177 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 19, 20, 22, 24, 26, 28, 30, 31, 33, 35], 'rl': [1.029, 1.024, 1.019, -0.216, -0.433, -0.665, -0.832, -0.908, -0.846, -0.663, -0.432, -0.209, 1.602, 1.601, -0.137, -0.532, -0.686], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', '', 'Ditch'], 'chainage': [900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900, 900], 'sectionNo': ['GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9', 'GVK9']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK9--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK10--------
+
+
+
+
+ chainage=1000 sec=GVK10 row1=181 row2=197 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 19, 20, 22, 24, 26, 28, 30, 31, 34, 40], 'rl': [0.591, 0.586, 0.581, -0.224, -0.477, -0.67, -0.859, -0.959, -0.9, -0.671, -0.484, -0.27, 1.491, 1.486, 0.625, 0.621, 0.586], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000], 'sectionNo': ['GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10', 'GVK10']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK10--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK11--------
+
+
+
+
+ chainage=1100 sec=GVK11 row1=216 row2=231 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 35, 40], 'rl': [0.678, 0.688, 0.693, -0.058, -0.407, -0.691, -0.898, -0.947, -0.891, -0.692, -0.432, -0.112, 1.313, 1.308, 1.203, 1.178], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'HBB road', '', 'Open land'], 'chainage': [1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100, 1100], 'sectionNo': ['GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11', 'GVK11']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK11--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK12--------
+
+
+
+
+ chainage=1200 sec=GVK12 row1=234 row2=249 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 7, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 29, 30, 35], 'rl': [0.792, 0.787, 1.457, 1.452, -0.293, -0.544, -0.814, -0.873, -0.811, -0.553, -0.288, 1.487, 1.482, 0.757, 0.742, 0.737], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'HBB road', '', '', 'Paddy land'], 'chainage': [1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200, 1200], 'sectionNo': ['GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12', 'GVK12']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK12--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK13--------
+
+
+
+
+ chainage=1300 sec=GVK13 row1=252 row2=267 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 7, 8, 10, 12, 14, 16, 17, 18, 20, 22, 24, 26, 27, 30, 35], 'rl': [0.807, 0.802, 1.532, 1.527, -0.293, -0.544, -0.741, -0.793, -0.744, -0.558, -0.294, 1.456, 1.441, 0.756, 0.752, 0.747], 'remarks': ['Open land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300], 'sectionNo': ['GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13', 'GVK13']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK13--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK14--------
+
+
+
+
+ chainage=1400 sec=GVK14 row1=271 row2=285 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 7, 10, 12, 14, 16, 17, 18, 20, 22, 24, 27, 28, 35], 'rl': [0.73, 0.729, 1.39, 1.385, -0.066, -0.366, -0.706, -0.795, -0.7, -0.505, -0.22, 1.334, 1.32, 0.634, 0.63], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400, 1400], 'sectionNo': ['GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14', 'GVK14']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK14--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK15--------
+
+
+
+
+ chainage=1500 sec=GVK15 row1=288 row2=303 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 7, 10, 12, 14, 16, 18, 20, 22, 24, 26, 29, 30, 35, 40], 'rl': [0.63, 0.625, 1.432, 1.433, -0.12, -0.415, -0.667, -0.725, -0.666, -0.41, -0.123, 1.335, 1.33, 0.729, 0.735, 0.74], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500], 'sectionNo': ['GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15', 'GVK15']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK15--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK16--------
+
+
+
+
+ chainage=1600 sec=GVK16 row1=306 row2=321 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 19, 20, 22, 24, 26, 28, 30, 35, 40], 'rl': [1.514, 1.534, 1.549, 0.198, -0.102, -0.346, -0.572, -0.631, -0.576, -0.356, -0.156, 0.165, 1.498, 1.444, 1.424, 1.404], 'remarks': ['Paddy land', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600, 1600], 'sectionNo': ['GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16', 'GVK16']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK16--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK17--------
+
+
+
+
+ chainage=1700 sec=GVK17 row1=325 row2=339 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 5.5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 30, 35, 40], 'rl': [1.077, 1.103, 1.123, 1.148, 0.144, -0.123, -0.33, -0.386, -0.327, -0.172, 0.123, 1.253, 1.248, 1.243, 1.128], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', 'Paddy land'], 'chainage': [1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700, 1700], 'sectionNo': ['GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17', 'GVK17']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK17--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK18--------
+
+
+
+
+ chainage=1800 sec=GVK18 row1=342 row2=357 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 5.5, 10, 12, 14, 16, 18, 20, 22, 24, 26, 30, 30.5, 35, 40], 'rl': [0.623, 0.638, 1.223, 1.228, 0.123, -0.023, -0.256, -0.372, -0.273, -0.097, 0.123, 1.177, 1.173, 0.628, 0.633, 0.638], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', '', '', 'Paddy land'], 'chainage': [1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800, 1800], 'sectionNo': ['GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18', 'GVK18']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK18--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK19--------
+
+
+
+
+ chainage=1900 sec=GVK19 row1=360 row2=373 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 5.5, 10, 12, 14, 16, 17, 18, 20, 22, 24, 26, 30], 'rl': [0.868, 0.871, 1.251, 1.255, 0.301, 0.111, -0.055, -0.119, -0.052, 0.155, 0.281, 1.276, 1.281, 1.286], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'House side'], 'chainage': [1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900], 'sectionNo': ['GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19', 'GVK19']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK19--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK20--------
+
+
+
+
+ chainage=2000 sec=GVK20 row1=377 row2=390 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 5.5, 10, 12, 14, 16, 17, 18, 20, 22, 24, 30, 35], 'rl': [1.001, 1.006, 1.511, 1.506, 0.4, 0.155, -0.036, -0.084, -0.035, 0.116, 0.381, 1.255, 1.246, 1.231], 'remarks': ['Paddy land', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Paddy land'], 'chainage': [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000], 'sectionNo': ['GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20', 'GVK20']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK20--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK21--------
+
+
+
+
+ chainage=2100 sec=GVK21 row1=394 row2=407 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 8, 9, 10, 11, 13, 15, 17, 19, 21, 23, 24, 28], 'rl': [0.551, 0.56, 0.565, 2.21, 2.201, 0.501, 0.25, 0.173, 0.121, 0.176, 0.41, 0.476, 2.249, 2.245], 'remarks': ['Paddy land', '', '', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'BC road'], 'chainage': [2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100, 2100], 'sectionNo': ['GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21', 'GVK21']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK21--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK22--------
+
+
+
+
+ chainage=2200 sec=GVK22 row1=411 row2=421 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2.5, 4.5, 6, 7, 8, 9.5, 11.5, 15.5, 16, 23], 'rl': [2.395, 2.389, 0.09, 0.005, -0.01, 0.019, 0.085, 1.899, 1.985, 1.994, 1.994], 'remarks': ['B.wall', 'LB', '', '', 'CL', '', '', 'RB', 'BC road', 'B.wall', ''], 'chainage': [2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200, 2200], 'sectionNo': ['GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22', 'GVK22']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK22--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK23--------
+
+
+
+
+ chainage=2300 sec=GVK23 row1=432 row2=445 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 6, 8, 10, 12, 13, 14, 15, 16, 17, 18, 20, 25, 26], 'rl': [0.939, 0.989, 2.484, 2.489, 0.343, 0.153, 0.112, 0.054, 0.113, 0.152, 0.289, 1.966, 1.989, 1.989], 'remarks': ['Paddy land', '', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'BC road', ''], 'chainage': [2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300, 2300], 'sectionNo': ['GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23', 'GVK23']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK23--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK24--------
+
+
+
+
+ chainage=2400 sec=GVK24 row1=449 row2=462 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 0.58, 3, 5, 6, 7, 8, 9, 10, 11, 13, 17, 18, 22], 'rl': [2.719, 2.712, 2.702, 0.551, 0.416, 0.337, 0.317, 0.335, 0.415, 0.532, 2.179, 2.187, 2.187, 2.187], 'remarks': ['B.wall', 'BC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'BC road', 'B.wall', ''], 'chainage': [2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400, 2400], 'sectionNo': ['GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24', 'GVK24']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK24--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK25--------
+
+
+
+
+ chainage=2500 sec=GVK25 row1=466 row2=478 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 8, 10, 12, 14, 15, 16, 17, 18, 20, 22, 27, 28], 'rl': [2.767, 2.762, 2.707, 0.417, 0.327, 0.254, 0.22, 0.247, 0.332, 1.416, 2.232, 2.227, 2.222], 'remarks': ['House', 'RCC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'BC road', 'House'], 'chainage': [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500], 'sectionNo': ['GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25', 'GVK25']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK25--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK26--------
+
+
+
+
+ chainage=2600 sec=GVK26 row1=482 row2=493 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 3, 5, 7, 8, 9, 10, 11, 13, 15, 17, 22], 'rl': [2.513, 2.508, 0.383, 0.303, 0.233, 0.198, 0.236, 0.291, 0.388, 2.418, 2.416, 2.416], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'BC road', ''], 'chainage': [2600, 2600, 2600, 2600, 2600, 2600, 2600, 2600, 2600, 2600, 2600, 2600], 'sectionNo': ['GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26', 'GVK26']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK26--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK27--------
+
+
+
+
+ chainage=2700 sec=GVK27 row1=504 row2=516 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 10.5, 11, 13, 15, 17, 18.2, 18.2, 22.5], 'rl': [2.663, 2.652, 0.903, 0.783, 0.666, 0.638, 0.667, 0.793, 0.918, 2.7, 2.701, 2.371, 2.403], 'remarks': ['RCC road', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'BC road', 'B.wall'], 'chainage': [2700, 2700, 2700, 2700, 2700, 2700, 2700, 2700, 2700, 2700, 2700, 2700, 2700], 'sectionNo': ['GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27', 'GVK27']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK27--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK28--------
+
+
+
+
+ chainage=2800 sec=GVK28 row1=519 row2=533 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 11, 11.5, 12, 13, 15, 17, 19, 20.2, 22, 25], 'rl': [2.945, 2.951, 0.785, 0.705, 0.649, 0.579, 0.549, 0.588, 0.64, 0.718, 0.779, 2.949, 2.948, 2.825, 2.86], 'remarks': ['House', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'BC road', 'B.wall'], 'chainage': [2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800, 2800], 'sectionNo': ['GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28', 'GVK28']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK28--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK29--------
+
+
+
+
+ chainage=2900 sec=GVK29 row1=537 row2=553 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 6, 8, 10, 12, 14, 14.5, 15, 17, 19, 21, 23, 25, 26.2, 29.2, 31], 'rl': [3.09, 3.085, 0.835, 0.705, 0.665, 0.579, 0.535, 0.485, 0.53, 0.565, 0.64, 0.725, 0.805, 3.925, 3.124, 2.74, 2.785], 'remarks': ['B.wall', 'LB', '', '', '', '', '', 'CL', '', '', '', '', '', 'RB', '', 'BC road', 'B.wall'], 'chainage': [2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900, 2900], 'sectionNo': ['GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29', 'GVK29']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK29--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK30--------
+
+
+
+
+ chainage=3000 sec=GVK30 row1=556 row2=573 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 6, 8, 10, 12, 14, 16, 17, 18, 20, 22, 22, 26, 28, 29.2, 29.2, 34], 'rl': [3.777, 3.77, 3.76, 1.12, 1.074, 0.8, 0.7, 0.633, 0.585, 0.634, 0.708, 0.825, 1.02, 1.1, 3.874, 3.873, 3.374, 3.46], 'remarks': ['House', 'RCC road', 'LB', '', '', '', '', '', 'CL', '', '', '', '', '', 'RB', '', 'BC road', 'B.wall'], 'chainage': [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000], 'sectionNo': ['GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30', 'GVK30']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK30--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK31--------
+
+
+
+
+ chainage=3100 sec=GVK31 row1=576 row2=590 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 6, 8, 10, 13, 16, 18, 20, 22, 24, 25.2, 25.2, 31.2], 'rl': [2.492, 2.487, 1.453, 1.072, 0.886, 0.887, 0.637, 0.672, 0.842, 1.086, 1.432, 3.547, 3.546, 3.161, 3.386], 'remarks': ['House', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'BC road', 'B.wall'], 'chainage': [3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100, 3100], 'sectionNo': ['GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31', 'GVK31']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK31--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK32--------
+
+
+
+
+ chainage=3200 sec=GVK32 row1=594 row2=604 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23], 'rl': [2.372, 2.376, 1.176, 0.976, 0.743, 0.687, 0.742, 0.932, 1.162, 1.476, 1.467], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'House'], 'chainage': [3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200], 'sectionNo': ['GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32', 'GVK32']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK32--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK33--------
+
+
+
+
+ chainage=3300 sec=GVK33 row1=608 row2=619 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 6, 8, 9, 10, 12, 14, 16, 20, 25], 'rl': [2.591, 2.582, 0.982, 0.821, 0.587, 0.532, 0.588, 0.807, 1.01, 2.147, 2.157, 2.171], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'House area'], 'chainage': [3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300], 'sectionNo': ['GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33', 'GVK33']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK33--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK34--------
+
+
+
+
+ chainage=3400 sec=GVK34 row1=623 row2=634 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 23], 'rl': [2.882, 2.887, 1.007, 0.761, 0.537, 0.472, 0.528, 0.722, 1.027, 2.872, 2.882, 2.882], 'remarks': ['House', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'House', ''], 'chainage': [3400, 3400, 3400, 3400, 3400, 3400, 3400, 3400, 3400, 3400, 3400, 3400], 'sectionNo': ['GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34', 'GVK34']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK34--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK35--------
+
+
+
+
+ chainage=3500 sec=GVK35 row1=648 row2=661 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 28], 'rl': [2.862, 2.857, 2.852, 0.917, 0.642, 0.477, 0.258, 0.202, 0.264, 0.491, 0.658, 0.937, 2.742, 2.747], 'remarks': ['House', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'House'], 'chainage': [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500], 'sectionNo': ['GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35', 'GVK35']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK35--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK36--------
+
+
+
+
+ chainage=3600 sec=GVK36 row1=665 row2=678 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 4, 5, 7, 9, 11, 13, 16, 19, 21, 23, 25, 27, 30], 'rl': [2.732, 2.727, 2.725, 0.958, 0.648, 0.423, 0.253, 0.203, 0.262, 0.429, 0.623, 0.948, 2.613, 2.618], 'remarks': ['House', 'BC road', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'House'], 'chainage': [3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600, 3600], 'sectionNo': ['GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36', 'GVK36']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK36--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK37--------
+
+
+
+
+ chainage=3700 sec=GVK37 row1=682 row2=694 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 23], 'rl': [1.733, 1.723, 1.033, 0.727, 0.533, 0.369, 0.313, 0.371, 0.549, 0.728, 1.049, 2.257, 2.263], 'remarks': ['House', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', 'House'], 'chainage': [3700, 3700, 3700, 3700, 3700, 3700, 3700, 3700, 3700, 3700, 3700, 3700, 3700], 'sectionNo': ['GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37', 'GVK37']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK37--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK38--------
+
+
+
+
+ chainage=3800 sec=GVK38 row1=698 row2=710 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 17, 18, 20, 22, 24, 28, 29], 'rl': [2.637, 2.628, 2.618, 0.408, 0.148, -0.043, -0.096, -0.042, 0.143, 0.413, 2.718, 2.728, 2.728], 'remarks': ['House area', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', 'House', ''], 'chainage': [3800, 3800, 3800, 3800, 3800, 3800, 3800, 3800, 3800, 3800, 3800, 3800, 3800], 'sectionNo': ['GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38', 'GVK38']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK38--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK39--------
+
+
+
+
+ chainage=3900 sec=GVK39 row1=720 row2=732 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 15, 16, 17, 18, 20, 22, 25, 30], 'rl': [2.895, 2.9, 2.91, 0.165, -0.035, -0.234, -0.29, -0.23, 0.019, 0.148, 2.865, 2.88, 2.885], 'remarks': ['Shop', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'Shop'], 'chainage': [3900, 3900, 3900, 3900, 3900, 3900, 3900, 3900, 3900, 3900, 3900, 3900, 3900], 'sectionNo': ['GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39', 'GVK39']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK39--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK40--------
+
+
+
+
+ chainage=4000 sec=GVK40 row1=736 row2=748 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 15, 16, 17, 18, 20, 22, 25, 30], 'rl': [2.21, 2.205, 2.195, 0.02, -0.315, -0.481, -0.54, -0.483, -0.315, -0.006, 1.646, 1.65, 1.644], 'remarks': ['House area', '', 'LB', '', '', '', 'CL', '', '', '', 'RB', '', 'House area'], 'chainage': [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000], 'sectionNo': ['GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40', 'GVK40']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK40--------
+
+
+
+
+ --------Intiated Data Transfer for section no=GVK41--------
+
+
+
+
+ chainage=4053 sec=GVK41 row1=752 row2=766 col1=B col2=D 1
+ 
+
+
+
+
+
+ {'dist': [0, 5, 10, 12, 14, 16, 18, 19, 20, 22, 24, 26, 28, 35, 40], 'rl': [2.382, 2.397, 2.405, 0.452, 0.105, -0.153, -0.295, -0.347, -0.294, -0.118, 0.106, 0.432, 2.306, 2.267, 2.249], 'remarks': ['Road slope', '', 'LB', '', '', '', '', 'CL', '', '', '', '', 'RB', '', 'Road slope'], 'chainage': [4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053, 4053], 'sectionNo': ['GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41', 'GVK41']}
+ 
+
+
+
+
+
+ --------Finished Data Transfer for section no=GVK41--------
+
+
+
+
+ Begin Building Xsection Data Sheet................
+ Printing Input Data Frame.............
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =GVK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+0        GVK0             0           0.0   3.209  BC road
+1        GVK0             0           4.0   3.214       LB
+2        GVK0             0           6.0   0.875         
+3        GVK0             0           8.0   0.614         
+4        GVK0             0          10.0   0.175         
+5        GVK0             0          12.0  -0.160         
+6        GVK0             0          14.0  -0.376         
+7        GVK0             0          17.0  -0.440       CL
+8        GVK0             0          20.0  -0.385         
+9        GVK0             0          22.0  -0.186         
+10       GVK0             0          24.0   0.214         
+11       GVK0             0          26.0   0.514         
+12       GVK0             0          28.0   0.760         
+13       GVK0             0          30.0   3.114       RB
+14       GVK0             0          35.0   3.105         
+15       GVK0             0          40.0   3.100   Garden
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+7       GVK0             0          17.0   -0.44      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+1       GVK0             0           4.0   3.214      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+13       GVK0             0          30.0   3.114      RB
+ sencionno=GVK0 CL distance=17.0 RL=-0.44
+ Finished Section no =GVK0**********************************
+ 
+
+
+
+Initiated Section no =GVK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+16       GVK1           100           0.0   3.192   BC road
+17       GVK1           100           4.0   3.187        LB
+18       GVK1           100           6.0   0.147          
+19       GVK1           100           8.0  -0.238          
+20       GVK1           100          10.0  -0.430          
+21       GVK1           100          11.0  -0.488        CL
+22       GVK1           100          12.0  -0.432          
+23       GVK1           100          14.0  -0.199          
+24       GVK1           100          16.0   0.127          
+25       GVK1           100          18.0   3.032        RB
+26       GVK1           100          21.0   3.027  HBB road
+27       GVK1           100          26.0   3.027          
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       GVK1           100          11.0  -0.488      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       GVK1           100           4.0   3.187      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+25       GVK1           100          18.0   3.032      RB
+ sencionno=GVK1 CL distance=11.0 RL=-0.488
+ Finished Section no =GVK1**********************************
+ 
+
+
+
+Initiated Section no =GVK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+28       GVK2           200           0.0   2.516    BC road
+29       GVK2           200           4.0   2.527         LB
+30       GVK2           200           6.0   0.047           
+31       GVK2           200           8.0  -0.439           
+32       GVK2           200          10.0  -0.666           
+33       GVK2           200          12.0  -0.728         CL
+34       GVK2           200          14.0  -0.673           
+35       GVK2           200          16.0  -0.493           
+36       GVK2           200          18.0  -0.087           
+37       GVK2           200          20.0   2.378         RB
+38       GVK2           200          23.0   2.377   HBB road
+39       GVK2           200          24.0   1.447           
+40       GVK2           200          30.0   1.437  Poen land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+33       GVK2           200          12.0  -0.728      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+29       GVK2           200           4.0   2.527      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       GVK2           200          20.0   2.378      RB
+ sencionno=GVK2 CL distance=12.0 RL=-0.728
+ Finished Section no =GVK2**********************************
+ 
+
+
+
+Initiated Section no =GVK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+41       GVK3           300           0.0   2.377      House
+42       GVK3           300           2.0   2.383    BC road
+43       GVK3           300           6.0   2.388         LB
+44       GVK3           300           8.0   0.207           
+45       GVK3           300          10.0  -0.187           
+46       GVK3           300          12.0  -0.338           
+47       GVK3           300          14.0  -0.607           
+48       GVK3           300          14.5  -0.661         CL
+49       GVK3           300          15.0  -0.608           
+50       GVK3           300          17.0  -0.339           
+51       GVK3           300          19.0  -0.192           
+52       GVK3           300          21.0   0.208           
+53       GVK3           300          23.0   1.941         RB
+54       GVK3           300          26.0   1.928  HBB ropad
+55       GVK3           300          30.0   1.908  Open land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+48       GVK3           300          14.5  -0.661      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+43       GVK3           300           6.0   2.388      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+53       GVK3           300          23.0   1.941      RB
+ sencionno=GVK3 CL distance=14.5 RL=-0.661
+ Finished Section no =GVK3**********************************
+ 
+
+
+
+Initiated Section no =GVK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+56       GVK4           400           0.0   2.379  Open land
+57       GVK4           400           6.0   2.418    BC road
+58       GVK4           400          10.0   2.408         LB
+59       GVK4           400          12.0  -0.092           
+60       GVK4           400          14.0  -0.446           
+61       GVK4           400          16.0  -0.686           
+62       GVK4           400          18.0  -0.756         CL
+63       GVK4           400          20.0  -0.692           
+64       GVK4           400          22.0  -0.458           
+65       GVK4           400          24.0  -0.131           
+66       GVK4           400          26.0   2.153         RB
+67       GVK4           400          29.0   2.159   HBB road
+68       GVK4           400          30.0   2.164     B.wall
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       GVK4           400          18.0  -0.756      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       GVK4           400          10.0   2.408      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       GVK4           400          26.0   2.153      RB
+ sencionno=GVK4 CL distance=18.0 RL=-0.756
+ Finished Section no =GVK4**********************************
+ 
+
+
+
+Initiated Section no =GVK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+69       GVK5           500           0.0   0.942  Open land
+70       GVK5           500           5.0   1.047           
+71       GVK5           500           6.0   2.141    BC road
+72       GVK5           500          10.0   2.153         LB
+73       GVK5           500          12.0  -0.268           
+74       GVK5           500          14.0  -0.514           
+75       GVK5           500          16.0  -0.708           
+76       GVK5           500          17.0  -0.763         CL
+77       GVK5           500          18.0  -0.718           
+78       GVK5           500          20.0  -0.529           
+79       GVK5           500          22.0  -0.270           
+80       GVK5           500          24.0   2.105         RB
+81       GVK5           500          27.0   2.102   HBB road
+82       GVK5           500          28.0   2.096      House
+83       GVK5           500          29.0   2.096           
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       GVK5           500          17.0  -0.763      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+72       GVK5           500          10.0   2.153      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       GVK5           500          24.0   2.105      RB
+ sencionno=GVK5 CL distance=17.0 RL=-0.763
+ Finished Section no =GVK5**********************************
+ 
+
+
+
+Initiated Section no =GVK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+84       GVK6           600           0.0   2.171  Open land
+85       GVK6           600           4.0   2.180         LB
+86       GVK6           600           6.0  -0.220           
+87       GVK6           600           8.0  -0.562           
+88       GVK6           600          10.0  -0.720           
+89       GVK6           600          12.0  -0.796         CL
+90       GVK6           600          14.0  -0.734           
+91       GVK6           600          16.0  -0.520           
+92       GVK6           600          18.0  -0.234           
+93       GVK6           600          20.0   1.276         RB
+94       GVK6           600          22.0   1.331           
+95       GVK6           600          26.0   2.275           
+96       GVK6           600          29.0   2.271   HBB road
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+89       GVK6           600          12.0  -0.796      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+85       GVK6           600           4.0    2.18      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+93       GVK6           600          20.0   1.276      RB
+ sencionno=GVK6 CL distance=12.0 RL=-0.796
+ Finished Section no =GVK6**********************************
+ 
+
+
+
+Initiated Section no =GVK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+97        GVK7           700           0.0   0.998  Paddy land
+98        GVK7           700           5.0   0.993            
+99        GVK7           700          10.0   0.988          LB
+100       GVK7           700          12.0  -0.292            
+101       GVK7           700          14.0  -0.543            
+102       GVK7           700          16.0  -0.757            
+103       GVK7           700          17.0  -0.815          CL
+104       GVK7           700          18.0  -0.750            
+105       GVK7           700          20.0  -0.544            
+106       GVK7           700          22.0  -0.317            
+107       GVK7           700          24.0   2.193          RB
+108       GVK7           700          27.0   2.194    HBB road
+109       GVK7           700          28.0   2.198      B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+103       GVK7           700          17.0  -0.815      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+99       GVK7           700          10.0   0.988      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+107       GVK7           700          24.0   2.193      RB
+ sencionno=GVK7 CL distance=17.0 RL=-0.815
+ Finished Section no =GVK7**********************************
+ 
+
+
+
+Initiated Section no =GVK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+110       GVK8           800           0.0   0.483  Paddy land
+111       GVK8           800           5.0   0.476            
+112       GVK8           800          10.0   0.471          LB
+113       GVK8           800          12.0  -0.154            
+114       GVK8           800          14.0  -0.529            
+115       GVK8           800          16.0  -0.785            
+116       GVK8           800          18.0  -0.857          CL
+117       GVK8           800          20.0  -0.784            
+118       GVK8           800          22.0  -0.546            
+119       GVK8           800          24.0  -0.113            
+120       GVK8           800          26.0   2.301          RB
+121       GVK8           800          29.0   2.296    HBB road
+122       GVK8           800          30.0   0.564            
+123       GVK8           800          35.0   0.546  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+116       GVK8           800          18.0  -0.857      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+112       GVK8           800          10.0   0.471      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       GVK8           800          26.0   2.301      RB
+ sencionno=GVK8 CL distance=18.0 RL=-0.857
+ Finished Section no =GVK8**********************************
+ 
+
+
+
+Initiated Section no =GVK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+124       GVK9           900           0.0   1.029  Paddy land
+125       GVK9           900           5.0   1.024            
+126       GVK9           900          10.0   1.019          LB
+127       GVK9           900          12.0  -0.216            
+128       GVK9           900          14.0  -0.433            
+129       GVK9           900          16.0  -0.665            
+130       GVK9           900          18.0  -0.832            
+131       GVK9           900          19.0  -0.908          CL
+132       GVK9           900          20.0  -0.846            
+133       GVK9           900          22.0  -0.663            
+134       GVK9           900          24.0  -0.432            
+135       GVK9           900          26.0  -0.209            
+136       GVK9           900          28.0   1.602          RB
+137       GVK9           900          30.0   1.601            
+138       GVK9           900          31.0  -0.137            
+139       GVK9           900          33.0  -0.532            
+140       GVK9           900          35.0  -0.686       Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+131       GVK9           900          19.0  -0.908      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+126       GVK9           900          10.0   1.019      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+136       GVK9           900          28.0   1.602      RB
+ sencionno=GVK9 CL distance=19.0 RL=-0.908
+ Finished Section no =GVK9**********************************
+ 
+
+
+
+Initiated Section no =GVK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+141      GVK10          1000           0.0   0.591  Paddy land
+142      GVK10          1000           5.0   0.586            
+143      GVK10          1000          10.0   0.581          LB
+144      GVK10          1000          12.0  -0.224            
+145      GVK10          1000          14.0  -0.477            
+146      GVK10          1000          16.0  -0.670            
+147      GVK10          1000          18.0  -0.859            
+148      GVK10          1000          19.0  -0.959          CL
+149      GVK10          1000          20.0  -0.900            
+150      GVK10          1000          22.0  -0.671            
+151      GVK10          1000          24.0  -0.484            
+152      GVK10          1000          26.0  -0.270            
+153      GVK10          1000          28.0   1.491          RB
+154      GVK10          1000          30.0   1.486            
+155      GVK10          1000          31.0   0.625            
+156      GVK10          1000          34.0   0.621            
+157      GVK10          1000          40.0   0.586  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148      GVK10          1000          19.0  -0.959      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+143      GVK10          1000          10.0   0.581      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+153      GVK10          1000          28.0   1.491      RB
+ sencionno=GVK10 CL distance=19.0 RL=-0.959
+ Finished Section no =GVK10**********************************
+ 
+
+
+
+Initiated Section no =GVK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+158      GVK11          1100           0.0   0.678  Paddy land
+159      GVK11          1100           5.0   0.688            
+160      GVK11          1100          10.0   0.693          LB
+161      GVK11          1100          12.0  -0.058            
+162      GVK11          1100          14.0  -0.407            
+163      GVK11          1100          16.0  -0.691            
+164      GVK11          1100          18.0  -0.898            
+165      GVK11          1100          20.0  -0.947          CL
+166      GVK11          1100          22.0  -0.891            
+167      GVK11          1100          24.0  -0.692            
+168      GVK11          1100          26.0  -0.432            
+169      GVK11          1100          28.0  -0.112            
+170      GVK11          1100          30.0   1.313          RB
+171      GVK11          1100          32.0   1.308    HBB road
+172      GVK11          1100          35.0   1.203            
+173      GVK11          1100          40.0   1.178   Open land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+165      GVK11          1100          20.0  -0.947      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+160      GVK11          1100          10.0   0.693      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+170      GVK11          1100          30.0   1.313      RB
+ sencionno=GVK11 CL distance=20.0 RL=-0.947
+ Finished Section no =GVK11**********************************
+ 
+
+
+
+Initiated Section no =GVK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+174      GVK12          1200           0.0   0.792  Paddy land
+175      GVK12          1200           7.0   0.787            
+176      GVK12          1200           8.0   1.457            
+177      GVK12          1200          10.0   1.452          LB
+178      GVK12          1200          12.0  -0.293            
+179      GVK12          1200          14.0  -0.544            
+180      GVK12          1200          16.0  -0.814            
+181      GVK12          1200          18.0  -0.873          CL
+182      GVK12          1200          20.0  -0.811            
+183      GVK12          1200          22.0  -0.553            
+184      GVK12          1200          24.0  -0.288            
+185      GVK12          1200          26.0   1.487          RB
+186      GVK12          1200          28.0   1.482    HBB road
+187      GVK12          1200          29.0   0.757            
+188      GVK12          1200          30.0   0.742            
+189      GVK12          1200          35.0   0.737  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+181      GVK12          1200          18.0  -0.873      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      GVK12          1200          10.0   1.452      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      GVK12          1200          26.0   1.487      RB
+ sencionno=GVK12 CL distance=18.0 RL=-0.873
+ Finished Section no =GVK12**********************************
+ 
+
+
+
+Initiated Section no =GVK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+190      GVK13          1300           0.0   0.807   Open land
+191      GVK13          1300           7.0   0.802            
+192      GVK13          1300           8.0   1.532            
+193      GVK13          1300          10.0   1.527          LB
+194      GVK13          1300          12.0  -0.293            
+195      GVK13          1300          14.0  -0.544            
+196      GVK13          1300          16.0  -0.741            
+197      GVK13          1300          17.0  -0.793          CL
+198      GVK13          1300          18.0  -0.744            
+199      GVK13          1300          20.0  -0.558            
+200      GVK13          1300          22.0  -0.294            
+201      GVK13          1300          24.0   1.456          RB
+202      GVK13          1300          26.0   1.441            
+203      GVK13          1300          27.0   0.756            
+204      GVK13          1300          30.0   0.752            
+205      GVK13          1300          35.0   0.747  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+197      GVK13          1300          17.0  -0.793      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+193      GVK13          1300          10.0   1.527      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+201      GVK13          1300          24.0   1.456      RB
+ sencionno=GVK13 CL distance=17.0 RL=-0.793
+ Finished Section no =GVK13**********************************
+ 
+
+
+
+Initiated Section no =GVK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+206      GVK14          1400           0.0   0.730  Paddy land
+207      GVK14          1400           6.0   0.729            
+208      GVK14          1400           7.0   1.390            
+209      GVK14          1400          10.0   1.385          LB
+210      GVK14          1400          12.0  -0.066            
+211      GVK14          1400          14.0  -0.366            
+212      GVK14          1400          16.0  -0.706            
+213      GVK14          1400          17.0  -0.795          CL
+214      GVK14          1400          18.0  -0.700            
+215      GVK14          1400          20.0  -0.505            
+216      GVK14          1400          22.0  -0.220            
+217      GVK14          1400          24.0   1.334          RB
+218      GVK14          1400          27.0   1.320            
+219      GVK14          1400          28.0   0.634            
+220      GVK14          1400          35.0   0.630  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+213      GVK14          1400          17.0  -0.795      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+209      GVK14          1400          10.0   1.385      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+217      GVK14          1400          24.0   1.334      RB
+ sencionno=GVK14 CL distance=17.0 RL=-0.795
+ Finished Section no =GVK14**********************************
+ 
+
+
+
+Initiated Section no =GVK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+221      GVK15          1500           0.0   0.630  Paddy land
+222      GVK15          1500           6.0   0.625            
+223      GVK15          1500           7.0   1.432            
+224      GVK15          1500          10.0   1.433          LB
+225      GVK15          1500          12.0  -0.120            
+226      GVK15          1500          14.0  -0.415            
+227      GVK15          1500          16.0  -0.667            
+228      GVK15          1500          18.0  -0.725          CL
+229      GVK15          1500          20.0  -0.666            
+230      GVK15          1500          22.0  -0.410            
+231      GVK15          1500          24.0  -0.123            
+232      GVK15          1500          26.0   1.335          RB
+233      GVK15          1500          29.0   1.330            
+234      GVK15          1500          30.0   0.729            
+235      GVK15          1500          35.0   0.735            
+236      GVK15          1500          40.0   0.740  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+228      GVK15          1500          18.0  -0.725      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      GVK15          1500          10.0   1.433      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+232      GVK15          1500          26.0   1.335      RB
+ sencionno=GVK15 CL distance=18.0 RL=-0.725
+ Finished Section no =GVK15**********************************
+ 
+
+
+
+Initiated Section no =GVK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+237      GVK16          1600           0.0   1.514  Paddy land
+238      GVK16          1600           5.0   1.534            
+239      GVK16          1600          10.0   1.549          LB
+240      GVK16          1600          12.0   0.198            
+241      GVK16          1600          14.0  -0.102            
+242      GVK16          1600          16.0  -0.346            
+243      GVK16          1600          18.0  -0.572            
+244      GVK16          1600          19.0  -0.631          CL
+245      GVK16          1600          20.0  -0.576            
+246      GVK16          1600          22.0  -0.356            
+247      GVK16          1600          24.0  -0.156            
+248      GVK16          1600          26.0   0.165            
+249      GVK16          1600          28.0   1.498          RB
+250      GVK16          1600          30.0   1.444            
+251      GVK16          1600          35.0   1.424            
+252      GVK16          1600          40.0   1.404  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+244      GVK16          1600          19.0  -0.631      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+239      GVK16          1600          10.0   1.549      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+249      GVK16          1600          28.0   1.498      RB
+ sencionno=GVK16 CL distance=19.0 RL=-0.631
+ Finished Section no =GVK16**********************************
+ 
+
+
+
+Initiated Section no =GVK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+253      GVK17          1700           0.0   1.077  Paddy land
+254      GVK17          1700           5.0   1.103            
+255      GVK17          1700           5.5   1.123            
+256      GVK17          1700          10.0   1.148          LB
+257      GVK17          1700          12.0   0.144            
+258      GVK17          1700          14.0  -0.123            
+259      GVK17          1700          16.0  -0.330            
+260      GVK17          1700          18.0  -0.386          CL
+261      GVK17          1700          20.0  -0.327            
+262      GVK17          1700          22.0  -0.172            
+263      GVK17          1700          24.0   0.123            
+264      GVK17          1700          26.0   1.253          RB
+265      GVK17          1700          30.0   1.248            
+266      GVK17          1700          35.0   1.243            
+267      GVK17          1700          40.0   1.128  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+260      GVK17          1700          18.0  -0.386      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+256      GVK17          1700          10.0   1.148      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+264      GVK17          1700          26.0   1.253      RB
+ sencionno=GVK17 CL distance=18.0 RL=-0.386
+ Finished Section no =GVK17**********************************
+ 
+
+
+
+Initiated Section no =GVK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+268      GVK18          1800           0.0   0.623  Paddy land
+269      GVK18          1800           5.0   0.638            
+270      GVK18          1800           5.5   1.223            
+271      GVK18          1800          10.0   1.228          LB
+272      GVK18          1800          12.0   0.123            
+273      GVK18          1800          14.0  -0.023            
+274      GVK18          1800          16.0  -0.256            
+275      GVK18          1800          18.0  -0.372          CL
+276      GVK18          1800          20.0  -0.273            
+277      GVK18          1800          22.0  -0.097            
+278      GVK18          1800          24.0   0.123            
+279      GVK18          1800          26.0   1.177          RB
+280      GVK18          1800          30.0   1.173            
+281      GVK18          1800          30.5   0.628            
+282      GVK18          1800          35.0   0.633            
+283      GVK18          1800          40.0   0.638  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+275      GVK18          1800          18.0  -0.372      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+271      GVK18          1800          10.0   1.228      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      GVK18          1800          26.0   1.177      RB
+ sencionno=GVK18 CL distance=18.0 RL=-0.372
+ Finished Section no =GVK18**********************************
+ 
+
+
+
+Initiated Section no =GVK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+284      GVK19          1900           0.0   0.868  Paddy land
+285      GVK19          1900           5.0   0.871            
+286      GVK19          1900           5.5   1.251            
+287      GVK19          1900          10.0   1.255          LB
+288      GVK19          1900          12.0   0.301            
+289      GVK19          1900          14.0   0.111            
+290      GVK19          1900          16.0  -0.055            
+291      GVK19          1900          17.0  -0.119          CL
+292      GVK19          1900          18.0  -0.052            
+293      GVK19          1900          20.0   0.155            
+294      GVK19          1900          22.0   0.281            
+295      GVK19          1900          24.0   1.276          RB
+296      GVK19          1900          26.0   1.281            
+297      GVK19          1900          30.0   1.286  House side
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+291      GVK19          1900          17.0  -0.119      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+287      GVK19          1900          10.0   1.255      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+295      GVK19          1900          24.0   1.276      RB
+ sencionno=GVK19 CL distance=17.0 RL=-0.119
+ Finished Section no =GVK19**********************************
+ 
+
+
+
+Initiated Section no =GVK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+298      GVK20          2000           0.0   1.001  Paddy land
+299      GVK20          2000           5.0   1.006            
+300      GVK20          2000           5.5   1.511            
+301      GVK20          2000          10.0   1.506          LB
+302      GVK20          2000          12.0   0.400            
+303      GVK20          2000          14.0   0.155            
+304      GVK20          2000          16.0  -0.036            
+305      GVK20          2000          17.0  -0.084          CL
+306      GVK20          2000          18.0  -0.035            
+307      GVK20          2000          20.0   0.116            
+308      GVK20          2000          22.0   0.381            
+309      GVK20          2000          24.0   1.255          RB
+310      GVK20          2000          30.0   1.246            
+311      GVK20          2000          35.0   1.231  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+305      GVK20          2000          17.0  -0.084      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+301      GVK20          2000          10.0   1.506      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+309      GVK20          2000          24.0   1.255      RB
+ sencionno=GVK20 CL distance=17.0 RL=-0.084
+ Finished Section no =GVK20**********************************
+ 
+
+
+
+Initiated Section no =GVK21**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+312      GVK21          2100           0.0   0.551  Paddy land
+313      GVK21          2100           5.0   0.560            
+314      GVK21          2100           8.0   0.565            
+315      GVK21          2100           9.0   2.210            
+316      GVK21          2100          10.0   2.201          LB
+317      GVK21          2100          11.0   0.501            
+318      GVK21          2100          13.0   0.250            
+319      GVK21          2100          15.0   0.173            
+320      GVK21          2100          17.0   0.121          CL
+321      GVK21          2100          19.0   0.176            
+322      GVK21          2100          21.0   0.410            
+323      GVK21          2100          23.0   0.476            
+324      GVK21          2100          24.0   2.249          RB
+325      GVK21          2100          28.0   2.245     BC road
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+320      GVK21          2100          17.0   0.121      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+316      GVK21          2100          10.0   2.201      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+324      GVK21          2100          24.0   2.249      RB
+ sencionno=GVK21 CL distance=17.0 RL=0.121
+ Finished Section no =GVK21**********************************
+ 
+
+
+
+Initiated Section no =GVK22**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+326      GVK22          2200           0.0   2.395   B.wall
+327      GVK22          2200           2.5   2.389       LB
+328      GVK22          2200           4.5   0.090         
+329      GVK22          2200           6.0   0.005         
+330      GVK22          2200           7.0  -0.010       CL
+331      GVK22          2200           8.0   0.019         
+332      GVK22          2200           9.5   0.085         
+333      GVK22          2200          11.5   1.899       RB
+334      GVK22          2200          15.5   1.985  BC road
+335      GVK22          2200          16.0   1.994   B.wall
+336      GVK22          2200          23.0   1.994         
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+330      GVK22          2200           7.0   -0.01      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+327      GVK22          2200           2.5   2.389      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+333      GVK22          2200          11.5   1.899      RB
+ sencionno=GVK22 CL distance=7.0 RL=-0.01
+ Finished Section no =GVK22**********************************
+ 
+
+
+
+Initiated Section no =GVK23**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+337      GVK23          2300           0.0   0.939  Paddy land
+338      GVK23          2300           6.0   0.989            
+339      GVK23          2300           8.0   2.484     BC road
+340      GVK23          2300          10.0   2.489          LB
+341      GVK23          2300          12.0   0.343            
+342      GVK23          2300          13.0   0.153            
+343      GVK23          2300          14.0   0.112            
+344      GVK23          2300          15.0   0.054          CL
+345      GVK23          2300          16.0   0.113            
+346      GVK23          2300          17.0   0.152            
+347      GVK23          2300          18.0   0.289            
+348      GVK23          2300          20.0   1.966          RB
+349      GVK23          2300          25.0   1.989     BC road
+350      GVK23          2300          26.0   1.989            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+344      GVK23          2300          15.0   0.054      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+340      GVK23          2300          10.0   2.489      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+348      GVK23          2300          20.0   1.966      RB
+ sencionno=GVK23 CL distance=15.0 RL=0.054
+ Finished Section no =GVK23**********************************
+ 
+
+
+
+Initiated Section no =GVK24**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+351      GVK24          2400          0.00   2.719   B.wall
+352      GVK24          2400          0.58   2.712  BC road
+353      GVK24          2400          3.00   2.702       LB
+354      GVK24          2400          5.00   0.551         
+355      GVK24          2400          6.00   0.416         
+356      GVK24          2400          7.00   0.337         
+357      GVK24          2400          8.00   0.317       CL
+358      GVK24          2400          9.00   0.335         
+359      GVK24          2400         10.00   0.415         
+360      GVK24          2400         11.00   0.532         
+361      GVK24          2400         13.00   2.179       RB
+362      GVK24          2400         17.00   2.187  BC road
+363      GVK24          2400         18.00   2.187   B.wall
+364      GVK24          2400         22.00   2.187         
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+357      GVK24          2400           8.0   0.317      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+353      GVK24          2400           3.0   2.702      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+361      GVK24          2400          13.0   2.179      RB
+ sencionno=GVK24 CL distance=8.0 RL=0.317
+ Finished Section no =GVK24**********************************
+ 
+
+
+
+Initiated Section no =GVK25**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+365      GVK25          2500           0.0   2.767     House
+366      GVK25          2500           8.0   2.762  RCC road
+367      GVK25          2500          10.0   2.707        LB
+368      GVK25          2500          12.0   0.417          
+369      GVK25          2500          14.0   0.327          
+370      GVK25          2500          15.0   0.254          
+371      GVK25          2500          16.0   0.220        CL
+372      GVK25          2500          17.0   0.247          
+373      GVK25          2500          18.0   0.332          
+374      GVK25          2500          20.0   1.416          
+375      GVK25          2500          22.0   2.232        RB
+376      GVK25          2500          27.0   2.227   BC road
+377      GVK25          2500          28.0   2.222     House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+371      GVK25          2500          16.0    0.22      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+367      GVK25          2500          10.0   2.707      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+375      GVK25          2500          22.0   2.232      RB
+ sencionno=GVK25 CL distance=16.0 RL=0.22
+ Finished Section no =GVK25**********************************
+ 
+
+
+
+Initiated Section no =GVK26**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+378      GVK26          2600           0.0   2.513    House
+379      GVK26          2600           3.0   2.508       LB
+380      GVK26          2600           5.0   0.383         
+381      GVK26          2600           7.0   0.303         
+382      GVK26          2600           8.0   0.233         
+383      GVK26          2600           9.0   0.198       CL
+384      GVK26          2600          10.0   0.236         
+385      GVK26          2600          11.0   0.291         
+386      GVK26          2600          13.0   0.388         
+387      GVK26          2600          15.0   2.418       RB
+388      GVK26          2600          17.0   2.416  BC road
+389      GVK26          2600          22.0   2.416         
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+383      GVK26          2600           9.0   0.198      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+379      GVK26          2600           3.0   2.508      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+387      GVK26          2600          15.0   2.418      RB
+ sencionno=GVK26 CL distance=9.0 RL=0.198
+ Finished Section no =GVK26**********************************
+ 
+
+
+
+Initiated Section no =GVK27**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+390      GVK27          2700           0.0   2.663  RCC road
+391      GVK27          2700           4.0   2.652        LB
+392      GVK27          2700           6.0   0.903          
+393      GVK27          2700           8.0   0.783          
+394      GVK27          2700          10.0   0.666          
+395      GVK27          2700          10.5   0.638        CL
+396      GVK27          2700          11.0   0.667          
+397      GVK27          2700          13.0   0.793          
+398      GVK27          2700          15.0   0.918          
+399      GVK27          2700          17.0   2.700        RB
+400      GVK27          2700          18.2   2.701          
+401      GVK27          2700          18.2   2.371   BC road
+402      GVK27          2700          22.5   2.403    B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+395      GVK27          2700          10.5   0.638      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+391      GVK27          2700           4.0   2.652      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+399      GVK27          2700          17.0     2.7      RB
+ sencionno=GVK27 CL distance=10.5 RL=0.638
+ Finished Section no =GVK27**********************************
+ 
+
+
+
+Initiated Section no =GVK28**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+403      GVK28          2800           0.0   2.945    House
+404      GVK28          2800           4.0   2.951       LB
+405      GVK28          2800           6.0   0.785         
+406      GVK28          2800           8.0   0.705         
+407      GVK28          2800          10.0   0.649         
+408      GVK28          2800          11.0   0.579         
+409      GVK28          2800          11.5   0.549       CL
+410      GVK28          2800          12.0   0.588         
+411      GVK28          2800          13.0   0.640         
+412      GVK28          2800          15.0   0.718         
+413      GVK28          2800          17.0   0.779         
+414      GVK28          2800          19.0   2.949       RB
+415      GVK28          2800          20.2   2.948         
+416      GVK28          2800          22.0   2.825  BC road
+417      GVK28          2800          25.0   2.860   B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+409      GVK28          2800          11.5   0.549      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+404      GVK28          2800           4.0   2.951      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+414      GVK28          2800          19.0   2.949      RB
+ sencionno=GVK28 CL distance=11.5 RL=0.549
+ Finished Section no =GVK28**********************************
+ 
+
+
+
+Initiated Section no =GVK29**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+418      GVK29          2900           0.0   3.090   B.wall
+419      GVK29          2900           4.0   3.085       LB
+420      GVK29          2900           6.0   0.835         
+421      GVK29          2900           8.0   0.705         
+422      GVK29          2900          10.0   0.665         
+423      GVK29          2900          12.0   0.579         
+424      GVK29          2900          14.0   0.535         
+425      GVK29          2900          14.5   0.485       CL
+426      GVK29          2900          15.0   0.530         
+427      GVK29          2900          17.0   0.565         
+428      GVK29          2900          19.0   0.640         
+429      GVK29          2900          21.0   0.725         
+430      GVK29          2900          23.0   0.805         
+431      GVK29          2900          25.0   3.925       RB
+432      GVK29          2900          26.2   3.124         
+433      GVK29          2900          29.2   2.740  BC road
+434      GVK29          2900          31.0   2.785   B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+425      GVK29          2900          14.5   0.485      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+419      GVK29          2900           4.0   3.085      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+431      GVK29          2900          25.0   3.925      RB
+ sencionno=GVK29 CL distance=14.5 RL=0.485
+ Finished Section no =GVK29**********************************
+ 
+
+
+
+Initiated Section no =GVK30**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+435      GVK30          3000           0.0   3.777     House
+436      GVK30          3000           2.0   3.770  RCC road
+437      GVK30          3000           6.0   3.760        LB
+438      GVK30          3000           8.0   1.120          
+439      GVK30          3000          10.0   1.074          
+440      GVK30          3000          12.0   0.800          
+441      GVK30          3000          14.0   0.700          
+442      GVK30          3000          16.0   0.633          
+443      GVK30          3000          17.0   0.585        CL
+444      GVK30          3000          18.0   0.634          
+445      GVK30          3000          20.0   0.708          
+446      GVK30          3000          22.0   0.825          
+447      GVK30          3000          22.0   1.020          
+448      GVK30          3000          26.0   1.100          
+449      GVK30          3000          28.0   3.874        RB
+450      GVK30          3000          29.2   3.873          
+451      GVK30          3000          29.2   3.374   BC road
+452      GVK30          3000          34.0   3.460    B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+443      GVK30          3000          17.0   0.585      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+437      GVK30          3000           6.0    3.76      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+449      GVK30          3000          28.0   3.874      RB
+ sencionno=GVK30 CL distance=17.0 RL=0.585
+ Finished Section no =GVK30**********************************
+ 
+
+
+
+Initiated Section no =GVK31**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+453      GVK31          3100           0.0   2.492    House
+454      GVK31          3100           2.0   2.487       LB
+455      GVK31          3100           4.0   1.453         
+456      GVK31          3100           6.0   1.072         
+457      GVK31          3100           8.0   0.886         
+458      GVK31          3100          10.0   0.887         
+459      GVK31          3100          13.0   0.637       CL
+460      GVK31          3100          16.0   0.672         
+461      GVK31          3100          18.0   0.842         
+462      GVK31          3100          20.0   1.086         
+463      GVK31          3100          22.0   1.432         
+464      GVK31          3100          24.0   3.547       RB
+465      GVK31          3100          25.2   3.546         
+466      GVK31          3100          25.2   3.161  BC road
+467      GVK31          3100          31.2   3.386   B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+459      GVK31          3100          13.0   0.637      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+454      GVK31          3100           2.0   2.487      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+464      GVK31          3100          24.0   3.547      RB
+ sencionno=GVK31 CL distance=13.0 RL=0.637
+ Finished Section no =GVK31**********************************
+ 
+
+
+
+Initiated Section no =GVK32**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+468      GVK32          3200           0.0   2.372   House
+469      GVK32          3200           5.0   2.376      LB
+470      GVK32          3200           7.0   1.176        
+471      GVK32          3200           9.0   0.976        
+472      GVK32          3200          11.0   0.743        
+473      GVK32          3200          13.0   0.687      CL
+474      GVK32          3200          15.0   0.742        
+475      GVK32          3200          17.0   0.932        
+476      GVK32          3200          19.0   1.162        
+477      GVK32          3200          21.0   1.476      RB
+478      GVK32          3200          23.0   1.467   House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+473      GVK32          3200          13.0   0.687      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+469      GVK32          3200           5.0   2.376      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+477      GVK32          3200          21.0   1.476      RB
+ sencionno=GVK32 CL distance=13.0 RL=0.687
+ Finished Section no =GVK32**********************************
+ 
+
+
+
+Initiated Section no =GVK33**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+479      GVK33          3300           0.0   2.591       House
+480      GVK33          3300           2.0   2.582          LB
+481      GVK33          3300           4.0   0.982            
+482      GVK33          3300           6.0   0.821            
+483      GVK33          3300           8.0   0.587            
+484      GVK33          3300           9.0   0.532          CL
+485      GVK33          3300          10.0   0.588            
+486      GVK33          3300          12.0   0.807            
+487      GVK33          3300          14.0   1.010            
+488      GVK33          3300          16.0   2.147          RB
+489      GVK33          3300          20.0   2.157            
+490      GVK33          3300          25.0   2.171  House area
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+484      GVK33          3300           9.0   0.532      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+480      GVK33          3300           2.0   2.582      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+488      GVK33          3300          16.0   2.147      RB
+ sencionno=GVK33 CL distance=9.0 RL=0.532
+ Finished Section no =GVK33**********************************
+ 
+
+
+
+Initiated Section no =GVK34**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+491      GVK34          3400           0.0   2.882   House
+492      GVK34          3400           2.0   2.887      LB
+493      GVK34          3400           4.0   1.007        
+494      GVK34          3400           6.0   0.761        
+495      GVK34          3400           8.0   0.537        
+496      GVK34          3400          10.0   0.472      CL
+497      GVK34          3400          12.0   0.528        
+498      GVK34          3400          14.0   0.722        
+499      GVK34          3400          16.0   1.027        
+500      GVK34          3400          18.0   2.872      RB
+501      GVK34          3400          20.0   2.882   House
+502      GVK34          3400          23.0   2.882        
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+496      GVK34          3400          10.0   0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+492      GVK34          3400           2.0   2.887      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+500      GVK34          3400          18.0   2.872      RB
+ sencionno=GVK34 CL distance=10.0 RL=0.472
+ Finished Section no =GVK34**********************************
+ 
+
+
+
+Initiated Section no =GVK35**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+503      GVK35          3500           0.0   2.862    House
+504      GVK35          3500           4.0   2.857  BC road
+505      GVK35          3500           5.0   2.852       LB
+506      GVK35          3500           7.0   0.917         
+507      GVK35          3500           9.0   0.642         
+508      GVK35          3500          11.0   0.477         
+509      GVK35          3500          13.0   0.258         
+510      GVK35          3500          15.0   0.202       CL
+511      GVK35          3500          17.0   0.264         
+512      GVK35          3500          19.0   0.491         
+513      GVK35          3500          21.0   0.658         
+514      GVK35          3500          23.0   0.937         
+515      GVK35          3500          25.0   2.742       RB
+516      GVK35          3500          28.0   2.747    House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+510      GVK35          3500          15.0   0.202      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+505      GVK35          3500           5.0   2.852      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+515      GVK35          3500          25.0   2.742      RB
+ sencionno=GVK35 CL distance=15.0 RL=0.202
+ Finished Section no =GVK35**********************************
+ 
+
+
+
+Initiated Section no =GVK36**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+517      GVK36          3600           0.0   2.732    House
+518      GVK36          3600           4.0   2.727  BC road
+519      GVK36          3600           5.0   2.725       LB
+520      GVK36          3600           7.0   0.958         
+521      GVK36          3600           9.0   0.648         
+522      GVK36          3600          11.0   0.423         
+523      GVK36          3600          13.0   0.253         
+524      GVK36          3600          16.0   0.203       CL
+525      GVK36          3600          19.0   0.262         
+526      GVK36          3600          21.0   0.429         
+527      GVK36          3600          23.0   0.623         
+528      GVK36          3600          25.0   0.948         
+529      GVK36          3600          27.0   2.613       RB
+530      GVK36          3600          30.0   2.618    House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+524      GVK36          3600          16.0   0.203      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+519      GVK36          3600           5.0   2.725      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+529      GVK36          3600          27.0   2.613      RB
+ sencionno=GVK36 CL distance=16.0 RL=0.203
+ Finished Section no =GVK36**********************************
+ 
+
+
+
+Initiated Section no =GVK37**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+531      GVK37          3700           0.0   1.733   House
+532      GVK37          3700           2.0   1.723      LB
+533      GVK37          3700           4.0   1.033        
+534      GVK37          3700           6.0   0.727        
+535      GVK37          3700           8.0   0.533        
+536      GVK37          3700          10.0   0.369        
+537      GVK37          3700          12.0   0.313      CL
+538      GVK37          3700          14.0   0.371        
+539      GVK37          3700          16.0   0.549        
+540      GVK37          3700          18.0   0.728        
+541      GVK37          3700          20.0   1.049        
+542      GVK37          3700          22.0   2.257      RB
+543      GVK37          3700          23.0   2.263   House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+537      GVK37          3700          12.0   0.313      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+532      GVK37          3700           2.0   1.723      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+542      GVK37          3700          22.0   2.257      RB
+ sencionno=GVK37 CL distance=12.0 RL=0.313
+ Finished Section no =GVK37**********************************
+ 
+
+
+
+Initiated Section no =GVK38**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+544      GVK38          3800           0.0   2.637  House area
+545      GVK38          3800           5.0   2.628            
+546      GVK38          3800          10.0   2.618          LB
+547      GVK38          3800          12.0   0.408            
+548      GVK38          3800          14.0   0.148            
+549      GVK38          3800          16.0  -0.043            
+550      GVK38          3800          17.0  -0.096          CL
+551      GVK38          3800          18.0  -0.042            
+552      GVK38          3800          20.0   0.143            
+553      GVK38          3800          22.0   0.413            
+554      GVK38          3800          24.0   2.718          RB
+555      GVK38          3800          28.0   2.728       House
+556      GVK38          3800          29.0   2.728            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+550      GVK38          3800          17.0  -0.096      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+546      GVK38          3800          10.0   2.618      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+554      GVK38          3800          24.0   2.718      RB
+ sencionno=GVK38 CL distance=17.0 RL=-0.096
+ Finished Section no =GVK38**********************************
+ 
+
+
+
+Initiated Section no =GVK39**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+557      GVK39          3900           0.0   2.895    Shop
+558      GVK39          3900           5.0   2.900        
+559      GVK39          3900          10.0   2.910      LB
+560      GVK39          3900          12.0   0.165        
+561      GVK39          3900          14.0  -0.035        
+562      GVK39          3900          15.0  -0.234        
+563      GVK39          3900          16.0  -0.290      CL
+564      GVK39          3900          17.0  -0.230        
+565      GVK39          3900          18.0   0.019        
+566      GVK39          3900          20.0   0.148        
+567      GVK39          3900          22.0   2.865      RB
+568      GVK39          3900          25.0   2.880        
+569      GVK39          3900          30.0   2.885    Shop
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+563      GVK39          3900          16.0   -0.29      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+559      GVK39          3900          10.0    2.91      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+567      GVK39          3900          22.0   2.865      RB
+ sencionno=GVK39 CL distance=16.0 RL=-0.29
+ Finished Section no =GVK39**********************************
+ 
+
+
+
+Initiated Section no =GVK40**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+570      GVK40          4000           0.0   2.210  House area
+571      GVK40          4000           5.0   2.205            
+572      GVK40          4000          10.0   2.195          LB
+573      GVK40          4000          12.0   0.020            
+574      GVK40          4000          14.0  -0.315            
+575      GVK40          4000          15.0  -0.481            
+576      GVK40          4000          16.0  -0.540          CL
+577      GVK40          4000          17.0  -0.483            
+578      GVK40          4000          18.0  -0.315            
+579      GVK40          4000          20.0  -0.006            
+580      GVK40          4000          22.0   1.646          RB
+581      GVK40          4000          25.0   1.650            
+582      GVK40          4000          30.0   1.644  House area
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+576      GVK40          4000          16.0   -0.54      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+572      GVK40          4000          10.0   2.195      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+580      GVK40          4000          22.0   1.646      RB
+ sencionno=GVK40 CL distance=16.0 RL=-0.54
+ Finished Section no =GVK40**********************************
+ 
+
+
+
+Initiated Section no =GVK41**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+583      GVK41          4053           0.0   2.382  Road slope
+584      GVK41          4053           5.0   2.397            
+585      GVK41          4053          10.0   2.405          LB
+586      GVK41          4053          12.0   0.452            
+587      GVK41          4053          14.0   0.105            
+588      GVK41          4053          16.0  -0.153            
+589      GVK41          4053          18.0  -0.295            
+590      GVK41          4053          19.0  -0.347          CL
+591      GVK41          4053          20.0  -0.294            
+592      GVK41          4053          22.0  -0.118            
+593      GVK41          4053          24.0   0.106            
+594      GVK41          4053          26.0   0.432            
+595      GVK41          4053          28.0   2.306          RB
+596      GVK41          4053          35.0   2.267            
+597      GVK41          4053          40.0   2.249  Road slope
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+590      GVK41          4053          19.0  -0.347      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+585      GVK41          4053          10.0   2.405      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+595      GVK41          4053          28.0   2.306      RB
+ sencionno=GVK41 CL distance=19.0 RL=-0.347
+ Finished Section no =GVK41**********************************
+ Finished Building Xsection Data Sheet................
+ 
+
+
+Detailed Debugging of Calcualtion of CL
+
+
+
+
+ 
+
+
+
+Initiated Section no =GVK0**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+0        GVK0             0           0.0   3.209  BC road
+1        GVK0             0           4.0   3.214       LB
+2        GVK0             0           6.0   0.875         
+3        GVK0             0           8.0   0.614         
+4        GVK0             0          10.0   0.175         
+5        GVK0             0          12.0  -0.160         
+6        GVK0             0          14.0  -0.376         
+7        GVK0             0          17.0  -0.440       CL
+8        GVK0             0          20.0  -0.385         
+9        GVK0             0          22.0  -0.186         
+10       GVK0             0          24.0   0.214         
+11       GVK0             0          26.0   0.514         
+12       GVK0             0          28.0   0.760         
+13       GVK0             0          30.0   3.114       RB
+14       GVK0             0          35.0   3.105         
+15       GVK0             0          40.0   3.100   Garden
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+7       GVK0             0          17.0   -0.44      CL
+   Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+1       GVK0             0           4.0   3.214      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+13       GVK0             0          30.0   3.114      RB
+ sencionno=GVK0 CL distance=17.0 RL=-0.44
+ Finished Section no =GVK0**********************************
+ 
+
+
+
+Initiated Section no =GVK1**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+16       GVK1           100           0.0   3.192   BC road
+17       GVK1           100           4.0   3.187        LB
+18       GVK1           100           6.0   0.147          
+19       GVK1           100           8.0  -0.238          
+20       GVK1           100          10.0  -0.430          
+21       GVK1           100          11.0  -0.488        CL
+22       GVK1           100          12.0  -0.432          
+23       GVK1           100          14.0  -0.199          
+24       GVK1           100          16.0   0.127          
+25       GVK1           100          18.0   3.032        RB
+26       GVK1           100          21.0   3.027  HBB road
+27       GVK1           100          26.0   3.027          
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+21       GVK1           100          11.0  -0.488      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+17       GVK1           100           4.0   3.187      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+25       GVK1           100          18.0   3.032      RB
+ sencionno=GVK1 CL distance=11.0 RL=-0.488
+ Finished Section no =GVK1**********************************
+ 
+
+
+
+Initiated Section no =GVK2**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+28       GVK2           200           0.0   2.516    BC road
+29       GVK2           200           4.0   2.527         LB
+30       GVK2           200           6.0   0.047           
+31       GVK2           200           8.0  -0.439           
+32       GVK2           200          10.0  -0.666           
+33       GVK2           200          12.0  -0.728         CL
+34       GVK2           200          14.0  -0.673           
+35       GVK2           200          16.0  -0.493           
+36       GVK2           200          18.0  -0.087           
+37       GVK2           200          20.0   2.378         RB
+38       GVK2           200          23.0   2.377   HBB road
+39       GVK2           200          24.0   1.447           
+40       GVK2           200          30.0   1.437  Poen land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+33       GVK2           200          12.0  -0.728      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+29       GVK2           200           4.0   2.527      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+37       GVK2           200          20.0   2.378      RB
+ sencionno=GVK2 CL distance=12.0 RL=-0.728
+ Finished Section no =GVK2**********************************
+ 
+
+
+
+Initiated Section no =GVK3**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+41       GVK3           300           0.0   2.377      House
+42       GVK3           300           2.0   2.383    BC road
+43       GVK3           300           6.0   2.388         LB
+44       GVK3           300           8.0   0.207           
+45       GVK3           300          10.0  -0.187           
+46       GVK3           300          12.0  -0.338           
+47       GVK3           300          14.0  -0.607           
+48       GVK3           300          14.5  -0.661         CL
+49       GVK3           300          15.0  -0.608           
+50       GVK3           300          17.0  -0.339           
+51       GVK3           300          19.0  -0.192           
+52       GVK3           300          21.0   0.208           
+53       GVK3           300          23.0   1.941         RB
+54       GVK3           300          26.0   1.928  HBB ropad
+55       GVK3           300          30.0   1.908  Open land
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+48       GVK3           300          14.5  -0.661      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+43       GVK3           300           6.0   2.388      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+53       GVK3           300          23.0   1.941      RB
+ sencionno=GVK3 CL distance=14.5 RL=-0.661
+ Finished Section no =GVK3**********************************
+ 
+
+
+
+Initiated Section no =GVK4**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+56       GVK4           400           0.0   2.379  Open land
+57       GVK4           400           6.0   2.418    BC road
+58       GVK4           400          10.0   2.408         LB
+59       GVK4           400          12.0  -0.092           
+60       GVK4           400          14.0  -0.446           
+61       GVK4           400          16.0  -0.686           
+62       GVK4           400          18.0  -0.756         CL
+63       GVK4           400          20.0  -0.692           
+64       GVK4           400          22.0  -0.458           
+65       GVK4           400          24.0  -0.131           
+66       GVK4           400          26.0   2.153         RB
+67       GVK4           400          29.0   2.159   HBB road
+68       GVK4           400          30.0   2.164     B.wall
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+62       GVK4           400          18.0  -0.756      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+58       GVK4           400          10.0   2.408      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+66       GVK4           400          26.0   2.153      RB
+ sencionno=GVK4 CL distance=18.0 RL=-0.756
+ Finished Section no =GVK4**********************************
+ 
+
+
+
+Initiated Section no =GVK5**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+69       GVK5           500           0.0   0.942  Open land
+70       GVK5           500           5.0   1.047           
+71       GVK5           500           6.0   2.141    BC road
+72       GVK5           500          10.0   2.153         LB
+73       GVK5           500          12.0  -0.268           
+74       GVK5           500          14.0  -0.514           
+75       GVK5           500          16.0  -0.708           
+76       GVK5           500          17.0  -0.763         CL
+77       GVK5           500          18.0  -0.718           
+78       GVK5           500          20.0  -0.529           
+79       GVK5           500          22.0  -0.270           
+80       GVK5           500          24.0   2.105         RB
+81       GVK5           500          27.0   2.102   HBB road
+82       GVK5           500          28.0   2.096      House
+83       GVK5           500          29.0   2.096           
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+76       GVK5           500          17.0  -0.763      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+72       GVK5           500          10.0   2.153      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+80       GVK5           500          24.0   2.105      RB
+ sencionno=GVK5 CL distance=17.0 RL=-0.763
+ Finished Section no =GVK5**********************************
+ 
+
+
+
+Initiated Section no =GVK6**********************************
+    Section No  Chainage (m)  Distance (m)  RL (m)    Remarks
+84       GVK6           600           0.0   2.171  Open land
+85       GVK6           600           4.0   2.180         LB
+86       GVK6           600           6.0  -0.220           
+87       GVK6           600           8.0  -0.562           
+88       GVK6           600          10.0  -0.720           
+89       GVK6           600          12.0  -0.796         CL
+90       GVK6           600          14.0  -0.734           
+91       GVK6           600          16.0  -0.520           
+92       GVK6           600          18.0  -0.234           
+93       GVK6           600          20.0   1.276         RB
+94       GVK6           600          22.0   1.331           
+95       GVK6           600          26.0   2.275           
+96       GVK6           600          29.0   2.271   HBB road
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+89       GVK6           600          12.0  -0.796      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+85       GVK6           600           4.0    2.18      LB
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+93       GVK6           600          20.0   1.276      RB
+ sencionno=GVK6 CL distance=12.0 RL=-0.796
+ Finished Section no =GVK6**********************************
+ 
+
+
+
+Initiated Section no =GVK7**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+97        GVK7           700           0.0   0.998  Paddy land
+98        GVK7           700           5.0   0.993            
+99        GVK7           700          10.0   0.988          LB
+100       GVK7           700          12.0  -0.292            
+101       GVK7           700          14.0  -0.543            
+102       GVK7           700          16.0  -0.757            
+103       GVK7           700          17.0  -0.815          CL
+104       GVK7           700          18.0  -0.750            
+105       GVK7           700          20.0  -0.544            
+106       GVK7           700          22.0  -0.317            
+107       GVK7           700          24.0   2.193          RB
+108       GVK7           700          27.0   2.194    HBB road
+109       GVK7           700          28.0   2.198      B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+103       GVK7           700          17.0  -0.815      CL
+    Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+99       GVK7           700          10.0   0.988      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+107       GVK7           700          24.0   2.193      RB
+ sencionno=GVK7 CL distance=17.0 RL=-0.815
+ Finished Section no =GVK7**********************************
+ 
+
+
+
+Initiated Section no =GVK8**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+110       GVK8           800           0.0   0.483  Paddy land
+111       GVK8           800           5.0   0.476            
+112       GVK8           800          10.0   0.471          LB
+113       GVK8           800          12.0  -0.154            
+114       GVK8           800          14.0  -0.529            
+115       GVK8           800          16.0  -0.785            
+116       GVK8           800          18.0  -0.857          CL
+117       GVK8           800          20.0  -0.784            
+118       GVK8           800          22.0  -0.546            
+119       GVK8           800          24.0  -0.113            
+120       GVK8           800          26.0   2.301          RB
+121       GVK8           800          29.0   2.296    HBB road
+122       GVK8           800          30.0   0.564            
+123       GVK8           800          35.0   0.546  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+116       GVK8           800          18.0  -0.857      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+112       GVK8           800          10.0   0.471      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+120       GVK8           800          26.0   2.301      RB
+ sencionno=GVK8 CL distance=18.0 RL=-0.857
+ Finished Section no =GVK8**********************************
+ 
+
+
+
+Initiated Section no =GVK9**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+124       GVK9           900           0.0   1.029  Paddy land
+125       GVK9           900           5.0   1.024            
+126       GVK9           900          10.0   1.019          LB
+127       GVK9           900          12.0  -0.216            
+128       GVK9           900          14.0  -0.433            
+129       GVK9           900          16.0  -0.665            
+130       GVK9           900          18.0  -0.832            
+131       GVK9           900          19.0  -0.908          CL
+132       GVK9           900          20.0  -0.846            
+133       GVK9           900          22.0  -0.663            
+134       GVK9           900          24.0  -0.432            
+135       GVK9           900          26.0  -0.209            
+136       GVK9           900          28.0   1.602          RB
+137       GVK9           900          30.0   1.601            
+138       GVK9           900          31.0  -0.137            
+139       GVK9           900          33.0  -0.532            
+140       GVK9           900          35.0  -0.686       Ditch
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+131       GVK9           900          19.0  -0.908      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+126       GVK9           900          10.0   1.019      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+136       GVK9           900          28.0   1.602      RB
+ sencionno=GVK9 CL distance=19.0 RL=-0.908
+ Finished Section no =GVK9**********************************
+ 
+
+
+
+Initiated Section no =GVK10**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+141      GVK10          1000           0.0   0.591  Paddy land
+142      GVK10          1000           5.0   0.586            
+143      GVK10          1000          10.0   0.581          LB
+144      GVK10          1000          12.0  -0.224            
+145      GVK10          1000          14.0  -0.477            
+146      GVK10          1000          16.0  -0.670            
+147      GVK10          1000          18.0  -0.859            
+148      GVK10          1000          19.0  -0.959          CL
+149      GVK10          1000          20.0  -0.900            
+150      GVK10          1000          22.0  -0.671            
+151      GVK10          1000          24.0  -0.484            
+152      GVK10          1000          26.0  -0.270            
+153      GVK10          1000          28.0   1.491          RB
+154      GVK10          1000          30.0   1.486            
+155      GVK10          1000          31.0   0.625            
+156      GVK10          1000          34.0   0.621            
+157      GVK10          1000          40.0   0.586  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+148      GVK10          1000          19.0  -0.959      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+143      GVK10          1000          10.0   0.581      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+153      GVK10          1000          28.0   1.491      RB
+ sencionno=GVK10 CL distance=19.0 RL=-0.959
+ Finished Section no =GVK10**********************************
+ 
+
+
+
+Initiated Section no =GVK11**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+158      GVK11          1100           0.0   0.678  Paddy land
+159      GVK11          1100           5.0   0.688            
+160      GVK11          1100          10.0   0.693          LB
+161      GVK11          1100          12.0  -0.058            
+162      GVK11          1100          14.0  -0.407            
+163      GVK11          1100          16.0  -0.691            
+164      GVK11          1100          18.0  -0.898            
+165      GVK11          1100          20.0  -0.947          CL
+166      GVK11          1100          22.0  -0.891            
+167      GVK11          1100          24.0  -0.692            
+168      GVK11          1100          26.0  -0.432            
+169      GVK11          1100          28.0  -0.112            
+170      GVK11          1100          30.0   1.313          RB
+171      GVK11          1100          32.0   1.308    HBB road
+172      GVK11          1100          35.0   1.203            
+173      GVK11          1100          40.0   1.178   Open land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+165      GVK11          1100          20.0  -0.947      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+160      GVK11          1100          10.0   0.693      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+170      GVK11          1100          30.0   1.313      RB
+ sencionno=GVK11 CL distance=20.0 RL=-0.947
+ Finished Section no =GVK11**********************************
+ 
+
+
+
+Initiated Section no =GVK12**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+174      GVK12          1200           0.0   0.792  Paddy land
+175      GVK12          1200           7.0   0.787            
+176      GVK12          1200           8.0   1.457            
+177      GVK12          1200          10.0   1.452          LB
+178      GVK12          1200          12.0  -0.293            
+179      GVK12          1200          14.0  -0.544            
+180      GVK12          1200          16.0  -0.814            
+181      GVK12          1200          18.0  -0.873          CL
+182      GVK12          1200          20.0  -0.811            
+183      GVK12          1200          22.0  -0.553            
+184      GVK12          1200          24.0  -0.288            
+185      GVK12          1200          26.0   1.487          RB
+186      GVK12          1200          28.0   1.482    HBB road
+187      GVK12          1200          29.0   0.757            
+188      GVK12          1200          30.0   0.742            
+189      GVK12          1200          35.0   0.737  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+181      GVK12          1200          18.0  -0.873      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+177      GVK12          1200          10.0   1.452      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+185      GVK12          1200          26.0   1.487      RB
+ sencionno=GVK12 CL distance=18.0 RL=-0.873
+ Finished Section no =GVK12**********************************
+ 
+
+
+
+Initiated Section no =GVK13**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+190      GVK13          1300           0.0   0.807   Open land
+191      GVK13          1300           7.0   0.802            
+192      GVK13          1300           8.0   1.532            
+193      GVK13          1300          10.0   1.527          LB
+194      GVK13          1300          12.0  -0.293            
+195      GVK13          1300          14.0  -0.544            
+196      GVK13          1300          16.0  -0.741            
+197      GVK13          1300          17.0  -0.793          CL
+198      GVK13          1300          18.0  -0.744            
+199      GVK13          1300          20.0  -0.558            
+200      GVK13          1300          22.0  -0.294            
+201      GVK13          1300          24.0   1.456          RB
+202      GVK13          1300          26.0   1.441            
+203      GVK13          1300          27.0   0.756            
+204      GVK13          1300          30.0   0.752            
+205      GVK13          1300          35.0   0.747  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+197      GVK13          1300          17.0  -0.793      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+193      GVK13          1300          10.0   1.527      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+201      GVK13          1300          24.0   1.456      RB
+ sencionno=GVK13 CL distance=17.0 RL=-0.793
+ Finished Section no =GVK13**********************************
+ 
+
+
+
+Initiated Section no =GVK14**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+206      GVK14          1400           0.0   0.730  Paddy land
+207      GVK14          1400           6.0   0.729            
+208      GVK14          1400           7.0   1.390            
+209      GVK14          1400          10.0   1.385          LB
+210      GVK14          1400          12.0  -0.066            
+211      GVK14          1400          14.0  -0.366            
+212      GVK14          1400          16.0  -0.706            
+213      GVK14          1400          17.0  -0.795          CL
+214      GVK14          1400          18.0  -0.700            
+215      GVK14          1400          20.0  -0.505            
+216      GVK14          1400          22.0  -0.220            
+217      GVK14          1400          24.0   1.334          RB
+218      GVK14          1400          27.0   1.320            
+219      GVK14          1400          28.0   0.634            
+220      GVK14          1400          35.0   0.630  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+213      GVK14          1400          17.0  -0.795      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+209      GVK14          1400          10.0   1.385      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+217      GVK14          1400          24.0   1.334      RB
+ sencionno=GVK14 CL distance=17.0 RL=-0.795
+ Finished Section no =GVK14**********************************
+ 
+
+
+
+Initiated Section no =GVK15**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+221      GVK15          1500           0.0   0.630  Paddy land
+222      GVK15          1500           6.0   0.625            
+223      GVK15          1500           7.0   1.432            
+224      GVK15          1500          10.0   1.433          LB
+225      GVK15          1500          12.0  -0.120            
+226      GVK15          1500          14.0  -0.415            
+227      GVK15          1500          16.0  -0.667            
+228      GVK15          1500          18.0  -0.725          CL
+229      GVK15          1500          20.0  -0.666            
+230      GVK15          1500          22.0  -0.410            
+231      GVK15          1500          24.0  -0.123            
+232      GVK15          1500          26.0   1.335          RB
+233      GVK15          1500          29.0   1.330            
+234      GVK15          1500          30.0   0.729            
+235      GVK15          1500          35.0   0.735            
+236      GVK15          1500          40.0   0.740  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+228      GVK15          1500          18.0  -0.725      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+224      GVK15          1500          10.0   1.433      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+232      GVK15          1500          26.0   1.335      RB
+ sencionno=GVK15 CL distance=18.0 RL=-0.725
+ Finished Section no =GVK15**********************************
+ 
+
+
+
+Initiated Section no =GVK16**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+237      GVK16          1600           0.0   1.514  Paddy land
+238      GVK16          1600           5.0   1.534            
+239      GVK16          1600          10.0   1.549          LB
+240      GVK16          1600          12.0   0.198            
+241      GVK16          1600          14.0  -0.102            
+242      GVK16          1600          16.0  -0.346            
+243      GVK16          1600          18.0  -0.572            
+244      GVK16          1600          19.0  -0.631          CL
+245      GVK16          1600          20.0  -0.576            
+246      GVK16          1600          22.0  -0.356            
+247      GVK16          1600          24.0  -0.156            
+248      GVK16          1600          26.0   0.165            
+249      GVK16          1600          28.0   1.498          RB
+250      GVK16          1600          30.0   1.444            
+251      GVK16          1600          35.0   1.424            
+252      GVK16          1600          40.0   1.404  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+244      GVK16          1600          19.0  -0.631      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+239      GVK16          1600          10.0   1.549      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+249      GVK16          1600          28.0   1.498      RB
+ sencionno=GVK16 CL distance=19.0 RL=-0.631
+ Finished Section no =GVK16**********************************
+ 
+
+
+
+Initiated Section no =GVK17**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+253      GVK17          1700           0.0   1.077  Paddy land
+254      GVK17          1700           5.0   1.103            
+255      GVK17          1700           5.5   1.123            
+256      GVK17          1700          10.0   1.148          LB
+257      GVK17          1700          12.0   0.144            
+258      GVK17          1700          14.0  -0.123            
+259      GVK17          1700          16.0  -0.330            
+260      GVK17          1700          18.0  -0.386          CL
+261      GVK17          1700          20.0  -0.327            
+262      GVK17          1700          22.0  -0.172            
+263      GVK17          1700          24.0   0.123            
+264      GVK17          1700          26.0   1.253          RB
+265      GVK17          1700          30.0   1.248            
+266      GVK17          1700          35.0   1.243            
+267      GVK17          1700          40.0   1.128  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+260      GVK17          1700          18.0  -0.386      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+256      GVK17          1700          10.0   1.148      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+264      GVK17          1700          26.0   1.253      RB
+ sencionno=GVK17 CL distance=18.0 RL=-0.386
+ Finished Section no =GVK17**********************************
+ 
+
+
+
+Initiated Section no =GVK18**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+268      GVK18          1800           0.0   0.623  Paddy land
+269      GVK18          1800           5.0   0.638            
+270      GVK18          1800           5.5   1.223            
+271      GVK18          1800          10.0   1.228          LB
+272      GVK18          1800          12.0   0.123            
+273      GVK18          1800          14.0  -0.023            
+274      GVK18          1800          16.0  -0.256            
+275      GVK18          1800          18.0  -0.372          CL
+276      GVK18          1800          20.0  -0.273            
+277      GVK18          1800          22.0  -0.097            
+278      GVK18          1800          24.0   0.123            
+279      GVK18          1800          26.0   1.177          RB
+280      GVK18          1800          30.0   1.173            
+281      GVK18          1800          30.5   0.628            
+282      GVK18          1800          35.0   0.633            
+283      GVK18          1800          40.0   0.638  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+275      GVK18          1800          18.0  -0.372      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+271      GVK18          1800          10.0   1.228      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+279      GVK18          1800          26.0   1.177      RB
+ sencionno=GVK18 CL distance=18.0 RL=-0.372
+ Finished Section no =GVK18**********************************
+ 
+
+
+
+Initiated Section no =GVK19**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+284      GVK19          1900           0.0   0.868  Paddy land
+285      GVK19          1900           5.0   0.871            
+286      GVK19          1900           5.5   1.251            
+287      GVK19          1900          10.0   1.255          LB
+288      GVK19          1900          12.0   0.301            
+289      GVK19          1900          14.0   0.111            
+290      GVK19          1900          16.0  -0.055            
+291      GVK19          1900          17.0  -0.119          CL
+292      GVK19          1900          18.0  -0.052            
+293      GVK19          1900          20.0   0.155            
+294      GVK19          1900          22.0   0.281            
+295      GVK19          1900          24.0   1.276          RB
+296      GVK19          1900          26.0   1.281            
+297      GVK19          1900          30.0   1.286  House side
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+291      GVK19          1900          17.0  -0.119      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+287      GVK19          1900          10.0   1.255      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+295      GVK19          1900          24.0   1.276      RB
+ sencionno=GVK19 CL distance=17.0 RL=-0.119
+ Finished Section no =GVK19**********************************
+ 
+
+
+
+Initiated Section no =GVK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+298      GVK20          2000           0.0   1.001  Paddy land
+299      GVK20          2000           5.0   1.006            
+300      GVK20          2000           5.5   1.511            
+301      GVK20          2000          10.0   1.506          LB
+302      GVK20          2000          12.0   0.400            
+303      GVK20          2000          14.0   0.155            
+304      GVK20          2000          16.0  -0.036            
+305      GVK20          2000          17.0  -0.084          CL
+306      GVK20          2000          18.0  -0.035            
+307      GVK20          2000          20.0   0.116            
+308      GVK20          2000          22.0   0.381            
+309      GVK20          2000          24.0   1.255          RB
+310      GVK20          2000          30.0   1.246            
+311      GVK20          2000          35.0   1.231  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+305      GVK20          2000          17.0  -0.084      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+301      GVK20          2000          10.0   1.506      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+309      GVK20          2000          24.0   1.255      RB
+ sencionno=GVK20 CL distance=17.0 RL=-0.084
+ Finished Section no =GVK20**********************************
+ 
+
+
+
+Initiated Section no =GVK20**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+298      GVK20          2000           0.0   1.001  Paddy land
+299      GVK20          2000           5.0   1.006            
+300      GVK20          2000           5.5   1.511            
+301      GVK20          2000          10.0   1.506          LB
+302      GVK20          2000          12.0   0.400            
+303      GVK20          2000          14.0   0.155            
+304      GVK20          2000          16.0  -0.036            
+305      GVK20          2000          17.0  -0.084          CL
+306      GVK20          2000          18.0  -0.035            
+307      GVK20          2000          20.0   0.116            
+308      GVK20          2000          22.0   0.381            
+309      GVK20          2000          24.0   1.255          RB
+310      GVK20          2000          30.0   1.246            
+311      GVK20          2000          35.0   1.231  Paddy land
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+305      GVK20          2000          17.0  -0.084      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+301      GVK20          2000          10.0   1.506      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+309      GVK20          2000          24.0   1.255      RB
+ sencionno=GVK20 CL distance=17.0 RL=-0.084
+ Finished Section no =GVK20**********************************
+ 
+
+
+
+Initiated Section no =GVK21**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+312      GVK21          2100           0.0   0.551  Paddy land
+313      GVK21          2100           5.0   0.560            
+314      GVK21          2100           8.0   0.565            
+315      GVK21          2100           9.0   2.210            
+316      GVK21          2100          10.0   2.201          LB
+317      GVK21          2100          11.0   0.501            
+318      GVK21          2100          13.0   0.250            
+319      GVK21          2100          15.0   0.173            
+320      GVK21          2100          17.0   0.121          CL
+321      GVK21          2100          19.0   0.176            
+322      GVK21          2100          21.0   0.410            
+323      GVK21          2100          23.0   0.476            
+324      GVK21          2100          24.0   2.249          RB
+325      GVK21          2100          28.0   2.245     BC road
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+320      GVK21          2100          17.0   0.121      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+316      GVK21          2100          10.0   2.201      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+324      GVK21          2100          24.0   2.249      RB
+ sencionno=GVK21 CL distance=17.0 RL=0.121
+ Finished Section no =GVK21**********************************
+ 
+
+
+
+Initiated Section no =GVK22**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+326      GVK22          2200           0.0   2.395   B.wall
+327      GVK22          2200           2.5   2.389       LB
+328      GVK22          2200           4.5   0.090         
+329      GVK22          2200           6.0   0.005         
+330      GVK22          2200           7.0  -0.010       CL
+331      GVK22          2200           8.0   0.019         
+332      GVK22          2200           9.5   0.085         
+333      GVK22          2200          11.5   1.899       RB
+334      GVK22          2200          15.5   1.985  BC road
+335      GVK22          2200          16.0   1.994   B.wall
+336      GVK22          2200          23.0   1.994         
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+330      GVK22          2200           7.0   -0.01      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+327      GVK22          2200           2.5   2.389      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+333      GVK22          2200          11.5   1.899      RB
+ sencionno=GVK22 CL distance=7.0 RL=-0.01
+ Finished Section no =GVK22**********************************
+ 
+
+
+
+Initiated Section no =GVK23**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+337      GVK23          2300           0.0   0.939  Paddy land
+338      GVK23          2300           6.0   0.989            
+339      GVK23          2300           8.0   2.484     BC road
+340      GVK23          2300          10.0   2.489          LB
+341      GVK23          2300          12.0   0.343            
+342      GVK23          2300          13.0   0.153            
+343      GVK23          2300          14.0   0.112            
+344      GVK23          2300          15.0   0.054          CL
+345      GVK23          2300          16.0   0.113            
+346      GVK23          2300          17.0   0.152            
+347      GVK23          2300          18.0   0.289            
+348      GVK23          2300          20.0   1.966          RB
+349      GVK23          2300          25.0   1.989     BC road
+350      GVK23          2300          26.0   1.989            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+344      GVK23          2300          15.0   0.054      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+340      GVK23          2300          10.0   2.489      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+348      GVK23          2300          20.0   1.966      RB
+ sencionno=GVK23 CL distance=15.0 RL=0.054
+ Finished Section no =GVK23**********************************
+ 
+
+
+
+Initiated Section no =GVK24**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+351      GVK24          2400          0.00   2.719   B.wall
+352      GVK24          2400          0.58   2.712  BC road
+353      GVK24          2400          3.00   2.702       LB
+354      GVK24          2400          5.00   0.551         
+355      GVK24          2400          6.00   0.416         
+356      GVK24          2400          7.00   0.337         
+357      GVK24          2400          8.00   0.317       CL
+358      GVK24          2400          9.00   0.335         
+359      GVK24          2400         10.00   0.415         
+360      GVK24          2400         11.00   0.532         
+361      GVK24          2400         13.00   2.179       RB
+362      GVK24          2400         17.00   2.187  BC road
+363      GVK24          2400         18.00   2.187   B.wall
+364      GVK24          2400         22.00   2.187         
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+357      GVK24          2400           8.0   0.317      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+353      GVK24          2400           3.0   2.702      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+361      GVK24          2400          13.0   2.179      RB
+ sencionno=GVK24 CL distance=8.0 RL=0.317
+ Finished Section no =GVK24**********************************
+ 
+
+
+
+Initiated Section no =GVK25**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+365      GVK25          2500           0.0   2.767     House
+366      GVK25          2500           8.0   2.762  RCC road
+367      GVK25          2500          10.0   2.707        LB
+368      GVK25          2500          12.0   0.417          
+369      GVK25          2500          14.0   0.327          
+370      GVK25          2500          15.0   0.254          
+371      GVK25          2500          16.0   0.220        CL
+372      GVK25          2500          17.0   0.247          
+373      GVK25          2500          18.0   0.332          
+374      GVK25          2500          20.0   1.416          
+375      GVK25          2500          22.0   2.232        RB
+376      GVK25          2500          27.0   2.227   BC road
+377      GVK25          2500          28.0   2.222     House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+371      GVK25          2500          16.0    0.22      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+367      GVK25          2500          10.0   2.707      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+375      GVK25          2500          22.0   2.232      RB
+ sencionno=GVK25 CL distance=16.0 RL=0.22
+ Finished Section no =GVK25**********************************
+ 
+
+
+
+Initiated Section no =GVK26**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+378      GVK26          2600           0.0   2.513    House
+379      GVK26          2600           3.0   2.508       LB
+380      GVK26          2600           5.0   0.383         
+381      GVK26          2600           7.0   0.303         
+382      GVK26          2600           8.0   0.233         
+383      GVK26          2600           9.0   0.198       CL
+384      GVK26          2600          10.0   0.236         
+385      GVK26          2600          11.0   0.291         
+386      GVK26          2600          13.0   0.388         
+387      GVK26          2600          15.0   2.418       RB
+388      GVK26          2600          17.0   2.416  BC road
+389      GVK26          2600          22.0   2.416         
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+383      GVK26          2600           9.0   0.198      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+379      GVK26          2600           3.0   2.508      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+387      GVK26          2600          15.0   2.418      RB
+ sencionno=GVK26 CL distance=9.0 RL=0.198
+ Finished Section no =GVK26**********************************
+ 
+
+
+
+Initiated Section no =GVK27**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+390      GVK27          2700           0.0   2.663  RCC road
+391      GVK27          2700           4.0   2.652        LB
+392      GVK27          2700           6.0   0.903          
+393      GVK27          2700           8.0   0.783          
+394      GVK27          2700          10.0   0.666          
+395      GVK27          2700          10.5   0.638        CL
+396      GVK27          2700          11.0   0.667          
+397      GVK27          2700          13.0   0.793          
+398      GVK27          2700          15.0   0.918          
+399      GVK27          2700          17.0   2.700        RB
+400      GVK27          2700          18.2   2.701          
+401      GVK27          2700          18.2   2.371   BC road
+402      GVK27          2700          22.5   2.403    B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+395      GVK27          2700          10.5   0.638      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+391      GVK27          2700           4.0   2.652      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+399      GVK27          2700          17.0     2.7      RB
+ sencionno=GVK27 CL distance=10.5 RL=0.638
+ Finished Section no =GVK27**********************************
+ 
+
+
+
+Initiated Section no =GVK28**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+403      GVK28          2800           0.0   2.945    House
+404      GVK28          2800           4.0   2.951       LB
+405      GVK28          2800           6.0   0.785         
+406      GVK28          2800           8.0   0.705         
+407      GVK28          2800          10.0   0.649         
+408      GVK28          2800          11.0   0.579         
+409      GVK28          2800          11.5   0.549       CL
+410      GVK28          2800          12.0   0.588         
+411      GVK28          2800          13.0   0.640         
+412      GVK28          2800          15.0   0.718         
+413      GVK28          2800          17.0   0.779         
+414      GVK28          2800          19.0   2.949       RB
+415      GVK28          2800          20.2   2.948         
+416      GVK28          2800          22.0   2.825  BC road
+417      GVK28          2800          25.0   2.860   B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+409      GVK28          2800          11.5   0.549      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+404      GVK28          2800           4.0   2.951      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+414      GVK28          2800          19.0   2.949      RB
+ sencionno=GVK28 CL distance=11.5 RL=0.549
+ Finished Section no =GVK28**********************************
+ 
+
+
+
+Initiated Section no =GVK29**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+418      GVK29          2900           0.0   3.090   B.wall
+419      GVK29          2900           4.0   3.085       LB
+420      GVK29          2900           6.0   0.835         
+421      GVK29          2900           8.0   0.705         
+422      GVK29          2900          10.0   0.665         
+423      GVK29          2900          12.0   0.579         
+424      GVK29          2900          14.0   0.535         
+425      GVK29          2900          14.5   0.485       CL
+426      GVK29          2900          15.0   0.530         
+427      GVK29          2900          17.0   0.565         
+428      GVK29          2900          19.0   0.640         
+429      GVK29          2900          21.0   0.725         
+430      GVK29          2900          23.0   0.805         
+431      GVK29          2900          25.0   3.925       RB
+432      GVK29          2900          26.2   3.124         
+433      GVK29          2900          29.2   2.740  BC road
+434      GVK29          2900          31.0   2.785   B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+425      GVK29          2900          14.5   0.485      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+419      GVK29          2900           4.0   3.085      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+431      GVK29          2900          25.0   3.925      RB
+ sencionno=GVK29 CL distance=14.5 RL=0.485
+ Finished Section no =GVK29**********************************
+ 
+
+
+
+Initiated Section no =GVK30**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)   Remarks
+435      GVK30          3000           0.0   3.777     House
+436      GVK30          3000           2.0   3.770  RCC road
+437      GVK30          3000           6.0   3.760        LB
+438      GVK30          3000           8.0   1.120          
+439      GVK30          3000          10.0   1.074          
+440      GVK30          3000          12.0   0.800          
+441      GVK30          3000          14.0   0.700          
+442      GVK30          3000          16.0   0.633          
+443      GVK30          3000          17.0   0.585        CL
+444      GVK30          3000          18.0   0.634          
+445      GVK30          3000          20.0   0.708          
+446      GVK30          3000          22.0   0.825          
+447      GVK30          3000          22.0   1.020          
+448      GVK30          3000          26.0   1.100          
+449      GVK30          3000          28.0   3.874        RB
+450      GVK30          3000          29.2   3.873          
+451      GVK30          3000          29.2   3.374   BC road
+452      GVK30          3000          34.0   3.460    B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+443      GVK30          3000          17.0   0.585      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+437      GVK30          3000           6.0    3.76      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+449      GVK30          3000          28.0   3.874      RB
+ sencionno=GVK30 CL distance=17.0 RL=0.585
+ Finished Section no =GVK30**********************************
+ 
+
+
+
+Initiated Section no =GVK31**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+453      GVK31          3100           0.0   2.492    House
+454      GVK31          3100           2.0   2.487       LB
+455      GVK31          3100           4.0   1.453         
+456      GVK31          3100           6.0   1.072         
+457      GVK31          3100           8.0   0.886         
+458      GVK31          3100          10.0   0.887         
+459      GVK31          3100          13.0   0.637       CL
+460      GVK31          3100          16.0   0.672         
+461      GVK31          3100          18.0   0.842         
+462      GVK31          3100          20.0   1.086         
+463      GVK31          3100          22.0   1.432         
+464      GVK31          3100          24.0   3.547       RB
+465      GVK31          3100          25.2   3.546         
+466      GVK31          3100          25.2   3.161  BC road
+467      GVK31          3100          31.2   3.386   B.wall
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+459      GVK31          3100          13.0   0.637      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+454      GVK31          3100           2.0   2.487      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+464      GVK31          3100          24.0   3.547      RB
+ sencionno=GVK31 CL distance=13.0 RL=0.637
+ Finished Section no =GVK31**********************************
+ 
+
+
+
+Initiated Section no =GVK32**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+468      GVK32          3200           0.0   2.372   House
+469      GVK32          3200           5.0   2.376      LB
+470      GVK32          3200           7.0   1.176        
+471      GVK32          3200           9.0   0.976        
+472      GVK32          3200          11.0   0.743        
+473      GVK32          3200          13.0   0.687      CL
+474      GVK32          3200          15.0   0.742        
+475      GVK32          3200          17.0   0.932        
+476      GVK32          3200          19.0   1.162        
+477      GVK32          3200          21.0   1.476      RB
+478      GVK32          3200          23.0   1.467   House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+473      GVK32          3200          13.0   0.687      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+469      GVK32          3200           5.0   2.376      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+477      GVK32          3200          21.0   1.476      RB
+ sencionno=GVK32 CL distance=13.0 RL=0.687
+ Finished Section no =GVK32**********************************
+ 
+
+
+
+Initiated Section no =GVK33**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+479      GVK33          3300           0.0   2.591       House
+480      GVK33          3300           2.0   2.582          LB
+481      GVK33          3300           4.0   0.982            
+482      GVK33          3300           6.0   0.821            
+483      GVK33          3300           8.0   0.587            
+484      GVK33          3300           9.0   0.532          CL
+485      GVK33          3300          10.0   0.588            
+486      GVK33          3300          12.0   0.807            
+487      GVK33          3300          14.0   1.010            
+488      GVK33          3300          16.0   2.147          RB
+489      GVK33          3300          20.0   2.157            
+490      GVK33          3300          25.0   2.171  House area
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+484      GVK33          3300           9.0   0.532      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+480      GVK33          3300           2.0   2.582      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+488      GVK33          3300          16.0   2.147      RB
+ sencionno=GVK33 CL distance=9.0 RL=0.532
+ Finished Section no =GVK33**********************************
+ 
+
+
+
+Initiated Section no =GVK34**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+491      GVK34          3400           0.0   2.882   House
+492      GVK34          3400           2.0   2.887      LB
+493      GVK34          3400           4.0   1.007        
+494      GVK34          3400           6.0   0.761        
+495      GVK34          3400           8.0   0.537        
+496      GVK34          3400          10.0   0.472      CL
+497      GVK34          3400          12.0   0.528        
+498      GVK34          3400          14.0   0.722        
+499      GVK34          3400          16.0   1.027        
+500      GVK34          3400          18.0   2.872      RB
+501      GVK34          3400          20.0   2.882   House
+502      GVK34          3400          23.0   2.882        
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+496      GVK34          3400          10.0   0.472      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+492      GVK34          3400           2.0   2.887      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+500      GVK34          3400          18.0   2.872      RB
+ sencionno=GVK34 CL distance=10.0 RL=0.472
+ Finished Section no =GVK34**********************************
+ 
+
+
+
+Initiated Section no =GVK35**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+503      GVK35          3500           0.0   2.862    House
+504      GVK35          3500           4.0   2.857  BC road
+505      GVK35          3500           5.0   2.852       LB
+506      GVK35          3500           7.0   0.917         
+507      GVK35          3500           9.0   0.642         
+508      GVK35          3500          11.0   0.477         
+509      GVK35          3500          13.0   0.258         
+510      GVK35          3500          15.0   0.202       CL
+511      GVK35          3500          17.0   0.264         
+512      GVK35          3500          19.0   0.491         
+513      GVK35          3500          21.0   0.658         
+514      GVK35          3500          23.0   0.937         
+515      GVK35          3500          25.0   2.742       RB
+516      GVK35          3500          28.0   2.747    House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+510      GVK35          3500          15.0   0.202      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+505      GVK35          3500           5.0   2.852      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+515      GVK35          3500          25.0   2.742      RB
+ sencionno=GVK35 CL distance=15.0 RL=0.202
+ Finished Section no =GVK35**********************************
+ 
+
+
+
+Initiated Section no =GVK36**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)  Remarks
+517      GVK36          3600           0.0   2.732    House
+518      GVK36          3600           4.0   2.727  BC road
+519      GVK36          3600           5.0   2.725       LB
+520      GVK36          3600           7.0   0.958         
+521      GVK36          3600           9.0   0.648         
+522      GVK36          3600          11.0   0.423         
+523      GVK36          3600          13.0   0.253         
+524      GVK36          3600          16.0   0.203       CL
+525      GVK36          3600          19.0   0.262         
+526      GVK36          3600          21.0   0.429         
+527      GVK36          3600          23.0   0.623         
+528      GVK36          3600          25.0   0.948         
+529      GVK36          3600          27.0   2.613       RB
+530      GVK36          3600          30.0   2.618    House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+524      GVK36          3600          16.0   0.203      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+519      GVK36          3600           5.0   2.725      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+529      GVK36          3600          27.0   2.613      RB
+ sencionno=GVK36 CL distance=16.0 RL=0.203
+ Finished Section no =GVK36**********************************
+ 
+
+
+
+Initiated Section no =GVK37**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+531      GVK37          3700           0.0   1.733   House
+532      GVK37          3700           2.0   1.723      LB
+533      GVK37          3700           4.0   1.033        
+534      GVK37          3700           6.0   0.727        
+535      GVK37          3700           8.0   0.533        
+536      GVK37          3700          10.0   0.369        
+537      GVK37          3700          12.0   0.313      CL
+538      GVK37          3700          14.0   0.371        
+539      GVK37          3700          16.0   0.549        
+540      GVK37          3700          18.0   0.728        
+541      GVK37          3700          20.0   1.049        
+542      GVK37          3700          22.0   2.257      RB
+543      GVK37          3700          23.0   2.263   House
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+537      GVK37          3700          12.0   0.313      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+532      GVK37          3700           2.0   1.723      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+542      GVK37          3700          22.0   2.257      RB
+ sencionno=GVK37 CL distance=12.0 RL=0.313
+ Finished Section no =GVK37**********************************
+ 
+
+
+
+Initiated Section no =GVK38**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+544      GVK38          3800           0.0   2.637  House area
+545      GVK38          3800           5.0   2.628            
+546      GVK38          3800          10.0   2.618          LB
+547      GVK38          3800          12.0   0.408            
+548      GVK38          3800          14.0   0.148            
+549      GVK38          3800          16.0  -0.043            
+550      GVK38          3800          17.0  -0.096          CL
+551      GVK38          3800          18.0  -0.042            
+552      GVK38          3800          20.0   0.143            
+553      GVK38          3800          22.0   0.413            
+554      GVK38          3800          24.0   2.718          RB
+555      GVK38          3800          28.0   2.728       House
+556      GVK38          3800          29.0   2.728            
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+550      GVK38          3800          17.0  -0.096      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+546      GVK38          3800          10.0   2.618      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+554      GVK38          3800          24.0   2.718      RB
+ sencionno=GVK38 CL distance=17.0 RL=-0.096
+ Finished Section no =GVK38**********************************
+ 
+
+
+
+Initiated Section no =GVK39**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+557      GVK39          3900           0.0   2.895    Shop
+558      GVK39          3900           5.0   2.900        
+559      GVK39          3900          10.0   2.910      LB
+560      GVK39          3900          12.0   0.165        
+561      GVK39          3900          14.0  -0.035        
+562      GVK39          3900          15.0  -0.234        
+563      GVK39          3900          16.0  -0.290      CL
+564      GVK39          3900          17.0  -0.230        
+565      GVK39          3900          18.0   0.019        
+566      GVK39          3900          20.0   0.148        
+567      GVK39          3900          22.0   2.865      RB
+568      GVK39          3900          25.0   2.880        
+569      GVK39          3900          30.0   2.885    Shop
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+563      GVK39          3900          16.0   -0.29      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+559      GVK39          3900          10.0    2.91      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+567      GVK39          3900          22.0   2.865      RB
+ sencionno=GVK39 CL distance=16.0 RL=-0.29
+ Finished Section no =GVK39**********************************
+ 
+
+
+
+Initiated Section no =GVK40**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+570      GVK40          4000           0.0   2.210  House area
+571      GVK40          4000           5.0   2.205            
+572      GVK40          4000          10.0   2.195          LB
+573      GVK40          4000          12.0   0.020            
+574      GVK40          4000          14.0  -0.315            
+575      GVK40          4000          15.0  -0.481            
+576      GVK40          4000          16.0  -0.540          CL
+577      GVK40          4000          17.0  -0.483            
+578      GVK40          4000          18.0  -0.315            
+579      GVK40          4000          20.0  -0.006            
+580      GVK40          4000          22.0   1.646          RB
+581      GVK40          4000          25.0   1.650            
+582      GVK40          4000          30.0   1.644  House area
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+576      GVK40          4000          16.0   -0.54      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+572      GVK40          4000          10.0   2.195      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+580      GVK40          4000          22.0   1.646      RB
+ sencionno=GVK40 CL distance=16.0 RL=-0.54
+ Finished Section no =GVK40**********************************
+ 
+
+
+
+Initiated Section no =GVK41**********************************
+     Section No  Chainage (m)  Distance (m)  RL (m)     Remarks
+583      GVK41          4053           0.0   2.382  Road slope
+584      GVK41          4053           5.0   2.397            
+585      GVK41          4053          10.0   2.405          LB
+586      GVK41          4053          12.0   0.452            
+587      GVK41          4053          14.0   0.105            
+588      GVK41          4053          16.0  -0.153            
+589      GVK41          4053          18.0  -0.295            
+590      GVK41          4053          19.0  -0.347          CL
+591      GVK41          4053          20.0  -0.294            
+592      GVK41          4053          22.0  -0.118            
+593      GVK41          4053          24.0   0.106            
+594      GVK41          4053          26.0   0.432            
+595      GVK41          4053          28.0   2.306          RB
+596      GVK41          4053          35.0   2.267            
+597      GVK41          4053          40.0   2.249  Road slope
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+590      GVK41          4053          19.0  -0.347      CL
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+585      GVK41          4053          10.0   2.405      LB
+     Section No  Chainage (m)  Distance (m)  RL (m) Remarks
+595      GVK41          4053          28.0   2.306      RB
+ sencionno=GVK41 CL distance=19.0 RL=-0.347
+ Finished Section no =GVK41**********************************
